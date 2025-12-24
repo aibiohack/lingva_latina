@@ -5,7 +5,7 @@
     {"latin": "Memento mori", "ru": "Помни о смерти"},
     {"latin": "Dum spiro, spero", "ru": "Пока дышу, надеюсь"},
     {"latin": "In vino veritas", "ru": "Истина в вине"},
-    {"latin": "Si vis pacem, para bellum", "ru": "Хочешь мира — готовься к войне"}
+    {"latin": "Si vis pacem, para bellum", "ru": "Хочешь мира — готовься к войне"},
     {"latin": "Veni, vidi, vici", "ru": "Пришел, увидел, победил"},
     {"latin": "Alea iacta est", "ru": "Жребий брошен"},
     {"latin": "Memento mori", "ru": "Помни о смерти"},
@@ -67,7 +67,7 @@
     {"latin": "Oculus, i", "ru": "Глаз"},
     {"latin": "Vita, ae", "ru": "Жизнь"},
     {"latin": "Anima, ae", "ru": "Душа"},
-    {"latin": "Pax, pacis", "ru": "Мир (отсутствие войны)"}
+    {"latin": "Pax, pacis", "ru": "Мир (отсутствие войны)"},
     {"latin": "Terra", "ru": "Земля"}, {"latin": "Aqua", "ru": "Вода"}, 
     {"latin": "Ignis", "ru": "Огонь"}, {"latin": "Aer", "ru": "Воздух"},
     {"latin": "Vita", "ru": "Жизнь"}, {"latin": "Mors", "ru": "Смерть"},

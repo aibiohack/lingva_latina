@@ -1,16 +1,18 @@
-name: Latin Bot Daily
+name: Latin SRS Bot
 
 on:
   schedule:
-    - cron: '0 6 * * *'
-    - cron: '0 15 * * *'
+    - cron: '0 6 * * *'   # 09:00 МСК (Цитата + Слова + Повтор)
+    - cron: '0 10 * * *'  # 13:00 МСК (Слова + Повтор)
+    - cron: '0 14 * * *'  # 17:00 МСК (Слова + Повтор)
+    - cron: '0 18 * * *'  # 21:00 МСК (Слова + Повтор)
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # РАЗРЕШАЕМ ПИСАТЬ В РЕПОЗИТОРИЙ
+      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -29,7 +31,7 @@ jobs:
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
         run: |
           if [ "${{ github.event.schedule }}" == "0 6 * * *" ]; then
-            python main.py quote
+            python main.py morning
           else
             python main.py words
           fi
@@ -39,5 +41,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add history.json
-          git commit -m "Update latin history [skip ci]" || echo "No changes to commit"
+          git commit -m "Update SRS history [skip ci]" || echo "No changes"
           git push

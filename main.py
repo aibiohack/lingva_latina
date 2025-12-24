@@ -4,23 +4,33 @@ import random
 import requests
 import sys
 
-# Получаем секреты из настроек GitHub
 TOKEN = os.getenv('TG_TOKEN')
 CHAT_ID = os.getenv('TG_CHAT_ID')
 
 def send_message(text):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
     payload = {"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML"}
-    requests.post(url, json=payload)
+    
+    # Добавляем проверку отправки
+    response = requests.post(url, json=payload)
+    if response.status_code == 200:
+        print("✅ Сообщение успешно отправлено в Telegram!")
+    else:
+        print(f"❌ Ошибка отправки! Код: {response.status_code}")
+        print(f"Ответ сервера: {response.text}")
 
 def main():
-    # Загружаем данные из файла
-    with open('data.json', 'r', encoding='utf-8') as f:
-        data = json.load(f)
+    print("🚀 Запуск скрипта...")
+    
+    try:
+        with open('data.json', 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    except Exception as e:
+        print(f"❌ Ошибка при чтении файла data.json: {e}")
+        return
 
-    # Проверяем, какой сейчас час (по Гринвичу/UTC)
-    # Если запуск утренний — шлем цитату, иначе — слова
     mode = sys.argv[1] if len(sys.argv) > 1 else "words"
+    print(f"📊 Режим работы: {mode}")
 
     if mode == "quote":
         q = random.choice(data['quotes'])

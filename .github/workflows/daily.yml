@@ -2,14 +2,15 @@ name: Latin Bot Daily
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Утро (6:00 UTC) - для цитаты
-    - cron: '0 12 * * *' # День (12:00 UTC) - для слов
-    - cron: '0 18 * * *' # Вечер (18:00 UTC) - для слов
-  workflow_dispatch:      # Позволяет запустить вручную кнопкой
+    - cron: '0 6 * * *'
+    - cron: '0 15 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # РАЗРЕШАЕМ ПИСАТЬ В РЕПОЗИТОРИЙ
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -26,10 +27,17 @@ jobs:
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
-        # Если запуск в 6 утра, передаем аргумент 'quote'
         run: |
           if [ "${{ github.event.schedule }}" == "0 6 * * *" ]; then
             python main.py quote
           else
             python main.py words
           fi
+
+      - name: Save history
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add history.json
+          git commit -m "Update latin history [skip ci]" || echo "No changes to commit"
+          git push

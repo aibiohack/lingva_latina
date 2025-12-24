@@ -6,6 +6,16 @@
     {"latin": "Dum spiro, spero", "ru": "Пока дышу, надеюсь"},
     {"latin": "In vino veritas", "ru": "Истина в вине"},
     {"latin": "Si vis pacem, para bellum", "ru": "Хочешь мира — готовься к войне"}
+    {"latin": "Veni, vidi, vici", "ru": "Пришел, увидел, победил"},
+    {"latin": "Alea iacta est", "ru": "Жребий брошен"},
+    {"latin": "Memento mori", "ru": "Помни о смерти"},
+    {"latin": "Per aspera ad astra", "ru": "Через тернии к звездам"},
+    {"latin": "Scientia potentia est", "ru": "Знание — сила"},
+    {"latin": "Carpe diem", "ru": "Лови момент"},
+    {"latin": "Amor vincit omnia", "ru": "Любовь побеждает всё"},
+    {"latin": "Et tu, Brute?", "ru": "И ты, Брут?"},
+    {"latin": "Ab ovo", "ru": "С самого начала (от яйца)"},
+    {"latin": "O tempora, o mores!", "ru": "О времена, о нравы!"}
   ],
   "words": [
     {"latin": "Et", "ru": "И (союз)"},
@@ -58,5 +68,30 @@
     {"latin": "Vita, ae", "ru": "Жизнь"},
     {"latin": "Anima, ae", "ru": "Душа"},
     {"latin": "Pax, pacis", "ru": "Мир (отсутствие войны)"}
+    {"latin": "Terra", "ru": "Земля"}, {"latin": "Aqua", "ru": "Вода"}, 
+    {"latin": "Ignis", "ru": "Огонь"}, {"latin": "Aer", "ru": "Воздух"},
+    {"latin": "Vita", "ru": "Жизнь"}, {"latin": "Mors", "ru": "Смерть"},
+    {"latin": "Homo", "ru": "Человек"}, {"latin": "Femina", "ru": "Женщина"},
+    {"latin": "Puer", "ru": "Мальчик"}, {"latin": "Puella", "ru": "Девочка"},
+    {"latin": "Panis", "ru": "Хлеб"}, {"latin": "Vinum", "ru": "Вино"},
+    {"latin": "Caelum", "ru": "Небо"}, {"latin": "Sidus", "ru": "Звезда"},
+    {"latin": "Sol", "ru": "Солнце"}, {"latin": "Luna", "ru": "Луна"},
+    {"latin": "Mare", "ru": "Море"}, {"latin": "Flumen", "ru": "Река"},
+    {"latin": "Arbor", "ru": "Дерево"}, {"latin": "Flos", "ru": "Цветок"},
+    {"latin": "Canis", "ru": "Собака"}, {"latin": "Felis", "ru": "Кошка"},
+    {"latin": "Equus", "ru": "Лошадь"}, {"latin": "Avis", "ru": "Птица"},
+    {"latin": "Cor", "ru": "Сердце"}, {"latin": "Caput", "ru": "Голова"},
+    {"latin": "Manus", "ru": "Рука"}, {"latin": "Pes", "ru": "Нога"},
+    {"latin": "Domus", "ru": "Дом"}, {"latin": "Urbs", "ru": "Город"},
+    {"latin": "Vicus", "ru": "Деревня"}, {"latin": "Bellum", "ru": "Война"},
+    {"latin": "Pax", "ru": "Мир"}, {"latin": "Libertas", "ru": "Свобода"},
+    {"latin": "Justitia", "ru": "Справедливость"}, {"latin": "Veritas", "ru": "Истина"},
+    {"latin": "Falsitas", "ru": "Ложь"}, {"latin": "Bonum", "ru": "Добро"},
+    {"latin": "Malum", "ru": "Зло"}, {"latin": "Sapientia", "ru": "Мудрость"},
+    {"latin": "Stultitia", "ru": "Глупость"}, {"latin": "Tempus", "ru": "Время"},
+    {"latin": "Spatium", "ru": "Пространство"}, {"latin": "Causa", "ru": "Причина"},
+    {"latin": "Effectus", "ru": "Следствие"}, {"latin": "Pars", "ru": "Часть"},
+    {"latin": "Totum", "ru": "Целое"}, {"latin": "Amicus", "ru": "Друг"},
+    {"latin": "Hostis", "ru": "Враг"}, {"latin": "Lux", "ru": "Свет"}
   ]
 }

@@ -1,0 +1,35 @@
+name: Latin Bot Daily
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Утро (6:00 UTC) - для цитаты
+    - cron: '0 12 * * *' # День (12:00 UTC) - для слов
+    - cron: '0 18 * * *' # Вечер (18:00 UTC) - для слов
+  workflow_dispatch:      # Позволяет запустить вручную кнопкой
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script
+        env:
+          TG_TOKEN: ${{ secrets.TG_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        # Если запуск в 6 утра, передаем аргумент 'quote'
+        run: |
+          if [ "${{ github.event.schedule }}" == "0 6 * * *" ]; then
+            python main.py quote
+          else
+            python main.py words
+          fi

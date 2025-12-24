@@ -5,52 +5,72 @@ TOKEN = os.getenv('TG_TOKEN')
 CHAT_ID = os.getenv('TG_CHAT_ID')
 
 def send_message(text):
+    if not text: return
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
     payload = {"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML"}
     requests.post(url, json=payload)
 
+def get_review_block(history, days_ago, label):
+    target_date = (datetime.now() - timedelta(days=days_ago)).strftime("%Y-%m-%d")
+    review_items = []
+    for entry in history:
+        # Собираем только слова (тип 'words' или из утреннего запуска)
+        if entry['date'] == target_date and 'words' in entry:
+            review_items.extend(entry['words'])
+    
+    if not review_items: return ""
+    
+    text = f"⏳ <b>{label}:</b>\n"
+    for w in review_items:
+        text += f"• {w['ru']} — <tg-spoiler>{w['latin']}</tg-spoiler>\n"
+    return text + "\n"
+
 def main():
-    # Загружаем данные
     with open('data.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     
-    # Загружаем историю (или создаем пустую)
+    history = []
     if os.path.exists('history.json'):
         with open('history.json', 'r', encoding='utf-8') as f:
             history = json.load(f)
-    else:
-        history = []
 
-    today = datetime.now().strftime("%Y-%m-%d")
+    today_str = datetime.now().strftime("%Y-%m-%d")
     mode = sys.argv[1] if len(sys.argv) > 1 else "words"
-    message = ""
+    
+    # 1. СОБИРАЕМ ПОВТОРЫ (Вчера и 3 дня назад)
+    review_yesterday = get_review_block(history, 1, "Вчерашние слова")
+    review_3days = get_review_block(history, 3, "Повтор за 3 дня назад")
+    
+    # 2. ВЫБИРАЕМ НОВЫЕ СЛОВА (Всегда 3 штуки)
+    new_words = random.sample(data['words'], k=3)
+    
+    # 3. ФОРМИРУЕМ СООБЩЕНИЕ
+    full_message = ""
+    
+    # Добавляем повторы в начало, если они есть
+    if review_yesterday or review_3days:
+        full_message += "🧠 <b>ВРЕМЯ ВСПОМНИТЬ:</b>\n\n" + review_yesterday + review_3days + "— — — — — — — —\n\n"
 
-    # 1. ПРОВЕРКА ОБРАТНОГО ПОВТОРА (3 дня назад)
-    three_days_ago = (datetime.now() - timedelta(days=3)).strftime("%Y-%m-%d")
-    for entry in history:
-        if entry['date'] == three_days_ago and entry['type'] == 'words':
-            rev_words = entry['items']
-            message += "🔄 <b>Обратный повтор (3 дня спустя):</b>\n"
-            message += "Как это будет на латыни?\n"
-            for w in rev_words:
-                message += f"— {w['ru']} (?)\n"
-            message += f"\n<tg-spoiler>Ответ: {', '.join([x['latin'] for x in rev_words])}</tg-spoiler>\n\n"
-
-    # 2. ОТПРАВКА НОВОГО МАТЕРИАЛА
-    if mode == "quote":
+    # Добавляем цитату ТОЛЬКО УТРОМ
+    if mode == "morning":
         q = random.choice(data['quotes'])
-        message += f"📜 <b>Мудрость дня:</b>\n\n<i>{q['latin']}</i>\n— {q['ru']}"
-        history.append({"date": today, "type": "quote", "items": [q]})
-    else:
-        new_words = random.sample(data['words'], k=3)
-        message += "💡 <b>Новые слова:</b>\n\n" + "\n".join([f"• {w['latin']} — {w['ru']}" for w in new_words])
-        history.append({"date": today, "type": "words", "items": new_words})
+        full_message += f"📜 <b>МУДРОСТЬ ДНЯ:</b>\n<i>{q['latin']}</i>\n— {q['ru']}\n\n— — — — — — — —\n\n"
 
-    # Сохраняем историю (только последние 30 дней, чтобы файл не раздувался)
+    # Добавляем новые слова
+    full_message += "💡 <b>НОВЫЕ СЛОВА:</b>\n"
+    full_message += "\n".join([f"• <b>{w['latin']}</b> — {w['ru']}" for w in new_words])
+
+    # 4. СОХРАНЯЕМ В ИСТОРИЮ
+    # Сохраняем только слова для будущего повтора
+    history.append({
+        "date": today_str,
+        "words": new_words
+    })
+    
     with open('history.json', 'w', encoding='utf-8') as f:
-        json.dump(history[-50:], f, ensure_ascii=False, indent=2)
+        json.dump(history[-100:], f, ensure_ascii=False, indent=2)
 
-    send_message(message)
+    send_message(full_message)
 
 if __name__ == "__main__":
     main()

@@ -234,5 +234,27 @@
       "Ars",
       "Mox"
     ]
+  },
+  {
+    "date": "2025-12-25",
+    "words": [
+      {
+        "latin": "Domus",
+        "ru": "Дом"
+      },
+      {
+        "latin": "Tertius",
+        "ru": "Третий"
+      },
+      {
+        "latin": "Summa",
+        "ru": "Сумма, итог"
+      }
+    ],
+    "reviewed_today": [
+      "Modus",
+      "Consistere",
+      "Sacer"
+    ]
   }
 ]

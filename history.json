@@ -194,5 +194,23 @@
       "Singulus",
       "Crux"
     ]
+  },
+  {
+    "date": "2025-12-25",
+    "words": [
+      {
+        "latin": "Tibia",
+        "ru": "Флейта, голень"
+      },
+      {
+        "latin": "Scelus",
+        "ru": "Prestuplenie, znodeyanie"
+      },
+      {
+        "latin": "Decidere",
+        "ru": "Падать, решаться"
+      }
+    ],
+    "reviewed_today": []
   }
 ]

@@ -11,7 +11,7 @@ def send_message(text):
     requests.post(url, json=payload)
 
 def main():
-    # 1. Загрузка базы
+    # 1. Загрузка данных
     with open('data.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     
@@ -23,55 +23,54 @@ def main():
     today_str = datetime.now().strftime("%Y-%m-%d")
     mode = sys.argv[1] if len(sys.argv) > 1 else "words"
 
-    # --- ШАГ 1: СОБИРАЕМ ВСЁ, ЧТО БЫЛО СЕГОДНЯ ---
-    # (Чтобы не повторять это в блоке "Вспомнить")
-    today_latin = set()
-    for entry in history:
-        if entry['date'] == today_str:
-            if 'words' in entry:
-                for w in entry['words']: today_latin.add(w['latin'])
-            if 'reviewed_today' in entry:
-                for lat in entry['reviewed_today']: today_latin.add(lat)
+    # --- ШАГ 1: СОБИРАЕМ "БУФЕР ТИШИНЫ" ---
+    # Смотрим последние 3 записи в истории, чтобы не брать оттуда слова для повтора
+    silence_buffer = set()
+    for entry in history[-3:]:
+        if 'words' in entry:
+            for w in entry['words']: silence_buffer.add(w['latin'])
+        if 'reviewed_today' in entry:
+            for lat in entry['reviewed_today']: silence_buffer.add(lat)
 
-    # --- ШАГ 2: СОБИРАЕМ ПУЛ ДЛЯ ПОВТОРА ЗА 10 ДНЕЙ ---
+    # --- ШАГ 2: СОБИРАЕМ ПУЛ ДЛЯ ПОВТОРА ИЗ ВСЕЙ ИСТОРИИ ---
     review_pool = []
     seen_in_pool = set()
-    ten_days_ago = datetime.now() - timedelta(days=10)
 
     for entry in history:
-        entry_date = datetime.strptime(entry['date'], "%Y-%m-%d")
-        if ten_days_ago <= entry_date < datetime.now().replace(hour=0, minute=0, second=0):
-            if 'words' in entry:
-                for w in entry['words']:
-                    if w['latin'] not in today_latin and w['latin'] not in seen_in_pool:
-                        review_pool.append(w)
-                        seen_in_pool.add(w['latin'])
+        if 'words' in entry:
+            for w in entry['words']:
+                # Берем слово, если его нет в буфере тишины и мы его еще не добавили в пул
+                if w['latin'] not in silence_buffer and w['latin'] not in seen_in_pool:
+                    review_pool.append(w)
+                    seen_in_pool.add(w['latin'])
 
-    # --- ШАГ 3: ВЫБИРАЕМ 3 СЛОВА ДЛЯ ПОВТОРА ---
+    # --- ШАГ 3: ВЫБИРАЕМ СЛОВА ДЛЯ ПОВТОРА ---
     current_review = []
     if len(review_pool) >= 3:
         current_review = random.sample(review_pool, 3)
+    elif len(review_pool) > 0:
+        current_review = review_pool # Берем сколько есть, если база еще маленькая
     else:
-        current_review = review_pool # Если слов мало, берем сколько есть
+        # Если совсем пусто (самый первый запуск), берем случайные из базы данных
+        current_review = random.sample(data['words'], 3)
 
     # --- ШАГ 4: ВЫБИРАЕМ 3 НОВЫХ СЛОВА ---
-    # Собираем вообще все слова, которые когда-либо были в истории
-    all_time_latin = set()
+    # Исключаем вообще всё, что когда-либо было в истории как "новое"
+    all_time_new_seen = set()
     for entry in history:
         if 'words' in entry:
-            for w in entry['words']: all_time_latin.add(w['latin'])
+            for w in entry['words']: all_time_new_seen.add(w['latin'])
 
-    available_new = [w for w in data['words'] if w['latin'] not in all_time_latin]
+    available_new = [w for w in data['words'] if w['latin'] not in all_time_new_seen]
     if len(available_new) < 3: available_new = data['words']
     
     new_words = random.sample(available_new, k=3)
 
     # --- ШАГ 5: ФОРМИРУЕМ СООБЩЕНИЕ ---
-    full_message = ""
-    if current_review:
-        full_message += "🧠 <b>ВРЕМЯ ВСПОМНИТЬ:</b>\n"
-        full_message += "\n".join([f"• {w['ru']} — <tg-spoiler>{w['latin']}</tg-spoiler>" for w in current_review])
-        full_message += "\n\n— — — — — — — —\n\n"
+    # Блок "Вспомнить" теперь ВСЕГДА имеет контент
+    full_message = "🧠 <b>ВРЕМЯ ВСПОМНИТЬ:</b>\n"
+    full_message += "\n".join([f"• {w['ru']} — <tg-spoiler>{w['latin']}</tg-spoiler>" for w in current_review])
+    full_message += "\n\n— — — — — — — —\n\n"
 
     if mode == "morning":
         q = random.choice(data['quotes'])
@@ -87,7 +86,6 @@ def main():
         "reviewed_today": [w['latin'] for w in current_review]
     })
     
-    # Глубокая история для исключения повторов
     with open('history.json', 'w', encoding='utf-8') as f:
         json.dump(history[-500:], f, ensure_ascii=False, indent=2)
 

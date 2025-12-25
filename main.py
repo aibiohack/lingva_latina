@@ -10,17 +10,24 @@ def send_message(text):
     payload = {"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML"}
     requests.post(url, json=payload)
 
-def get_review_block(history, days_ago, label):
+def get_review_block(history, days_ago, label, current_run_index):
+    """
+    Берет слова только из конкретного запуска (шага) в прошлом.
+    """
     target_date = (datetime.now() - timedelta(days=days_ago)).strftime("%Y-%m-%d")
-    review_items = []
-    for entry in history:
-        # Собираем только слова (тип 'words' или из утреннего запуска)
-        if entry['date'] == target_date and 'words' in entry:
-            review_items.extend(entry['words'])
     
-    if not review_items: return ""
+    # Фильтруем историю: находим все записи за нужный день
+    past_entries = [e for e in history if e['date'] == target_date and 'words' in e]
     
-    text = f"⏳ <b>{label}:</b>\n"
+    # Если за тот день записей меньше, чем номер текущего шага, берем по кругу (остаток от деления)
+    if not past_entries: return ""
+    
+    entry_index = current_run_index % len(past_entries)
+    target_entry = past_entries[entry_index]
+    
+    review_items = target_entry['words']
+    
+    text = f"⏳ <b>{label} (шаг {entry_index + 1}):</b>\n"
     for w in review_items:
         text += f"• {w['ru']} — <tg-spoiler>{w['latin']}</tg-spoiler>\n"
     return text + "\n"
@@ -37,38 +44,51 @@ def main():
     today_str = datetime.now().strftime("%Y-%m-%d")
     mode = sys.argv[1] if len(sys.argv) > 1 else "words"
     
-    # 1. СОБИРАЕМ ПОВТОРЫ (Вчера и 3 дня назад)
-    review_yesterday = get_review_block(history, 1, "Вчерашние слова")
-    review_3days = get_review_block(history, 3, "Повтор за 3 дня назад")
+    # Определяем номер текущего запуска за сегодня
+    # Считаем, сколько записей 'words' уже было создано сегодня
+    today_entries_count = len([e for e in history if e['date'] == today_str])
+    current_run_index = today_entries_count 
+
+    # --- 1. ЛОГИКА ИСКЛЮЧЕНИЯ ПОВТОРОВ (для НОВЫХ слов) ---
+    used_latin_words = set()
+    for entry in history:
+        if 'words' in entry:
+            for w in entry['words']:
+                used_latin_words.add(w['latin'])
+
+    available_words = [w for w in data['words'] if w['latin'] not in used_latin_words]
+    if len(available_words) < 3:
+        available_words = data['words']
+
+    # --- 2. СОБИРАЕМ ПОВТОРЫ С ШАГОМ ---
+    # Передаем current_run_index, чтобы бот выбрал только одну порцию слов из прошлого
+    review_yesterday = get_review_block(history, 1, "Вчерашний повтор", current_run_index)
+    review_3days = get_review_block(history, 3, "Повтор за 3 дня", current_run_index)
     
-    # 2. ВЫБИРАЕМ НОВЫЕ СЛОВА (Всегда 3 штуки)
-    new_words = random.sample(data['words'], k=3)
+    # --- 3. ВЫБИРАЕМ НОВЫЕ СЛОВА ---
+    new_words = random.sample(available_words, k=3)
     
-    # 3. ФОРМИРУЕМ СООБЩЕНИЕ
+    # --- 4. ФОРМИРУЕМ СООБЩЕНИЕ ---
     full_message = ""
     
-    # Добавляем повторы в начало, если они есть
     if review_yesterday or review_3days:
         full_message += "🧠 <b>ВРЕМЯ ВСПОМНИТЬ:</b>\n\n" + review_yesterday + review_3days + "— — — — — — — —\n\n"
 
-    # Добавляем цитату ТОЛЬКО УТРОМ
     if mode == "morning":
         q = random.choice(data['quotes'])
         full_message += f"📜 <b>МУДРОСТЬ ДНЯ:</b>\n<i>{q['latin']}</i>\n— {q['ru']}\n\n— — — — — — — —\n\n"
 
-    # Добавляем новые слова
     full_message += "💡 <b>НОВЫЕ СЛОВА:</b>\n"
     full_message += "\n".join([f"• <b>{w['latin']}</b> — {w['ru']}" for w in new_words])
 
-    # 4. СОХРАНЯЕМ В ИСТОРИЮ
-    # Сохраняем только слова для будущего повтора
+    # --- 5. СОХРАНЯЕМ В ИСТОРИЮ ---
     history.append({
         "date": today_str,
         "words": new_words
     })
     
     with open('history.json', 'w', encoding='utf-8') as f:
-        json.dump(history[-100:], f, ensure_ascii=False, indent=2)
+        json.dump(history[-200:], f, ensure_ascii=False, indent=2)
 
     send_message(full_message)
 

@@ -10,36 +10,8 @@ def send_message(text):
     payload = {"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML"}
     requests.post(url, json=payload)
 
-def get_run_slot():
-    """Определяет номер слота (0, 1, 2, 3) в зависимости от текущего часа (UTC)"""
-    hour = datetime.utcnow().hour
-    if hour < 10: return 0   # Утро
-    if hour < 14: return 1   # День
-    if hour < 18: return 2   # Вечер
-    return 3                 # Ночь
-
-def get_review_block(history, days_ago, label, slot):
-    """Берет слова из конкретного слота прошлого дня"""
-    target_date = (datetime.now() - timedelta(days=days_ago)).strftime("%Y-%m-%d")
-    
-    # Ищем записи за целевой день
-    past_entries = [e for e in history if e['date'] == target_date and 'words' in e]
-    
-    if not past_entries: return ""
-    
-    # Берем запись, соответствующую текущему временному слоту
-    # Если записей меньше 4, используем остаток от деления, чтобы не выйти за пределы списка
-    entry_index = slot % len(past_entries)
-    target_entry = past_entries[entry_index]
-    
-    review_items = target_entry['words']
-    
-    text = f"⏳ <b>{label}:</b>\n"
-    for w in review_items:
-        text += f"• {w['ru']} — <tg-spoiler>{w['latin']}</tg-spoiler>\n"
-    return text + "\n"
-
 def main():
+    # 1. Загрузка данных
     with open('data.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     
@@ -51,36 +23,59 @@ def main():
     today_str = datetime.now().strftime("%Y-%m-%d")
     mode = sys.argv[1] if len(sys.argv) > 1 else "words"
     
-    # Определяем текущий временной слот (0, 1, 2 или 3)
-    current_slot = get_run_slot()
+    # --- ЛОГИКА СБОРА СЛОВ ДЛЯ ПОВТОРА (АРХИВ ЗА 7 ДНЕЙ) ---
+    all_seen_words = []
+    today_seen_latin = set()
+    
+    # Собираем слова за последние 7 дней
+    seven_days_ago = datetime.now() - timedelta(days=7)
+    
+    for entry in history:
+        entry_date = datetime.strptime(entry['date'], "%Y-%m-%d")
+        if 'words' in entry:
+            if entry['date'] == today_str:
+                # Запоминаем, что уже видели сегодня, чтобы НЕ повторять это в блоке "Вспомнить"
+                for w in entry['words']:
+                    today_seen_latin.add(w['latin'])
+            elif entry_date > seven_days_ago:
+                # Добавляем слова из прошлого в пул для повторения
+                all_seen_words.extend(entry['words'])
 
-    # --- 1. ИСКЛЮЧЕНИЕ ПОВТОРОВ ДЛЯ НОВЫХ СЛОВ ---
-    # Собираем слова, которые были в последних 50 записях
-    used_latin_words = set()
-    for entry in history[-50:]:
+    # Убираем дубликаты из пула повторов и исключаем то, что было сегодня
+    review_pool = []
+    seen_in_pool = set()
+    for w in all_seen_words:
+        if w['latin'] not in today_seen_latin and w['latin'] not in seen_in_pool:
+            review_pool.append(w)
+            seen_in_pool.add(w['latin'])
+
+    # --- 1. ВЫБИРАЕМ СЛОВА ДЛЯ ПОВТОРА ---
+    # Берем 3 случайных слова из тех, что учили за неделю (но не сегодня)
+    review_content = ""
+    if review_pool:
+        # Чтобы слова менялись в каждом сообщении, используем random.sample
+        review_samples = random.sample(review_pool, min(3, len(review_pool)))
+        review_content = "🧠 <b>ВРЕМЯ ВСПОМНИТЬ:</b>\n\n"
+        for w in review_samples:
+            review_content += f"• {w['ru']} — <tg-spoiler>{w['latin']}</tg-spoiler>\n"
+        review_content += "\n— — — — — — — —\n\n"
+
+    # --- 2. ИСКЛЮЧАЕМ ПОВТОРЫ ДЛЯ НОВЫХ СЛОВ ---
+    # Собираем абсолютно все слова из истории, чтобы НОВЫЕ были реально новыми
+    long_term_seen = set()
+    for entry in history:
         if 'words' in entry:
             for w in entry['words']:
-                used_latin_words.add(w['latin'])
+                long_term_seen.add(w['latin'])
 
-    available_words = [w for w in data['words'] if w['latin'] not in used_latin_words]
-    if len(available_words) < 3:
-        available_words = data['words']
+    available_new = [w for w in data['words'] if w['latin'] not in long_term_seen]
+    if len(available_new) < 3: available_new = data['words']
 
-    # --- 2. ПОВТОРЫ С ПРИВЯЗКОЙ К СЛОТУ ---
-    review_yesterday = get_review_block(history, 1, "Вчерашний повтор", current_slot)
-    review_3days = get_review_block(history, 3, "Повтор за 3 дня назад", current_slot)
+    # Выбираем 3 новых слова
+    new_words = random.sample(available_new, k=3)
     
-    # --- 3. НОВЫЕ СЛОВА ---
-    new_words = random.sample(available_words, k=3)
-    
-    # --- 4. СООБЩЕНИЕ ---
-    full_message = ""
-    
-    if review_yesterday or review_3days:
-        # Указываем время слота для визуальной проверки
-        slot_names = ["Утренний", "Дневной", "Вечерний", "Ночной"]
-        full_message += f"🧠 <b>ВРЕМЯ ВСПОМНИТЬ ({slot_names[current_slot]}):</b>\n\n"
-        full_message += review_yesterday + review_3days + "— — — — — — — —\n\n"
+    # --- 3. ФОРМИРУЕМ ИТОГОВОЕ СООБЩЕНИЕ ---
+    full_message = review_content
 
     if mode == "morning":
         q = random.choice(data['quotes'])
@@ -89,19 +84,17 @@ def main():
     full_message += "💡 <b>НОВЫЕ СЛОВА:</b>\n"
     full_message += "\n".join([f"• <b>{w['latin']}</b> — {w['ru']}" for w in new_words])
 
-    # --- 5. СОХРАНЕНИЕ ---
+    # --- 4. СОХРАНЯЕМ В ИСТОРИЮ ---
     history.append({
         "date": today_str,
-        "words": new_words,
-        "slot": current_slot
+        "words": new_words
     })
     
-    # Ограничиваем историю 200 записями
+    # Держим историю подлиннее (300 записей), чтобы база была чище
     with open('history.json', 'w', encoding='utf-8') as f:
-        json.dump(history[-200:], f, ensure_ascii=False, indent=2)
+        json.dump(history[-300:], f, ensure_ascii=False, indent=2)
 
     send_message(full_message)
 
 if __name__ == "__main__":
     main()
-    

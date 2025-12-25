@@ -172,5 +172,27 @@
         "ru": "Объявлять"
       }
     ]
+  },
+  {
+    "date": "2025-12-25",
+    "words": [
+      {
+        "latin": "Tres",
+        "ru": "Три"
+      },
+      {
+        "latin": "Bibere",
+        "ru": "Пить"
+      },
+      {
+        "latin": "Sentire",
+        "ru": "Чувствовать, полагать"
+      }
+    ],
+    "reviewed_today": [
+      "Stirps",
+      "Singulus",
+      "Crux"
+    ]
   }
 ]

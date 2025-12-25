@@ -23,59 +23,60 @@ def main():
     today_str = datetime.now().strftime("%Y-%m-%d")
     mode = sys.argv[1] if len(sys.argv) > 1 else "words"
     
-    # --- ЛОГИКА СБОРА СЛОВ ДЛЯ ПОВТОРА (АРХИВ ЗА 7 ДНЕЙ) ---
-    all_seen_words = []
-    today_seen_latin = set()
-    
-    # Собираем слова за последние 7 дней
-    seven_days_ago = datetime.now() - timedelta(days=7)
+    # --- ШАГ 1: СОБИРАЕМ ВСЕ СЛОВА ДЛЯ ПОВТОРА (Вчера + 3 дня назад) ---
+    review_pool = []
+    target_dates = [
+        (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d"),
+        (datetime.now() - timedelta(days=3)).strftime("%Y-%m-%d")
+    ]
     
     for entry in history:
-        entry_date = datetime.strptime(entry['date'], "%Y-%m-%d")
-        if 'words' in entry:
-            if entry['date'] == today_str:
-                # Запоминаем, что уже видели сегодня, чтобы НЕ повторять это в блоке "Вспомнить"
+        if entry['date'] in target_dates and 'words' in entry:
+            review_pool.extend(entry['words'])
+
+    # --- ШАГ 2: УДАЛЯЕМ ТЕ, ЧТО УЖЕ ПОВТОРЯЛИ СЕГОДНЯ ---
+    already_reviewed_today = set()
+    for entry in history:
+        if entry['date'] == today_str:
+            # Исключаем слова, которые были новыми сегодня
+            if 'words' in entry:
                 for w in entry['words']:
-                    today_seen_latin.add(w['latin'])
-            elif entry_date > seven_days_ago:
-                # Добавляем слова из прошлого в пул для повторения
-                all_seen_words.extend(entry['words'])
+                    already_reviewed_today.add(w['latin'])
+            # Исключаем слова, которые уже попадали в блок "Вспомнить" сегодня
+            if 'reviewed_today' in entry:
+                for w_latin in entry['reviewed_today']:
+                    already_reviewed_today.add(w_latin)
 
-    # Убираем дубликаты из пула повторов и исключаем то, что было сегодня
-    review_pool = []
-    seen_in_pool = set()
-    for w in all_seen_words:
-        if w['latin'] not in today_seen_latin and w['latin'] not in seen_in_pool:
-            review_pool.append(w)
-            seen_in_pool.add(w['latin'])
+    # Фильтруем пул: оставляем только те, что еще не мелькали сегодня
+    filtered_review_pool = [w for w in review_pool if w['latin'] not in already_reviewed_today]
 
-    # --- 1. ВЫБИРАЕМ СЛОВА ДЛЯ ПОВТОРА ---
-    # Берем 3 случайных слова из тех, что учили за неделю (но не сегодня)
-    review_content = ""
-    if review_pool:
-        # Чтобы слова менялись в каждом сообщении, используем random.sample
-        review_samples = random.sample(review_pool, min(3, len(review_pool)))
-        review_content = "🧠 <b>ВРЕМЯ ВСПОМНИТЬ:</b>\n\n"
-        for w in review_samples:
-            review_content += f"• {w['ru']} — <tg-spoiler>{w['latin']}</tg-spoiler>\n"
-        review_content += "\n— — — — — — — —\n\n"
+    # --- ШАГ 3: ВЫБИРАЕМ 3 СЛОВА ДЛЯ ПОВТОРА ---
+    current_review_selection = []
+    if filtered_review_pool:
+        current_review_selection = random.sample(filtered_review_pool, min(3, len(filtered_review_pool)))
+    elif review_pool:
+        # Если все слова за вчера уже показаны, берем случайные из общего пула вчера
+        current_review_selection = random.sample(review_pool, min(3, len(review_pool)))
 
-    # --- 2. ИСКЛЮЧАЕМ ПОВТОРЫ ДЛЯ НОВЫХ СЛОВ ---
-    # Собираем абсолютно все слова из истории, чтобы НОВЫЕ были реально новыми
-    long_term_seen = set()
+    # --- ШАГ 4: ВЫБИРАЕМ 3 НОВЫХ СЛОВА (которых не было в истории вообще) ---
+    all_time_seen = set()
     for entry in history:
         if 'words' in entry:
             for w in entry['words']:
-                long_term_seen.add(w['latin'])
+                all_time_seen.add(w['latin'])
 
-    available_new = [w for w in data['words'] if w['latin'] not in long_term_seen]
+    available_new = [w for w in data['words'] if w['latin'] not in all_time_seen]
     if len(available_new) < 3: available_new = data['words']
-
-    # Выбираем 3 новых слова
-    new_words = random.sample(available_new, k=3)
     
-    # --- 3. ФОРМИРУЕМ ИТОГОВОЕ СООБЩЕНИЕ ---
-    full_message = review_content
+    new_words = random.sample(available_new, k=3)
+
+    # --- ШАГ 5: ФОРМИРУЕМ СООБЩЕНИЕ ---
+    full_message = ""
+    if current_review_selection:
+        full_message += "🧠 <b>ВРЕМЯ ВСПОМНИТЬ:</b>\n\n"
+        for w in current_review_selection:
+            full_message += f"• {w['ru']} — <tg-spoiler>{w['latin']}</tg-spoiler>\n"
+        full_message += "\n— — — — — — — —\n\n"
 
     if mode == "morning":
         q = random.choice(data['quotes'])
@@ -84,13 +85,13 @@ def main():
     full_message += "💡 <b>НОВЫЕ СЛОВА:</b>\n"
     full_message += "\n".join([f"• <b>{w['latin']}</b> — {w['ru']}" for w in new_words])
 
-    # --- 4. СОХРАНЯЕМ В ИСТОРИЮ ---
+    # --- ШАГ 6: СОХРАНЯЕМ В ИСТОРИЮ (включая то, что повторили) ---
     history.append({
         "date": today_str,
-        "words": new_words
+        "words": new_words,
+        "reviewed_today": [w['latin'] for w in current_review_selection] # ЗАПОМИНАЕМ ПОВТОР
     })
     
-    # Держим историю подлиннее (300 записей), чтобы база была чище
     with open('history.json', 'w', encoding='utf-8') as f:
         json.dump(history[-300:], f, ensure_ascii=False, indent=2)
 

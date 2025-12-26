@@ -300,5 +300,27 @@
       "Singulus",
       "Tres"
     ]
+  },
+  {
+    "date": "2025-12-26",
+    "words": [
+      {
+        "latin": "Vacuus",
+        "ru": "Пустой, свободный"
+      },
+      {
+        "latin": "Magnitudo",
+        "ru": "Величина"
+      },
+      {
+        "latin": "Ecclesia",
+        "ru": "Церковь"
+      }
+    ],
+    "reviewed_today": [
+      "Scelus",
+      "Insula",
+      "Emere"
+    ]
   }
 ]

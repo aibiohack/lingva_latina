@@ -256,5 +256,27 @@
       "Consistere",
       "Sacer"
     ]
+  },
+  {
+    "date": "2025-12-26",
+    "words": [
+      {
+        "latin": "Iudicium",
+        "ru": "Суд, суждение"
+      },
+      {
+        "latin": "Metus",
+        "ru": "Страх"
+      },
+      {
+        "latin": "Clarus",
+        "ru": "Ясный, светлый"
+      }
+    ],
+    "reviewed_today": [
+      "Victor",
+      "Vastus",
+      "Vox"
+    ]
   }
 ]

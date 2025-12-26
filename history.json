@@ -278,5 +278,27 @@
       "Vastus",
       "Vox"
     ]
+  },
+  {
+    "date": "2025-12-26",
+    "words": [
+      {
+        "latin": "Sine",
+        "ru": "Без"
+      },
+      {
+        "latin": "Hodie",
+        "ru": "Сегодня"
+      },
+      {
+        "latin": "Tenere",
+        "ru": "Держать"
+      }
+    ],
+    "reviewed_today": [
+      "Vicinus",
+      "Singulus",
+      "Tres"
+    ]
   }
 ]

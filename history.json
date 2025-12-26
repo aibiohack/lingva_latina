@@ -322,5 +322,27 @@
       "Insula",
       "Emere"
     ]
+  },
+  {
+    "date": "2025-12-26",
+    "words": [
+      {
+        "latin": "Vis",
+        "ru": "Сила"
+      },
+      {
+        "latin": "Dolor",
+        "ru": "Боль"
+      },
+      {
+        "latin": "Tantum",
+        "ru": "Только"
+      }
+    ],
+    "reviewed_today": [
+      "Fieri",
+      "Cogitare",
+      "Sentire"
+    ]
   }
 ]

@@ -366,5 +366,27 @@
       "Crux",
       "Victor"
     ]
+  },
+  {
+    "date": "2025-12-27",
+    "words": [
+      {
+        "latin": "Silentium",
+        "ru": "Молчание, тишина"
+      },
+      {
+        "latin": "Enuntiare",
+        "ru": "Высказывать"
+      },
+      {
+        "latin": "Aut",
+        "ru": "Или"
+      }
+    ],
+    "reviewed_today": [
+      "Tres",
+      "Domus",
+      "Humanus"
+    ]
   }
 ]

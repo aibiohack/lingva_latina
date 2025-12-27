@@ -344,5 +344,27 @@
       "Cogitare",
       "Sentire"
     ]
+  },
+  {
+    "date": "2025-12-27",
+    "words": [
+      {
+        "latin": "Iugum",
+        "ru": "Ярмо, иго"
+      },
+      {
+        "latin": "Senectus",
+        "ru": "Старость"
+      },
+      {
+        "latin": "Curare",
+        "ru": "Заботиться"
+      }
+    ],
+    "reviewed_today": [
+      "Summa",
+      "Crux",
+      "Victor"
+    ]
   }
 ]

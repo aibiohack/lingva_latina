@@ -388,5 +388,27 @@
       "Domus",
       "Humanus"
     ]
+  },
+  {
+    "date": "2025-12-27",
+    "words": [
+      {
+        "latin": "Fessus",
+        "ru": "Усталый"
+      },
+      {
+        "latin": "Triduum",
+        "ru": "Три дня"
+      },
+      {
+        "latin": "Coepi",
+        "ru": "Я начал"
+      }
+    ],
+    "reviewed_today": [
+      "Mox",
+      "Terror",
+      "Emere"
+    ]
   }
 ]

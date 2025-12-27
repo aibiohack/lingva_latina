@@ -410,5 +410,27 @@
       "Terror",
       "Emere"
     ]
+  },
+  {
+    "date": "2025-12-27",
+    "words": [
+      {
+        "latin": "Delectare",
+        "ru": "Радовать"
+      },
+      {
+        "latin": "Cunctus",
+        "ru": "Весь, совокупный"
+      },
+      {
+        "latin": "Suavis",
+        "ru": "Приятный, сладкий"
+      }
+    ],
+    "reviewed_today": [
+      "Bibere",
+      "Sine",
+      "Tibia"
+    ]
   }
 ]

@@ -498,5 +498,27 @@
       "Curare",
       "Tantum"
     ]
+  },
+  {
+    "date": "2025-12-28",
+    "words": [
+      {
+        "latin": "Regio",
+        "ru": "Область"
+      },
+      {
+        "latin": "Malus",
+        "ru": "Плохой"
+      },
+      {
+        "latin": "Currere",
+        "ru": "Бежать"
+      }
+    ],
+    "reviewed_today": [
+      "Reus",
+      "Crux",
+      "Tertius"
+    ]
   }
 ]

@@ -432,5 +432,27 @@
       "Sine",
       "Tibia"
     ]
+  },
+  {
+    "date": "2025-12-28",
+    "words": [
+      {
+        "latin": "Moenia",
+        "ru": "Стены (городские)"
+      },
+      {
+        "latin": "Sinister",
+        "ru": "Левый"
+      },
+      {
+        "latin": "Triumphus",
+        "ru": "Триумф, победа"
+      }
+    ],
+    "reviewed_today": [
+      "Decidere",
+      "Dolor",
+      "Sacer"
+    ]
   }
 ]

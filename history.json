@@ -476,5 +476,27 @@
       "Infelix",
       "Vox"
     ]
+  },
+  {
+    "date": "2025-12-28",
+    "words": [
+      {
+        "latin": "Ira",
+        "ru": "Гнев"
+      },
+      {
+        "latin": "Magister",
+        "ru": "Учитель"
+      },
+      {
+        "latin": "Fuga",
+        "ru": "Бегство"
+      }
+    ],
+    "reviewed_today": [
+      "Scelus",
+      "Curare",
+      "Tantum"
+    ]
   }
 ]

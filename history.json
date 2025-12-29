@@ -586,5 +586,27 @@
       "Tenere",
       "Curare"
     ]
+  },
+  {
+    "date": "2025-12-29",
+    "words": [
+      {
+        "latin": "Vivus",
+        "ru": "Живой"
+      },
+      {
+        "latin": "Grex",
+        "ru": "Стадо, толпа"
+      },
+      {
+        "latin": "Ubi",
+        "ru": "Где"
+      }
+    ],
+    "reviewed_today": [
+      "Ecclesia",
+      "Iudicium",
+      "Fuga"
+    ]
   }
 ]

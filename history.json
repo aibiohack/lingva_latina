@@ -564,5 +564,27 @@
       "Fieri",
       "Moenia"
     ]
+  },
+  {
+    "date": "2025-12-29",
+    "words": [
+      {
+        "latin": "Spectare",
+        "ru": "Смотреть, созерцать"
+      },
+      {
+        "latin": "Vitare",
+        "ru": "Избегать"
+      },
+      {
+        "latin": "Clemens",
+        "ru": "Милостивый, кроткий"
+      }
+    ],
+    "reviewed_today": [
+      "Viator",
+      "Tenere",
+      "Curare"
+    ]
   }
 ]

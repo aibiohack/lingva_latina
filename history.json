@@ -520,5 +520,27 @@
       "Crux",
       "Tertius"
     ]
+  },
+  {
+    "date": "2025-12-29",
+    "words": [
+      {
+        "latin": "Infans",
+        "ru": "Ребенок"
+      },
+      {
+        "latin": "Nox",
+        "ru": "Ночь"
+      },
+      {
+        "latin": "Luna",
+        "ru": "Луна"
+      }
+    ],
+    "reviewed_today": [
+      "Terror",
+      "Metus",
+      "Enuntiare"
+    ]
   }
 ]

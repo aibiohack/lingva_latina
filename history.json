@@ -542,5 +542,27 @@
       "Metus",
       "Enuntiare"
     ]
+  },
+  {
+    "date": "2025-12-29",
+    "words": [
+      {
+        "latin": "Lumen",
+        "ru": "Свет"
+      },
+      {
+        "latin": "Ceterus",
+        "ru": "Прочий, остальной"
+      },
+      {
+        "latin": "Turpis",
+        "ru": "Позорный, безобразный"
+      }
+    ],
+    "reviewed_today": [
+      "Senectus",
+      "Fieri",
+      "Moenia"
+    ]
   }
 ]

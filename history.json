@@ -652,5 +652,27 @@
       "Declarare",
       "Delectare"
     ]
+  },
+  {
+    "date": "2025-12-30",
+    "words": [
+      {
+        "latin": "Venerari",
+        "ru": "Почитать, боготворить"
+      },
+      {
+        "latin": "Discipulus",
+        "ru": "Ученик"
+      },
+      {
+        "latin": "Maestus",
+        "ru": "Грустный"
+      }
+    ],
+    "reviewed_today": [
+      "Immortalis",
+      "Modus",
+      "Sinister"
+    ]
   }
 ]

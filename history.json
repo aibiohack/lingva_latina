@@ -630,5 +630,27 @@
       "Dolor",
       "Crescere"
     ]
+  },
+  {
+    "date": "2025-12-30",
+    "words": [
+      {
+        "latin": "Salus",
+        "ru": "Здоровье, спасение, приветствие"
+      },
+      {
+        "latin": "Audax",
+        "ru": "Смелый, дерзкий"
+      },
+      {
+        "latin": "Sursum",
+        "ru": "Вверх"
+      }
+    ],
+    "reviewed_today": [
+      "Cunctus",
+      "Declarare",
+      "Delectare"
+    ]
   }
 ]

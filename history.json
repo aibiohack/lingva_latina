@@ -608,5 +608,27 @@
       "Iudicium",
       "Fuga"
     ]
+  },
+  {
+    "date": "2025-12-30",
+    "words": [
+      {
+        "latin": "Meritum",
+        "ru": "Заслуга"
+      },
+      {
+        "latin": "Dum",
+        "ru": "Пока, в то время как"
+      },
+      {
+        "latin": "Largus",
+        "ru": "Щедрый, обильный"
+      }
+    ],
+    "reviewed_today": [
+      "Aut",
+      "Dolor",
+      "Crescere"
+    ]
   }
 ]

@@ -674,5 +674,27 @@
       "Modus",
       "Sinister"
     ]
+  },
+  {
+    "date": "2025-12-31",
+    "words": [
+      {
+        "latin": "Aurum",
+        "ru": "Золото"
+      },
+      {
+        "latin": "Ante",
+        "ru": "Перед, до"
+      },
+      {
+        "latin": "Valetudo",
+        "ru": "Здоровье (состояние)"
+      }
+    ],
+    "reviewed_today": [
+      "Consistere",
+      "Senectus",
+      "Scelus"
+    ]
   }
 ]

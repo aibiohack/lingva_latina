@@ -740,5 +740,27 @@
       "Insula",
       "Spiritus"
     ]
+  },
+  {
+    "date": "2025-12-31",
+    "words": [
+      {
+        "latin": "Ventus",
+        "ru": "Ветер"
+      },
+      {
+        "latin": "Idem",
+        "ru": "Тот же самый"
+      },
+      {
+        "latin": "Saepe",
+        "ru": "Часто"
+      }
+    ],
+    "reviewed_today": [
+      "Modus",
+      "Ira",
+      "Mox"
+    ]
   }
 ]

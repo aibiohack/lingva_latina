@@ -696,5 +696,27 @@
       "Senectus",
       "Scelus"
     ]
+  },
+  {
+    "date": "2025-12-31",
+    "words": [
+      {
+        "latin": "Tabula",
+        "ru": "Доска, таблица"
+      },
+      {
+        "latin": "Labor",
+        "ru": "Труд"
+      },
+      {
+        "latin": "Vindex",
+        "ru": "Защитник, мститель"
+      }
+    ],
+    "reviewed_today": [
+      "Regio",
+      "Terror",
+      "Iugum"
+    ]
   }
 ]

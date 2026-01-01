@@ -828,5 +828,27 @@
       "Tibia",
       "Humanus"
     ]
+  },
+  {
+    "date": "2026-01-01",
+    "words": [
+      {
+        "latin": "Caput",
+        "ru": "Голова"
+      },
+      {
+        "latin": "Tu",
+        "ru": "Ты"
+      },
+      {
+        "latin": "Damnum",
+        "ru": "Ущерб, убыток"
+      }
+    ],
+    "reviewed_today": [
+      "Decidere",
+      "Suavis",
+      "Senectus"
+    ]
   }
 ]

@@ -806,5 +806,27 @@
       "Regio",
       "Dum"
     ]
+  },
+  {
+    "date": "2026-01-01",
+    "words": [
+      {
+        "latin": "Causa",
+        "ru": "Причина"
+      },
+      {
+        "latin": "Harena",
+        "ru": "Песок, арена"
+      },
+      {
+        "latin": "Victoria",
+        "ru": "Победа"
+      }
+    ],
+    "reviewed_today": [
+      "Reus",
+      "Tibia",
+      "Humanus"
+    ]
   }
 ]

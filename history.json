@@ -784,5 +784,27 @@
       "Stirps",
       "Coepi"
     ]
+  },
+  {
+    "date": "2026-01-01",
+    "words": [
+      {
+        "latin": "Licet",
+        "ru": "Можно, позволено"
+      },
+      {
+        "latin": "Mutare",
+        "ru": "Менять"
+      },
+      {
+        "latin": "Undique",
+        "ru": "Отовсюду"
+      }
+    ],
+    "reviewed_today": [
+      "Sinister",
+      "Regio",
+      "Dum"
+    ]
   }
 ]

@@ -762,5 +762,27 @@
       "Ira",
       "Mox"
     ]
+  },
+  {
+    "date": "2026-01-01",
+    "words": [
+      {
+        "latin": "Gaudium",
+        "ru": "Радость"
+      },
+      {
+        "latin": "Auxilium",
+        "ru": "Помощь"
+      },
+      {
+        "latin": "Poeta",
+        "ru": "Поэт"
+      }
+    ],
+    "reviewed_today": [
+      "Vitare",
+      "Stirps",
+      "Coepi"
+    ]
   }
 ]

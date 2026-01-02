@@ -894,5 +894,27 @@
       "Maestus",
       "Vastus"
     ]
+  },
+  {
+    "date": "2026-01-02",
+    "words": [
+      {
+        "latin": "Gignere",
+        "ru": "Рождать, производить"
+      },
+      {
+        "latin": "Vigilare",
+        "ru": "Бодрствовать"
+      },
+      {
+        "latin": "Sarcina",
+        "ru": "Узел, багаж"
+      }
+    ],
+    "reviewed_today": [
+      "Aurum",
+      "Luna",
+      "Sinister"
+    ]
   }
 ]

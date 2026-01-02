@@ -850,5 +850,27 @@
       "Suavis",
       "Senectus"
     ]
+  },
+  {
+    "date": "2026-01-02",
+    "words": [
+      {
+        "latin": "Si",
+        "ru": "Если"
+      },
+      {
+        "latin": "Comes",
+        "ru": "Спутник, граф"
+      },
+      {
+        "latin": "Uva",
+        "ru": "Виноград"
+      }
+    ],
+    "reviewed_today": [
+      "Immortalis",
+      "Ante",
+      "Cunctus"
+    ]
   }
 ]

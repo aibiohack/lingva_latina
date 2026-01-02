@@ -872,5 +872,27 @@
       "Ante",
       "Cunctus"
     ]
+  },
+  {
+    "date": "2026-01-02",
+    "words": [
+      {
+        "latin": "Vetus",
+        "ru": "Старый"
+      },
+      {
+        "latin": "Valere",
+        "ru": "Быть здоровым, иметь силу"
+      },
+      {
+        "latin": "Socius",
+        "ru": "Союзник, товарищ"
+      }
+    ],
+    "reviewed_today": [
+      "Grex",
+      "Maestus",
+      "Vastus"
+    ]
   }
 ]

@@ -916,5 +916,27 @@
       "Luna",
       "Sinister"
     ]
+  },
+  {
+    "date": "2026-01-02",
+    "words": [
+      {
+        "latin": "Ridere",
+        "ru": "Смеяться"
+      },
+      {
+        "latin": "Fenestra",
+        "ru": "Окно"
+      },
+      {
+        "latin": "Spatium",
+        "ru": "Пространство, промежуток"
+      }
+    ],
+    "reviewed_today": [
+      "Gaudium",
+      "Vindex",
+      "Silentium"
+    ]
   }
 ]

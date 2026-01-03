@@ -982,5 +982,27 @@
       "Undique",
       "Vox"
     ]
+  },
+  {
+    "date": "2026-01-03",
+    "words": [
+      {
+        "latin": "Vinculum",
+        "ru": "Узы, цепь"
+      },
+      {
+        "latin": "Vester",
+        "ru": "Ваш"
+      },
+      {
+        "latin": "Densus",
+        "ru": "Густой, плотный"
+      }
+    ],
+    "reviewed_today": [
+      "Caput",
+      "Humanus",
+      "Tabula"
+    ]
   }
 ]

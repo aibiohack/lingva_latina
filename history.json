@@ -938,5 +938,27 @@
       "Vindex",
       "Silentium"
     ]
+  },
+  {
+    "date": "2026-01-03",
+    "words": [
+      {
+        "latin": "Testimonium",
+        "ru": "Свидетельство"
+      },
+      {
+        "latin": "Loqui",
+        "ru": "Говорить"
+      },
+      {
+        "latin": "Terra",
+        "ru": "Земля"
+      }
+    ],
+    "reviewed_today": [
+      "Decidere",
+      "Vita",
+      "Enuntiare"
+    ]
   }
 ]

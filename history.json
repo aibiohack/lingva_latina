@@ -1004,5 +1004,27 @@
       "Humanus",
       "Tabula"
     ]
+  },
+  {
+    "date": "2026-01-03",
+    "words": [
+      {
+        "latin": "Defendere",
+        "ru": "Защищать"
+      },
+      {
+        "latin": "Humus",
+        "ru": "Земля"
+      },
+      {
+        "latin": "Amare",
+        "ru": "Любить"
+      }
+    ],
+    "reviewed_today": [
+      "Aut",
+      "Causa",
+      "Clarus"
+    ]
   }
 ]

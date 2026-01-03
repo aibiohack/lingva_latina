@@ -960,5 +960,27 @@
       "Vita",
       "Enuntiare"
     ]
+  },
+  {
+    "date": "2026-01-03",
+    "words": [
+      {
+        "latin": "Orbis",
+        "ru": "Круг, мир"
+      },
+      {
+        "latin": "Natura",
+        "ru": "Природа"
+      },
+      {
+        "latin": "Vulnus",
+        "ru": "Рана"
+      }
+    ],
+    "reviewed_today": [
+      "Hodie",
+      "Undique",
+      "Vox"
+    ]
   }
 ]

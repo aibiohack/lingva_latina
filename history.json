@@ -1026,5 +1026,27 @@
       "Causa",
       "Clarus"
     ]
+  },
+  {
+    "date": "2026-01-04",
+    "words": [
+      {
+        "latin": "Dexter",
+        "ru": "Правый"
+      },
+      {
+        "latin": "Ferre",
+        "ru": "Нести"
+      },
+      {
+        "latin": "Unanimis",
+        "ru": "Единодушный"
+      }
+    ],
+    "reviewed_today": [
+      "Victor",
+      "Cunctus",
+      "Ventus"
+    ]
   }
 ]

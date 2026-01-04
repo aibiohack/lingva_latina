@@ -1070,5 +1070,27 @@
       "Silentium",
       "Bibere"
     ]
+  },
+  {
+    "date": "2026-01-04",
+    "words": [
+      {
+        "latin": "Retinere",
+        "ru": "Удерживать, сохранять"
+      },
+      {
+        "latin": "Sapiens",
+        "ru": "Мудрый, разумный"
+      },
+      {
+        "latin": "Bellum",
+        "ru": "Война"
+      }
+    ],
+    "reviewed_today": [
+      "Vindex",
+      "Dum",
+      "Triduum"
+    ]
   }
 ]

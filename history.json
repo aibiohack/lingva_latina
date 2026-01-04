@@ -1048,5 +1048,27 @@
       "Cunctus",
       "Ventus"
     ]
+  },
+  {
+    "date": "2026-01-04",
+    "words": [
+      {
+        "latin": "Levis",
+        "ru": "Легкий"
+      },
+      {
+        "latin": "Laus",
+        "ru": "Похвала, слава"
+      },
+      {
+        "latin": "Vocare",
+        "ru": "Звать"
+      }
+    ],
+    "reviewed_today": [
+      "Regio",
+      "Silentium",
+      "Bibere"
+    ]
   }
 ]

@@ -1136,5 +1136,27 @@
       "Vox",
       "Sinister"
     ]
+  },
+  {
+    "date": "2026-01-05",
+    "words": [
+      {
+        "latin": "Urgere",
+        "ru": "Гнать, теснить"
+      },
+      {
+        "latin": "Silva",
+        "ru": "Лес"
+      },
+      {
+        "latin": "Iuvare",
+        "ru": "Помогать, радовать"
+      }
+    ],
+    "reviewed_today": [
+      "Scelus",
+      "Vester",
+      "Humanus"
+    ]
   }
 ]

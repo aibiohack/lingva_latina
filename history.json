@@ -1114,5 +1114,27 @@
       "Luna",
       "Labor"
     ]
+  },
+  {
+    "date": "2026-01-05",
+    "words": [
+      {
+        "latin": "Velle",
+        "ru": "Хотеть"
+      },
+      {
+        "latin": "Trabs",
+        "ru": "Балка, дерево"
+      },
+      {
+        "latin": "Scientia",
+        "ru": "Знание, наука"
+      }
+    ],
+    "reviewed_today": [
+      "Iudicium",
+      "Vox",
+      "Sinister"
+    ]
   }
 ]

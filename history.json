@@ -1180,5 +1180,27 @@
       "Curare",
       "Ubi"
     ]
+  },
+  {
+    "date": "2026-01-05",
+    "words": [
+      {
+        "latin": "Sol",
+        "ru": "Солнце"
+      },
+      {
+        "latin": "Stultus",
+        "ru": "Глупый"
+      },
+      {
+        "latin": "Visere",
+        "ru": "Осматривать, посещать"
+      }
+    ],
+    "reviewed_today": [
+      "Enuntiare",
+      "Magnitudo",
+      "Maestus"
+    ]
   }
 ]

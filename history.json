@@ -1158,5 +1158,27 @@
       "Vester",
       "Humanus"
     ]
+  },
+  {
+    "date": "2026-01-05",
+    "words": [
+      {
+        "latin": "Utilitas",
+        "ru": "Польза, выгода"
+      },
+      {
+        "latin": "Debere",
+        "ru": "Быть должным"
+      },
+      {
+        "latin": "Aperire",
+        "ru": "Открывать"
+      }
+    ],
+    "reviewed_today": [
+      "Spiritus",
+      "Curare",
+      "Ubi"
+    ]
   }
 ]

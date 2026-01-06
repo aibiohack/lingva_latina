@@ -1224,5 +1224,27 @@
       "Gignere",
       "Meritum"
     ]
+  },
+  {
+    "date": "2026-01-06",
+    "words": [
+      {
+        "latin": "Suscipere",
+        "ru": "Предпринимать, принимать"
+      },
+      {
+        "latin": "Aureus",
+        "ru": "Золотой"
+      },
+      {
+        "latin": "Medicus",
+        "ru": "Врач"
+      }
+    ],
+    "reviewed_today": [
+      "Poeta",
+      "Natura",
+      "Terra"
+    ]
   }
 ]

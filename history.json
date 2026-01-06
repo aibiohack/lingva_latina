@@ -1268,5 +1268,27 @@
       "Fieri",
       "Moenia"
     ]
+  },
+  {
+    "date": "2026-01-06",
+    "words": [
+      {
+        "latin": "Solium",
+        "ru": "Престол, трон"
+      },
+      {
+        "latin": "Tardus",
+        "ru": "Медленный"
+      },
+      {
+        "latin": "Iungera",
+        "ru": "Соединять"
+      }
+    ],
+    "reviewed_today": [
+      "Mutare",
+      "Spiritus",
+      "Fuga"
+    ]
   }
 ]

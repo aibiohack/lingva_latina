@@ -1202,5 +1202,27 @@
       "Magnitudo",
       "Maestus"
     ]
+  },
+  {
+    "date": "2026-01-06",
+    "words": [
+      {
+        "latin": "Ingens",
+        "ru": "Огромный"
+      },
+      {
+        "latin": "Gaudere",
+        "ru": "Радоваться"
+      },
+      {
+        "latin": "Desistere",
+        "ru": "Прекращать, отступать"
+      }
+    ],
+    "reviewed_today": [
+      "Ridere",
+      "Gignere",
+      "Meritum"
+    ]
   }
 ]

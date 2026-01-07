@@ -1312,5 +1312,27 @@
       "Malus",
       "Nox"
     ]
+  },
+  {
+    "date": "2026-01-07",
+    "words": [
+      {
+        "latin": "Saxum",
+        "ru": "Скала, камень"
+      },
+      {
+        "latin": "Pone",
+        "ru": "Позади"
+      },
+      {
+        "latin": "Decere",
+        "ru": "Подобать, приличествовать"
+      }
+    ],
+    "reviewed_today": [
+      "Vis",
+      "Undique",
+      "Dum"
+    ]
   }
 ]

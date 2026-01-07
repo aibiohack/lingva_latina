@@ -1356,5 +1356,27 @@
       "Defendere",
       "Moenia"
     ]
+  },
+  {
+    "date": "2026-01-07",
+    "words": [
+      {
+        "latin": "Quasi",
+        "ru": "Как будто"
+      },
+      {
+        "latin": "Pauper",
+        "ru": "Бедный"
+      },
+      {
+        "latin": "Turba",
+        "ru": "Толпа, сумятица"
+      }
+    ],
+    "reviewed_today": [
+      "Aurum",
+      "Causa",
+      "Venerari"
+    ]
   }
 ]

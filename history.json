@@ -1290,5 +1290,27 @@
       "Spiritus",
       "Fuga"
     ]
+  },
+  {
+    "date": "2026-01-07",
+    "words": [
+      {
+        "latin": "Videre",
+        "ru": "Видеть"
+      },
+      {
+        "latin": "Civis",
+        "ru": "Гражданин"
+      },
+      {
+        "latin": "Venus",
+        "ru": "Любовь, Венера"
+      }
+    ],
+    "reviewed_today": [
+      "Iugum",
+      "Malus",
+      "Nox"
+    ]
   }
 ]

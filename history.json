@@ -1334,5 +1334,27 @@
       "Undique",
       "Dum"
     ]
+  },
+  {
+    "date": "2026-01-07",
+    "words": [
+      {
+        "latin": "Aio",
+        "ru": "Говорю, утверждаю"
+      },
+      {
+        "latin": "Nuntius",
+        "ru": "Вестник"
+      },
+      {
+        "latin": "Remus",
+        "ru": "Весло"
+      }
+    ],
+    "reviewed_today": [
+      "Silentium",
+      "Defendere",
+      "Moenia"
+    ]
   }
 ]

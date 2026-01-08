@@ -1422,5 +1422,27 @@
       "Mutare",
       "Discipulus"
     ]
+  },
+  {
+    "date": "2026-01-08",
+    "words": [
+      {
+        "latin": "Mos",
+        "ru": "Нрав, обычай"
+      },
+      {
+        "latin": "Doctus",
+        "ru": "Ученый"
+      },
+      {
+        "latin": "Sermo",
+        "ru": "Речь, беседа"
+      }
+    ],
+    "reviewed_today": [
+      "Testimonium",
+      "Licet",
+      "Videre"
+    ]
   }
 ]

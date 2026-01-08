@@ -1400,5 +1400,27 @@
       "Magnitudo",
       "Cunctus"
     ]
+  },
+  {
+    "date": "2026-01-08",
+    "words": [
+      {
+        "latin": "Gelu",
+        "ru": "Мороз, лед"
+      },
+      {
+        "latin": "Fluere",
+        "ru": "Течь"
+      },
+      {
+        "latin": "Ratio",
+        "ru": "Разум, расчет, метод"
+      }
+    ],
+    "reviewed_today": [
+      "Harena",
+      "Mutare",
+      "Discipulus"
+    ]
   }
 ]

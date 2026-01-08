@@ -1378,5 +1378,27 @@
       "Causa",
       "Venerari"
     ]
+  },
+  {
+    "date": "2026-01-08",
+    "words": [
+      {
+        "latin": "Coniunx",
+        "ru": "Супруг, супруга"
+      },
+      {
+        "latin": "Vicis",
+        "ru": "Перемена, очередь"
+      },
+      {
+        "latin": "Genu",
+        "ru": "Колено"
+      }
+    ],
+    "reviewed_today": [
+      "Sacer",
+      "Magnitudo",
+      "Cunctus"
+    ]
   }
 ]

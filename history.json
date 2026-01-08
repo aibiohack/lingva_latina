@@ -1444,5 +1444,27 @@
       "Licet",
       "Videre"
     ]
+  },
+  {
+    "date": "2026-01-08",
+    "words": [
+      {
+        "latin": "Epistula",
+        "ru": "Письмо"
+      },
+      {
+        "latin": "Liber",
+        "ru": "Книга"
+      },
+      {
+        "latin": "Dives",
+        "ru": "Богатый"
+      }
+    ],
+    "reviewed_today": [
+      "Vigilare",
+      "Suavis",
+      "Salus"
+    ]
   }
 ]

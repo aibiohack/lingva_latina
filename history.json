@@ -1532,5 +1532,27 @@
       "Reus",
       "Poeta"
     ]
+  },
+  {
+    "date": "2026-01-09",
+    "words": [
+      {
+        "latin": "Fallere",
+        "ru": "Обманывать"
+      },
+      {
+        "latin": "Volvo",
+        "ru": "Качу, раздумываю"
+      },
+      {
+        "latin": "Heri",
+        "ru": "Вчера"
+      }
+    ],
+    "reviewed_today": [
+      "Sermo",
+      "Gaudere",
+      "Tres"
+    ]
   }
 ]

@@ -1510,5 +1510,27 @@
       "Ingens",
       "Amare"
     ]
+  },
+  {
+    "date": "2026-01-09",
+    "words": [
+      {
+        "latin": "Supplex",
+        "ru": "Молящий, покорный"
+      },
+      {
+        "latin": "Nullus",
+        "ru": "Никакой"
+      },
+      {
+        "latin": "Regere",
+        "ru": "Править"
+      }
+    ],
+    "reviewed_today": [
+      "Pauper",
+      "Reus",
+      "Poeta"
+    ]
   }
 ]

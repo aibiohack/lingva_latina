@@ -1466,5 +1466,27 @@
       "Suavis",
       "Salus"
     ]
+  },
+  {
+    "date": "2026-01-09",
+    "words": [
+      {
+        "latin": "Ubique",
+        "ru": "Везде, повсюду"
+      },
+      {
+        "latin": "Sed",
+        "ru": "Но"
+      },
+      {
+        "latin": "Atque",
+        "ru": "А также, и"
+      }
+    ],
+    "reviewed_today": [
+      "Vehementer",
+      "Crescere",
+      "Debere"
+    ]
   }
 ]

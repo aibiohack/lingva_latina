@@ -1488,5 +1488,27 @@
       "Crescere",
       "Debere"
     ]
+  },
+  {
+    "date": "2026-01-09",
+    "words": [
+      {
+        "latin": "Tum",
+        "ru": "Тогда"
+      },
+      {
+        "latin": "Cras",
+        "ru": "Завтра"
+      },
+      {
+        "latin": "Magis",
+        "ru": "Более"
+      }
+    ],
+    "reviewed_today": [
+      "Vindex",
+      "Ingens",
+      "Amare"
+    ]
   }
 ]

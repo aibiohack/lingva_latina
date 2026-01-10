@@ -1598,5 +1598,27 @@
       "Uva",
       "Sol"
     ]
+  },
+  {
+    "date": "2026-01-10",
+    "words": [
+      {
+        "latin": "Scire",
+        "ru": "Знать"
+      },
+      {
+        "latin": "Soror",
+        "ru": "Сестра"
+      },
+      {
+        "latin": "Unde",
+        "ru": "Откуда"
+      }
+    ],
+    "reviewed_today": [
+      "Cras",
+      "Sufferre",
+      "Nullus"
+    ]
   }
 ]

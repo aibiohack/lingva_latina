@@ -1620,5 +1620,27 @@
       "Sufferre",
       "Nullus"
     ]
+  },
+  {
+    "date": "2026-01-10",
+    "words": [
+      {
+        "latin": "Scribere",
+        "ru": "Писать"
+      },
+      {
+        "latin": "Initium",
+        "ru": "Начало"
+      },
+      {
+        "latin": "Ingenium",
+        "ru": "Талант, ум"
+      }
+    ],
+    "reviewed_today": [
+      "Valere",
+      "Enuntiare",
+      "Aperire"
+    ]
   }
 ]

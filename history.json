@@ -1554,5 +1554,27 @@
       "Gaudere",
       "Tres"
     ]
+  },
+  {
+    "date": "2026-01-10",
+    "words": [
+      {
+        "latin": "Utilis",
+        "ru": "Полезный"
+      },
+      {
+        "latin": "Enim",
+        "ru": "Ибо, ведь"
+      },
+      {
+        "latin": "Relinquere",
+        "ru": "Оставлять"
+      }
+    ],
+    "reviewed_today": [
+      "Epistula",
+      "Iugum",
+      "Annus"
+    ]
   }
 ]

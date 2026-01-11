@@ -1708,5 +1708,27 @@
       "Ventus",
       "Terra"
     ]
+  },
+  {
+    "date": "2026-01-11",
+    "words": [
+      {
+        "latin": "Tuus",
+        "ru": "Твой"
+      },
+      {
+        "latin": "Claudere",
+        "ru": "Закрывать"
+      },
+      {
+        "latin": "Iubere",
+        "ru": "Приказывать"
+      }
+    ],
+    "reviewed_today": [
+      "Nox",
+      "Domus",
+      "Stultus"
+    ]
   }
 ]

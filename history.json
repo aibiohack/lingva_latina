@@ -1686,5 +1686,27 @@
       "Dum",
       "Caput"
     ]
+  },
+  {
+    "date": "2026-01-11",
+    "words": [
+      {
+        "latin": "Apud",
+        "ru": "У, при, около"
+      },
+      {
+        "latin": "Sanguis",
+        "ru": "Кровь"
+      },
+      {
+        "latin": "Urbs",
+        "ru": "Город"
+      }
+    ],
+    "reviewed_today": [
+      "Iugum",
+      "Ventus",
+      "Terra"
+    ]
   }
 ]

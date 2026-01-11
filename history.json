@@ -1642,5 +1642,27 @@
       "Enuntiare",
       "Aperire"
     ]
+  },
+  {
+    "date": "2026-01-11",
+    "words": [
+      {
+        "latin": "Lupus",
+        "ru": "Волк"
+      },
+      {
+        "latin": "Lapis",
+        "ru": "Камень"
+      },
+      {
+        "latin": "Arbor",
+        "ru": "Дерево"
+      }
+    ],
+    "reviewed_today": [
+      "Socius",
+      "Vigilare",
+      "Iungera"
+    ]
   }
 ]

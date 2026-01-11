@@ -1664,5 +1664,27 @@
       "Vigilare",
       "Iungera"
     ]
+  },
+  {
+    "date": "2026-01-11",
+    "words": [
+      {
+        "latin": "Totus",
+        "ru": "Весь, целый"
+      },
+      {
+        "latin": "Maiores",
+        "ru": "Предки"
+      },
+      {
+        "latin": "Mensis",
+        "ru": "Месяц"
+      }
+    ],
+    "reviewed_today": [
+      "Loqui",
+      "Dum",
+      "Caput"
+    ]
   }
 ]

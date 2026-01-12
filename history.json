@@ -1752,5 +1752,27 @@
       "Humus",
       "Triumphus"
     ]
+  },
+  {
+    "date": "2026-01-12",
+    "words": [
+      {
+        "latin": "Sapere",
+        "ru": "Быть мудрым"
+      },
+      {
+        "latin": "Pulcher",
+        "ru": "Красивый"
+      },
+      {
+        "latin": "Cibus",
+        "ru": "Пища, еда"
+      }
+    ],
+    "reviewed_today": [
+      "Senectus",
+      "Densus",
+      "Vulnus"
+    ]
   }
 ]

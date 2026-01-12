@@ -1796,5 +1796,27 @@
       "Aperire",
       "Vacuus"
     ]
+  },
+  {
+    "date": "2026-01-12",
+    "words": [
+      {
+        "latin": "Credere",
+        "ru": "Верить"
+      },
+      {
+        "latin": "Iniquus",
+        "ru": "Несправедливый"
+      },
+      {
+        "latin": "Iustus",
+        "ru": "Справедливый"
+      }
+    ],
+    "reviewed_today": [
+      "Sacer",
+      "Malus",
+      "Silva"
+    ]
   }
 ]

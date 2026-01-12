@@ -1730,5 +1730,27 @@
       "Domus",
       "Stultus"
     ]
+  },
+  {
+    "date": "2026-01-12",
+    "words": [
+      {
+        "latin": "Tribuere",
+        "ru": "Назначать, воздавать"
+      },
+      {
+        "latin": "Duo",
+        "ru": "Два"
+      },
+      {
+        "latin": "Vates",
+        "ru": "Пророк, поэт"
+      }
+    ],
+    "reviewed_today": [
+      "Mox",
+      "Humus",
+      "Triumphus"
+    ]
   }
 ]

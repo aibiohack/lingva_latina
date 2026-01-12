@@ -1774,5 +1774,27 @@
       "Densus",
       "Vulnus"
     ]
+  },
+  {
+    "date": "2026-01-12",
+    "words": [
+      {
+        "latin": "Mare",
+        "ru": "Море"
+      },
+      {
+        "latin": "Animus",
+        "ru": "Дух, разум"
+      },
+      {
+        "latin": "Virtus",
+        "ru": "Мужество, добродетель"
+      }
+    ],
+    "reviewed_today": [
+      "Spectare",
+      "Aperire",
+      "Vacuus"
+    ]
   }
 ]

@@ -1818,5 +1818,27 @@
       "Malus",
       "Silva"
     ]
+  },
+  {
+    "date": "2026-01-13",
+    "words": [
+      {
+        "latin": "Appellare",
+        "ru": "Называть, обращаться"
+      },
+      {
+        "latin": "Argentum",
+        "ru": "Серебро"
+      },
+      {
+        "latin": "Facinus",
+        "ru": "Дело, поступок (часто дурной)"
+      }
+    ],
+    "reviewed_today": [
+      "Liber",
+      "Orbis",
+      "Delectare"
+    ]
   }
 ]

@@ -1884,5 +1884,27 @@
       "Cras",
       "Sapere"
     ]
+  },
+  {
+    "date": "2026-01-13",
+    "words": [
+      {
+        "latin": "Ter",
+        "ru": "Трижды"
+      },
+      {
+        "latin": "Rex",
+        "ru": "Царь, король"
+      },
+      {
+        "latin": "Hortus",
+        "ru": "Сад"
+      }
+    ],
+    "reviewed_today": [
+      "Trabs",
+      "Reus",
+      "Venerari"
+    ]
   }
 ]

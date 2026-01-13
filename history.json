@@ -1840,5 +1840,27 @@
       "Orbis",
       "Delectare"
     ]
+  },
+  {
+    "date": "2026-01-13",
+    "words": [
+      {
+        "latin": "Lucere",
+        "ru": "Светить"
+      },
+      {
+        "latin": "Suspicio",
+        "ru": "Подозрение"
+      },
+      {
+        "latin": "Asper",
+        "ru": "Шероховатый, суровый"
+      }
+    ],
+    "reviewed_today": [
+      "Ars",
+      "Declarare",
+      "Moenia"
+    ]
   }
 ]

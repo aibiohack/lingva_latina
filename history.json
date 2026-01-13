@@ -1862,5 +1862,27 @@
       "Declarare",
       "Moenia"
     ]
+  },
+  {
+    "date": "2026-01-13",
+    "words": [
+      {
+        "latin": "Tutus",
+        "ru": "Безопасный"
+      },
+      {
+        "latin": "Potestas",
+        "ru": "Власть"
+      },
+      {
+        "latin": "Libenter",
+        "ru": "Охотно"
+      }
+    ],
+    "reviewed_today": [
+      "Atque",
+      "Cras",
+      "Sapere"
+    ]
   }
 ]

@@ -1972,5 +1972,27 @@
       "Scribere",
       "Iniquus"
     ]
+  },
+  {
+    "date": "2026-01-14",
+    "words": [
+      {
+        "latin": "Hostis",
+        "ru": "Враг"
+      },
+      {
+        "latin": "Sanctus",
+        "ru": "Святой, нерушимый"
+      },
+      {
+        "latin": "Veho",
+        "ru": "Везу"
+      }
+    ],
+    "reviewed_today": [
+      "Epistula",
+      "Aperire",
+      "Iudicium"
+    ]
   }
 ]

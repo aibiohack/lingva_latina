@@ -1928,5 +1928,27 @@
       "Venire",
       "Vigilare"
     ]
+  },
+  {
+    "date": "2026-01-14",
+    "words": [
+      {
+        "latin": "Utor",
+        "ru": "Пользуюсь"
+      },
+      {
+        "latin": "Monere",
+        "ru": "Напоминать, убеждать"
+      },
+      {
+        "latin": "Habitus",
+        "ru": "Состояние, облик"
+      }
+    ],
+    "reviewed_today": [
+      "Senectus",
+      "Suavis",
+      "Ubique"
+    ]
   }
 ]

@@ -1950,5 +1950,27 @@
       "Suavis",
       "Ubique"
     ]
+  },
+  {
+    "date": "2026-01-14",
+    "words": [
+      {
+        "latin": "Scutum",
+        "ru": "Щит"
+      },
+      {
+        "latin": "Rumpere",
+        "ru": "Рвать, ломать"
+      },
+      {
+        "latin": "Morari",
+        "ru": "Медлить, задерживаться"
+      }
+    ],
+    "reviewed_today": [
+      "Potestas",
+      "Scribere",
+      "Iniquus"
+    ]
   }
 ]

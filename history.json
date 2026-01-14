@@ -1906,5 +1906,27 @@
       "Reus",
       "Venerari"
     ]
+  },
+  {
+    "date": "2026-01-14",
+    "words": [
+      {
+        "latin": "Timere",
+        "ru": "Бояться"
+      },
+      {
+        "latin": "Etiam",
+        "ru": "Также, даже"
+      },
+      {
+        "latin": "Severus",
+        "ru": "Строгий, суровый"
+      }
+    ],
+    "reviewed_today": [
+      "Claudere",
+      "Venire",
+      "Vigilare"
+    ]
   }
 ]

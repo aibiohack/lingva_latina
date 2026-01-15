@@ -1994,5 +1994,27 @@
       "Aperire",
       "Iudicium"
     ]
+  },
+  {
+    "date": "2026-01-15",
+    "words": [
+      {
+        "latin": "Uter",
+        "ru": "Кто из двух"
+      },
+      {
+        "latin": "Religio",
+        "ru": "Религия"
+      },
+      {
+        "latin": "Castrum",
+        "ru": "Крепость"
+      }
+    ],
+    "reviewed_today": [
+      "Videre",
+      "Claudere",
+      "Tibia"
+    ]
   }
 ]

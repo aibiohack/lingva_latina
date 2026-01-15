@@ -2060,5 +2060,27 @@
       "Vis",
       "Medicus"
     ]
+  },
+  {
+    "date": "2026-01-15",
+    "words": [
+      {
+        "latin": "Talis",
+        "ru": "Такой"
+      },
+      {
+        "latin": "Membrum",
+        "ru": "Член (тела), часть"
+      },
+      {
+        "latin": "Terrere",
+        "ru": "Устрашать"
+      }
+    ],
+    "reviewed_today": [
+      "Vigilare",
+      "Orbis",
+      "Credere"
+    ]
   }
 ]

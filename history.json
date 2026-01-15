@@ -2038,5 +2038,27 @@
       "Enim",
       "Triumphus"
     ]
+  },
+  {
+    "date": "2026-01-15",
+    "words": [
+      {
+        "latin": "Externus",
+        "ru": "Внешний, чужой"
+      },
+      {
+        "latin": "Villa",
+        "ru": "Вилла, усадьба"
+      },
+      {
+        "latin": "Salve",
+        "ru": "Здравствуй"
+      }
+    ],
+    "reviewed_today": [
+      "Saxum",
+      "Vis",
+      "Medicus"
+    ]
   }
 ]

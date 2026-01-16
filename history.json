@@ -2148,5 +2148,27 @@
       "Harena",
       "Sermo"
     ]
+  },
+  {
+    "date": "2026-01-16",
+    "words": [
+      {
+        "latin": "Fidelis",
+        "ru": "Верный, надежный"
+      },
+      {
+        "latin": "Inimicus",
+        "ru": "Недруг, личный враг"
+      },
+      {
+        "latin": "Signum",
+        "ru": "Знак, знамя"
+      }
+    ],
+    "reviewed_today": [
+      "Doctus",
+      "Valetudo",
+      "Vacuus"
+    ]
   }
 ]

@@ -2082,5 +2082,27 @@
       "Orbis",
       "Credere"
     ]
+  },
+  {
+    "date": "2026-01-16",
+    "words": [
+      {
+        "latin": "Suus",
+        "ru": "Свой"
+      },
+      {
+        "latin": "Conditio",
+        "ru": "Условие, положение"
+      },
+      {
+        "latin": "Novus",
+        "ru": "Новый"
+      }
+    ],
+    "reviewed_today": [
+      "Damnum",
+      "Crux",
+      "Hora"
+    ]
   }
 ]

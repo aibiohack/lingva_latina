@@ -2104,5 +2104,27 @@
       "Crux",
       "Hora"
     ]
+  },
+  {
+    "date": "2026-01-16",
+    "words": [
+      {
+        "latin": "Herba",
+        "ru": "Трава"
+      },
+      {
+        "latin": "Amoenus",
+        "ru": "Приятный, прелестный"
+      },
+      {
+        "latin": "Charta",
+        "ru": "Бумага, лист"
+      }
+    ],
+    "reviewed_today": [
+      "Laus",
+      "Mos",
+      "Crescere"
+    ]
   }
 ]

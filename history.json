@@ -2126,5 +2126,27 @@
       "Mos",
       "Crescere"
     ]
+  },
+  {
+    "date": "2026-01-16",
+    "words": [
+      {
+        "latin": "Velox",
+        "ru": "Быстрый"
+      },
+      {
+        "latin": "Pax",
+        "ru": "Мир"
+      },
+      {
+        "latin": "Disertus",
+        "ru": "Красноречивый"
+      }
+    ],
+    "reviewed_today": [
+      "Sursum",
+      "Harena",
+      "Sermo"
+    ]
   }
 ]

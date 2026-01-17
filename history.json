@@ -2236,5 +2236,27 @@
       "Viator",
       "Solium"
     ]
+  },
+  {
+    "date": "2026-01-17",
+    "words": [
+      {
+        "latin": "Tormentum",
+        "ru": "Мучение, пытка"
+      },
+      {
+        "latin": "Fama",
+        "ru": "Молва, слух"
+      },
+      {
+        "latin": "Mollis",
+        "ru": "Мягкий"
+      }
+    ],
+    "reviewed_today": [
+      "Iuvare",
+      "Morari",
+      "Sarcina"
+    ]
   }
 ]

@@ -2258,5 +2258,27 @@
       "Morari",
       "Sarcina"
     ]
+  },
+  {
+    "date": "2026-01-18",
+    "words": [
+      {
+        "latin": "Sacerdos",
+        "ru": "Жрец, священник"
+      },
+      {
+        "latin": "Flos",
+        "ru": "Цветок"
+      },
+      {
+        "latin": "Usque",
+        "ru": "Вплоть до"
+      }
+    ],
+    "reviewed_today": [
+      "Tumultus",
+      "Unanimis",
+      "Charta"
+    ]
   }
 ]

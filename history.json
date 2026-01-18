@@ -2324,5 +2324,27 @@
       "Ubi",
       "Turba"
     ]
+  },
+  {
+    "date": "2026-01-18",
+    "words": [
+      {
+        "latin": "Convivium",
+        "ru": "Пир"
+      },
+      {
+        "latin": "Flere",
+        "ru": "Плакать"
+      },
+      {
+        "latin": "Periculum",
+        "ru": "Опасность"
+      }
+    ],
+    "reviewed_today": [
+      "Terra",
+      "Salus",
+      "Herba"
+    ]
   }
 ]

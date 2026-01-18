@@ -2302,5 +2302,27 @@
       "Vigilare",
       "Doctus"
     ]
+  },
+  {
+    "date": "2026-01-18",
+    "words": [
+      {
+        "latin": "Invitare",
+        "ru": "Приглашать"
+      },
+      {
+        "latin": "Ille",
+        "ru": "Тот, он"
+      },
+      {
+        "latin": "Ducenti",
+        "ru": "Двести"
+      }
+    ],
+    "reviewed_today": [
+      "Turpis",
+      "Ubi",
+      "Turba"
+    ]
   }
 ]

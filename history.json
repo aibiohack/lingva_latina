@@ -2280,5 +2280,27 @@
       "Unanimis",
       "Charta"
     ]
+  },
+  {
+    "date": "2026-01-18",
+    "words": [
+      {
+        "latin": "Morbus",
+        "ru": "Болезнь"
+      },
+      {
+        "latin": "Incipere",
+        "ru": "Начинать"
+      },
+      {
+        "latin": "Regnum",
+        "ru": "Царство, власть"
+      }
+    ],
+    "reviewed_today": [
+      "Levis",
+      "Vigilare",
+      "Doctus"
+    ]
   }
 ]

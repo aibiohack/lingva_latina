@@ -2412,5 +2412,27 @@
       "Tollere",
       "Licet"
     ]
+  },
+  {
+    "date": "2026-01-19",
+    "words": [
+      {
+        "latin": "Vincere",
+        "ru": "Победить"
+      },
+      {
+        "latin": "Via",
+        "ru": "Путь"
+      },
+      {
+        "latin": "Navis",
+        "ru": "Корабль"
+      }
+    ],
+    "reviewed_today": [
+      "Mare",
+      "Animus",
+      "Tantum"
+    ]
   }
 ]

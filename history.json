@@ -2346,5 +2346,27 @@
       "Salus",
       "Herba"
     ]
+  },
+  {
+    "date": "2026-01-19",
+    "words": [
+      {
+        "latin": "Parare",
+        "ru": "Готовить"
+      },
+      {
+        "latin": "Servus",
+        "ru": "Раб, слуга"
+      },
+      {
+        "latin": "Mater",
+        "ru": "Мать"
+      }
+    ],
+    "reviewed_today": [
+      "Quattuor",
+      "Terror",
+      "Decidere"
+    ]
   }
 ]

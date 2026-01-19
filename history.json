@@ -2390,5 +2390,27 @@
       "Mensis",
       "Uva"
     ]
+  },
+  {
+    "date": "2026-01-19",
+    "words": [
+      {
+        "latin": "Angustus",
+        "ru": "Узкий, тесный"
+      },
+      {
+        "latin": "Maxime",
+        "ru": "Весьма, больше всего"
+      },
+      {
+        "latin": "Vinea",
+        "ru": "Виноградник"
+      }
+    ],
+    "reviewed_today": [
+      "Viator",
+      "Tollere",
+      "Licet"
+    ]
   }
 ]

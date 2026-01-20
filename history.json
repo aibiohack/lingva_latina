@@ -2478,5 +2478,27 @@
       "Venus",
       "Conditio"
     ]
+  },
+  {
+    "date": "2026-01-20",
+    "words": [
+      {
+        "latin": "Exire",
+        "ru": "Выходить"
+      },
+      {
+        "latin": "Varius",
+        "ru": "Разный"
+      },
+      {
+        "latin": "Reliquus",
+        "ru": "Остальной, прочий"
+      }
+    ],
+    "reviewed_today": [
+      "Ceterus",
+      "Spatium",
+      "Uter"
+    ]
   }
 ]

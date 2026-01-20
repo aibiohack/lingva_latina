@@ -2456,5 +2456,27 @@
       "Vastus",
       "Mox"
     ]
+  },
+  {
+    "date": "2026-01-20",
+    "words": [
+      {
+        "latin": "Terribilis",
+        "ru": "Ужасный"
+      },
+      {
+        "latin": "Certe",
+        "ru": "Наверняка, конечно"
+      },
+      {
+        "latin": "Opus",
+        "ru": "Работа"
+      }
+    ],
+    "reviewed_today": [
+      "Regere",
+      "Venus",
+      "Conditio"
+    ]
   }
 ]

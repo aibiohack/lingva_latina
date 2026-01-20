@@ -2500,5 +2500,27 @@
       "Spatium",
       "Uter"
     ]
+  },
+  {
+    "date": "2026-01-20",
+    "words": [
+      {
+        "latin": "Malle",
+        "ru": "Предпочитать"
+      },
+      {
+        "latin": "Tot",
+        "ru": "Столько"
+      },
+      {
+        "latin": "Quoque",
+        "ru": "Также"
+      }
+    ],
+    "reviewed_today": [
+      "Reus",
+      "Nihil",
+      "Convivium"
+    ]
   }
 ]

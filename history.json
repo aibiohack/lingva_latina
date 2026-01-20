@@ -2434,5 +2434,27 @@
       "Animus",
       "Tantum"
     ]
+  },
+  {
+    "date": "2026-01-20",
+    "words": [
+      {
+        "latin": "Felix",
+        "ru": "Счастливый"
+      },
+      {
+        "latin": "Pes",
+        "ru": "Нога"
+      },
+      {
+        "latin": "Vinum",
+        "ru": "Вино"
+      }
+    ],
+    "reviewed_today": [
+      "Iudicium",
+      "Vastus",
+      "Mox"
+    ]
   }
 ]

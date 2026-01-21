@@ -2544,5 +2544,27 @@
       "Tollere",
       "Scire"
     ]
+  },
+  {
+    "date": "2026-01-21",
+    "words": [
+      {
+        "latin": "Officium",
+        "ru": "Обязанность"
+      },
+      {
+        "latin": "Multus",
+        "ru": "Многочисленный"
+      },
+      {
+        "latin": "Tamen",
+        "ru": "Однако"
+      }
+    ],
+    "reviewed_today": [
+      "Amare",
+      "Tertius",
+      "Rumpere"
+    ]
   }
 ]

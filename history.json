@@ -2566,5 +2566,27 @@
       "Tertius",
       "Rumpere"
     ]
+  },
+  {
+    "date": "2026-01-21",
+    "words": [
+      {
+        "latin": "Solitudo",
+        "ru": "Одиночество, пустыня"
+      },
+      {
+        "latin": "Fingere",
+        "ru": "Изображать, выдумывать"
+      },
+      {
+        "latin": "Violare",
+        "ru": "Нарушать, оскорблять"
+      }
+    ],
+    "reviewed_today": [
+      "Hortus",
+      "Maestus",
+      "Lupus"
+    ]
   }
 ]

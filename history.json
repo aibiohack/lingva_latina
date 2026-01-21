@@ -2588,5 +2588,27 @@
       "Maestus",
       "Lupus"
     ]
+  },
+  {
+    "date": "2026-01-21",
+    "words": [
+      {
+        "latin": "Vitrum",
+        "ru": "Стекло"
+      },
+      {
+        "latin": "Similis",
+        "ru": "Похожий"
+      },
+      {
+        "latin": "Vos",
+        "ru": "Вы"
+      }
+    ],
+    "reviewed_today": [
+      "Beatus",
+      "Terror",
+      "Idem"
+    ]
   }
 ]

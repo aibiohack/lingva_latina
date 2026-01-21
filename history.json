@@ -2522,5 +2522,27 @@
       "Nihil",
       "Convivium"
     ]
+  },
+  {
+    "date": "2026-01-21",
+    "words": [
+      {
+        "latin": "Umbra",
+        "ru": "Тень"
+      },
+      {
+        "latin": "Statua",
+        "ru": "Статуя"
+      },
+      {
+        "latin": "Vale",
+        "ru": "Прощай (будь здоров)"
+      }
+    ],
+    "reviewed_today": [
+      "Vox",
+      "Tollere",
+      "Scire"
+    ]
   }
 ]

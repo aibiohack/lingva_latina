@@ -2654,5 +2654,27 @@
       "Sanguis",
       "Singulus"
     ]
+  },
+  {
+    "date": "2026-01-22",
+    "words": [
+      {
+        "latin": "Magnus",
+        "ru": "Большой"
+      },
+      {
+        "latin": "Respondere",
+        "ru": "Отвечать"
+      },
+      {
+        "latin": "Ut",
+        "ru": "Как, чтобы"
+      }
+    ],
+    "reviewed_today": [
+      "Pax",
+      "Super",
+      "Sapiens"
+    ]
   }
 ]

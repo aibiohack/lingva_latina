@@ -2610,5 +2610,27 @@
       "Terror",
       "Idem"
     ]
+  },
+  {
+    "date": "2026-01-22",
+    "words": [
+      {
+        "latin": "Ibi",
+        "ru": "Там"
+      },
+      {
+        "latin": "Fragilis",
+        "ru": "Хрупкий, ломкий"
+      },
+      {
+        "latin": "Filia",
+        "ru": "Дочь"
+      }
+    ],
+    "reviewed_today": [
+      "Annus",
+      "Virtus",
+      "Quoque"
+    ]
   }
 ]

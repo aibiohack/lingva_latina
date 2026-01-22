@@ -2632,5 +2632,27 @@
       "Virtus",
       "Quoque"
     ]
+  },
+  {
+    "date": "2026-01-22",
+    "words": [
+      {
+        "latin": "Meus",
+        "ru": "Мой"
+      },
+      {
+        "latin": "Pro",
+        "ru": "За, вместо"
+      },
+      {
+        "latin": "Veritas",
+        "ru": "Истина"
+      }
+    ],
+    "reviewed_today": [
+      "Sacer",
+      "Sanguis",
+      "Singulus"
+    ]
   }
 ]

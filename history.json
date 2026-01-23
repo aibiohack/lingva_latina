@@ -2698,5 +2698,27 @@
       "Tum",
       "Umbra"
     ]
+  },
+  {
+    "date": "2026-01-23",
+    "words": [
+      {
+        "latin": "Confirmare",
+        "ru": "Укреплять, подтверждать"
+      },
+      {
+        "latin": "Sapientia",
+        "ru": "Мудрость"
+      },
+      {
+        "latin": "Audire",
+        "ru": "Слышать"
+      }
+    ],
+    "reviewed_today": [
+      "Terror",
+      "Grex",
+      "Saxum"
+    ]
   }
 ]

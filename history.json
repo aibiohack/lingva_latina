@@ -2720,5 +2720,27 @@
       "Grex",
       "Saxum"
     ]
+  },
+  {
+    "date": "2026-01-23",
+    "words": [
+      {
+        "latin": "Proprius",
+        "ru": "Собственный"
+      },
+      {
+        "latin": "Gratia",
+        "ru": "Благодать, спасибо"
+      },
+      {
+        "latin": "Memoria",
+        "ru": "Память"
+      }
+    ],
+    "reviewed_today": [
+      "Habitus",
+      "Utor",
+      "Asper"
+    ]
   }
 ]

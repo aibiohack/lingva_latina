@@ -2742,5 +2742,27 @@
       "Utor",
       "Asper"
     ]
+  },
+  {
+    "date": "2026-01-23",
+    "words": [
+      {
+        "latin": "Brevis",
+        "ru": "Короткий"
+      },
+      {
+        "latin": "Consuetudo",
+        "ru": "Привычка, обычай"
+      },
+      {
+        "latin": "Tolerare",
+        "ru": "Терпеть, переносить"
+      }
+    ],
+    "reviewed_today": [
+      "Urgere",
+      "Annus",
+      "Largus"
+    ]
   }
 ]

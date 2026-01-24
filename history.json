@@ -2830,5 +2830,27 @@
       "Memoria",
       "Ingens"
     ]
+  },
+  {
+    "date": "2026-01-24",
+    "words": [
+      {
+        "latin": "Utinam",
+        "ru": "О если бы (желание)"
+      },
+      {
+        "latin": "Honor",
+        "ru": "Честь"
+      },
+      {
+        "latin": "Sequi",
+        "ru": "Следовать, сопровождать"
+      }
+    ],
+    "reviewed_today": [
+      "Flere",
+      "Iustus",
+      "Aio"
+    ]
   }
 ]

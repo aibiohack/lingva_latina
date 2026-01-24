@@ -2764,5 +2764,27 @@
       "Annus",
       "Largus"
     ]
+  },
+  {
+    "date": "2026-01-24",
+    "words": [
+      {
+        "latin": "Superbus",
+        "ru": "Гордый, высокомерный"
+      },
+      {
+        "latin": "Locus",
+        "ru": "Место"
+      },
+      {
+        "latin": "Dormire",
+        "ru": "Спать"
+      }
+    ],
+    "reviewed_today": [
+      "Turpis",
+      "Aureus",
+      "Idem"
+    ]
   }
 ]

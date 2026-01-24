@@ -2786,5 +2786,27 @@
       "Aureus",
       "Idem"
     ]
+  },
+  {
+    "date": "2026-01-24",
+    "words": [
+      {
+        "latin": "Quis",
+        "ru": "Кто"
+      },
+      {
+        "latin": "Cum (союз)",
+        "ru": "Когда"
+      },
+      {
+        "latin": "Vulnero",
+        "ru": "Раню"
+      }
+    ],
+    "reviewed_today": [
+      "Reliquus",
+      "Currere",
+      "Rex"
+    ]
   }
 ]

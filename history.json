@@ -2808,5 +2808,27 @@
       "Currere",
       "Rex"
     ]
+  },
+  {
+    "date": "2026-01-24",
+    "words": [
+      {
+        "latin": "Statim",
+        "ru": "Немедленно"
+      },
+      {
+        "latin": "Stare",
+        "ru": "Стоять"
+      },
+      {
+        "latin": "Post",
+        "ru": "После"
+      }
+    ],
+    "reviewed_today": [
+      "Sentire",
+      "Memoria",
+      "Ingens"
+    ]
   }
 ]

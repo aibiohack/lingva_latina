@@ -2852,5 +2852,27 @@
       "Iustus",
       "Aio"
     ]
+  },
+  {
+    "date": "2026-01-25",
+    "words": [
+      {
+        "latin": "Umquam",
+        "ru": "Когда-либо"
+      },
+      {
+        "latin": "Splendor",
+        "ru": "Блеск, великолепие"
+      },
+      {
+        "latin": "Foedus",
+        "ru": "Договор, союз"
+      }
+    ],
+    "reviewed_today": [
+      "Declarare",
+      "Sal",
+      "Velox"
+    ]
   }
 ]

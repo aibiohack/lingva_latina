@@ -2874,5 +2874,27 @@
       "Sal",
       "Velox"
     ]
+  },
+  {
+    "date": "2026-01-25",
+    "words": [
+      {
+        "latin": "Auctor",
+        "ru": "Творец, автор"
+      },
+      {
+        "latin": "Verbum",
+        "ru": "Слово"
+      },
+      {
+        "latin": "Vivere",
+        "ru": "Жить"
+      }
+    ],
+    "reviewed_today": [
+      "Volvo",
+      "Potestas",
+      "Uter"
+    ]
   }
 ]

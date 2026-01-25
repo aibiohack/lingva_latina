@@ -2918,5 +2918,27 @@
       "Vita",
       "Stultus"
     ]
+  },
+  {
+    "date": "2026-01-25",
+    "words": [
+      {
+        "latin": "Disputare",
+        "ru": "Рассуждать, спорить"
+      },
+      {
+        "latin": "Vendere",
+        "ru": "Продавать"
+      },
+      {
+        "latin": "Cupere",
+        "ru": "Желать"
+      }
+    ],
+    "reviewed_today": [
+      "Dives",
+      "Suscipere",
+      "Nuntius"
+    ]
   }
 ]

@@ -2896,5 +2896,27 @@
       "Potestas",
       "Uter"
     ]
+  },
+  {
+    "date": "2026-01-25",
+    "words": [
+      {
+        "latin": "Vultus",
+        "ru": "Лицо, выражение лица"
+      },
+      {
+        "latin": "Ipse",
+        "ru": "Сам"
+      },
+      {
+        "latin": "Spes",
+        "ru": "Надежда"
+      }
+    ],
+    "reviewed_today": [
+      "Maxime",
+      "Vita",
+      "Stultus"
+    ]
   }
 ]

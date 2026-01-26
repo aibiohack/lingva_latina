@@ -3006,5 +3006,27 @@
       "Videre",
       "Visere"
     ]
+  },
+  {
+    "date": "2026-01-26",
+    "words": [
+      {
+        "latin": "Munus",
+        "ru": "Дар, обязанность"
+      },
+      {
+        "latin": "Impedire",
+        "ru": "Мешать, препятствовать"
+      },
+      {
+        "latin": "Flamma",
+        "ru": "Пламя"
+      }
+    ],
+    "reviewed_today": [
+      "Aeternitas",
+      "Utilitas",
+      "Tenere"
+    ]
   }
 ]

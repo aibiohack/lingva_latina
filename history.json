@@ -2984,5 +2984,27 @@
       "Flere",
       "Coepi"
     ]
+  },
+  {
+    "date": "2026-01-26",
+    "words": [
+      {
+        "latin": "Ludus",
+        "ru": "Игра, школа"
+      },
+      {
+        "latin": "Dubius",
+        "ru": "Сомнительный"
+      },
+      {
+        "latin": "Ardere",
+        "ru": "Гореть, пылать"
+      }
+    ],
+    "reviewed_today": [
+      "Quasi",
+      "Videre",
+      "Visere"
+    ]
   }
 ]

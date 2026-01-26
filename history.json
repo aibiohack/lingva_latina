@@ -2962,5 +2962,27 @@
       "Felix",
       "Gaudium"
     ]
+  },
+  {
+    "date": "2026-01-26",
+    "words": [
+      {
+        "latin": "Error",
+        "ru": "Ошибка"
+      },
+      {
+        "latin": "Arma",
+        "ru": "Оружие"
+      },
+      {
+        "latin": "Bene",
+        "ru": "Хорошо"
+      }
+    ],
+    "reviewed_today": [
+      "Novus",
+      "Flere",
+      "Coepi"
+    ]
   }
 ]

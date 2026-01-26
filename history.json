@@ -2940,5 +2940,27 @@
       "Suscipere",
       "Nuntius"
     ]
+  },
+  {
+    "date": "2026-01-26",
+    "words": [
+      {
+        "latin": "Gravis",
+        "ru": "Тяжелый"
+      },
+      {
+        "latin": "Tergum",
+        "ru": "Спина"
+      },
+      {
+        "latin": "Vindicare",
+        "ru": "Заявлять права, мстить"
+      }
+    ],
+    "reviewed_today": [
+      "Heri",
+      "Felix",
+      "Gaudium"
+    ]
   }
 ]

@@ -3072,5 +3072,27 @@
       "Lucere",
       "Tormentum"
     ]
+  },
+  {
+    "date": "2026-01-27",
+    "words": [
+      {
+        "latin": "Remedium",
+        "ru": "Лекарство, средство"
+      },
+      {
+        "latin": "Tectum",
+        "ru": "Крыша, кров"
+      },
+      {
+        "latin": "Constituere",
+        "ru": "Устанавливать, решать"
+      }
+    ],
+    "reviewed_today": [
+      "Currere",
+      "Sanctus",
+      "Angustus"
+    ]
   }
 ]

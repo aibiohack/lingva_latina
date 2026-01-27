@@ -3050,5 +3050,27 @@
       "Venire",
       "Ecclesia"
     ]
+  },
+  {
+    "date": "2026-01-27",
+    "words": [
+      {
+        "latin": "Volare",
+        "ru": "Летать"
+      },
+      {
+        "latin": "Creare",
+        "ru": "Творить, создавать"
+      },
+      {
+        "latin": "Vulgus",
+        "ru": "Толпа, чернь"
+      }
+    ],
+    "reviewed_today": [
+      "Ignis",
+      "Lucere",
+      "Tormentum"
+    ]
   }
 ]

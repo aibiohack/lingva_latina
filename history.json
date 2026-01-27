@@ -3028,5 +3028,27 @@
       "Utilitas",
       "Tenere"
     ]
+  },
+  {
+    "date": "2026-01-27",
+    "words": [
+      {
+        "latin": "Cantare",
+        "ru": "Петь"
+      },
+      {
+        "latin": "Puer",
+        "ru": "Мальчик"
+      },
+      {
+        "latin": "Securus",
+        "ru": "Безопасный, беззаботный"
+      }
+    ],
+    "reviewed_today": [
+      "Singulus",
+      "Venire",
+      "Ecclesia"
+    ]
   }
 ]

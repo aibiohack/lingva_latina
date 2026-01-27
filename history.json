@@ -3094,5 +3094,27 @@
       "Sanctus",
       "Angustus"
     ]
+  },
+  {
+    "date": "2026-01-27",
+    "words": [
+      {
+        "latin": "Discedere",
+        "ru": "Уходить, расходиться"
+      },
+      {
+        "latin": "Habitare",
+        "ru": "Жить"
+      },
+      {
+        "latin": "Vesper",
+        "ru": "Вечер"
+      }
+    ],
+    "reviewed_today": [
+      "Sentire",
+      "Malle",
+      "Mox"
+    ]
   }
 ]

@@ -3160,5 +3160,27 @@
       "Cogitare",
       "Via"
     ]
+  },
+  {
+    "date": "2026-01-28",
+    "words": [
+      {
+        "latin": "Lignum",
+        "ru": "Дерево, дрова"
+      },
+      {
+        "latin": "Oculus",
+        "ru": "Глаз"
+      },
+      {
+        "latin": "Ius",
+        "ru": "Право, закон"
+      }
+    ],
+    "reviewed_today": [
+      "Reus",
+      "Auctor",
+      "Error"
+    ]
   }
 ]

@@ -3182,5 +3182,27 @@
       "Auctor",
       "Error"
     ]
+  },
+  {
+    "date": "2026-01-28",
+    "words": [
+      {
+        "latin": "Tuba",
+        "ru": "Труба"
+      },
+      {
+        "latin": "Culpa",
+        "ru": "Вина"
+      },
+      {
+        "latin": "Vigilia",
+        "ru": "Стража, бодрствование"
+      }
+    ],
+    "reviewed_today": [
+      "Inimicus",
+      "Orbis",
+      "Coepi"
+    ]
   }
 ]

@@ -3116,5 +3116,27 @@
       "Malle",
       "Mox"
     ]
+  },
+  {
+    "date": "2026-01-28",
+    "words": [
+      {
+        "latin": "Inquit",
+        "ru": "Говорит (вводное)"
+      },
+      {
+        "latin": "Ambulare",
+        "ru": "Гулять, ходить"
+      },
+      {
+        "latin": "Tristis",
+        "ru": "Печальный"
+      }
+    ],
+    "reviewed_today": [
+      "Memoria",
+      "Umerus",
+      "Iuvare"
+    ]
   }
 ]

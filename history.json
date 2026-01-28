@@ -3138,5 +3138,27 @@
       "Umerus",
       "Iuvare"
     ]
+  },
+  {
+    "date": "2026-01-28",
+    "words": [
+      {
+        "latin": "Cor",
+        "ru": "Сердце"
+      },
+      {
+        "latin": "Sors",
+        "ru": "Жребий, судьба"
+      },
+      {
+        "latin": "Donum",
+        "ru": "Подарок"
+      }
+    ],
+    "reviewed_today": [
+      "Flos",
+      "Cogitare",
+      "Via"
+    ]
   }
 ]

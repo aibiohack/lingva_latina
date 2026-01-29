@@ -3226,5 +3226,27 @@
       "Iugum",
       "Hortus"
     ]
+  },
+  {
+    "date": "2026-01-29",
+    "words": [
+      {
+        "latin": "Aura",
+        "ru": "Ветерок, дуновение"
+      },
+      {
+        "latin": "Latere",
+        "ru": "Скрываться"
+      },
+      {
+        "latin": "Fateri",
+        "ru": "Признавать, сознаваться"
+      }
+    ],
+    "reviewed_today": [
+      "Disputare",
+      "Crux",
+      "Visere"
+    ]
   }
 ]

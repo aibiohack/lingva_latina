@@ -3270,5 +3270,27 @@
       "Regnum",
       "Tertius"
     ]
+  },
+  {
+    "date": "2026-01-29",
+    "words": [
+      {
+        "latin": "Fundamentum",
+        "ru": "Основание"
+      },
+      {
+        "latin": "Supra",
+        "ru": "Сверху, выше"
+      },
+      {
+        "latin": "Vel",
+        "ru": "Или, даже"
+      }
+    ],
+    "reviewed_today": [
+      "Regere",
+      "Terra",
+      "Sors"
+    ]
   }
 ]

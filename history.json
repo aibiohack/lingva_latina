@@ -3248,5 +3248,27 @@
       "Crux",
       "Visere"
     ]
+  },
+  {
+    "date": "2026-01-29",
+    "words": [
+      {
+        "latin": "Tribunus",
+        "ru": "Трибун"
+      },
+      {
+        "latin": "Semper",
+        "ru": "Всегда"
+      },
+      {
+        "latin": "Albus",
+        "ru": "Белый"
+      }
+    ],
+    "reviewed_today": [
+      "Victor",
+      "Regnum",
+      "Tertius"
+    ]
   }
 ]

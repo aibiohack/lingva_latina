@@ -3204,5 +3204,27 @@
       "Orbis",
       "Coepi"
     ]
+  },
+  {
+    "date": "2026-01-29",
+    "words": [
+      {
+        "latin": "Colloquium",
+        "ru": "Разговор, беседа"
+      },
+      {
+        "latin": "Civitas",
+        "ru": "Государство, город"
+      },
+      {
+        "latin": "Innocens",
+        "ru": "Невинный"
+      }
+    ],
+    "reviewed_today": [
+      "Mensis",
+      "Iugum",
+      "Hortus"
+    ]
   }
 ]

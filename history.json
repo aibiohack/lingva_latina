@@ -3292,5 +3292,27 @@
       "Terra",
       "Sors"
     ]
+  },
+  {
+    "date": "2026-01-30",
+    "words": [
+      {
+        "latin": "Unda",
+        "ru": "Волна"
+      },
+      {
+        "latin": "Porta",
+        "ru": "Ворота"
+      },
+      {
+        "latin": "Dulcis",
+        "ru": "Сладкий"
+      }
+    ],
+    "reviewed_today": [
+      "Vacuus",
+      "Victoria",
+      "Spes"
+    ]
   }
 ]

@@ -3314,5 +3314,27 @@
       "Victoria",
       "Spes"
     ]
+  },
+  {
+    "date": "2026-01-30",
+    "words": [
+      {
+        "latin": "Aestas",
+        "ru": "Лето"
+      },
+      {
+        "latin": "Cura",
+        "ru": "Забота, попечение"
+      },
+      {
+        "latin": "Vertere",
+        "ru": "Поворачивать"
+      }
+    ],
+    "reviewed_today": [
+      "Flos",
+      "Honor",
+      "Malle"
+    ]
   }
 ]

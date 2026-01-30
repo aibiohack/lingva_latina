@@ -3358,5 +3358,27 @@
       "Meritum",
       "Gignere"
     ]
+  },
+  {
+    "date": "2026-01-30",
+    "words": [
+      {
+        "latin": "Dicere",
+        "ru": "Говорить"
+      },
+      {
+        "latin": "Unus",
+        "ru": "Один"
+      },
+      {
+        "latin": "Censeo",
+        "ru": "Полагаю, считаю"
+      }
+    ],
+    "reviewed_today": [
+      "Rumpere",
+      "Victor",
+      "Senex"
+    ]
   }
 ]

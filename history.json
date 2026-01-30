@@ -3336,5 +3336,27 @@
       "Honor",
       "Malle"
     ]
+  },
+  {
+    "date": "2026-01-30",
+    "words": [
+      {
+        "latin": "Ruere",
+        "ru": "Рушиться, спешить"
+      },
+      {
+        "latin": "Contra",
+        "ru": "Против"
+      },
+      {
+        "latin": "Numerus",
+        "ru": "Число"
+      }
+    ],
+    "reviewed_today": [
+      "Incipere",
+      "Meritum",
+      "Gignere"
+    ]
   }
 ]

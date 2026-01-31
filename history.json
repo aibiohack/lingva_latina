@@ -3380,5 +3380,27 @@
       "Victor",
       "Senex"
     ]
+  },
+  {
+    "date": "2026-01-31",
+    "words": [
+      {
+        "latin": "Iscere",
+        "ru": "Просить, требовать"
+      },
+      {
+        "latin": "Angelus",
+        "ru": "Ангел"
+      },
+      {
+        "latin": "Vituperare",
+        "ru": "Ругать"
+      }
+    ],
+    "reviewed_today": [
+      "Idem",
+      "Proprius",
+      "Fingere"
+    ]
   }
 ]

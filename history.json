@@ -3402,5 +3402,27 @@
       "Proprius",
       "Fingere"
     ]
+  },
+  {
+    "date": "2026-01-31",
+    "words": [
+      {
+        "latin": "Lenis",
+        "ru": "Мягкий, нежный"
+      },
+      {
+        "latin": "Ultimus",
+        "ru": "Последний, крайний"
+      },
+      {
+        "latin": "Vir",
+        "ru": "Мужчина, муж"
+      }
+    ],
+    "reviewed_today": [
+      "Domus",
+      "Vis",
+      "Appellare"
+    ]
   }
 ]

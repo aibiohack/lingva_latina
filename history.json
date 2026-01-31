@@ -3424,5 +3424,27 @@
       "Vis",
       "Appellare"
     ]
+  },
+  {
+    "date": "2026-01-31",
+    "words": [
+      {
+        "latin": "Equus",
+        "ru": "Лошадь"
+      },
+      {
+        "latin": "Frater",
+        "ru": "Брат"
+      },
+      {
+        "latin": "Abbas",
+        "ru": "Отец, настоятель"
+      }
+    ],
+    "reviewed_today": [
+      "Ignoscerе",
+      "Flere",
+      "Labor"
+    ]
   }
 ]

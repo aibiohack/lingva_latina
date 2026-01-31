@@ -3446,5 +3446,27 @@
       "Flere",
       "Labor"
     ]
+  },
+  {
+    "date": "2026-01-31",
+    "words": [
+      {
+        "latin": "Fatum",
+        "ru": "Судьба"
+      },
+      {
+        "latin": "Gratus",
+        "ru": "Приятный, благодарный"
+      },
+      {
+        "latin": "Cognoscere",
+        "ru": "Узнавать, познавать"
+      }
+    ],
+    "reviewed_today": [
+      "Vates",
+      "Rex",
+      "Hortus"
+    ]
   }
 ]

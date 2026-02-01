@@ -3490,5 +3490,27 @@
       "Dolor",
       "Supra"
     ]
+  },
+  {
+    "date": "2026-02-01",
+    "words": [
+      {
+        "latin": "Septem",
+        "ru": "Семь"
+      },
+      {
+        "latin": "Habeo",
+        "ru": "Иметь"
+      },
+      {
+        "latin": "Venari",
+        "ru": "Охотиться"
+      }
+    ],
+    "reviewed_today": [
+      "Virtus",
+      "Unda",
+      "Dexter"
+    ]
   }
 ]

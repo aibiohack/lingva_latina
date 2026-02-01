@@ -3534,5 +3534,27 @@
       "Fateri",
       "Umerus"
     ]
+  },
+  {
+    "date": "2026-02-01",
+    "words": [
+      {
+        "latin": "Virgo",
+        "ru": "Девушка, дева"
+      },
+      {
+        "latin": "Alius",
+        "ru": "Другой (из многих)"
+      },
+      {
+        "latin": "Situs",
+        "ru": "Положение, место"
+      }
+    ],
+    "reviewed_today": [
+      "Solium",
+      "Error",
+      "Utinam"
+    ]
   }
 ]

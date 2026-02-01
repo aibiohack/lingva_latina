@@ -3468,5 +3468,27 @@
       "Rex",
       "Hortus"
     ]
+  },
+  {
+    "date": "2026-02-01",
+    "words": [
+      {
+        "latin": "Triginta",
+        "ru": "Тридцать"
+      },
+      {
+        "latin": "Solus",
+        "ru": "Один, единственный"
+      },
+      {
+        "latin": "Recens",
+        "ru": "Свежий, недавний"
+      }
+    ],
+    "reviewed_today": [
+      "Somnus",
+      "Dolor",
+      "Supra"
+    ]
   }
 ]

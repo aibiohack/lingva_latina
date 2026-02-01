@@ -3512,5 +3512,27 @@
       "Unda",
       "Dexter"
     ]
+  },
+  {
+    "date": "2026-02-01",
+    "words": [
+      {
+        "latin": "Mittere",
+        "ru": "Посылать"
+      },
+      {
+        "latin": "Ducere",
+        "ru": "Вести"
+      },
+      {
+        "latin": "Carmen",
+        "ru": "Песня, стихи"
+      }
+    ],
+    "reviewed_today": [
+      "Victor",
+      "Fateri",
+      "Umerus"
+    ]
   }
 ]

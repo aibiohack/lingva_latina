@@ -3556,5 +3556,27 @@
       "Error",
       "Utinam"
     ]
+  },
+  {
+    "date": "2026-02-02",
+    "words": [
+      {
+        "latin": "Materia",
+        "ru": "Вещество, материя"
+      },
+      {
+        "latin": "Persona",
+        "ru": "Личность"
+      },
+      {
+        "latin": "Cur",
+        "ru": "Почему"
+      }
+    ],
+    "reviewed_today": [
+      "Gratus",
+      "Humus",
+      "Vocare"
+    ]
   }
 ]

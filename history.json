@@ -3600,5 +3600,27 @@
       "Infans",
       "Cunctus"
     ]
+  },
+  {
+    "date": "2026-02-02",
+    "words": [
+      {
+        "latin": "Diabolus",
+        "ru": "Дьявол"
+      },
+      {
+        "latin": "Lingua",
+        "ru": "Язык"
+      },
+      {
+        "latin": "Voluptas",
+        "ru": "Удовольствие, наслаждение"
+      }
+    ],
+    "reviewed_today": [
+      "Tormentum",
+      "Magis",
+      "Sacer"
+    ]
   }
 ]

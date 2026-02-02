@@ -3578,5 +3578,27 @@
       "Humus",
       "Vocare"
     ]
+  },
+  {
+    "date": "2026-02-02",
+    "words": [
+      {
+        "latin": "Votum",
+        "ru": "Обет, желание"
+      },
+      {
+        "latin": "Sensus",
+        "ru": "Чувство, смысл"
+      },
+      {
+        "latin": "Vix",
+        "ru": "Едва, с трудом"
+      }
+    ],
+    "reviewed_today": [
+      "Aurum",
+      "Infans",
+      "Cunctus"
+    ]
   }
 ]

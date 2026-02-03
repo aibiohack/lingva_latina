@@ -3644,5 +3644,27 @@
       "Licet",
       "Desiderium"
     ]
+  },
+  {
+    "date": "2026-02-03",
+    "words": [
+      {
+        "latin": "Expectare",
+        "ru": "Ожидать"
+      },
+      {
+        "latin": "Surgere",
+        "ru": "Вставать, подниматься"
+      },
+      {
+        "latin": "Gloria",
+        "ru": "Слава"
+      }
+    ],
+    "reviewed_today": [
+      "Verber",
+      "Utor",
+      "Currere"
+    ]
   }
 ]

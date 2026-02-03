@@ -3710,5 +3710,27 @@
       "Munus",
       "Valetudo"
     ]
+  },
+  {
+    "date": "2026-02-03",
+    "words": [
+      {
+        "latin": "Volo",
+        "ru": "Хочу"
+      },
+      {
+        "latin": "Facies",
+        "ru": "Лицо"
+      },
+      {
+        "latin": "Libertas",
+        "ru": "Свобода"
+      }
+    ],
+    "reviewed_today": [
+      "Vale",
+      "Tibia",
+      "Ungere"
+    ]
   }
 ]

@@ -3688,5 +3688,27 @@
       "Meritum",
       "Fuga"
     ]
+  },
+  {
+    "date": "2026-02-03",
+    "words": [
+      {
+        "latin": "Quaerere",
+        "ru": "Искать"
+      },
+      {
+        "latin": "Frigus",
+        "ru": "Холод, мороз"
+      },
+      {
+        "latin": "Populus",
+        "ru": "Народ"
+      }
+    ],
+    "reviewed_today": [
+      "Ars",
+      "Munus",
+      "Valetudo"
+    ]
   }
 ]

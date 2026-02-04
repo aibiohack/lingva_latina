@@ -3732,5 +3732,27 @@
       "Tibia",
       "Ungere"
     ]
+  },
+  {
+    "date": "2026-02-04",
+    "words": [
+      {
+        "latin": "Ullus",
+        "ru": "Какой-либо"
+      },
+      {
+        "latin": "Servire",
+        "ru": "Служить"
+      },
+      {
+        "latin": "Temere",
+        "ru": "Случайно, безрассудно"
+      }
+    ],
+    "reviewed_today": [
+      "Cantare",
+      "Persona",
+      "Licet"
+    ]
   }
 ]

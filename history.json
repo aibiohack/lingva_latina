@@ -3798,5 +3798,27 @@
       "Terere",
       "Consuetudo"
     ]
+  },
+  {
+    "date": "2026-02-04",
+    "words": [
+      {
+        "latin": "Sex",
+        "ru": "Шесть"
+      },
+      {
+        "latin": "Doctrina",
+        "ru": "Учение, наука"
+      },
+      {
+        "latin": "Consilium",
+        "ru": "Совет, план"
+      }
+    ],
+    "reviewed_today": [
+      "Frater",
+      "Cogitare",
+      "Orbis"
+    ]
   }
 ]

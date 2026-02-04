@@ -3754,5 +3754,27 @@
       "Persona",
       "Licet"
     ]
+  },
+  {
+    "date": "2026-02-04",
+    "words": [
+      {
+        "latin": "Quid",
+        "ru": "Что"
+      },
+      {
+        "latin": "Late",
+        "ru": "Широко"
+      },
+      {
+        "latin": "Texere",
+        "ru": "Ткать, плести"
+      }
+    ],
+    "reviewed_today": [
+      "Terrere",
+      "Similis",
+      "Densus"
+    ]
   }
 ]

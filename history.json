@@ -3776,5 +3776,27 @@
       "Similis",
       "Densus"
     ]
+  },
+  {
+    "date": "2026-02-04",
+    "words": [
+      {
+        "latin": "Luxuria",
+        "ru": "Роскошь"
+      },
+      {
+        "latin": "Lux",
+        "ru": "Свет"
+      },
+      {
+        "latin": "Laetus",
+        "ru": "Веселый, тучный"
+      }
+    ],
+    "reviewed_today": [
+      "Verber",
+      "Terere",
+      "Consuetudo"
+    ]
   }
 ]

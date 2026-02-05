@@ -3864,5 +3864,27 @@
       "Vix",
       "Terribilis"
     ]
+  },
+  {
+    "date": "2026-02-05",
+    "words": [
+      {
+        "latin": "Cotidie",
+        "ru": "Ежедневно"
+      },
+      {
+        "latin": "Familia",
+        "ru": "Семья, домочадцы"
+      },
+      {
+        "latin": "Altus",
+        "ru": "Высокий, глубокий"
+      }
+    ],
+    "reviewed_today": [
+      "Vir",
+      "Suscipere",
+      "Sapere"
+    ]
   }
 ]

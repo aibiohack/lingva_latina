@@ -3886,5 +3886,27 @@
       "Suscipere",
       "Sapere"
     ]
+  },
+  {
+    "date": "2026-02-05",
+    "words": [
+      {
+        "latin": "Furor",
+        "ru": "Безумие, ярость"
+      },
+      {
+        "latin": "Nomen",
+        "ru": "Имя"
+      },
+      {
+        "latin": "Studere",
+        "ru": "Стремиться, учиться"
+      }
+    ],
+    "reviewed_today": [
+      "Triduum",
+      "Insula",
+      "Lenis"
+    ]
   }
 ]

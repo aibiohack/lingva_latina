@@ -3820,5 +3820,27 @@
       "Cogitare",
       "Orbis"
     ]
+  },
+  {
+    "date": "2026-02-05",
+    "words": [
+      {
+        "latin": "Felicitas",
+        "ru": "Счастье"
+      },
+      {
+        "latin": "Vae",
+        "ru": "Горе!"
+      },
+      {
+        "latin": "Durare",
+        "ru": "Длиться, закалять"
+      }
+    ],
+    "reviewed_today": [
+      "Sed",
+      "Scire",
+      "Grex"
+    ]
   }
 ]

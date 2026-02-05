@@ -3842,5 +3842,27 @@
       "Scire",
       "Grex"
     ]
+  },
+  {
+    "date": "2026-02-05",
+    "words": [
+      {
+        "latin": "Invidia",
+        "ru": "Зависть"
+      },
+      {
+        "latin": "Subito",
+        "ru": "Внезапно"
+      },
+      {
+        "latin": "Civilis",
+        "ru": "Гражданский"
+      }
+    ],
+    "reviewed_today": [
+      "Sursum",
+      "Vix",
+      "Terribilis"
+    ]
   }
 ]

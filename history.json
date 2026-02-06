@@ -3908,5 +3908,27 @@
       "Insula",
       "Lenis"
     ]
+  },
+  {
+    "date": "2026-02-06",
+    "words": [
+      {
+        "latin": "Plenus",
+        "ru": "Полный"
+      },
+      {
+        "latin": "Sanitas",
+        "ru": "Здоровье, разумность"
+      },
+      {
+        "latin": "Vicus",
+        "ru": "Деревня, квартал"
+      }
+    ],
+    "reviewed_today": [
+      "Vita",
+      "Contra",
+      "Debeo"
+    ]
   }
 ]

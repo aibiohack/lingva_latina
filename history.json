@@ -3952,5 +3952,27 @@
       "Gaudere",
       "Gravis"
     ]
+  },
+  {
+    "date": "2026-02-06",
+    "words": [
+      {
+        "latin": "Dominus",
+        "ru": "Господин"
+      },
+      {
+        "latin": "Uterque",
+        "ru": "И тот и другой"
+      },
+      {
+        "latin": "Invenire",
+        "ru": "Находить"
+      }
+    ],
+    "reviewed_today": [
+      "Utinam",
+      "Somnus",
+      "Audire"
+    ]
   }
 ]

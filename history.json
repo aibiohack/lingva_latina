@@ -3930,5 +3930,27 @@
       "Contra",
       "Debeo"
     ]
+  },
+  {
+    "date": "2026-02-06",
+    "words": [
+      {
+        "latin": "Tam",
+        "ru": "Так"
+      },
+      {
+        "latin": "Vacare",
+        "ru": "Быть свободным, пустовать"
+      },
+      {
+        "latin": "Turris",
+        "ru": "Башня"
+      }
+    ],
+    "reviewed_today": [
+      "Tu",
+      "Gaudere",
+      "Gravis"
+    ]
   }
 ]

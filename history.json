@@ -3974,5 +3974,27 @@
       "Somnus",
       "Audire"
     ]
+  },
+  {
+    "date": "2026-02-06",
+    "words": [
+      {
+        "latin": "Viginti",
+        "ru": "Двадцать"
+      },
+      {
+        "latin": "Contemnere",
+        "ru": "Презирать"
+      },
+      {
+        "latin": "Hinc",
+        "ru": "Отсюда"
+      }
+    ],
+    "reviewed_today": [
+      "Annus",
+      "Discedere",
+      "Credere"
+    ]
   }
 ]

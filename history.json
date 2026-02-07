@@ -4018,5 +4018,27 @@
       "Vinea",
       "Terribilis"
     ]
+  },
+  {
+    "date": "2026-02-07",
+    "words": [
+      {
+        "latin": "Horrere",
+        "ru": "Ужасаться, трепетать"
+      },
+      {
+        "latin": "Vehiculum",
+        "ru": "Повозка, судно"
+      },
+      {
+        "latin": "Conari",
+        "ru": "Пытаться, стараться"
+      }
+    ],
+    "reviewed_today": [
+      "Severus",
+      "Charta",
+      "Super"
+    ]
   }
 ]

@@ -3996,5 +3996,27 @@
       "Discedere",
       "Credere"
     ]
+  },
+  {
+    "date": "2026-02-07",
+    "words": [
+      {
+        "latin": "Satis",
+        "ru": "Достаточно"
+      },
+      {
+        "latin": "Limen",
+        "ru": "Порог"
+      },
+      {
+        "latin": "Princeps",
+        "ru": "Первый, вождь"
+      }
+    ],
+    "reviewed_today": [
+      "Ingenium",
+      "Vinea",
+      "Terribilis"
+    ]
   }
 ]

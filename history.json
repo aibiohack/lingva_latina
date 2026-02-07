@@ -4040,5 +4040,27 @@
       "Charta",
       "Super"
     ]
+  },
+  {
+    "date": "2026-02-07",
+    "words": [
+      {
+        "latin": "Legatus",
+        "ru": "Посол, легат"
+      },
+      {
+        "latin": "Secundus",
+        "ru": "Второй, благоприятный"
+      },
+      {
+        "latin": "Species",
+        "ru": "Вид, наружность"
+      }
+    ],
+    "reviewed_today": [
+      "Consistere",
+      "Parare",
+      "Novus"
+    ]
   }
 ]

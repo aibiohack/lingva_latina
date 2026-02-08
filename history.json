@@ -4106,5 +4106,27 @@
       "Tormentum",
       "Tantum"
     ]
+  },
+  {
+    "date": "2026-02-08",
+    "words": [
+      {
+        "latin": "Recipere",
+        "ru": "Получать"
+      },
+      {
+        "latin": "Diu",
+        "ru": "Долго"
+      },
+      {
+        "latin": "Ultra",
+        "ru": "Сверх, по ту сторону"
+      }
+    ],
+    "reviewed_today": [
+      "Fundamentum",
+      "Lumen",
+      "Vinum"
+    ]
   }
 ]

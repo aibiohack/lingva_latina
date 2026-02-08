@@ -4084,5 +4084,27 @@
       "Videre",
       "Silva"
     ]
+  },
+  {
+    "date": "2026-02-08",
+    "words": [
+      {
+        "latin": "Color",
+        "ru": "Цвет"
+      },
+      {
+        "latin": "Medius",
+        "ru": "Средний"
+      },
+      {
+        "latin": "Vallum",
+        "ru": "Вал, укрепление"
+      }
+    ],
+    "reviewed_today": [
+      "Defendere",
+      "Tormentum",
+      "Tantum"
+    ]
   }
 ]

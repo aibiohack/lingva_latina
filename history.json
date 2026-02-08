@@ -4128,5 +4128,27 @@
       "Lumen",
       "Vinum"
     ]
+  },
+  {
+    "date": "2026-02-08",
+    "words": [
+      {
+        "latin": "Velut",
+        "ru": "Как, словно"
+      },
+      {
+        "latin": "Vero",
+        "ru": "Истинно, однако"
+      },
+      {
+        "latin": "Dedico",
+        "ru": "Посвящаю"
+      }
+    ],
+    "reviewed_today": [
+      "Gignere",
+      "Laetus",
+      "Humus"
+    ]
   }
 ]

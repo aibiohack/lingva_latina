@@ -4150,5 +4150,27 @@
       "Laetus",
       "Humus"
     ]
+  },
+  {
+    "date": "2026-02-08",
+    "words": [
+      {
+        "latin": "Diligere",
+        "ru": "Любить, уважать"
+      },
+      {
+        "latin": "Vallis",
+        "ru": "Долина"
+      },
+      {
+        "latin": "Ite",
+        "ru": "Идите"
+      }
+    ],
+    "reviewed_today": [
+      "Ira",
+      "Harena",
+      "Venus"
+    ]
   }
 ]

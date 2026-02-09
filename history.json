@@ -4172,5 +4172,27 @@
       "Harena",
       "Venus"
     ]
+  },
+  {
+    "date": "2026-02-09",
+    "words": [
+      {
+        "latin": "Diversus",
+        "ru": "Разный, противоположный"
+      },
+      {
+        "latin": "Timor",
+        "ru": "Страх"
+      },
+      {
+        "latin": "Cito",
+        "ru": "Быстро"
+      }
+    ],
+    "reviewed_today": [
+      "Ante",
+      "Castrum",
+      "Beatus"
+    ]
   }
 ]

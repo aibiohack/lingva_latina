@@ -4194,5 +4194,27 @@
       "Castrum",
       "Beatus"
     ]
+  },
+  {
+    "date": "2026-02-09",
+    "words": [
+      {
+        "latin": "Venia",
+        "ru": "Милость, прощение"
+      },
+      {
+        "latin": "Taurus",
+        "ru": "Бык"
+      },
+      {
+        "latin": "Fere",
+        "ru": "Почти, обыкновенно"
+      }
+    ],
+    "reviewed_today": [
+      "Usque",
+      "Malle",
+      "Validus"
+    ]
   }
 ]

@@ -4216,5 +4216,27 @@
       "Malle",
       "Validus"
     ]
+  },
+  {
+    "date": "2026-02-09",
+    "words": [
+      {
+        "latin": "Legere",
+        "ru": "Читать"
+      },
+      {
+        "latin": "Tegere",
+        "ru": "Покрывать, защищать"
+      },
+      {
+        "latin": "Usus",
+        "ru": "Опыт, использование"
+      }
+    ],
+    "reviewed_today": [
+      "Legatus",
+      "Durare",
+      "Tam"
+    ]
   }
 ]

@@ -4282,5 +4282,27 @@
       "Latere",
       "Septem"
     ]
+  },
+  {
+    "date": "2026-02-10",
+    "words": [
+      {
+        "latin": "Ergo",
+        "ru": "Следовательно, итак"
+      },
+      {
+        "latin": "Fulmen",
+        "ru": "Молния"
+      },
+      {
+        "latin": "Dignus",
+        "ru": "Достойный"
+      }
+    ],
+    "reviewed_today": [
+      "Statua",
+      "Albus",
+      "Convivium"
+    ]
   }
 ]

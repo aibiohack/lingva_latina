@@ -4304,5 +4304,27 @@
       "Albus",
       "Convivium"
     ]
+  },
+  {
+    "date": "2026-02-10",
+    "words": [
+      {
+        "latin": "Integer",
+        "ru": "Целый, нетронутый"
+      },
+      {
+        "latin": "Gens",
+        "ru": "Племя, род"
+      },
+      {
+        "latin": "Exemplum",
+        "ru": "Пример"
+      }
+    ],
+    "reviewed_today": [
+      "Taurus",
+      "Ecclesia",
+      "Nuntius"
+    ]
   }
 ]

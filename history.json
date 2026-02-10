@@ -4260,5 +4260,27 @@
       "Velut",
       "Quoque"
     ]
+  },
+  {
+    "date": "2026-02-10",
+    "words": [
+      {
+        "latin": "Titulus",
+        "ru": "Надпись, почетное звание"
+      },
+      {
+        "latin": "Clamor",
+        "ru": "Крик, шум"
+      },
+      {
+        "latin": "Autem",
+        "ru": "Же, однако"
+      }
+    ],
+    "reviewed_today": [
+      "Venari",
+      "Latere",
+      "Septem"
+    ]
   }
 ]

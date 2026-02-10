@@ -4238,5 +4238,27 @@
       "Durare",
       "Tam"
     ]
+  },
+  {
+    "date": "2026-02-10",
+    "words": [
+      {
+        "latin": "Incendere",
+        "ru": "Зажигать"
+      },
+      {
+        "latin": "Togatus",
+        "ru": "Одетый в тогу"
+      },
+      {
+        "latin": "Pecunia",
+        "ru": "Деньги"
+      }
+    ],
+    "reviewed_today": [
+      "Regere",
+      "Velut",
+      "Quoque"
+    ]
   }
 ]

@@ -4348,5 +4348,27 @@
       "Tabula",
       "Supplex"
     ]
+  },
+  {
+    "date": "2026-02-11",
+    "words": [
+      {
+        "latin": "Imperare",
+        "ru": "Приказывать"
+      },
+      {
+        "latin": "Decem",
+        "ru": "Десять"
+      },
+      {
+        "latin": "Movere",
+        "ru": "Двигать"
+      }
+    ],
+    "reviewed_today": [
+      "Tu",
+      "Aeternitas",
+      "Umerus"
+    ]
   }
 ]

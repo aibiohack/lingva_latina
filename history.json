@@ -4326,5 +4326,27 @@
       "Ecclesia",
       "Nuntius"
     ]
+  },
+  {
+    "date": "2026-02-11",
+    "words": [
+      {
+        "latin": "Disciplina",
+        "ru": "Обучение, порядок"
+      },
+      {
+        "latin": "Iterum",
+        "ru": "Снова, второй раз"
+      },
+      {
+        "latin": "Imperium",
+        "ru": "Власть"
+      }
+    ],
+    "reviewed_today": [
+      "Meus",
+      "Tabula",
+      "Supplex"
+    ]
   }
 ]

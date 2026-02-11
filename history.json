@@ -4392,5 +4392,27 @@
       "Vicinus",
       "Atque"
     ]
+  },
+  {
+    "date": "2026-02-11",
+    "words": [
+      {
+        "latin": "Puella",
+        "ru": "Девочка"
+      },
+      {
+        "latin": "Tendere",
+        "ru": "Натягивать, стремиться"
+      },
+      {
+        "latin": "Sedere",
+        "ru": "Сидеть"
+      }
+    ],
+    "reviewed_today": [
+      "Pecunia",
+      "Vultus",
+      "Vindex"
+    ]
   }
 ]

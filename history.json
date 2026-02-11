@@ -4370,5 +4370,27 @@
       "Aeternitas",
       "Umerus"
     ]
+  },
+  {
+    "date": "2026-02-11",
+    "words": [
+      {
+        "latin": "Vilis",
+        "ru": "Дешевый, скверный"
+      },
+      {
+        "latin": "Contentus",
+        "ru": "Довольный"
+      },
+      {
+        "latin": "Rapere",
+        "ru": "Хватать, похищать"
+      }
+    ],
+    "reviewed_today": [
+      "Vallis",
+      "Vicinus",
+      "Atque"
+    ]
   }
 ]

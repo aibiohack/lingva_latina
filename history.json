@@ -4436,5 +4436,27 @@
       "Heri",
       "Spes"
     ]
+  },
+  {
+    "date": "2026-02-12",
+    "words": [
+      {
+        "latin": "Honestus",
+        "ru": "Честный"
+      },
+      {
+        "latin": "Iurare",
+        "ru": "Клясться"
+      },
+      {
+        "latin": "Rosa",
+        "ru": "Роза"
+      }
+    ],
+    "reviewed_today": [
+      "Constituere",
+      "Votum",
+      "Spatium"
+    ]
   }
 ]

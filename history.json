@@ -4458,5 +4458,27 @@
       "Votum",
       "Spatium"
     ]
+  },
+  {
+    "date": "2026-02-12",
+    "words": [
+      {
+        "latin": "Tempus",
+        "ru": "Время"
+      },
+      {
+        "latin": "Tempus",
+        "ru": "Время"
+      },
+      {
+        "latin": "Robur",
+        "ru": "Дуб, сила"
+      }
+    ],
+    "reviewed_today": [
+      "Late",
+      "Damnum",
+      "Natura"
+    ]
   }
 ]

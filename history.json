@@ -4414,5 +4414,27 @@
       "Vultus",
       "Vindex"
     ]
+  },
+  {
+    "date": "2026-02-12",
+    "words": [
+      {
+        "latin": "Imitari",
+        "ru": "Подражать"
+      },
+      {
+        "latin": "Parens",
+        "ru": "Родитель"
+      },
+      {
+        "latin": "Utique",
+        "ru": "Во всяком случае, особенно"
+      }
+    ],
+    "reviewed_today": [
+      "Vigilia",
+      "Heri",
+      "Spes"
+    ]
   }
 ]

@@ -4480,5 +4480,27 @@
       "Damnum",
       "Natura"
     ]
+  },
+  {
+    "date": "2026-02-12",
+    "words": [
+      {
+        "latin": "Iudex",
+        "ru": "Судья"
+      },
+      {
+        "latin": "Simul",
+        "ru": "Одновременно, вместе"
+      },
+      {
+        "latin": "Pugnare",
+        "ru": "Сражаться"
+      }
+    ],
+    "reviewed_today": [
+      "Valere",
+      "Hora",
+      "Conari"
+    ]
   }
 ]

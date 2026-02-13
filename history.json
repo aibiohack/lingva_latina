@@ -4546,5 +4546,27 @@
       "Vinculum",
       "Atque"
     ]
+  },
+  {
+    "date": "2026-02-13",
+    "words": [
+      {
+        "latin": "Stella",
+        "ru": "Звезда"
+      },
+      {
+        "latin": "Forma",
+        "ru": "Красота, форма"
+      },
+      {
+        "latin": "Barbarus",
+        "ru": "Чужеземец, варвар"
+      }
+    ],
+    "reviewed_today": [
+      "Magnitudo",
+      "Mox",
+      "Orbis"
+    ]
   }
 ]

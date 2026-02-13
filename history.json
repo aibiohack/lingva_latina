@@ -4524,5 +4524,27 @@
       "Membrum",
       "Gelu"
     ]
+  },
+  {
+    "date": "2026-02-13",
+    "words": [
+      {
+        "latin": "Sonus",
+        "ru": "Звук"
+      },
+      {
+        "latin": "Servitus",
+        "ru": "Рабство"
+      },
+      {
+        "latin": "Fructus",
+        "ru": "Плод, доход"
+      }
+    ],
+    "reviewed_today": [
+      "Silva",
+      "Vinculum",
+      "Atque"
+    ]
   }
 ]

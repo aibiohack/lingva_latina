@@ -4568,5 +4568,27 @@
       "Mox",
       "Orbis"
     ]
+  },
+  {
+    "date": "2026-02-13",
+    "words": [
+      {
+        "latin": "Rus",
+        "ru": "Деревня, поместье"
+      },
+      {
+        "latin": "Roma",
+        "ru": "Рим"
+      },
+      {
+        "latin": "Res",
+        "ru": "Вещь, дело, обстоятельство"
+      }
+    ],
+    "reviewed_today": [
+      "Infans",
+      "Tres",
+      "Volvo"
+    ]
   }
 ]

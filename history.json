@@ -4502,5 +4502,27 @@
       "Hora",
       "Conari"
     ]
+  },
+  {
+    "date": "2026-02-13",
+    "words": [
+      {
+        "latin": "Sagitta",
+        "ru": "Стрела"
+      },
+      {
+        "latin": "Quod",
+        "ru": "Потому что"
+      },
+      {
+        "latin": "Eloquens",
+        "ru": "Красноречивый"
+      }
+    ],
+    "reviewed_today": [
+      "Signum",
+      "Membrum",
+      "Gelu"
+    ]
   }
 ]

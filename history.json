@@ -4634,5 +4634,27 @@
       "Tertius",
       "Restituere"
     ]
+  },
+  {
+    "date": "2026-02-14",
+    "words": [
+      {
+        "latin": "Sitire",
+        "ru": "Жаждать"
+      },
+      {
+        "latin": "Trans",
+        "ru": "Через, по ту сторону"
+      },
+      {
+        "latin": "Pars",
+        "ru": "Часть"
+      }
+    ],
+    "reviewed_today": [
+      "Vale",
+      "Conditio",
+      "Usus"
+    ]
   }
 ]

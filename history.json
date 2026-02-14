@@ -4590,5 +4590,27 @@
       "Tres",
       "Volvo"
     ]
+  },
+  {
+    "date": "2026-02-14",
+    "words": [
+      {
+        "latin": "Inanis",
+        "ru": "Пустой, суетный"
+      },
+      {
+        "latin": "Facilis",
+        "ru": "Легкий"
+      },
+      {
+        "latin": "Templum",
+        "ru": "Храм"
+      }
+    ],
+    "reviewed_today": [
+      "Remus",
+      "Magis",
+      "Velox"
+    ]
   }
 ]

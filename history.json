@@ -4612,5 +4612,27 @@
       "Magis",
       "Velox"
     ]
+  },
+  {
+    "date": "2026-02-14",
+    "words": [
+      {
+        "latin": "Eligere",
+        "ru": "Выбирать"
+      },
+      {
+        "latin": "Eripere",
+        "ru": "Вырывать, похищать"
+      },
+      {
+        "latin": "Discere",
+        "ru": "Учиться"
+      }
+    ],
+    "reviewed_today": [
+      "Princeps",
+      "Tertius",
+      "Restituere"
+    ]
   }
 ]

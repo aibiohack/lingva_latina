@@ -4656,5 +4656,27 @@
       "Conditio",
       "Usus"
     ]
+  },
+  {
+    "date": "2026-02-14",
+    "words": [
+      {
+        "latin": "Antiquus",
+        "ru": "Древний, старинный"
+      },
+      {
+        "latin": "Prope",
+        "ru": "Близко"
+      },
+      {
+        "latin": "Dubitare",
+        "ru": "Сомневаться"
+      }
+    ],
+    "reviewed_today": [
+      "Silva",
+      "Dedico",
+      "Fluere"
+    ]
   }
 ]

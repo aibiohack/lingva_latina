@@ -4744,5 +4744,27 @@
       "Gaudium",
       "Ubi"
     ]
+  },
+  {
+    "date": "2026-02-15",
+    "words": [
+      {
+        "latin": "Trahere",
+        "ru": "Тащить, влечь"
+      },
+      {
+        "latin": "Versus",
+        "ru": "Стих, линия"
+      },
+      {
+        "latin": "Primus",
+        "ru": "Первый"
+      }
+    ],
+    "reviewed_today": [
+      "Totus",
+      "Supplex",
+      "Enuntiare"
+    ]
   }
 ]

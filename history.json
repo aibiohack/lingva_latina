@@ -4700,5 +4700,27 @@
       "Sapere",
       "Confirmare"
     ]
+  },
+  {
+    "date": "2026-02-15",
+    "words": [
+      {
+        "latin": "Mentior",
+        "ru": "Лгу"
+      },
+      {
+        "latin": "Testis",
+        "ru": "Свидетель"
+      },
+      {
+        "latin": "Edere",
+        "ru": "Есть (кушать)"
+      }
+    ],
+    "reviewed_today": [
+      "Tollere",
+      "Tegere",
+      "Clarus"
+    ]
   }
 ]

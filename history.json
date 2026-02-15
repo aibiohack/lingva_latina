@@ -4678,5 +4678,27 @@
       "Dedico",
       "Fluere"
     ]
+  },
+  {
+    "date": "2026-02-15",
+    "words": [
+      {
+        "latin": "Tueri",
+        "ru": "Смотреть, защищать"
+      },
+      {
+        "latin": "Qualis",
+        "ru": "Какой"
+      },
+      {
+        "latin": "Vestis",
+        "ru": "Одежда"
+      }
+    ],
+    "reviewed_today": [
+      "Super",
+      "Sapere",
+      "Confirmare"
+    ]
   }
 ]

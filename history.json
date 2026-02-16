@@ -4766,5 +4766,27 @@
       "Supplex",
       "Enuntiare"
     ]
+  },
+  {
+    "date": "2026-02-16",
+    "words": [
+      {
+        "latin": "Schola",
+        "ru": "Школа"
+      },
+      {
+        "latin": "Sanus",
+        "ru": "Здоровый, трезвый"
+      },
+      {
+        "latin": "Temptare",
+        "ru": "Испытывать, пытаться"
+      }
+    ],
+    "reviewed_today": [
+      "Clamor",
+      "Mutare",
+      "Imitari"
+    ]
   }
 ]

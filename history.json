@@ -4810,5 +4810,27 @@
       "Discipulus",
       "Ullus"
     ]
+  },
+  {
+    "date": "2026-02-16",
+    "words": [
+      {
+        "latin": "Inter",
+        "ru": "Между"
+      },
+      {
+        "latin": "Flumen",
+        "ru": "Река"
+      },
+      {
+        "latin": "Redire",
+        "ru": "Возвращаться"
+      }
+    ],
+    "reviewed_today": [
+      "Gratus",
+      "Stirps",
+      "Statuere"
+    ]
   }
 ]

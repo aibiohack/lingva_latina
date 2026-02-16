@@ -4788,5 +4788,27 @@
       "Mutare",
       "Imitari"
     ]
+  },
+  {
+    "date": "2026-02-16",
+    "words": [
+      {
+        "latin": "Dextra",
+        "ru": "Правая рука"
+      },
+      {
+        "latin": "Iter",
+        "ru": "Путь"
+      },
+      {
+        "latin": "Solum",
+        "ru": "Только, лишь"
+      }
+    ],
+    "reviewed_today": [
+      "Culpa",
+      "Discipulus",
+      "Ullus"
+    ]
   }
 ]

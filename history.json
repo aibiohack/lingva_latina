@@ -4832,5 +4832,27 @@
       "Stirps",
       "Statuere"
     ]
+  },
+  {
+    "date": "2026-02-16",
+    "words": [
+      {
+        "latin": "Vincire",
+        "ru": "Связывать"
+      },
+      {
+        "latin": "Durus",
+        "ru": "Твердый"
+      },
+      {
+        "latin": "Fraus",
+        "ru": "Обман, хитрость"
+      }
+    ],
+    "reviewed_today": [
+      "Viridis",
+      "Periculum",
+      "Tegere"
+    ]
   }
 ]

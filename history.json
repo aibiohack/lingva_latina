@@ -4898,5 +4898,27 @@
       "Tu",
       "Super"
     ]
+  },
+  {
+    "date": "2026-02-17",
+    "words": [
+      {
+        "latin": "Ordo",
+        "ru": "Порядок"
+      },
+      {
+        "latin": "Fabula",
+        "ru": "Сказка, рассказ"
+      },
+      {
+        "latin": "Sub",
+        "ru": "Под"
+      }
+    ],
+    "reviewed_today": [
+      "Fructus",
+      "Remus",
+      "Trahere"
+    ]
   }
 ]

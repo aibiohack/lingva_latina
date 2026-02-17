@@ -4876,5 +4876,27 @@
       "Aperire",
       "Velum"
     ]
+  },
+  {
+    "date": "2026-02-17",
+    "words": [
+      {
+        "latin": "Ulterior",
+        "ru": "По ту сторону, дальнейший"
+      },
+      {
+        "latin": "Senatus",
+        "ru": "Сенат"
+      },
+      {
+        "latin": "Idoneus",
+        "ru": "Удобный, годный"
+      }
+    ],
+    "reviewed_today": [
+      "Tenere",
+      "Tu",
+      "Super"
+    ]
   }
 ]

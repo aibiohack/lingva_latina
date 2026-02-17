@@ -4854,5 +4854,27 @@
       "Periculum",
       "Tegere"
     ]
+  },
+  {
+    "date": "2026-02-17",
+    "words": [
+      {
+        "latin": "Vetustus",
+        "ru": "Древний"
+      },
+      {
+        "latin": "Videlicet",
+        "ru": "Очевидно, именно"
+      },
+      {
+        "latin": "Mors",
+        "ru": "Смерть"
+      }
+    ],
+    "reviewed_today": [
+      "Cura",
+      "Aperire",
+      "Velum"
+    ]
   }
 ]

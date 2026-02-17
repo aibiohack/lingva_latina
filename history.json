@@ -4920,5 +4920,27 @@
       "Remus",
       "Trahere"
     ]
+  },
+  {
+    "date": "2026-02-17",
+    "words": [
+      {
+        "latin": "Fortasse",
+        "ru": "Может быть"
+      },
+      {
+        "latin": "Tacere",
+        "ru": "Молчать"
+      },
+      {
+        "latin": "Rota",
+        "ru": "Колесо"
+      }
+    ],
+    "reviewed_today": [
+      "Primus",
+      "Fidelis",
+      "Monere"
+    ]
   }
 ]

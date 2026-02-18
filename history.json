@@ -4986,5 +4986,27 @@
       "Discere",
       "Vulnus"
     ]
+  },
+  {
+    "date": "2026-02-18",
+    "words": [
+      {
+        "latin": "Omnis",
+        "ru": "Весь"
+      },
+      {
+        "latin": "Tranquillitas",
+        "ru": "Спокойствие, тишина"
+      },
+      {
+        "latin": "Dens",
+        "ru": "Зуб"
+      }
+    ],
+    "reviewed_today": [
+      "Sal",
+      "Usque",
+      "Dum"
+    ]
   }
 ]

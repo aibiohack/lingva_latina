@@ -5008,5 +5008,27 @@
       "Usque",
       "Dum"
     ]
+  },
+  {
+    "date": "2026-02-18",
+    "words": [
+      {
+        "latin": "Multitudo",
+        "ru": "Множество"
+      },
+      {
+        "latin": "Gerere",
+        "ru": "Вести, совершать"
+      },
+      {
+        "latin": "Spero",
+        "ru": "Надеяться"
+      }
+    ],
+    "reviewed_today": [
+      "Roma",
+      "Regnum",
+      "Validus"
+    ]
   }
 ]

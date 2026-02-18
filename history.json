@@ -4964,5 +4964,27 @@
       "Tot",
       "Civilis"
     ]
+  },
+  {
+    "date": "2026-02-18",
+    "words": [
+      {
+        "latin": "Instruere",
+        "ru": "Наставлять, возводить"
+      },
+      {
+        "latin": "Fides",
+        "ru": "Вера"
+      },
+      {
+        "latin": "Pater",
+        "ru": "Отец"
+      }
+    ],
+    "reviewed_today": [
+      "Studere",
+      "Discere",
+      "Vulnus"
+    ]
   }
 ]

@@ -5096,5 +5096,27 @@
       "Maxime",
       "Quid"
     ]
+  },
+  {
+    "date": "2026-02-19",
+    "words": [
+      {
+        "latin": "Aevum",
+        "ru": "Век, эпоха"
+      },
+      {
+        "latin": "Punitio",
+        "ru": "Наказание"
+      },
+      {
+        "latin": "Intelligere",
+        "ru": "Понимать"
+      }
+    ],
+    "reviewed_today": [
+      "Reliquus",
+      "Forma",
+      "Apud"
+    ]
   }
 ]

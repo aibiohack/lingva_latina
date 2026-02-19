@@ -5030,5 +5030,27 @@
       "Regnum",
       "Validus"
     ]
+  },
+  {
+    "date": "2026-02-19",
+    "words": [
+      {
+        "latin": "Rogare",
+        "ru": "Просить, спрашивать"
+      },
+      {
+        "latin": "Laborare",
+        "ru": "Работать, страдать"
+      },
+      {
+        "latin": "Exercitus",
+        "ru": "Войско"
+      }
+    ],
+    "reviewed_today": [
+      "Turpis",
+      "Largus",
+      "Relinquere"
+    ]
   }
 ]

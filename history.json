@@ -5052,5 +5052,27 @@
       "Largus",
       "Relinquere"
     ]
+  },
+  {
+    "date": "2026-02-19",
+    "words": [
+      {
+        "latin": "Versari",
+        "ru": "Находиться, вращаться"
+      },
+      {
+        "latin": "Superior",
+        "ru": "Высший, старший"
+      },
+      {
+        "latin": "Sino",
+        "ru": "Позволять, оставлять"
+      }
+    ],
+    "reviewed_today": [
+      "Trabs",
+      "Sentire",
+      "Beatus"
+    ]
   }
 ]

@@ -5074,5 +5074,27 @@
       "Sentire",
       "Beatus"
     ]
+  },
+  {
+    "date": "2026-02-19",
+    "words": [
+      {
+        "latin": "Legio",
+        "ru": "Легион"
+      },
+      {
+        "latin": "Caelum",
+        "ru": "Небо"
+      },
+      {
+        "latin": "Sui",
+        "ru": "Себя"
+      }
+    ],
+    "reviewed_today": [
+      "Fuga",
+      "Maxime",
+      "Quid"
+    ]
   }
 ]

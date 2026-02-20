@@ -5140,5 +5140,27 @@
       "Similis",
       "Signum"
     ]
+  },
+  {
+    "date": "2026-02-20",
+    "words": [
+      {
+        "latin": "Miser",
+        "ru": "Жалкий, несчастный"
+      },
+      {
+        "latin": "Sum",
+        "ru": "Я есмь (быть)"
+      },
+      {
+        "latin": "Petere",
+        "ru": "Просить, стремиться"
+      }
+    ],
+    "reviewed_today": [
+      "Dexter",
+      "Vilis",
+      "Vel"
+    ]
   }
 ]

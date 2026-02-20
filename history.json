@@ -5162,5 +5162,27 @@
       "Vilis",
       "Vel"
     ]
+  },
+  {
+    "date": "2026-02-20",
+    "words": [
+      {
+        "latin": "Dulcedo",
+        "ru": "Сладость, приятность"
+      },
+      {
+        "latin": "Iam",
+        "ru": "Уже"
+      },
+      {
+        "latin": "Vas",
+        "ru": "Сосуд"
+      }
+    ],
+    "reviewed_today": [
+      "Iterum",
+      "Impedire",
+      "Celer"
+    ]
   }
 ]

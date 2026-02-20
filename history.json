@@ -5184,5 +5184,27 @@
       "Impedire",
       "Celer"
     ]
+  },
+  {
+    "date": "2026-02-20",
+    "words": [
+      {
+        "latin": "Scio",
+        "ru": "Знаю"
+      },
+      {
+        "latin": "Crudele",
+        "ru": "Жестоко"
+      },
+      {
+        "latin": "Fugere",
+        "ru": "Бежать"
+      }
+    ],
+    "reviewed_today": [
+      "Res",
+      "Vero",
+      "Dicere"
+    ]
   }
 ]

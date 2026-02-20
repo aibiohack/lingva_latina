@@ -5118,5 +5118,27 @@
       "Forma",
       "Apud"
     ]
+  },
+  {
+    "date": "2026-02-20",
+    "words": [
+      {
+        "latin": "Vestigium",
+        "ru": "След"
+      },
+      {
+        "latin": "Venenum",
+        "ru": "Яд"
+      },
+      {
+        "latin": "Aeternus",
+        "ru": "Вечный"
+      }
+    ],
+    "reviewed_today": [
+      "Horrere",
+      "Similis",
+      "Signum"
+    ]
   }
 ]

@@ -5228,5 +5228,27 @@
       "Ludus",
       "Laborare"
     ]
+  },
+  {
+    "date": "2026-02-21",
+    "words": [
+      {
+        "latin": "Benevolentia",
+        "ru": "Доброжелательность"
+      },
+      {
+        "latin": "Vitium",
+        "ru": "Порок, недостаток"
+      },
+      {
+        "latin": "Fortis",
+        "ru": "Храбрый"
+      }
+    ],
+    "reviewed_today": [
+      "Consuetudo",
+      "Frumentum",
+      "Religio"
+    ]
   }
 ]

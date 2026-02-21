@@ -5272,5 +5272,27 @@
       "Sino",
       "Fallere"
     ]
+  },
+  {
+    "date": "2026-02-21",
+    "words": [
+      {
+        "latin": "Fons",
+        "ru": "Источник"
+      },
+      {
+        "latin": "Rectus",
+        "ru": "Прямой, правильный"
+      },
+      {
+        "latin": "Valde",
+        "ru": "Крепко, очень"
+      }
+    ],
+    "reviewed_today": [
+      "Saxum",
+      "Tabula",
+      "Autem"
+    ]
   }
 ]

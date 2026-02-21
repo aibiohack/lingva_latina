@@ -5206,5 +5206,27 @@
       "Vero",
       "Dicere"
     ]
+  },
+  {
+    "date": "2026-02-21",
+    "words": [
+      {
+        "latin": "Monstrare",
+        "ru": "Показывать"
+      },
+      {
+        "latin": "Ferrum",
+        "ru": "Железо"
+      },
+      {
+        "latin": "Cupiditas",
+        "ru": "Желание, страсть"
+      }
+    ],
+    "reviewed_today": [
+      "Sedere",
+      "Ludus",
+      "Laborare"
+    ]
   }
 ]

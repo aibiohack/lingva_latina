@@ -5250,5 +5250,27 @@
       "Frumentum",
       "Religio"
     ]
+  },
+  {
+    "date": "2026-02-21",
+    "words": [
+      {
+        "latin": "Ver",
+        "ru": "Весна"
+      },
+      {
+        "latin": "Surdus",
+        "ru": "Глухой"
+      },
+      {
+        "latin": "Alter",
+        "ru": "Другой (из двух)"
+      }
+    ],
+    "reviewed_today": [
+      "Iam",
+      "Sino",
+      "Fallere"
+    ]
   }
 ]

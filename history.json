@@ -5360,5 +5360,27 @@
       "Talis",
       "Ludus"
     ]
+  },
+  {
+    "date": "2026-02-22",
+    "words": [
+      {
+        "latin": "Sidus",
+        "ru": "Звезда, созвездие"
+      },
+      {
+        "latin": "Custos",
+        "ru": "Страж"
+      },
+      {
+        "latin": "Finis",
+        "ru": "Конец"
+      }
+    ],
+    "reviewed_today": [
+      "Utilitas",
+      "Spiritus",
+      "Sedere"
+    ]
   }
 ]

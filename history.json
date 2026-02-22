@@ -5316,5 +5316,27 @@
       "Convivium",
       "Stirps"
     ]
+  },
+  {
+    "date": "2026-02-22",
+    "words": [
+      {
+        "latin": "Intra",
+        "ru": "Внутри"
+      },
+      {
+        "latin": "Verus",
+        "ru": "Истинный"
+      },
+      {
+        "latin": "Miles",
+        "ru": "Воин"
+      }
+    ],
+    "reviewed_today": [
+      "Quaerere",
+      "Vero",
+      "Dolor"
+    ]
   }
 ]

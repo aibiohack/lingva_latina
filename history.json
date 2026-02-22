@@ -5294,5 +5294,27 @@
       "Tabula",
       "Autem"
     ]
+  },
+  {
+    "date": "2026-02-22",
+    "words": [
+      {
+        "latin": "Tradere",
+        "ru": "Передавать, предавать"
+      },
+      {
+        "latin": "Littera",
+        "ru": "Буква, (мн.ч.) письмо"
+      },
+      {
+        "latin": "Iuvenis",
+        "ru": "Юноша, молодой"
+      }
+    ],
+    "reviewed_today": [
+      "Rogare",
+      "Convivium",
+      "Stirps"
+    ]
   }
 ]

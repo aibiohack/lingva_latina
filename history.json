@@ -5338,5 +5338,27 @@
       "Vero",
       "Dolor"
     ]
+  },
+  {
+    "date": "2026-02-22",
+    "words": [
+      {
+        "latin": "Telum",
+        "ru": "Оружие, копье"
+      },
+      {
+        "latin": "Aqua",
+        "ru": "Вода"
+      },
+      {
+        "latin": "Dividere",
+        "ru": "Делить"
+      }
+    ],
+    "reviewed_today": [
+      "Iurare",
+      "Talis",
+      "Ludus"
+    ]
   }
 ]

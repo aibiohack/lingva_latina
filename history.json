@@ -5426,5 +5426,27 @@
       "Septem",
       "Gratia"
     ]
+  },
+  {
+    "date": "2026-02-23",
+    "words": [
+      {
+        "latin": "Uxor",
+        "ru": "Жена"
+      },
+      {
+        "latin": "Iucundus",
+        "ru": "Приятный"
+      },
+      {
+        "latin": "Lacrima",
+        "ru": "Слеза"
+      }
+    ],
+    "reviewed_today": [
+      "Immortalis",
+      "Aeternitas",
+      "Lingua"
+    ]
   }
 ]

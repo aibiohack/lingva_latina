@@ -5448,5 +5448,27 @@
       "Aeternitas",
       "Lingua"
     ]
+  },
+  {
+    "date": "2026-02-23",
+    "words": [
+      {
+        "latin": "Voluntas",
+        "ru": "Воля, желание"
+      },
+      {
+        "latin": "Putare",
+        "ru": "Считать, полагать"
+      },
+      {
+        "latin": "Difficilis",
+        "ru": "Трудный"
+      }
+    ],
+    "reviewed_today": [
+      "Civitas",
+      "Tergum",
+      "Aio"
+    ]
   }
 ]

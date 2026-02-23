@@ -5404,5 +5404,27 @@
       "Gravis",
       "Vindicare"
     ]
+  },
+  {
+    "date": "2026-02-23",
+    "words": [
+      {
+        "latin": "Repetere",
+        "ru": "Повторять, требовать назад"
+      },
+      {
+        "latin": "Bestia",
+        "ru": "Зверь, животное"
+      },
+      {
+        "latin": "Mens",
+        "ru": "Ум"
+      }
+    ],
+    "reviewed_today": [
+      "Rogare",
+      "Septem",
+      "Gratia"
+    ]
   }
 ]

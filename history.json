@@ -5382,5 +5382,27 @@
       "Spiritus",
       "Sedere"
     ]
+  },
+  {
+    "date": "2026-02-23",
+    "words": [
+      {
+        "latin": "Sic",
+        "ru": "Так"
+      },
+      {
+        "latin": "Studium",
+        "ru": "Стремление, занятие, наука"
+      },
+      {
+        "latin": "Rumor",
+        "ru": "Слух, молва"
+      }
+    ],
+    "reviewed_today": [
+      "Gaudium",
+      "Gravis",
+      "Vindicare"
+    ]
   }
 ]

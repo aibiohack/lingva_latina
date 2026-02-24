@@ -5536,5 +5536,27 @@
       "Reliquus",
       "Debeo"
     ]
+  },
+  {
+    "date": "2026-02-24",
+    "words": [
+      {
+        "latin": "Radix",
+        "ru": "Корень"
+      },
+      {
+        "latin": "Parvus",
+        "ru": "Маленький"
+      },
+      {
+        "latin": "Cedere",
+        "ru": "Идти, уступать"
+      }
+    ],
+    "reviewed_today": [
+      "Laus",
+      "Filia",
+      "Colloquium"
+    ]
   }
 ]

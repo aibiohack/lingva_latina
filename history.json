@@ -5470,5 +5470,27 @@
       "Tergum",
       "Aio"
     ]
+  },
+  {
+    "date": "2026-02-24",
+    "words": [
+      {
+        "latin": "Quantus",
+        "ru": "Сколько"
+      },
+      {
+        "latin": "Temperantia",
+        "ru": "Умеренность"
+      },
+      {
+        "latin": "Mons",
+        "ru": "Гора"
+      }
+    ],
+    "reviewed_today": [
+      "Virgo",
+      "Familia",
+      "Tegere"
+    ]
   }
 ]

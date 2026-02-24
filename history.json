@@ -5492,5 +5492,27 @@
       "Familia",
       "Tegere"
     ]
+  },
+  {
+    "date": "2026-02-24",
+    "words": [
+      {
+        "latin": "Vanitas",
+        "ru": "Суета, тщеславие"
+      },
+      {
+        "latin": "Circa",
+        "ru": "Вокруг, около"
+      },
+      {
+        "latin": "Vanus",
+        "ru": "Пустой, ложный"
+      }
+    ],
+    "reviewed_today": [
+      "Vestis",
+      "Uva",
+      "Solus"
+    ]
   }
 ]

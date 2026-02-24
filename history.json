@@ -5514,5 +5514,27 @@
       "Uva",
       "Solus"
     ]
+  },
+  {
+    "date": "2026-02-24",
+    "words": [
+      {
+        "latin": "Verere",
+        "ru": "Бояться, чтить"
+      },
+      {
+        "latin": "Iacere",
+        "ru": "Бросать, кидать"
+      },
+      {
+        "latin": "Semel",
+        "ru": "Однажды"
+      }
+    ],
+    "reviewed_today": [
+      "Pro",
+      "Reliquus",
+      "Debeo"
+    ]
   }
 ]

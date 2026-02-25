@@ -5558,5 +5558,27 @@
       "Filia",
       "Colloquium"
     ]
+  },
+  {
+    "date": "2026-02-25",
+    "words": [
+      {
+        "latin": "Historia",
+        "ru": "История"
+      },
+      {
+        "latin": "Iocus",
+        "ru": "Шутка"
+      },
+      {
+        "latin": "Universus",
+        "ru": "Весь, всеобщий"
+      }
+    ],
+    "reviewed_today": [
+      "Limen",
+      "Usque",
+      "Cur"
+    ]
   }
 ]

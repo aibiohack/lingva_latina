@@ -5602,5 +5602,27 @@
       "Malus",
       "Iter"
     ]
+  },
+  {
+    "date": "2026-02-25",
+    "words": [
+      {
+        "latin": "Indicare",
+        "ru": "Указывать"
+      },
+      {
+        "latin": "Publicus",
+        "ru": "Общественный"
+      },
+      {
+        "latin": "Hilaris",
+        "ru": "Веселый"
+      }
+    ],
+    "reviewed_today": [
+      "Vincere",
+      "Claudere",
+      "Spero"
+    ]
   }
 ]

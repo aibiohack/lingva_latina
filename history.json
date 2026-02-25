@@ -5624,5 +5624,27 @@
       "Claudere",
       "Spero"
     ]
+  },
+  {
+    "date": "2026-02-25",
+    "words": [
+      {
+        "latin": "Colere",
+        "ru": "Возделывать, почитать"
+      },
+      {
+        "latin": "Filius",
+        "ru": "Сын"
+      },
+      {
+        "latin": "Agere",
+        "ru": "Приводить в движение, гнать"
+      }
+    ],
+    "reviewed_today": [
+      "Animus",
+      "Frumentum",
+      "Mens"
+    ]
   }
 ]

@@ -5580,5 +5580,27 @@
       "Usque",
       "Cur"
     ]
+  },
+  {
+    "date": "2026-02-25",
+    "words": [
+      {
+        "latin": "Ager",
+        "ru": "Поле"
+      },
+      {
+        "latin": "Patria",
+        "ru": "Родина"
+      },
+      {
+        "latin": "Hiems",
+        "ru": "Зима"
+      }
+    ],
+    "reviewed_today": [
+      "Dulcedo",
+      "Malus",
+      "Iter"
+    ]
   }
 ]

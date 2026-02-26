@@ -5646,5 +5646,27 @@
       "Frumentum",
       "Mens"
     ]
+  },
+  {
+    "date": "2026-02-26",
+    "words": [
+      {
+        "latin": "Metuere",
+        "ru": "Бояться"
+      },
+      {
+        "latin": "Fames",
+        "ru": "Голод"
+      },
+      {
+        "latin": "Figura",
+        "ru": "Образ, вид"
+      }
+    ],
+    "reviewed_today": [
+      "Circa",
+      "Nox",
+      "Vicus"
+    ]
   }
 ]

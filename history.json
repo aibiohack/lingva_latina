@@ -5668,5 +5668,27 @@
       "Nox",
       "Vicus"
     ]
+  },
+  {
+    "date": "2026-02-26",
+    "words": [
+      {
+        "latin": "Crimen",
+        "ru": "Обвинение, преступление"
+      },
+      {
+        "latin": "Canis",
+        "ru": "Собака"
+      },
+      {
+        "latin": "Secundum",
+        "ru": "Согласно"
+      }
+    ],
+    "reviewed_today": [
+      "Tabula",
+      "Venia",
+      "Fortasse"
+    ]
   }
 ]

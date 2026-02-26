@@ -5712,5 +5712,27 @@
       "Vultus",
       "Damnum"
     ]
+  },
+  {
+    "date": "2026-02-26",
+    "words": [
+      {
+        "latin": "Sustinere",
+        "ru": "Поддерживать, выдерживать"
+      },
+      {
+        "latin": "Tenebrae",
+        "ru": "Мрак, тьма"
+      },
+      {
+        "latin": "Manere",
+        "ru": "Оставаться"
+      }
+    ],
+    "reviewed_today": [
+      "Ultimus",
+      "Crudele",
+      "Iudex"
+    ]
   }
 ]

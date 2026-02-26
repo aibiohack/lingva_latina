@@ -5690,5 +5690,27 @@
       "Venia",
       "Fortasse"
     ]
+  },
+  {
+    "date": "2026-02-26",
+    "words": [
+      {
+        "latin": "Dies",
+        "ru": "День"
+      },
+      {
+        "latin": "Copia",
+        "ru": "Запас, множество"
+      },
+      {
+        "latin": "Posse",
+        "ru": "Мочь"
+      }
+    ],
+    "reviewed_today": [
+      "Fieri",
+      "Vultus",
+      "Damnum"
+    ]
   }
 ]

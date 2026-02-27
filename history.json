@@ -5734,5 +5734,27 @@
       "Crudele",
       "Iudex"
     ]
+  },
+  {
+    "date": "2026-02-27",
+    "words": [
+      {
+        "latin": "Tremere",
+        "ru": "Дрожать, трепетать"
+      },
+      {
+        "latin": "Lex",
+        "ru": "Закон"
+      },
+      {
+        "latin": "Constantia",
+        "ru": "Постоянство, стойкость"
+      }
+    ],
+    "reviewed_today": [
+      "Filius",
+      "Argentum",
+      "Ullus"
+    ]
   }
 ]

@@ -5756,5 +5756,27 @@
       "Argentum",
       "Ullus"
     ]
+  },
+  {
+    "date": "2026-02-27",
+    "words": [
+      {
+        "latin": "Arbor",
+        "ru": "Дерево"
+      },
+      {
+        "latin": "Copia",
+        "ru": "Запас, множество"
+      },
+      {
+        "latin": "Cotidie",
+        "ru": "Ежедневно"
+      }
+    ],
+    "reviewed_today": [
+      "Gens",
+      "Lacrima",
+      "Forma"
+    ]
   }
 ]

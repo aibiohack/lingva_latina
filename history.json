@@ -5800,5 +5800,27 @@
       "Moenia",
       "Unus"
     ]
+  },
+  {
+    "date": "2026-02-27",
+    "words": [
+      {
+        "latin": "Roma",
+        "ru": "Рим"
+      },
+      {
+        "latin": "Vultus",
+        "ru": "Лицо, выражение лица"
+      },
+      {
+        "latin": "Parvus",
+        "ru": "Маленький"
+      }
+    ],
+    "reviewed_today": [
+      "Gelu",
+      "Facinus",
+      "Amare"
+    ]
   }
 ]

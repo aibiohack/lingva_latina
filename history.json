@@ -5778,5 +5778,27 @@
       "Lacrima",
       "Forma"
     ]
+  },
+  {
+    "date": "2026-02-27",
+    "words": [
+      {
+        "latin": "Legio",
+        "ru": "Легион"
+      },
+      {
+        "latin": "Magis",
+        "ru": "Более"
+      },
+      {
+        "latin": "Ignis",
+        "ru": "Огонь"
+      }
+    ],
+    "reviewed_today": [
+      "Urbs",
+      "Moenia",
+      "Unus"
+    ]
   }
 ]

@@ -5844,5 +5844,27 @@
       "Titulus",
       "Videre"
     ]
+  },
+  {
+    "date": "2026-02-28",
+    "words": [
+      {
+        "latin": "Vero",
+        "ru": "Истинно, однако"
+      },
+      {
+        "latin": "Equus",
+        "ru": "Лошадь"
+      },
+      {
+        "latin": "Persona",
+        "ru": "Личность"
+      }
+    ],
+    "reviewed_today": [
+      "Exemplum",
+      "Vigilia",
+      "Sedere"
+    ]
   }
 ]

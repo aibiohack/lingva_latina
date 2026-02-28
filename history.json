@@ -5888,5 +5888,27 @@
       "Iuvare",
       "Virtus"
     ]
+  },
+  {
+    "date": "2026-02-28",
+    "words": [
+      {
+        "latin": "Velox",
+        "ru": "Быстрый"
+      },
+      {
+        "latin": "Figura",
+        "ru": "Образ, вид"
+      },
+      {
+        "latin": "Victor",
+        "ru": "Победитель"
+      }
+    ],
+    "reviewed_today": [
+      "Vox",
+      "Tertius",
+      "Iuvenis"
+    ]
   }
 ]

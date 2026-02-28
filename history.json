@@ -5822,5 +5822,27 @@
       "Facinus",
       "Amare"
     ]
+  },
+  {
+    "date": "2026-02-28",
+    "words": [
+      {
+        "latin": "Densus",
+        "ru": "Густой, плотный"
+      },
+      {
+        "latin": "Sub",
+        "ru": "Под"
+      },
+      {
+        "latin": "Magister",
+        "ru": "Учитель"
+      }
+    ],
+    "reviewed_today": [
+      "Etiam",
+      "Titulus",
+      "Videre"
+    ]
   }
 ]

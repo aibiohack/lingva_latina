@@ -5910,5 +5910,27 @@
       "Tertius",
       "Iuvenis"
     ]
+  },
+  {
+    "date": "2026-03-01",
+    "words": [
+      {
+        "latin": "Stilus",
+        "ru": "Стиль, палочка для письма"
+      },
+      {
+        "latin": "Arma",
+        "ru": "Оружие"
+      },
+      {
+        "latin": "Singulus",
+        "ru": "Одиночный"
+      }
+    ],
+    "reviewed_today": [
+      "Rapere",
+      "Post",
+      "Manere"
+    ]
   }
 ]

@@ -5976,5 +5976,27 @@
       "Ter",
       "Canis"
     ]
+  },
+  {
+    "date": "2026-03-01",
+    "words": [
+      {
+        "latin": "Vivere",
+        "ru": "Жить"
+      },
+      {
+        "latin": "Rosa",
+        "ru": "Роза"
+      },
+      {
+        "latin": "Invitare",
+        "ru": "Приглашать"
+      }
+    ],
+    "reviewed_today": [
+      "Ignis",
+      "Consilium",
+      "Magnus"
+    ]
   }
 ]

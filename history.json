@@ -5954,5 +5954,27 @@
       "Custos",
       "Stirps"
     ]
+  },
+  {
+    "date": "2026-03-01",
+    "words": [
+      {
+        "latin": "Umbra",
+        "ru": "Тень"
+      },
+      {
+        "latin": "Vester",
+        "ru": "Ваш"
+      },
+      {
+        "latin": "Radix",
+        "ru": "Корень"
+      }
+    ],
+    "reviewed_today": [
+      "Littera",
+      "Ter",
+      "Canis"
+    ]
   }
 ]

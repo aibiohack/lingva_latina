@@ -5932,5 +5932,27 @@
       "Post",
       "Manere"
     ]
+  },
+  {
+    "date": "2026-03-01",
+    "words": [
+      {
+        "latin": "Vindicare",
+        "ru": "Заявлять права, мстить"
+      },
+      {
+        "latin": "Pax",
+        "ru": "Мир"
+      },
+      {
+        "latin": "Vestis",
+        "ru": "Одежда"
+      }
+    ],
+    "reviewed_today": [
+      "Ut",
+      "Custos",
+      "Stirps"
+    ]
   }
 ]

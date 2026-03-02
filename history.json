@@ -5998,5 +5998,27 @@
       "Consilium",
       "Magnus"
     ]
+  },
+  {
+    "date": "2026-03-02",
+    "words": [
+      {
+        "latin": "Memoria",
+        "ru": "Память"
+      },
+      {
+        "latin": "Invenire",
+        "ru": "Находить, изобретать"
+      },
+      {
+        "latin": "Barbarus",
+        "ru": "Чужеземец, варвар"
+      }
+    ],
+    "reviewed_today": [
+      "Quoque",
+      "Aevum",
+      "Iugum"
+    ]
   }
 ]

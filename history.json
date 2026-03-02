@@ -6020,5 +6020,27 @@
       "Aevum",
       "Iugum"
     ]
+  },
+  {
+    "date": "2026-03-02",
+    "words": [
+      {
+        "latin": "Sanctus",
+        "ru": "Святой"
+      },
+      {
+        "latin": "Parvus",
+        "ru": "Маленький"
+      },
+      {
+        "latin": "Frigus",
+        "ru": "Холод, мороз"
+      }
+    ],
+    "reviewed_today": [
+      "Cotidie",
+      "Terrere",
+      "Hiems"
+    ]
   }
 ]

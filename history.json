@@ -6064,5 +6064,27 @@
       "Soror",
       "Intelligere"
     ]
+  },
+  {
+    "date": "2026-03-02",
+    "words": [
+      {
+        "latin": "Verus",
+        "ru": "Истинный"
+      },
+      {
+        "latin": "Utilis",
+        "ru": "Полезный"
+      },
+      {
+        "latin": "Subito",
+        "ru": "Внезапно"
+      }
+    ],
+    "reviewed_today": [
+      "Sex",
+      "Vehementer",
+      "Caelum"
+    ]
   }
 ]

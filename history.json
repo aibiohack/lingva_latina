@@ -6108,5 +6108,27 @@
       "Semper",
       "Metuere"
     ]
+  },
+  {
+    "date": "2026-03-03",
+    "words": [
+      {
+        "latin": "Vicinus",
+        "ru": "Соседний"
+      },
+      {
+        "latin": "Sinister",
+        "ru": "Левый, дурной"
+      },
+      {
+        "latin": "Undique",
+        "ru": "Отовсюду"
+      }
+    ],
+    "reviewed_today": [
+      "Tibia",
+      "Senex",
+      "Monere"
+    ]
   }
 ]

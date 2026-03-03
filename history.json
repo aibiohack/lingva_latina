@@ -6086,5 +6086,27 @@
       "Vehementer",
       "Caelum"
     ]
+  },
+  {
+    "date": "2026-03-03",
+    "words": [
+      {
+        "latin": "Debere",
+        "ru": "Быть должным"
+      },
+      {
+        "latin": "Aeternus",
+        "ru": "Вечный"
+      },
+      {
+        "latin": "Veho",
+        "ru": "Везу"
+      }
+    ],
+    "reviewed_today": [
+      "Res",
+      "Semper",
+      "Metuere"
+    ]
   }
 ]

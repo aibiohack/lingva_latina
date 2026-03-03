@@ -6152,5 +6152,27 @@
       "Suspicio",
       "Utinam"
     ]
+  },
+  {
+    "date": "2026-03-03",
+    "words": [
+      {
+        "latin": "Statuere",
+        "ru": "Ставить, решать"
+      },
+      {
+        "latin": "Vox",
+        "ru": "Голос, звук"
+      },
+      {
+        "latin": "Uxor",
+        "ru": "Жена"
+      }
+    ],
+    "reviewed_today": [
+      "Utique",
+      "Frater",
+      "Vertere"
+    ]
   }
 ]

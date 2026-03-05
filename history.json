@@ -6306,5 +6306,27 @@
       "Dignus",
       "Imago"
     ]
+  },
+  {
+    "date": "2026-03-05",
+    "words": [
+      {
+        "latin": "Tremere",
+        "ru": "Дрожать, трепетать"
+      },
+      {
+        "latin": "Vicinus",
+        "ru": "Сосед"
+      },
+      {
+        "latin": "Finis",
+        "ru": "Конец"
+      }
+    ],
+    "reviewed_today": [
+      "Maestus",
+      "Subito",
+      "Bibere"
+    ]
   }
 ]

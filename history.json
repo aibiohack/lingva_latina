@@ -6328,5 +6328,27 @@
       "Subito",
       "Bibere"
     ]
+  },
+  {
+    "date": "2026-03-05",
+    "words": [
+      {
+        "latin": "Facilis",
+        "ru": "Легкий"
+      },
+      {
+        "latin": "Duo",
+        "ru": "Два"
+      },
+      {
+        "latin": "Honor",
+        "ru": "Честь"
+      }
+    ],
+    "reviewed_today": [
+      "Facilis",
+      "Lucere",
+      "Viator"
+    ]
   }
 ]

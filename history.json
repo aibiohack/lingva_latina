@@ -6284,5 +6284,27 @@
       "Vincire",
       "Instruere"
     ]
+  },
+  {
+    "date": "2026-03-05",
+    "words": [
+      {
+        "latin": "Desiderium",
+        "ru": "Желание, тоска"
+      },
+      {
+        "latin": "Via",
+        "ru": "Путь"
+      },
+      {
+        "latin": "Templum",
+        "ru": "Храм"
+      }
+    ],
+    "reviewed_today": [
+      "Versari",
+      "Dignus",
+      "Imago"
+    ]
   }
 ]

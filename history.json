@@ -6262,5 +6262,27 @@
       "Studere",
       "Laus"
     ]
+  },
+  {
+    "date": "2026-03-05",
+    "words": [
+      {
+        "latin": "Ridere",
+        "ru": "Смеяться"
+      },
+      {
+        "latin": "Signum",
+        "ru": "Знак"
+      },
+      {
+        "latin": "Alius",
+        "ru": "Другой (из многих)"
+      }
+    ],
+    "reviewed_today": [
+      "Sanctus",
+      "Vincire",
+      "Instruere"
+    ]
   }
 ]

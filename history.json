@@ -6394,5 +6394,27 @@
       "Colloquium",
       "Puer"
     ]
+  },
+  {
+    "date": "2026-03-06",
+    "words": [
+      {
+        "latin": "Velle",
+        "ru": "Хотеть"
+      },
+      {
+        "latin": "Defendere",
+        "ru": "Защищать"
+      },
+      {
+        "latin": "Barbarus",
+        "ru": "Чужеземец, варвар"
+      }
+    ],
+    "reviewed_today": [
+      "Trans",
+      "Honestus",
+      "Initium"
+    ]
   }
 ]

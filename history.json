@@ -6416,5 +6416,27 @@
       "Honestus",
       "Initium"
     ]
+  },
+  {
+    "date": "2026-03-06",
+    "words": [
+      {
+        "latin": "Venerari",
+        "ru": "Почитать"
+      },
+      {
+        "latin": "Forma",
+        "ru": "Красота, форма"
+      },
+      {
+        "latin": "Debeo",
+        "ru": "Должен"
+      }
+    ],
+    "reviewed_today": [
+      "Reliquus",
+      "Animus",
+      "Robur"
+    ]
   }
 ]

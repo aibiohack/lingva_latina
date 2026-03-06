@@ -6372,5 +6372,27 @@
       "Laborare",
       "Vendere"
     ]
+  },
+  {
+    "date": "2026-03-06",
+    "words": [
+      {
+        "latin": "Mare",
+        "ru": "Море"
+      },
+      {
+        "latin": "Valere",
+        "ru": "Быть здоровым, иметь силу"
+      },
+      {
+        "latin": "Dubius",
+        "ru": "Сомнительный"
+      }
+    ],
+    "reviewed_today": [
+      "Censeo",
+      "Colloquium",
+      "Puer"
+    ]
   }
 ]

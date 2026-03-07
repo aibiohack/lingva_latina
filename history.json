@@ -6460,5 +6460,27 @@
       "Natura",
       "Pater"
     ]
+  },
+  {
+    "date": "2026-03-07",
+    "words": [
+      {
+        "latin": "Novus",
+        "ru": "Новый"
+      },
+      {
+        "latin": "Omnis",
+        "ru": "Весь"
+      },
+      {
+        "latin": "Trans",
+        "ru": "Через, по ту сторону"
+      }
+    ],
+    "reviewed_today": [
+      "Mare",
+      "Colloquium",
+      "Rosa"
+    ]
   }
 ]

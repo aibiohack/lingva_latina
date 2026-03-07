@@ -6438,5 +6438,27 @@
       "Animus",
       "Robur"
     ]
+  },
+  {
+    "date": "2026-03-07",
+    "words": [
+      {
+        "latin": "Sufferre",
+        "ru": "Терпеть, выносить"
+      },
+      {
+        "latin": "Vicus",
+        "ru": "Деревня, квартал"
+      },
+      {
+        "latin": "Charta",
+        "ru": "Бумага, лист"
+      }
+    ],
+    "reviewed_today": [
+      "Tangere",
+      "Natura",
+      "Pater"
+    ]
   }
 ]

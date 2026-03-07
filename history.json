@@ -6482,5 +6482,27 @@
       "Colloquium",
       "Rosa"
     ]
+  },
+  {
+    "date": "2026-03-07",
+    "words": [
+      {
+        "latin": "Miles",
+        "ru": "Воин"
+      },
+      {
+        "latin": "Vir",
+        "ru": "Мужчина"
+      },
+      {
+        "latin": "Coniunx",
+        "ru": "Супруг, супруга"
+      }
+    ],
+    "reviewed_today": [
+      "Satis",
+      "Puella",
+      "Plenus"
+    ]
   }
 ]

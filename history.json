@@ -6504,5 +6504,27 @@
       "Puella",
       "Plenus"
     ]
+  },
+  {
+    "date": "2026-03-07",
+    "words": [
+      {
+        "latin": "Animus",
+        "ru": "Дух, разум"
+      },
+      {
+        "latin": "Iudicium",
+        "ru": "Суд, суждение"
+      },
+      {
+        "latin": "Diversus",
+        "ru": "Разный, противоположный"
+      }
+    ],
+    "reviewed_today": [
+      "Littera",
+      "Tolerare",
+      "Ius"
+    ]
   }
 ]

@@ -6570,5 +6570,27 @@
       "Medicus",
       "Late"
     ]
+  },
+  {
+    "date": "2026-03-08",
+    "words": [
+      {
+        "latin": "Efficere",
+        "ru": "Действовать, исполнять"
+      },
+      {
+        "latin": "Idoneus",
+        "ru": "Удобный, годный"
+      },
+      {
+        "latin": "Veritas",
+        "ru": "Истина"
+      }
+    ],
+    "reviewed_today": [
+      "Salus",
+      "Forum",
+      "Vallis"
+    ]
   }
 ]

@@ -6526,5 +6526,27 @@
       "Tolerare",
       "Ius"
     ]
+  },
+  {
+    "date": "2026-03-08",
+    "words": [
+      {
+        "latin": "Volare",
+        "ru": "Летать"
+      },
+      {
+        "latin": "Contentus",
+        "ru": "Довольный"
+      },
+      {
+        "latin": "Flamma",
+        "ru": "Пламя"
+      }
+    ],
+    "reviewed_today": [
+      "Legere",
+      "Statuere",
+      "Suspicio"
+    ]
   }
 ]

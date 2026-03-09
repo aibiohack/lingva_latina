@@ -6658,5 +6658,27 @@
       "Late",
       "Quaerere"
     ]
+  },
+  {
+    "date": "2026-03-09",
+    "words": [
+      {
+        "latin": "Satis",
+        "ru": "Достаточно"
+      },
+      {
+        "latin": "Triginta",
+        "ru": "Тридцать"
+      },
+      {
+        "latin": "Sum",
+        "ru": "Я есмь (быть)"
+      }
+    ],
+    "reviewed_today": [
+      "Puella",
+      "Domus",
+      "Salus"
+    ]
   }
 ]

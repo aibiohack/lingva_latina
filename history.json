@@ -6636,5 +6636,27 @@
       "Vultus",
       "Persona"
     ]
+  },
+  {
+    "date": "2026-03-09",
+    "words": [
+      {
+        "latin": "Signum",
+        "ru": "Знак, знамя"
+      },
+      {
+        "latin": "Telum",
+        "ru": "Оружие, копье"
+      },
+      {
+        "latin": "Ignis",
+        "ru": "Огонь"
+      }
+    ],
+    "reviewed_today": [
+      "Nox",
+      "Late",
+      "Quaerere"
+    ]
   }
 ]

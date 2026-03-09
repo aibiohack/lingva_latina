@@ -6614,5 +6614,27 @@
       "Inquit",
       "Si"
     ]
+  },
+  {
+    "date": "2026-03-09",
+    "words": [
+      {
+        "latin": "Flos",
+        "ru": "Цветок"
+      },
+      {
+        "latin": "Membrum",
+        "ru": "Член (тела), часть"
+      },
+      {
+        "latin": "Veritas",
+        "ru": "Истина"
+      }
+    ],
+    "reviewed_today": [
+      "Studium",
+      "Vultus",
+      "Persona"
+    ]
   }
 ]

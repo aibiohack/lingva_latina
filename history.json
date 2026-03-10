@@ -6724,5 +6724,27 @@
       "Sequi",
       "Vos"
     ]
+  },
+  {
+    "date": "2026-03-10",
+    "words": [
+      {
+        "latin": "Color",
+        "ru": "Цвет"
+      },
+      {
+        "latin": "Timere",
+        "ru": "Бояться"
+      },
+      {
+        "latin": "Umquam",
+        "ru": "Когда-либо"
+      }
+    ],
+    "reviewed_today": [
+      "Fortis",
+      "Nihil",
+      "Urbs"
+    ]
   }
 ]

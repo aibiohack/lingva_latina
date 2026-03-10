@@ -6702,5 +6702,27 @@
       "Civitas",
       "Largus"
     ]
+  },
+  {
+    "date": "2026-03-10",
+    "words": [
+      {
+        "latin": "Fructus",
+        "ru": "Плод, доход"
+      },
+      {
+        "latin": "Spatium",
+        "ru": "Пространство, промежуток"
+      },
+      {
+        "latin": "Lapis",
+        "ru": "Камень"
+      }
+    ],
+    "reviewed_today": [
+      "Enuntiare",
+      "Sequi",
+      "Vos"
+    ]
   }
 ]

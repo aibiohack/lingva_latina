@@ -6746,5 +6746,27 @@
       "Nihil",
       "Urbs"
     ]
+  },
+  {
+    "date": "2026-03-10",
+    "words": [
+      {
+        "latin": "Villa",
+        "ru": "Вилла, усадьба"
+      },
+      {
+        "latin": "Vulnus",
+        "ru": "Рана"
+      },
+      {
+        "latin": "Vero",
+        "ru": "Истинно, однако"
+      }
+    ],
+    "reviewed_today": [
+      "Flamma",
+      "Multus",
+      "Equus"
+    ]
   }
 ]

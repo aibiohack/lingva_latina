@@ -6768,5 +6768,27 @@
       "Multus",
       "Equus"
     ]
+  },
+  {
+    "date": "2026-03-10",
+    "words": [
+      {
+        "latin": "Visere",
+        "ru": "Осматривать, посещать"
+      },
+      {
+        "latin": "Ius",
+        "ru": "Право, закон"
+      },
+      {
+        "latin": "Saeculum",
+        "ru": "Век, поколение"
+      }
+    ],
+    "reviewed_today": [
+      "Uva",
+      "Disputare",
+      "Violare"
+    ]
   }
 ]

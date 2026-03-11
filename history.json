@@ -6812,5 +6812,27 @@
       "Libenter",
       "Dignus"
     ]
+  },
+  {
+    "date": "2026-03-11",
+    "words": [
+      {
+        "latin": "Vulnus",
+        "ru": "Рана"
+      },
+      {
+        "latin": "Studium",
+        "ru": "Стремление, занятие, наука"
+      },
+      {
+        "latin": "Limen",
+        "ru": "Порог"
+      }
+    ],
+    "reviewed_today": [
+      "Studium",
+      "Vester",
+      "Dulcedo"
+    ]
   }
 ]

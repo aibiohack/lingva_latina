@@ -6856,5 +6856,27 @@
       "Ipse",
       "Legatus"
     ]
+  },
+  {
+    "date": "2026-03-11",
+    "words": [
+      {
+        "latin": "Ducere",
+        "ru": "Вести"
+      },
+      {
+        "latin": "Putare",
+        "ru": "Считать, полагать"
+      },
+      {
+        "latin": "Vero",
+        "ru": "Истинно, но"
+      }
+    ],
+    "reviewed_today": [
+      "Iurare",
+      "Satis",
+      "Annus"
+    ]
   }
 ]

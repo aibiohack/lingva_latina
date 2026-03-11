@@ -6790,5 +6790,27 @@
       "Disputare",
       "Violare"
     ]
+  },
+  {
+    "date": "2026-03-11",
+    "words": [
+      {
+        "latin": "Soror",
+        "ru": "Сестра"
+      },
+      {
+        "latin": "Singulus",
+        "ru": "Одиночный"
+      },
+      {
+        "latin": "Texere",
+        "ru": "Ткать, плести"
+      }
+    ],
+    "reviewed_today": [
+      "Vitium",
+      "Libenter",
+      "Dignus"
+    ]
   }
 ]

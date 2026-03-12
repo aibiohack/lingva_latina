@@ -6944,5 +6944,27 @@
       "Aeternitas",
       "Secundus"
     ]
+  },
+  {
+    "date": "2026-03-12",
+    "words": [
+      {
+        "latin": "Expectare",
+        "ru": "Ожидать"
+      },
+      {
+        "latin": "Situs",
+        "ru": "Положение, место"
+      },
+      {
+        "latin": "Recipere",
+        "ru": "Получать"
+      }
+    ],
+    "reviewed_today": [
+      "Talis",
+      "Ordo",
+      "Sors"
+    ]
   }
 ]

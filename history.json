@@ -6922,5 +6922,27 @@
       "Vocare",
       "Largus"
     ]
+  },
+  {
+    "date": "2026-03-12",
+    "words": [
+      {
+        "latin": "Semel",
+        "ru": "Однажды"
+      },
+      {
+        "latin": "Incendere",
+        "ru": "Зажигать"
+      },
+      {
+        "latin": "Initium",
+        "ru": "Начало"
+      }
+    ],
+    "reviewed_today": [
+      "Velut",
+      "Aeternitas",
+      "Secundus"
+    ]
   }
 ]

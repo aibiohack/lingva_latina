@@ -6900,5 +6900,27 @@
       "Disertus",
       "Fortis"
     ]
+  },
+  {
+    "date": "2026-03-12",
+    "words": [
+      {
+        "latin": "Roma",
+        "ru": "Рим"
+      },
+      {
+        "latin": "Initium",
+        "ru": "Начало"
+      },
+      {
+        "latin": "Urgere",
+        "ru": "Гнать, теснить"
+      }
+    ],
+    "reviewed_today": [
+      "Expectare",
+      "Vocare",
+      "Largus"
+    ]
   }
 ]

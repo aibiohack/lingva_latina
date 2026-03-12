@@ -6878,5 +6878,27 @@
       "Satis",
       "Annus"
     ]
+  },
+  {
+    "date": "2026-03-12",
+    "words": [
+      {
+        "latin": "Contra",
+        "ru": "Против"
+      },
+      {
+        "latin": "Ingenium",
+        "ru": "Природный дар, талант"
+      },
+      {
+        "latin": "Lenis",
+        "ru": "Мягкий, нежный"
+      }
+    ],
+    "reviewed_today": [
+      "Beatus",
+      "Disertus",
+      "Fortis"
+    ]
   }
 ]

@@ -7032,5 +7032,27 @@
       "Mox",
       "Spiritus"
     ]
+  },
+  {
+    "date": "2026-03-13",
+    "words": [
+      {
+        "latin": "Umbra",
+        "ru": "Тень"
+      },
+      {
+        "latin": "Satis",
+        "ru": "Достаточно"
+      },
+      {
+        "latin": "Pro",
+        "ru": "За, вместо"
+      }
+    ],
+    "reviewed_today": [
+      "Rectus",
+      "Recipere",
+      "Vel"
+    ]
   }
 ]

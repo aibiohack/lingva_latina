@@ -6988,5 +6988,27 @@
       "Miser",
       "Dives"
     ]
+  },
+  {
+    "date": "2026-03-13",
+    "words": [
+      {
+        "latin": "Iudicium",
+        "ru": "Суд, суждение"
+      },
+      {
+        "latin": "Persona",
+        "ru": "Личность"
+      },
+      {
+        "latin": "Scribere",
+        "ru": "Писать"
+      }
+    ],
+    "reviewed_today": [
+      "Donum",
+      "Servus",
+      "Claudere"
+    ]
   }
 ]

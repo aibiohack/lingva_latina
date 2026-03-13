@@ -6966,5 +6966,27 @@
       "Ordo",
       "Sors"
     ]
+  },
+  {
+    "date": "2026-03-13",
+    "words": [
+      {
+        "latin": "Iudicium",
+        "ru": "Суд, суждение"
+      },
+      {
+        "latin": "Iacere",
+        "ru": "Бросать, кидать"
+      },
+      {
+        "latin": "Inimicus",
+        "ru": "Недруг, личный враг"
+      }
+    ],
+    "reviewed_today": [
+      "Umerus",
+      "Miser",
+      "Dives"
+    ]
   }
 ]

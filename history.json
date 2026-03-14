@@ -7076,5 +7076,27 @@
       "Totus",
       "Terribilis"
     ]
+  },
+  {
+    "date": "2026-03-14",
+    "words": [
+      {
+        "latin": "Triginta",
+        "ru": "Тридцать"
+      },
+      {
+        "latin": "Durare",
+        "ru": "Длиться, закалять"
+      },
+      {
+        "latin": "Legio",
+        "ru": "Легион"
+      }
+    ],
+    "reviewed_today": [
+      "Maxime",
+      "Vestigium",
+      "Utinam"
+    ]
   }
 ]

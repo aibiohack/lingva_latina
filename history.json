@@ -7120,5 +7120,27 @@
       "Luna",
       "Orbis"
     ]
+  },
+  {
+    "date": "2026-03-14",
+    "words": [
+      {
+        "latin": "Durus",
+        "ru": "Твердый"
+      },
+      {
+        "latin": "Ibi",
+        "ru": "Там"
+      },
+      {
+        "latin": "Miser",
+        "ru": "Жалкий, несчастный"
+      }
+    ],
+    "reviewed_today": [
+      "Turris",
+      "Patria",
+      "Dives"
+    ]
   }
 ]

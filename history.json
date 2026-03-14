@@ -7054,5 +7054,27 @@
       "Recipere",
       "Vel"
     ]
+  },
+  {
+    "date": "2026-03-14",
+    "words": [
+      {
+        "latin": "Ille",
+        "ru": "Тот, он"
+      },
+      {
+        "latin": "Vituperare",
+        "ru": "Ругать"
+      },
+      {
+        "latin": "Vestis",
+        "ru": "Одежда"
+      }
+    ],
+    "reviewed_today": [
+      "Villa",
+      "Totus",
+      "Terribilis"
+    ]
   }
 ]

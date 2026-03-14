@@ -7098,5 +7098,27 @@
       "Vestigium",
       "Utinam"
     ]
+  },
+  {
+    "date": "2026-03-14",
+    "words": [
+      {
+        "latin": "Charta",
+        "ru": "Бумага, лист"
+      },
+      {
+        "latin": "Sol",
+        "ru": "Солнце"
+      },
+      {
+        "latin": "Hinc",
+        "ru": "Отсюда"
+      }
+    ],
+    "reviewed_today": [
+      "Aurum",
+      "Luna",
+      "Orbis"
+    ]
   }
 ]

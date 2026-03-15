@@ -7164,5 +7164,27 @@
       "Tenebrae",
       "Ignis"
     ]
+  },
+  {
+    "date": "2026-03-15",
+    "words": [
+      {
+        "latin": "Fama",
+        "ru": "Молва, слух"
+      },
+      {
+        "latin": "Morari",
+        "ru": "Медлить, задерживаться"
+      },
+      {
+        "latin": "Materia",
+        "ru": "Вещество, материя"
+      }
+    ],
+    "reviewed_today": [
+      "Gratia",
+      "Gens",
+      "Tam"
+    ]
   }
 ]

@@ -7142,5 +7142,27 @@
       "Patria",
       "Dives"
     ]
+  },
+  {
+    "date": "2026-03-15",
+    "words": [
+      {
+        "latin": "Littera",
+        "ru": "Буква, (мн.ч.) письмо"
+      },
+      {
+        "latin": "Novus",
+        "ru": "Новый"
+      },
+      {
+        "latin": "Suspicio",
+        "ru": "Подозрение"
+      }
+    ],
+    "reviewed_today": [
+      "Unus",
+      "Tenebrae",
+      "Ignis"
+    ]
   }
 ]

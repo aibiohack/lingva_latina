@@ -7208,5 +7208,27 @@
       "Foedus",
       "Sors"
     ]
+  },
+  {
+    "date": "2026-03-15",
+    "words": [
+      {
+        "latin": "Incendere",
+        "ru": "Зажигать"
+      },
+      {
+        "latin": "Bestia",
+        "ru": "Зверь, животное"
+      },
+      {
+        "latin": "Instruere",
+        "ru": "Наставлять, возводить"
+      }
+    ],
+    "reviewed_today": [
+      "Umerus",
+      "Convivium",
+      "Angelus"
+    ]
   }
 ]

@@ -7274,5 +7274,27 @@
       "Fons",
       "Confirmare"
     ]
+  },
+  {
+    "date": "2026-03-16",
+    "words": [
+      {
+        "latin": "Tangere",
+        "ru": "Трогать, касаться"
+      },
+      {
+        "latin": "Canis",
+        "ru": "Собака"
+      },
+      {
+        "latin": "Aeternitas",
+        "ru": "Вечность"
+      }
+    ],
+    "reviewed_today": [
+      "Tranquillitas",
+      "Oculus",
+      "Late"
+    ]
   }
 ]

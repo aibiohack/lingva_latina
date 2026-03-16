@@ -7230,5 +7230,27 @@
       "Convivium",
       "Angelus"
     ]
+  },
+  {
+    "date": "2026-03-16",
+    "words": [
+      {
+        "latin": "Certe",
+        "ru": "Наверняка, конечно"
+      },
+      {
+        "latin": "Veho",
+        "ru": "Везу"
+      },
+      {
+        "latin": "Gloria",
+        "ru": "Слава"
+      }
+    ],
+    "reviewed_today": [
+      "Respondere",
+      "Schola",
+      "Servus"
+    ]
   }
 ]

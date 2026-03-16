@@ -7296,5 +7296,27 @@
       "Oculus",
       "Late"
     ]
+  },
+  {
+    "date": "2026-03-16",
+    "words": [
+      {
+        "latin": "Solus",
+        "ru": "Один, единственный"
+      },
+      {
+        "latin": "Diabolus",
+        "ru": "Дьявол"
+      },
+      {
+        "latin": "Remus",
+        "ru": "Весло"
+      }
+    ],
+    "reviewed_today": [
+      "Delectare",
+      "Videre",
+      "Ludus"
+    ]
   }
 ]

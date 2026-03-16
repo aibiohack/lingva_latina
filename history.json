@@ -7252,5 +7252,27 @@
       "Schola",
       "Servus"
     ]
+  },
+  {
+    "date": "2026-03-16",
+    "words": [
+      {
+        "latin": "Felix",
+        "ru": "Счастливый"
+      },
+      {
+        "latin": "Sacerdos",
+        "ru": "Жрец, священник"
+      },
+      {
+        "latin": "Vel",
+        "ru": "Или, даже"
+      }
+    ],
+    "reviewed_today": [
+      "Gaudere",
+      "Fons",
+      "Confirmare"
+    ]
   }
 ]

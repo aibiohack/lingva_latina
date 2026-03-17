@@ -7318,5 +7318,27 @@
       "Videre",
       "Ludus"
     ]
+  },
+  {
+    "date": "2026-03-17",
+    "words": [
+      {
+        "latin": "Simul",
+        "ru": "Одновременно, вместе"
+      },
+      {
+        "latin": "Visere",
+        "ru": "Осматривать, посещать"
+      },
+      {
+        "latin": "Tollere",
+        "ru": "Поднимать, уничтожать"
+      }
+    ],
+    "reviewed_today": [
+      "Ille",
+      "Verber",
+      "Templum"
+    ]
   }
 ]

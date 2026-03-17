@@ -7362,5 +7362,27 @@
       "Error",
       "Vix"
     ]
+  },
+  {
+    "date": "2026-03-17",
+    "words": [
+      {
+        "latin": "Vicis",
+        "ru": "Перемена, очередь"
+      },
+      {
+        "latin": "Ille",
+        "ru": "Тот, он"
+      },
+      {
+        "latin": "Celer",
+        "ru": "Быстрый"
+      }
+    ],
+    "reviewed_today": [
+      "Sarcina",
+      "Tertius",
+      "Taurus"
+    ]
   }
 ]

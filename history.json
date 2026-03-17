@@ -7340,5 +7340,27 @@
       "Verber",
       "Templum"
     ]
+  },
+  {
+    "date": "2026-03-17",
+    "words": [
+      {
+        "latin": "Sino",
+        "ru": "Позволять, оставлять"
+      },
+      {
+        "latin": "Repetere",
+        "ru": "Повторять, требовать назад"
+      },
+      {
+        "latin": "Vigilare",
+        "ru": "Бодрствовать"
+      }
+    ],
+    "reviewed_today": [
+      "Venenum",
+      "Error",
+      "Vix"
+    ]
   }
 ]

@@ -7406,5 +7406,27 @@
       "Dedico",
       "Scientia"
     ]
+  },
+  {
+    "date": "2026-03-18",
+    "words": [
+      {
+        "latin": "Difficilis",
+        "ru": "Трудный"
+      },
+      {
+        "latin": "Iucundus",
+        "ru": "Приятный"
+      },
+      {
+        "latin": "Gignere",
+        "ru": "Рождать, производить"
+      }
+    ],
+    "reviewed_today": [
+      "Ut",
+      "Tradere",
+      "Conditio"
+    ]
   }
 ]

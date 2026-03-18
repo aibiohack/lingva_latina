@@ -7428,5 +7428,27 @@
       "Tradere",
       "Conditio"
     ]
+  },
+  {
+    "date": "2026-03-18",
+    "words": [
+      {
+        "latin": "Exercitus",
+        "ru": "Войско"
+      },
+      {
+        "latin": "Desistere",
+        "ru": "Прекращать, отступать"
+      },
+      {
+        "latin": "Harena",
+        "ru": "Песок, арена"
+      }
+    ],
+    "reviewed_today": [
+      "Sal",
+      "Fragilis",
+      "Umquam"
+    ]
   }
 ]

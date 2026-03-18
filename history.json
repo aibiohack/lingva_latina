@@ -7450,5 +7450,27 @@
       "Fragilis",
       "Umquam"
     ]
+  },
+  {
+    "date": "2026-03-18",
+    "words": [
+      {
+        "latin": "Servire",
+        "ru": "Служить"
+      },
+      {
+        "latin": "Ambulare",
+        "ru": "Гулять, ходить"
+      },
+      {
+        "latin": "Insula",
+        "ru": "Остров"
+      }
+    ],
+    "reviewed_today": [
+      "Monere",
+      "Viridis",
+      "Terribilis"
+    ]
   }
 ]

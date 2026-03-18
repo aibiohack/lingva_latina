@@ -7472,5 +7472,27 @@
       "Viridis",
       "Terribilis"
     ]
+  },
+  {
+    "date": "2026-03-18",
+    "words": [
+      {
+        "latin": "Spectare",
+        "ru": "Смотреть, созерцать"
+      },
+      {
+        "latin": "Servitus",
+        "ru": "Рабство"
+      },
+      {
+        "latin": "Sermo",
+        "ru": "Речь, беседа"
+      }
+    ],
+    "reviewed_today": [
+      "Debeo",
+      "Ingens",
+      "Victor"
+    ]
   }
 ]

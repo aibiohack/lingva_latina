@@ -7560,5 +7560,27 @@
       "Ducenti",
       "Membrum"
     ]
+  },
+  {
+    "date": "2026-03-19",
+    "words": [
+      {
+        "latin": "Herba",
+        "ru": "Трава"
+      },
+      {
+        "latin": "Vastus",
+        "ru": "Огромный, пустой"
+      },
+      {
+        "latin": "Barbarus",
+        "ru": "Чужеземец, варвар"
+      }
+    ],
+    "reviewed_today": [
+      "Porta",
+      "Stilus",
+      "Ambulare"
+    ]
   }
 ]

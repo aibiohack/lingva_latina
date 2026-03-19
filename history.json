@@ -7494,5 +7494,27 @@
       "Ingens",
       "Victor"
     ]
+  },
+  {
+    "date": "2026-03-19",
+    "words": [
+      {
+        "latin": "Tribuere",
+        "ru": "Назначать, воздавать"
+      },
+      {
+        "latin": "Impedire",
+        "ru": "Мешать, препятствовать"
+      },
+      {
+        "latin": "Servire",
+        "ru": "Служить"
+      }
+    ],
+    "reviewed_today": [
+      "Ultra",
+      "Saeculum",
+      "Littera"
+    ]
   }
 ]

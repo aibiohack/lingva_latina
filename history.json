@@ -7538,5 +7538,27 @@
       "Tremere",
       "Ridere"
     ]
+  },
+  {
+    "date": "2026-03-19",
+    "words": [
+      {
+        "latin": "Tibia",
+        "ru": "Флейта, голень"
+      },
+      {
+        "latin": "Gignere",
+        "ru": "Рождать, производить"
+      },
+      {
+        "latin": "Talis",
+        "ru": "Такой"
+      }
+    ],
+    "reviewed_today": [
+      "Liber",
+      "Ducenti",
+      "Membrum"
+    ]
   }
 ]

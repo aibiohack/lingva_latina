@@ -7516,5 +7516,27 @@
       "Saeculum",
       "Littera"
     ]
+  },
+  {
+    "date": "2026-03-19",
+    "words": [
+      {
+        "latin": "Statua",
+        "ru": "Статуя"
+      },
+      {
+        "latin": "Lapis",
+        "ru": "Камень"
+      },
+      {
+        "latin": "Innocens",
+        "ru": "Невинный"
+      }
+    ],
+    "reviewed_today": [
+      "Alius",
+      "Tremere",
+      "Ridere"
+    ]
   }
 ]

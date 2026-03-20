@@ -7626,5 +7626,27 @@
       "Ut",
       "Foedus"
     ]
+  },
+  {
+    "date": "2026-03-20",
+    "words": [
+      {
+        "latin": "Doctus",
+        "ru": "Ученый"
+      },
+      {
+        "latin": "Colere",
+        "ru": "Возделывать, почитать"
+      },
+      {
+        "latin": "Stella",
+        "ru": "Звезда"
+      }
+    ],
+    "reviewed_today": [
+      "Alius",
+      "Templum",
+      "Horrere"
+    ]
   }
 ]

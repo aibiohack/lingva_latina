@@ -7648,5 +7648,27 @@
       "Templum",
       "Horrere"
     ]
+  },
+  {
+    "date": "2026-03-20",
+    "words": [
+      {
+        "latin": "Cena",
+        "ru": "Обед"
+      },
+      {
+        "latin": "Colloquium",
+        "ru": "Разговор, беседа"
+      },
+      {
+        "latin": "Titulus",
+        "ru": "Надпись, почетное звание"
+      }
+    ],
+    "reviewed_today": [
+      "Saepe",
+      "Lingua",
+      "Ignoscerе"
+    ]
   }
 ]

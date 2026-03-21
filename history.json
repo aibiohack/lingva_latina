@@ -7692,5 +7692,27 @@
       "Ter",
       "Disertus"
     ]
+  },
+  {
+    "date": "2026-03-21",
+    "words": [
+      {
+        "latin": "Vetus",
+        "ru": "Старый"
+      },
+      {
+        "latin": "Verbum",
+        "ru": "Слово"
+      },
+      {
+        "latin": "Fides",
+        "ru": "Вера"
+      }
+    ],
+    "reviewed_today": [
+      "Constituere",
+      "Tolerare",
+      "Scribere"
+    ]
   }
 ]

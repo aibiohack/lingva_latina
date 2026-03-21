@@ -7670,5 +7670,27 @@
       "Lingua",
       "Ignoscerе"
     ]
+  },
+  {
+    "date": "2026-03-21",
+    "words": [
+      {
+        "latin": "Ferrum",
+        "ru": "Железо"
+      },
+      {
+        "latin": "Turpis",
+        "ru": "Позорный, безобразный"
+      },
+      {
+        "latin": "Dexter",
+        "ru": "Правый"
+      }
+    ],
+    "reviewed_today": [
+      "Triduum",
+      "Ter",
+      "Disertus"
+    ]
   }
 ]

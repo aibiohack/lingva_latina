@@ -7714,5 +7714,27 @@
       "Tolerare",
       "Scribere"
     ]
+  },
+  {
+    "date": "2026-03-21",
+    "words": [
+      {
+        "latin": "Iudicium",
+        "ru": "Суд, суждение"
+      },
+      {
+        "latin": "Venus",
+        "ru": "Любовь, Венера"
+      },
+      {
+        "latin": "Hostis",
+        "ru": "Враг"
+      }
+    ],
+    "reviewed_today": [
+      "Remus",
+      "Ubi",
+      "Scelus"
+    ]
   }
 ]

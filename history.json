@@ -7802,5 +7802,27 @@
       "Telum",
       "Medius"
     ]
+  },
+  {
+    "date": "2026-03-22",
+    "words": [
+      {
+        "latin": "Aureus",
+        "ru": "Золотой"
+      },
+      {
+        "latin": "Volare",
+        "ru": "Летать"
+      },
+      {
+        "latin": "Dexter",
+        "ru": "Правый"
+      }
+    ],
+    "reviewed_today": [
+      "Imago",
+      "Uterque",
+      "Finis"
+    ]
   }
 ]

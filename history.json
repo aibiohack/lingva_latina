@@ -7758,5 +7758,27 @@
       "Aliquis",
       "Habitare"
     ]
+  },
+  {
+    "date": "2026-03-22",
+    "words": [
+      {
+        "latin": "Cedere",
+        "ru": "Идти, уступать"
+      },
+      {
+        "latin": "Manere",
+        "ru": "Оставаться"
+      },
+      {
+        "latin": "Somnus",
+        "ru": "Сон"
+      }
+    ],
+    "reviewed_today": [
+      "Sarcina",
+      "Tradere",
+      "Regnum"
+    ]
   }
 ]

@@ -7780,5 +7780,27 @@
       "Tradere",
       "Regnum"
     ]
+  },
+  {
+    "date": "2026-03-22",
+    "words": [
+      {
+        "latin": "Vulnus",
+        "ru": "Рана"
+      },
+      {
+        "latin": "Lex",
+        "ru": "Закон"
+      },
+      {
+        "latin": "Fenestra",
+        "ru": "Окно"
+      }
+    ],
+    "reviewed_today": [
+      "Sanguis",
+      "Telum",
+      "Medius"
+    ]
   }
 ]

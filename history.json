@@ -7890,5 +7890,27 @@
       "Metus",
       "Aevum"
     ]
+  },
+  {
+    "date": "2026-03-23",
+    "words": [
+      {
+        "latin": "Supplex",
+        "ru": "Молящий, покорный"
+      },
+      {
+        "latin": "Cantare",
+        "ru": "Петь"
+      },
+      {
+        "latin": "Uva",
+        "ru": "Виноград"
+      }
+    ],
+    "reviewed_today": [
+      "Doctrina",
+      "Nullus",
+      "Infans"
+    ]
   }
 ]

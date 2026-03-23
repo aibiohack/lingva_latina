@@ -7846,5 +7846,27 @@
       "Vox",
       "Solus"
     ]
+  },
+  {
+    "date": "2026-03-23",
+    "words": [
+      {
+        "latin": "Veritas",
+        "ru": "Истина"
+      },
+      {
+        "latin": "Respondere",
+        "ru": "Отвечать"
+      },
+      {
+        "latin": "Amoenus",
+        "ru": "Приятный, прелестный"
+      }
+    ],
+    "reviewed_today": [
+      "Iniquus",
+      "Ripa",
+      "Dens"
+    ]
   }
 ]

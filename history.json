@@ -7868,5 +7868,27 @@
       "Ripa",
       "Dens"
     ]
+  },
+  {
+    "date": "2026-03-23",
+    "words": [
+      {
+        "latin": "Censeo",
+        "ru": "Полагаю, считаю"
+      },
+      {
+        "latin": "Subito",
+        "ru": "Внезапно"
+      },
+      {
+        "latin": "Beatus",
+        "ru": "Счастливый, блаженный"
+      }
+    ],
+    "reviewed_today": [
+      "Facinus",
+      "Metus",
+      "Aevum"
+    ]
   }
 ]

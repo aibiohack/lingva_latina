@@ -7912,5 +7912,27 @@
       "Nullus",
       "Infans"
     ]
+  },
+  {
+    "date": "2026-03-23",
+    "words": [
+      {
+        "latin": "Filia",
+        "ru": "Дочь"
+      },
+      {
+        "latin": "Iungera",
+        "ru": "Соединять"
+      },
+      {
+        "latin": "Signum",
+        "ru": "Знак, знамя"
+      }
+    ],
+    "reviewed_today": [
+      "Inter",
+      "Species",
+      "Tuba"
+    ]
   }
 ]

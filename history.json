@@ -7956,5 +7956,27 @@
       "Turpis",
       "Laborare"
     ]
+  },
+  {
+    "date": "2026-03-24",
+    "words": [
+      {
+        "latin": "Doctrina",
+        "ru": "Учение, наука"
+      },
+      {
+        "latin": "Cotidie",
+        "ru": "Ежедневно"
+      },
+      {
+        "latin": "Spiritus",
+        "ru": "Дух"
+      }
+    ],
+    "reviewed_today": [
+      "Fama",
+      "Barbarus",
+      "Arbor"
+    ]
   }
 ]

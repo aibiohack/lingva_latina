@@ -7934,5 +7934,27 @@
       "Species",
       "Tuba"
     ]
+  },
+  {
+    "date": "2026-03-24",
+    "words": [
+      {
+        "latin": "Spes",
+        "ru": "Надежда"
+      },
+      {
+        "latin": "Sanguis",
+        "ru": "Кровь"
+      },
+      {
+        "latin": "Tendere",
+        "ru": "Натягивать, стремиться"
+      }
+    ],
+    "reviewed_today": [
+      "Currere",
+      "Turpis",
+      "Laborare"
+    ]
   }
 ]

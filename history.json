@@ -8000,5 +8000,27 @@
       "Gaudium",
       "Servus"
     ]
+  },
+  {
+    "date": "2026-03-24",
+    "words": [
+      {
+        "latin": "Lex",
+        "ru": "Закон"
+      },
+      {
+        "latin": "Vestis",
+        "ru": "Одежда"
+      },
+      {
+        "latin": "Tollere",
+        "ru": "Поднимать, уничтожать"
+      }
+    ],
+    "reviewed_today": [
+      "Reus",
+      "Tueri",
+      "Semel"
+    ]
   }
 ]

@@ -8022,5 +8022,27 @@
       "Tueri",
       "Semel"
     ]
+  },
+  {
+    "date": "2026-03-25",
+    "words": [
+      {
+        "latin": "Venari",
+        "ru": "Охотиться"
+      },
+      {
+        "latin": "Fulmen",
+        "ru": "Молния"
+      },
+      {
+        "latin": "Manere",
+        "ru": "Оставаться"
+      }
+    ],
+    "reviewed_today": [
+      "Discere",
+      "Tenebrae",
+      "Sacer"
+    ]
   }
 ]

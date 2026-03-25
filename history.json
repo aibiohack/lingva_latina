@@ -8044,5 +8044,27 @@
       "Tenebrae",
       "Sacer"
     ]
+  },
+  {
+    "date": "2026-03-25",
+    "words": [
+      {
+        "latin": "Insula",
+        "ru": "Остров"
+      },
+      {
+        "latin": "Vicinus",
+        "ru": "Сосед"
+      },
+      {
+        "latin": "Tacere",
+        "ru": "Молчать"
+      }
+    ],
+    "reviewed_today": [
+      "Ingens",
+      "Laus",
+      "Senectus"
+    ]
   }
 ]

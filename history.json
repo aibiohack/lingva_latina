@@ -8088,5 +8088,27 @@
       "Clemens",
       "Summa"
     ]
+  },
+  {
+    "date": "2026-03-25",
+    "words": [
+      {
+        "latin": "Sapiens",
+        "ru": "Мудрый, разумный"
+      },
+      {
+        "latin": "Sitire",
+        "ru": "Жаждать"
+      },
+      {
+        "latin": "Laus",
+        "ru": "Похвала, слава"
+      }
+    ],
+    "reviewed_today": [
+      "Morari",
+      "Magister",
+      "Fere"
+    ]
   }
 ]

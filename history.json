@@ -8154,5 +8154,27 @@
       "Tardus",
       "Late"
     ]
+  },
+  {
+    "date": "2026-03-26",
+    "words": [
+      {
+        "latin": "Tenebrae",
+        "ru": "Мрак, тьма"
+      },
+      {
+        "latin": "Innocens",
+        "ru": "Невинный"
+      },
+      {
+        "latin": "Fructus",
+        "ru": "Плод, доход"
+      }
+    ],
+    "reviewed_today": [
+      "Vicus",
+      "Trabs",
+      "Telum"
+    ]
   }
 ]

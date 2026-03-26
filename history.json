@@ -8132,5 +8132,27 @@
       "Ars",
       "Radix"
     ]
+  },
+  {
+    "date": "2026-03-26",
+    "words": [
+      {
+        "latin": "Custos",
+        "ru": "Страж"
+      },
+      {
+        "latin": "Antiquus",
+        "ru": "Древний, старинный"
+      },
+      {
+        "latin": "Terror",
+        "ru": "Ужас, страх"
+      }
+    ],
+    "reviewed_today": [
+      "Sanguis",
+      "Tardus",
+      "Late"
+    ]
   }
 ]

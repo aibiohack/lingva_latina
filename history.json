@@ -8110,5 +8110,27 @@
       "Magister",
       "Fere"
     ]
+  },
+  {
+    "date": "2026-03-26",
+    "words": [
+      {
+        "latin": "Totus",
+        "ru": "Весь, целый"
+      },
+      {
+        "latin": "Hinc",
+        "ru": "Отсюда"
+      },
+      {
+        "latin": "Doctus",
+        "ru": "Ученый"
+      }
+    ],
+    "reviewed_today": [
+      "Sententia",
+      "Ars",
+      "Radix"
+    ]
   }
 ]

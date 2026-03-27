@@ -8198,5 +8198,27 @@
       "Mutare",
       "Amare"
     ]
+  },
+  {
+    "date": "2026-03-27",
+    "words": [
+      {
+        "latin": "Tardus",
+        "ru": "Медленный"
+      },
+      {
+        "latin": "Gaudere",
+        "ru": "Радоваться"
+      },
+      {
+        "latin": "Vale",
+        "ru": "Прощай, будь здоров"
+      }
+    ],
+    "reviewed_today": [
+      "Angelus",
+      "Epistula",
+      "Terere"
+    ]
   }
 ]

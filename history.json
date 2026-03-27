@@ -8220,5 +8220,27 @@
       "Epistula",
       "Terere"
     ]
+  },
+  {
+    "date": "2026-03-27",
+    "words": [
+      {
+        "latin": "Similis",
+        "ru": "Похожий"
+      },
+      {
+        "latin": "Atque",
+        "ru": "А также, и"
+      },
+      {
+        "latin": "Solus",
+        "ru": "Один, единственный"
+      }
+    ],
+    "reviewed_today": [
+      "Virgo",
+      "Levis",
+      "Pars"
+    ]
   }
 ]

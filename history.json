@@ -8264,5 +8264,27 @@
       "Creare",
       "Fragilis"
     ]
+  },
+  {
+    "date": "2026-03-27",
+    "words": [
+      {
+        "latin": "Post",
+        "ru": "После"
+      },
+      {
+        "latin": "Certe",
+        "ru": "Конечно"
+      },
+      {
+        "latin": "Rus",
+        "ru": "Деревня, поместье"
+      }
+    ],
+    "reviewed_today": [
+      "Publicus",
+      "Tamen",
+      "Triduum"
+    ]
   }
 ]

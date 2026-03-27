@@ -8242,5 +8242,27 @@
       "Levis",
       "Pars"
     ]
+  },
+  {
+    "date": "2026-03-27",
+    "words": [
+      {
+        "latin": "Civilis",
+        "ru": "Гражданский"
+      },
+      {
+        "latin": "Utique",
+        "ru": "Во всяком случае, особенно"
+      },
+      {
+        "latin": "Audax",
+        "ru": "Смелый, дерзкий"
+      }
+    ],
+    "reviewed_today": [
+      "Duo",
+      "Creare",
+      "Fragilis"
+    ]
   }
 ]

@@ -8352,5 +8352,27 @@
       "Etiam",
       "Sitire"
     ]
+  },
+  {
+    "date": "2026-03-28",
+    "words": [
+      {
+        "latin": "Disputare",
+        "ru": "Рассуждать, спорить"
+      },
+      {
+        "latin": "Inquit",
+        "ru": "Говорит (вводное)"
+      },
+      {
+        "latin": "Petere",
+        "ru": "Просить, стремиться"
+      }
+    ],
+    "reviewed_today": [
+      "Senatus",
+      "Tardus",
+      "Flumen"
+    ]
   }
 ]

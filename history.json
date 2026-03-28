@@ -8330,5 +8330,27 @@
       "Totus",
       "Sonus"
     ]
+  },
+  {
+    "date": "2026-03-28",
+    "words": [
+      {
+        "latin": "Virgo",
+        "ru": "Девушка, дева"
+      },
+      {
+        "latin": "Parare",
+        "ru": "Готовить"
+      },
+      {
+        "latin": "Tradere",
+        "ru": "Передавать, предавать"
+      }
+    ],
+    "reviewed_today": [
+      "Vero",
+      "Etiam",
+      "Sitire"
+    ]
   }
 ]

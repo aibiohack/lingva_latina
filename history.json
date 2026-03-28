@@ -8308,5 +8308,27 @@
       "Victor",
       "Togatus"
     ]
+  },
+  {
+    "date": "2026-03-28",
+    "words": [
+      {
+        "latin": "Frigus",
+        "ru": "Холод, мороз"
+      },
+      {
+        "latin": "Claudere",
+        "ru": "Закрывать"
+      },
+      {
+        "latin": "Socius",
+        "ru": "Союзник"
+      }
+    ],
+    "reviewed_today": [
+      "Iterum",
+      "Totus",
+      "Sonus"
+    ]
   }
 ]

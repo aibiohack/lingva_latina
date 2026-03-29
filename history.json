@@ -8440,5 +8440,27 @@
       "Caelum",
       "Domus"
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "words": [
+      {
+        "latin": "Gerere",
+        "ru": "Вести, совершать"
+      },
+      {
+        "latin": "Tabula",
+        "ru": "Доска, таблица, картина"
+      },
+      {
+        "latin": "Totus",
+        "ru": "Весь, целый"
+      }
+    ],
+    "reviewed_today": [
+      "Etiam",
+      "Imago",
+      "Vigilia"
+    ]
   }
 ]

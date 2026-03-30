@@ -8484,5 +8484,27 @@
       "Villa",
       "Arma"
     ]
+  },
+  {
+    "date": "2026-03-30",
+    "words": [
+      {
+        "latin": "Villa",
+        "ru": "Вилла, усадьба"
+      },
+      {
+        "latin": "Sors",
+        "ru": "Жребий, судьба"
+      },
+      {
+        "latin": "Super",
+        "ru": "Над"
+      }
+    ],
+    "reviewed_today": [
+      "Solium",
+      "Rus",
+      "Epistula"
+    ]
   }
 ]

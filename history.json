@@ -8462,5 +8462,27 @@
       "Imago",
       "Vigilia"
     ]
+  },
+  {
+    "date": "2026-03-30",
+    "words": [
+      {
+        "latin": "Ventus",
+        "ru": "Ветер"
+      },
+      {
+        "latin": "Veritas",
+        "ru": "Истина"
+      },
+      {
+        "latin": "Vindicare",
+        "ru": "Заявлять права, мстить"
+      }
+    ],
+    "reviewed_today": [
+      "Longus",
+      "Villa",
+      "Arma"
+    ]
   }
 ]

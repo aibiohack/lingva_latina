@@ -8616,5 +8616,27 @@
       "Error",
       "Apud"
     ]
+  },
+  {
+    "date": "2026-03-31",
+    "words": [
+      {
+        "latin": "Sic",
+        "ru": "Так"
+      },
+      {
+        "latin": "Quid",
+        "ru": "Что"
+      },
+      {
+        "latin": "Cotidie",
+        "ru": "Ежедневно"
+      }
+    ],
+    "reviewed_today": [
+      "Historia",
+      "Arma",
+      "Iudex"
+    ]
   }
 ]

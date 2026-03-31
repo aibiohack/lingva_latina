@@ -8572,5 +8572,27 @@
       "Tendere",
       "Parare"
     ]
+  },
+  {
+    "date": "2026-03-31",
+    "words": [
+      {
+        "latin": "Sum",
+        "ru": "Я есмь (быть)"
+      },
+      {
+        "latin": "Aurum",
+        "ru": "Золото"
+      },
+      {
+        "latin": "Disciplina",
+        "ru": "Обучение, порядок"
+      }
+    ],
+    "reviewed_today": [
+      "Fragilis",
+      "Aevum",
+      "Laudare"
+    ]
   }
 ]

@@ -8594,5 +8594,27 @@
       "Aevum",
       "Laudare"
     ]
+  },
+  {
+    "date": "2026-03-31",
+    "words": [
+      {
+        "latin": "Tres",
+        "ru": "Три"
+      },
+      {
+        "latin": "Vetus",
+        "ru": "Старый"
+      },
+      {
+        "latin": "Externus",
+        "ru": "Внешний, чужой"
+      }
+    ],
+    "reviewed_today": [
+      "Laborare",
+      "Error",
+      "Apud"
+    ]
   }
 ]

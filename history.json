@@ -8550,5 +8550,27 @@
       "Sapientia",
       "Credere"
     ]
+  },
+  {
+    "date": "2026-03-31",
+    "words": [
+      {
+        "latin": "Taurus",
+        "ru": "Бык"
+      },
+      {
+        "latin": "Silva",
+        "ru": "Лес"
+      },
+      {
+        "latin": "Dives",
+        "ru": "Богатый"
+      }
+    ],
+    "reviewed_today": [
+      "Alius",
+      "Tendere",
+      "Parare"
+    ]
   }
 ]

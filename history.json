@@ -8660,5 +8660,27 @@
       "Lenis",
       "Littera"
     ]
+  },
+  {
+    "date": "2026-04-01",
+    "words": [
+      {
+        "latin": "Flere",
+        "ru": "Плакать"
+      },
+      {
+        "latin": "Sedere",
+        "ru": "Сидеть"
+      },
+      {
+        "latin": "Iubere",
+        "ru": "Приказывать"
+      }
+    ],
+    "reviewed_today": [
+      "Pone",
+      "Facies",
+      "Vacuus"
+    ]
   }
 ]

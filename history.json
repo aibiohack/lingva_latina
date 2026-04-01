@@ -8682,5 +8682,27 @@
       "Facies",
       "Vacuus"
     ]
+  },
+  {
+    "date": "2026-04-01",
+    "words": [
+      {
+        "latin": "Verus",
+        "ru": "Истинный"
+      },
+      {
+        "latin": "Singulus",
+        "ru": "Одиночный"
+      },
+      {
+        "latin": "Dignus",
+        "ru": "Достойный"
+      }
+    ],
+    "reviewed_today": [
+      "Vetustus",
+      "Decidere",
+      "Nuntius"
+    ]
   }
 ]

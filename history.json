@@ -8638,5 +8638,27 @@
       "Arma",
       "Iudex"
     ]
+  },
+  {
+    "date": "2026-04-01",
+    "words": [
+      {
+        "latin": "Magis",
+        "ru": "Более"
+      },
+      {
+        "latin": "Urbs",
+        "ru": "Город"
+      },
+      {
+        "latin": "Lacrima",
+        "ru": "Слеза"
+      }
+    ],
+    "reviewed_today": [
+      "Totus",
+      "Lenis",
+      "Littera"
+    ]
   }
 ]

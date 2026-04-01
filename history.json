@@ -8704,5 +8704,27 @@
       "Decidere",
       "Nuntius"
     ]
+  },
+  {
+    "date": "2026-04-01",
+    "words": [
+      {
+        "latin": "Soror",
+        "ru": "Сестра"
+      },
+      {
+        "latin": "Semper",
+        "ru": "Всегда"
+      },
+      {
+        "latin": "Omnis",
+        "ru": "Весь"
+      }
+    ],
+    "reviewed_today": [
+      "Temptare",
+      "Instruere",
+      "Invidia"
+    ]
   }
 ]

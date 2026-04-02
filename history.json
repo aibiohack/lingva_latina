@@ -8748,5 +8748,27 @@
       "Versari",
       "Solium"
     ]
+  },
+  {
+    "date": "2026-04-02",
+    "words": [
+      {
+        "latin": "Servire",
+        "ru": "Служить"
+      },
+      {
+        "latin": "Insula",
+        "ru": "Остров"
+      },
+      {
+        "latin": "Suus",
+        "ru": "Свой"
+      }
+    ],
+    "reviewed_today": [
+      "Tenuis",
+      "Ceterus",
+      "Legatus"
+    ]
   }
 ]

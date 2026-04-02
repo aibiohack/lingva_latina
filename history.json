@@ -8726,5 +8726,27 @@
       "Instruere",
       "Invidia"
     ]
+  },
+  {
+    "date": "2026-04-02",
+    "words": [
+      {
+        "latin": "Celer",
+        "ru": "Быстрый"
+      },
+      {
+        "latin": "Defendere",
+        "ru": "Защищать"
+      },
+      {
+        "latin": "Hortus",
+        "ru": "Сад"
+      }
+    ],
+    "reviewed_today": [
+      "Putare",
+      "Versari",
+      "Solium"
+    ]
   }
 ]

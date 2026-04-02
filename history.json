@@ -8792,5 +8792,27 @@
       "Facilis",
       "Multitudo"
     ]
+  },
+  {
+    "date": "2026-04-02",
+    "words": [
+      {
+        "latin": "Radix",
+        "ru": "Корень"
+      },
+      {
+        "latin": "Stultus",
+        "ru": "Глупый"
+      },
+      {
+        "latin": "Invenire",
+        "ru": "Находить"
+      }
+    ],
+    "reviewed_today": [
+      "Epistula",
+      "Sinister",
+      "Sub"
+    ]
   }
 ]

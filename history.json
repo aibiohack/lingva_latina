@@ -8770,5 +8770,27 @@
       "Ceterus",
       "Legatus"
     ]
+  },
+  {
+    "date": "2026-04-02",
+    "words": [
+      {
+        "latin": "Diversus",
+        "ru": "Разный, противоположный"
+      },
+      {
+        "latin": "Vehiculum",
+        "ru": "Повозка, судно"
+      },
+      {
+        "latin": "Magis",
+        "ru": "Более"
+      }
+    ],
+    "reviewed_today": [
+      "Furor",
+      "Facilis",
+      "Multitudo"
+    ]
   }
 ]

@@ -8880,5 +8880,27 @@
       "Auxilium",
       "Eripere"
     ]
+  },
+  {
+    "date": "2026-04-03",
+    "words": [
+      {
+        "latin": "Imperare",
+        "ru": "Приказывать"
+      },
+      {
+        "latin": "Vincire",
+        "ru": "Связывать"
+      },
+      {
+        "latin": "Colloquium",
+        "ru": "Разговор, беседа"
+      }
+    ],
+    "reviewed_today": [
+      "Tres",
+      "Soleo",
+      "Honestus"
+    ]
   }
 ]

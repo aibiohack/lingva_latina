@@ -8858,5 +8858,27 @@
       "Docere",
       "Iugum"
     ]
+  },
+  {
+    "date": "2026-04-03",
+    "words": [
+      {
+        "latin": "Bibere",
+        "ru": "Пить"
+      },
+      {
+        "latin": "Ratio",
+        "ru": "Разум, расчет"
+      },
+      {
+        "latin": "Tueri",
+        "ru": "Смотреть, защищать"
+      }
+    ],
+    "reviewed_today": [
+      "Munus",
+      "Auxilium",
+      "Eripere"
+    ]
   }
 ]

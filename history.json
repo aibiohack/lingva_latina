@@ -8814,5 +8814,27 @@
       "Sinister",
       "Sub"
     ]
+  },
+  {
+    "date": "2026-04-03",
+    "words": [
+      {
+        "latin": "Sanctus",
+        "ru": "Святой, нерушимый"
+      },
+      {
+        "latin": "Efficere",
+        "ru": "Действовать, исполнять"
+      },
+      {
+        "latin": "Eligere",
+        "ru": "Выбирать"
+      }
+    ],
+    "reviewed_today": [
+      "Fortasse",
+      "Regio",
+      "Regnum"
+    ]
   }
 ]

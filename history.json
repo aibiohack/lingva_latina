@@ -8836,5 +8836,27 @@
       "Regio",
       "Regnum"
     ]
+  },
+  {
+    "date": "2026-04-03",
+    "words": [
+      {
+        "latin": "Terra",
+        "ru": "Земля"
+      },
+      {
+        "latin": "Tumultus",
+        "ru": "Смятение, шум"
+      },
+      {
+        "latin": "Victor",
+        "ru": "Победитель"
+      }
+    ],
+    "reviewed_today": [
+      "Fateri",
+      "Docere",
+      "Iugum"
+    ]
   }
 ]

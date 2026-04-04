@@ -8968,5 +8968,27 @@
       "Potestas",
       "Roma"
     ]
+  },
+  {
+    "date": "2026-04-04",
+    "words": [
+      {
+        "latin": "Spectare",
+        "ru": "Смотреть, созерцать"
+      },
+      {
+        "latin": "Supplex",
+        "ru": "Молящий, покорный"
+      },
+      {
+        "latin": "Inquit",
+        "ru": "Говорит (вводное)"
+      }
+    ],
+    "reviewed_today": [
+      "Patria",
+      "Solus",
+      "Eripere"
+    ]
   }
 ]

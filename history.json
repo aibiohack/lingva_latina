@@ -8946,5 +8946,27 @@
       "Telum",
       "Hostis"
     ]
+  },
+  {
+    "date": "2026-04-04",
+    "words": [
+      {
+        "latin": "Habitus",
+        "ru": "Состояние, облик"
+      },
+      {
+        "latin": "Plenus",
+        "ru": "Полный"
+      },
+      {
+        "latin": "Magis",
+        "ru": "Более"
+      }
+    ],
+    "reviewed_today": [
+      "Materia",
+      "Potestas",
+      "Roma"
+    ]
   }
 ]

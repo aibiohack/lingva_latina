@@ -8902,5 +8902,27 @@
       "Soleo",
       "Honestus"
     ]
+  },
+  {
+    "date": "2026-04-04",
+    "words": [
+      {
+        "latin": "Fugere",
+        "ru": "Бежать"
+      },
+      {
+        "latin": "Dum",
+        "ru": "Пока, в то время как"
+      },
+      {
+        "latin": "Triduum",
+        "ru": "Три дня"
+      }
+    ],
+    "reviewed_today": [
+      "Error",
+      "Lupus",
+      "Vigilare"
+    ]
   }
 ]

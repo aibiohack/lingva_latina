@@ -8924,5 +8924,27 @@
       "Lupus",
       "Vigilare"
     ]
+  },
+  {
+    "date": "2026-04-04",
+    "words": [
+      {
+        "latin": "Verere",
+        "ru": "Бояться, чтить"
+      },
+      {
+        "latin": "Cedere",
+        "ru": "Идти, уступать"
+      },
+      {
+        "latin": "Sarcina",
+        "ru": "Узел, багаж"
+      }
+    ],
+    "reviewed_today": [
+      "Vicus",
+      "Telum",
+      "Hostis"
+    ]
   }
 ]

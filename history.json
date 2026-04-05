@@ -9034,5 +9034,27 @@
       "Pars",
       "Frumentum"
     ]
+  },
+  {
+    "date": "2026-04-05",
+    "words": [
+      {
+        "latin": "Angelus",
+        "ru": "Ангел"
+      },
+      {
+        "latin": "Ridere",
+        "ru": "Смеяться"
+      },
+      {
+        "latin": "Inimicus",
+        "ru": "Недруг, личный враг"
+      }
+    ],
+    "reviewed_today": [
+      "Integer",
+      "Salve",
+      "Sacerdos"
+    ]
   }
 ]

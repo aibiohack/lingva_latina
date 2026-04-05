@@ -9056,5 +9056,27 @@
       "Salve",
       "Sacerdos"
     ]
+  },
+  {
+    "date": "2026-04-05",
+    "words": [
+      {
+        "latin": "Tempus",
+        "ru": "Время"
+      },
+      {
+        "latin": "Solitudo",
+        "ru": "Одиночество, пустыня"
+      },
+      {
+        "latin": "Vincere",
+        "ru": "Победить"
+      }
+    ],
+    "reviewed_today": [
+      "Gignere",
+      "Usque",
+      "Cogitare"
+    ]
   }
 ]

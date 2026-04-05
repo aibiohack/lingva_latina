@@ -9012,5 +9012,27 @@
       "Vacare",
       "Vanus"
     ]
+  },
+  {
+    "date": "2026-04-05",
+    "words": [
+      {
+        "latin": "Iustus",
+        "ru": "Справедливый"
+      },
+      {
+        "latin": "Colere",
+        "ru": "Возделывать, почитать"
+      },
+      {
+        "latin": "Sanctus",
+        "ru": "Святой"
+      }
+    ],
+    "reviewed_today": [
+      "Honor",
+      "Pars",
+      "Frumentum"
+    ]
   }
 ]

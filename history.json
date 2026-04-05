@@ -8990,5 +8990,27 @@
       "Solus",
       "Eripere"
     ]
+  },
+  {
+    "date": "2026-04-05",
+    "words": [
+      {
+        "latin": "Oculus",
+        "ru": "Глаз"
+      },
+      {
+        "latin": "Venire",
+        "ru": "Приходить"
+      },
+      {
+        "latin": "Conditio",
+        "ru": "Условие, положение"
+      }
+    ],
+    "reviewed_today": [
+      "Habeo",
+      "Vacare",
+      "Vanus"
+    ]
   }
 ]

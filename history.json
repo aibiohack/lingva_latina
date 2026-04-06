@@ -9078,5 +9078,27 @@
       "Usque",
       "Cogitare"
     ]
+  },
+  {
+    "date": "2026-04-06",
+    "words": [
+      {
+        "latin": "Socius",
+        "ru": "Союзник, товарищ"
+      },
+      {
+        "latin": "Legere",
+        "ru": "Читать"
+      },
+      {
+        "latin": "Fortis",
+        "ru": "Храбрый"
+      }
+    ],
+    "reviewed_today": [
+      "Exercitus",
+      "Imitari",
+      "Sustinere"
+    ]
   }
 ]

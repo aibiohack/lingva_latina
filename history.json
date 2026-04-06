@@ -9100,5 +9100,27 @@
       "Imitari",
       "Sustinere"
     ]
+  },
+  {
+    "date": "2026-04-06",
+    "words": [
+      {
+        "latin": "Statua",
+        "ru": "Статуя"
+      },
+      {
+        "latin": "Relinquere",
+        "ru": "Оставлять, покидать"
+      },
+      {
+        "latin": "Sensus",
+        "ru": "Чувство, смысл"
+      }
+    ],
+    "reviewed_today": [
+      "Puella",
+      "Periculum",
+      "Supra"
+    ]
   }
 ]

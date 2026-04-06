@@ -9122,5 +9122,27 @@
       "Periculum",
       "Supra"
     ]
+  },
+  {
+    "date": "2026-04-06",
+    "words": [
+      {
+        "latin": "Aio",
+        "ru": "Говорю, утверждаю"
+      },
+      {
+        "latin": "Robur",
+        "ru": "Дуб, сила"
+      },
+      {
+        "latin": "Uva",
+        "ru": "Виноград"
+      }
+    ],
+    "reviewed_today": [
+      "Taurus",
+      "Restituere",
+      "Tectum"
+    ]
   }
 ]

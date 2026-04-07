@@ -9210,5 +9210,27 @@
       "Docere",
       "Cum (союз)"
     ]
+  },
+  {
+    "date": "2026-04-07",
+    "words": [
+      {
+        "latin": "Crimen",
+        "ru": "Обвинение, преступление"
+      },
+      {
+        "latin": "Ridere",
+        "ru": "Смеяться"
+      },
+      {
+        "latin": "Instruere",
+        "ru": "Наставлять, возводить"
+      }
+    ],
+    "reviewed_today": [
+      "Saepe",
+      "Monere",
+      "Sequi"
+    ]
   }
 ]

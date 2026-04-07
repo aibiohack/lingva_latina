@@ -9188,5 +9188,27 @@
       "Conari",
       "Tardus"
     ]
+  },
+  {
+    "date": "2026-04-07",
+    "words": [
+      {
+        "latin": "Vincere",
+        "ru": "Победить"
+      },
+      {
+        "latin": "Tamen",
+        "ru": "Однако"
+      },
+      {
+        "latin": "Mos",
+        "ru": "Нрав, обычай"
+      }
+    ],
+    "reviewed_today": [
+      "Varius",
+      "Docere",
+      "Cum (союз)"
+    ]
   }
 ]

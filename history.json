@@ -9232,5 +9232,27 @@
       "Monere",
       "Sequi"
     ]
+  },
+  {
+    "date": "2026-04-07",
+    "words": [
+      {
+        "latin": "Abbas",
+        "ru": "Отец, настоятель"
+      },
+      {
+        "latin": "Quoque",
+        "ru": "Также"
+      },
+      {
+        "latin": "Sinister",
+        "ru": "Левый"
+      }
+    ],
+    "reviewed_today": [
+      "Enim",
+      "Sedere",
+      "Utor"
+    ]
   }
 ]

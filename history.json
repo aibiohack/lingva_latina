@@ -9166,5 +9166,27 @@
       "Incipere",
       "Diversus"
     ]
+  },
+  {
+    "date": "2026-04-07",
+    "words": [
+      {
+        "latin": "Duo",
+        "ru": "Два"
+      },
+      {
+        "latin": "Posse",
+        "ru": "Мочь"
+      },
+      {
+        "latin": "Dives",
+        "ru": "Богатый"
+      }
+    ],
+    "reviewed_today": [
+      "Vicis",
+      "Conari",
+      "Tardus"
+    ]
   }
 ]

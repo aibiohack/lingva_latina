@@ -9298,5 +9298,27 @@
       "Constituere",
       "Varius"
     ]
+  },
+  {
+    "date": "2026-04-08",
+    "words": [
+      {
+        "latin": "Instruere",
+        "ru": "Наставлять, возводить"
+      },
+      {
+        "latin": "Genu",
+        "ru": "Колено"
+      },
+      {
+        "latin": "Os, oris",
+        "ru": "Рот"
+      }
+    ],
+    "reviewed_today": [
+      "Reus",
+      "Tuba",
+      "Punitio"
+    ]
   }
 ]

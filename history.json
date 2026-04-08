@@ -9276,5 +9276,27 @@
       "Fides",
       "Persona"
     ]
+  },
+  {
+    "date": "2026-04-08",
+    "words": [
+      {
+        "latin": "Venari",
+        "ru": "Охотиться"
+      },
+      {
+        "latin": "Tempus",
+        "ru": "Время"
+      },
+      {
+        "latin": "Ripa",
+        "ru": "Берег (реки)"
+      }
+    ],
+    "reviewed_today": [
+      "Pes",
+      "Constituere",
+      "Varius"
+    ]
   }
 ]

@@ -9320,5 +9320,27 @@
       "Tuba",
       "Punitio"
     ]
+  },
+  {
+    "date": "2026-04-08",
+    "words": [
+      {
+        "latin": "Pro",
+        "ru": "За, вместо"
+      },
+      {
+        "latin": "Appellare",
+        "ru": "Называть, обращаться"
+      },
+      {
+        "latin": "Lacrima",
+        "ru": "Слеза"
+      }
+    ],
+    "reviewed_today": [
+      "Exemplum",
+      "Lux",
+      "Urbs"
+    ]
   }
 ]

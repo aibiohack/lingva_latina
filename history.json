@@ -9342,5 +9342,27 @@
       "Lux",
       "Urbs"
     ]
+  },
+  {
+    "date": "2026-04-09",
+    "words": [
+      {
+        "latin": "Sacer",
+        "ru": "Священный"
+      },
+      {
+        "latin": "Sagitta",
+        "ru": "Стрела"
+      },
+      {
+        "latin": "Spiritus",
+        "ru": "Дух"
+      }
+    ],
+    "reviewed_today": [
+      "Ruere",
+      "Fateri",
+      "Satis"
+    ]
   }
 ]

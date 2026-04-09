@@ -9364,5 +9364,27 @@
       "Fateri",
       "Satis"
     ]
+  },
+  {
+    "date": "2026-04-09",
+    "words": [
+      {
+        "latin": "Sarcina",
+        "ru": "Узел, багаж"
+      },
+      {
+        "latin": "Emere",
+        "ru": "Покупать"
+      },
+      {
+        "latin": "Incendere",
+        "ru": "Зажигать"
+      }
+    ],
+    "reviewed_today": [
+      "Secundus",
+      "Parare",
+      "Tristis"
+    ]
   }
 ]

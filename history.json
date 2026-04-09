@@ -9386,5 +9386,27 @@
       "Parare",
       "Tristis"
     ]
+  },
+  {
+    "date": "2026-04-09",
+    "words": [
+      {
+        "latin": "Tectum",
+        "ru": "Крыша, кров"
+      },
+      {
+        "latin": "Venia",
+        "ru": "Милость, прощение"
+      },
+      {
+        "latin": "Civis",
+        "ru": "Гражданин"
+      }
+    ],
+    "reviewed_today": [
+      "Liber",
+      "Lupus",
+      "Iuvare"
+    ]
   }
 ]

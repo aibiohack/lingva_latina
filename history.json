@@ -9496,5 +9496,27 @@
       "Credere",
       "Certe"
     ]
+  },
+  {
+    "date": "2026-04-10",
+    "words": [
+      {
+        "latin": "Decere",
+        "ru": "Подобать, приличествовать"
+      },
+      {
+        "latin": "Regnum",
+        "ru": "Царство"
+      },
+      {
+        "latin": "Vacuus",
+        "ru": "Пустой, свободный"
+      }
+    ],
+    "reviewed_today": [
+      "Numerus",
+      "Quoque",
+      "Sedere"
+    ]
   }
 ]

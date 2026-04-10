@@ -9430,5 +9430,27 @@
       "Honor",
       "Vicinus"
     ]
+  },
+  {
+    "date": "2026-04-10",
+    "words": [
+      {
+        "latin": "Tardus",
+        "ru": "Медленный"
+      },
+      {
+        "latin": "Ingenium",
+        "ru": "Природный дар, талант"
+      },
+      {
+        "latin": "Vitrum",
+        "ru": "Стекло"
+      }
+    ],
+    "reviewed_today": [
+      "Quasi",
+      "Ubique",
+      "Vulnero"
+    ]
   }
 ]

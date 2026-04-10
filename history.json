@@ -9452,5 +9452,27 @@
       "Ubique",
       "Vulnero"
     ]
+  },
+  {
+    "date": "2026-04-10",
+    "words": [
+      {
+        "latin": "Iacere",
+        "ru": "Бросать, кидать"
+      },
+      {
+        "latin": "Bestia",
+        "ru": "Зверь, животное"
+      },
+      {
+        "latin": "Exercitus",
+        "ru": "Войско"
+      }
+    ],
+    "reviewed_today": [
+      "Medius",
+      "Finis",
+      "Turba"
+    ]
   }
 ]

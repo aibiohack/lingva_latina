@@ -9474,5 +9474,27 @@
       "Finis",
       "Turba"
     ]
+  },
+  {
+    "date": "2026-04-10",
+    "words": [
+      {
+        "latin": "Ut",
+        "ru": "Как, чтобы"
+      },
+      {
+        "latin": "Spectare",
+        "ru": "Смотреть, созерцать"
+      },
+      {
+        "latin": "Emere",
+        "ru": "Покупать"
+      }
+    ],
+    "reviewed_today": [
+      "Vitium",
+      "Credere",
+      "Certe"
+    ]
   }
 ]

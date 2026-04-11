@@ -9584,5 +9584,27 @@
       "Donum",
       "Foedus"
     ]
+  },
+  {
+    "date": "2026-04-11",
+    "words": [
+      {
+        "latin": "Memoria",
+        "ru": "Память"
+      },
+      {
+        "latin": "Semel",
+        "ru": "Однажды"
+      },
+      {
+        "latin": "Unus",
+        "ru": "Один"
+      }
+    ],
+    "reviewed_today": [
+      "Instruere",
+      "Os, oris",
+      "Tangere"
+    ]
   }
 ]

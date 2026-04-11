@@ -9518,5 +9518,27 @@
       "Quoque",
       "Sedere"
     ]
+  },
+  {
+    "date": "2026-04-11",
+    "words": [
+      {
+        "latin": "Tabula",
+        "ru": "Доска, таблица, картина"
+      },
+      {
+        "latin": "Laborare",
+        "ru": "Работать, страдать"
+      },
+      {
+        "latin": "Virtus",
+        "ru": "Добродетель, мужество"
+      }
+    ],
+    "reviewed_today": [
+      "Securus",
+      "Harena",
+      "Urbs"
+    ]
   }
 ]

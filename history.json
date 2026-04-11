@@ -9540,5 +9540,27 @@
       "Harena",
       "Urbs"
     ]
+  },
+  {
+    "date": "2026-04-11",
+    "words": [
+      {
+        "latin": "Meritum",
+        "ru": "Заслуга"
+      },
+      {
+        "latin": "Vehementer",
+        "ru": "Сильно, страстно"
+      },
+      {
+        "latin": "Vetus",
+        "ru": "Старый"
+      }
+    ],
+    "reviewed_today": [
+      "Violare",
+      "Bibere",
+      "Schola"
+    ]
   }
 ]

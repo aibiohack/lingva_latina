@@ -9562,5 +9562,27 @@
       "Bibere",
       "Schola"
     ]
+  },
+  {
+    "date": "2026-04-11",
+    "words": [
+      {
+        "latin": "Socius",
+        "ru": "Союзник"
+      },
+      {
+        "latin": "Duo",
+        "ru": "Два"
+      },
+      {
+        "latin": "Tam",
+        "ru": "Так"
+      }
+    ],
+    "reviewed_today": [
+      "Convivium",
+      "Donum",
+      "Foedus"
+    ]
   }
 ]

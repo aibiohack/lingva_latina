@@ -9606,5 +9606,27 @@
       "Os, oris",
       "Tangere"
     ]
+  },
+  {
+    "date": "2026-04-12",
+    "words": [
+      {
+        "latin": "Miles",
+        "ru": "Воин"
+      },
+      {
+        "latin": "Vacuus",
+        "ru": "Пустой, свободный"
+      },
+      {
+        "latin": "Filia",
+        "ru": "Дочь"
+      }
+    ],
+    "reviewed_today": [
+      "Credere",
+      "Totus",
+      "Ullus"
+    ]
   }
 ]

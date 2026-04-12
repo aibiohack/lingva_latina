@@ -9650,5 +9650,27 @@
       "Vivus",
       "Robur"
     ]
+  },
+  {
+    "date": "2026-04-12",
+    "words": [
+      {
+        "latin": "Iter",
+        "ru": "Путь"
+      },
+      {
+        "latin": "Ulterior",
+        "ru": "По ту сторону, дальнейший"
+      },
+      {
+        "latin": "Tum",
+        "ru": "Тогда"
+      }
+    ],
+    "reviewed_today": [
+      "Volvo",
+      "Initium",
+      "Contentus"
+    ]
   }
 ]

@@ -9628,5 +9628,27 @@
       "Totus",
       "Ullus"
     ]
+  },
+  {
+    "date": "2026-04-12",
+    "words": [
+      {
+        "latin": "Vicus",
+        "ru": "Деревня, квартал"
+      },
+      {
+        "latin": "Modus",
+        "ru": "Мера, способ"
+      },
+      {
+        "latin": "Lumen",
+        "ru": "Свет"
+      }
+    ],
+    "reviewed_today": [
+      "Sensus",
+      "Vivus",
+      "Robur"
+    ]
   }
 ]

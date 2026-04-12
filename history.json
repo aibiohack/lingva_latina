@@ -9672,5 +9672,27 @@
       "Initium",
       "Contentus"
     ]
+  },
+  {
+    "date": "2026-04-12",
+    "words": [
+      {
+        "latin": "Fovere",
+        "ru": "Греть, лелеять"
+      },
+      {
+        "latin": "Equus",
+        "ru": "Лошадь"
+      },
+      {
+        "latin": "Sursum",
+        "ru": "Вверх"
+      }
+    ],
+    "reviewed_today": [
+      "Felix",
+      "Temperantia",
+      "Parvus"
+    ]
   }
 ]

@@ -9738,5 +9738,27 @@
       "Surdus",
       "Brevis"
     ]
+  },
+  {
+    "date": "2026-04-13",
+    "words": [
+      {
+        "latin": "Genu",
+        "ru": "Колено"
+      },
+      {
+        "latin": "Colere",
+        "ru": "Возделывать, почитать"
+      },
+      {
+        "latin": "Sine",
+        "ru": "Без"
+      }
+    ],
+    "reviewed_today": [
+      "Meus",
+      "Invitare",
+      "Amoenus"
+    ]
   }
 ]

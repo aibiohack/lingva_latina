@@ -9760,5 +9760,27 @@
       "Invitare",
       "Amoenus"
     ]
+  },
+  {
+    "date": "2026-04-13",
+    "words": [
+      {
+        "latin": "Viridis",
+        "ru": "Зеленый"
+      },
+      {
+        "latin": "Superior",
+        "ru": "Высший, старший"
+      },
+      {
+        "latin": "Vetustus",
+        "ru": "Древний"
+      }
+    ],
+    "reviewed_today": [
+      "Numerus",
+      "Lex",
+      "Sapiens"
+    ]
   }
 ]

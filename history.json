@@ -9694,5 +9694,27 @@
       "Temperantia",
       "Parvus"
     ]
+  },
+  {
+    "date": "2026-04-13",
+    "words": [
+      {
+        "latin": "Fenestra",
+        "ru": "Окно"
+      },
+      {
+        "latin": "Difficilis",
+        "ru": "Трудный"
+      },
+      {
+        "latin": "Curare",
+        "ru": "Заботиться"
+      }
+    ],
+    "reviewed_today": [
+      "Ignis",
+      "Lingua",
+      "Flamma"
+    ]
   }
 ]

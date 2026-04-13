@@ -9716,5 +9716,27 @@
       "Lingua",
       "Flamma"
     ]
+  },
+  {
+    "date": "2026-04-13",
+    "words": [
+      {
+        "latin": "Tantum",
+        "ru": "Только"
+      },
+      {
+        "latin": "Pars",
+        "ru": "Часть"
+      },
+      {
+        "latin": "Tertius",
+        "ru": "Третий"
+      }
+    ],
+    "reviewed_today": [
+      "Quasi",
+      "Surdus",
+      "Brevis"
+    ]
   }
 ]

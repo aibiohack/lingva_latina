@@ -9782,5 +9782,27 @@
       "Lex",
       "Sapiens"
     ]
+  },
+  {
+    "date": "2026-04-14",
+    "words": [
+      {
+        "latin": "Statuere",
+        "ru": "Ставить, решать"
+      },
+      {
+        "latin": "Semper",
+        "ru": "Всегда"
+      },
+      {
+        "latin": "Fides",
+        "ru": "Вера"
+      }
+    ],
+    "reviewed_today": [
+      "Magnus",
+      "Unda",
+      "Iscere"
+    ]
   }
 ]

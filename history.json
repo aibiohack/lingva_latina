@@ -9826,5 +9826,27 @@
       "Humus",
       "Ratio"
     ]
+  },
+  {
+    "date": "2026-04-14",
+    "words": [
+      {
+        "latin": "Primus",
+        "ru": "Первый"
+      },
+      {
+        "latin": "Ultra",
+        "ru": "Сверх, по ту сторону"
+      },
+      {
+        "latin": "Saepe",
+        "ru": "Часто"
+      }
+    ],
+    "reviewed_today": [
+      "Mentior",
+      "Tranquillitas",
+      "Instruere"
+    ]
   }
 ]

@@ -9848,5 +9848,27 @@
       "Tranquillitas",
       "Instruere"
     ]
+  },
+  {
+    "date": "2026-04-14",
+    "words": [
+      {
+        "latin": "Habitus",
+        "ru": "Состояние, облик"
+      },
+      {
+        "latin": "Salve",
+        "ru": "Здравствуй"
+      },
+      {
+        "latin": "Tardus",
+        "ru": "Медленный"
+      }
+    ],
+    "reviewed_today": [
+      "Ut",
+      "Pro",
+      "Diversus"
+    ]
   }
 ]

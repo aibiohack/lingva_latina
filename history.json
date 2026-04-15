@@ -9870,5 +9870,27 @@
       "Pro",
       "Diversus"
     ]
+  },
+  {
+    "date": "2026-04-15",
+    "words": [
+      {
+        "latin": "Fabula",
+        "ru": "Сказка, рассказ"
+      },
+      {
+        "latin": "Modus",
+        "ru": "Мера, способ"
+      },
+      {
+        "latin": "Sic",
+        "ru": "Так"
+      }
+    ],
+    "reviewed_today": [
+      "Pecunia",
+      "Eripere",
+      "Vertere"
+    ]
   }
 ]

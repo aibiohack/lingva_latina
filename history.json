@@ -9892,5 +9892,27 @@
       "Eripere",
       "Vertere"
     ]
+  },
+  {
+    "date": "2026-04-15",
+    "words": [
+      {
+        "latin": "Tabula",
+        "ru": "Доска, таблица, картина"
+      },
+      {
+        "latin": "Iugum",
+        "ru": "Ярмо, иго"
+      },
+      {
+        "latin": "Sanctus",
+        "ru": "Святой"
+      }
+    ],
+    "reviewed_today": [
+      "Imperium",
+      "Monstrare",
+      "Littera"
+    ]
   }
 ]

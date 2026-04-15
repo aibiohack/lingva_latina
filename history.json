@@ -9914,5 +9914,27 @@
       "Monstrare",
       "Littera"
     ]
+  },
+  {
+    "date": "2026-04-15",
+    "words": [
+      {
+        "latin": "Fama",
+        "ru": "Молва, слух"
+      },
+      {
+        "latin": "Temptare",
+        "ru": "Испытывать, пытаться"
+      },
+      {
+        "latin": "Vindicare",
+        "ru": "Заявлять права, мстить"
+      }
+    ],
+    "reviewed_today": [
+      "Ducere",
+      "Studere",
+      "Terror"
+    ]
   }
 ]

@@ -9936,5 +9936,27 @@
       "Studere",
       "Terror"
     ]
+  },
+  {
+    "date": "2026-04-15",
+    "words": [
+      {
+        "latin": "Tibia",
+        "ru": "Флейта, голень"
+      },
+      {
+        "latin": "Superbus",
+        "ru": "Гордый, высокомерный"
+      },
+      {
+        "latin": "Sinister",
+        "ru": "Левый, дурной"
+      }
+    ],
+    "reviewed_today": [
+      "Vallis",
+      "Scutum",
+      "Cogitare"
+    ]
   }
 ]

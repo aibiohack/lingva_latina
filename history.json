@@ -9980,5 +9980,27 @@
       "Pulcher",
       "Bellum"
     ]
+  },
+  {
+    "date": "2026-04-16",
+    "words": [
+      {
+        "latin": "Vulnus",
+        "ru": "Рана"
+      },
+      {
+        "latin": "Disciplina",
+        "ru": "Обучение, порядок"
+      },
+      {
+        "latin": "Aliquis",
+        "ru": "Кто-нибудь, какой-нибудь"
+      }
+    ],
+    "reviewed_today": [
+      "Diligere",
+      "Fluere",
+      "Diu"
+    ]
   }
 ]

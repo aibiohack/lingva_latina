@@ -10024,5 +10024,27 @@
       "Vix",
       "Dormire"
     ]
+  },
+  {
+    "date": "2026-04-16",
+    "words": [
+      {
+        "latin": "Fuga",
+        "ru": "Бегство"
+      },
+      {
+        "latin": "Velle",
+        "ru": "Хотеть"
+      },
+      {
+        "latin": "Servire",
+        "ru": "Служить"
+      }
+    ],
+    "reviewed_today": [
+      "Contemnere",
+      "Duo",
+      "Doctrina"
+    ]
   }
 ]

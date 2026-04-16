@@ -9958,5 +9958,27 @@
       "Scutum",
       "Cogitare"
     ]
+  },
+  {
+    "date": "2026-04-16",
+    "words": [
+      {
+        "latin": "Sine",
+        "ru": "Без"
+      },
+      {
+        "latin": "Temptare",
+        "ru": "Испытывать, пытаться"
+      },
+      {
+        "latin": "Ulterior",
+        "ru": "По ту сторону, дальнейший"
+      }
+    ],
+    "reviewed_today": [
+      "Res",
+      "Pulcher",
+      "Bellum"
+    ]
   }
 ]

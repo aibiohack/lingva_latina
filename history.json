@@ -10112,5 +10112,27 @@
       "Plenus",
       "Mater"
     ]
+  },
+  {
+    "date": "2026-04-17",
+    "words": [
+      {
+        "latin": "Vertere",
+        "ru": "Поворачивать"
+      },
+      {
+        "latin": "Legio",
+        "ru": "Легион"
+      },
+      {
+        "latin": "Coepi",
+        "ru": "Я начал"
+      }
+    ],
+    "reviewed_today": [
+      "Omnis",
+      "Durare",
+      "Novus"
+    ]
   }
 ]

@@ -10090,5 +10090,27 @@
       "Curare",
       "Cunctus"
     ]
+  },
+  {
+    "date": "2026-04-17",
+    "words": [
+      {
+        "latin": "Vester",
+        "ru": "Ваш"
+      },
+      {
+        "latin": "Aevum",
+        "ru": "Век, эпоха"
+      },
+      {
+        "latin": "Culpa",
+        "ru": "Вина"
+      }
+    ],
+    "reviewed_today": [
+      "Schola",
+      "Plenus",
+      "Mater"
+    ]
   }
 ]

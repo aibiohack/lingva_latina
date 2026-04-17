@@ -10068,5 +10068,27 @@
       "Imago",
       "Filius"
     ]
+  },
+  {
+    "date": "2026-04-17",
+    "words": [
+      {
+        "latin": "Manere",
+        "ru": "Оставаться"
+      },
+      {
+        "latin": "Remus",
+        "ru": "Весло"
+      },
+      {
+        "latin": "Triduum",
+        "ru": "Три дня"
+      }
+    ],
+    "reviewed_today": [
+      "Modus",
+      "Curare",
+      "Cunctus"
+    ]
   }
 ]

@@ -10134,5 +10134,27 @@
       "Durare",
       "Novus"
     ]
+  },
+  {
+    "date": "2026-04-18",
+    "words": [
+      {
+        "latin": "Custos",
+        "ru": "Страж"
+      },
+      {
+        "latin": "Censeo",
+        "ru": "Полагаю, считаю"
+      },
+      {
+        "latin": "Regnum",
+        "ru": "Царство, власть"
+      }
+    ],
+    "reviewed_today": [
+      "Quattuor",
+      "Statuere",
+      "Fundamentum"
+    ]
   }
 ]

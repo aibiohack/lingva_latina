@@ -10178,5 +10178,27 @@
       "Ambulare",
       "Posse"
     ]
+  },
+  {
+    "date": "2026-04-18",
+    "words": [
+      {
+        "latin": "Via",
+        "ru": "Путь, дорога"
+      },
+      {
+        "latin": "Proprius",
+        "ru": "Собственный"
+      },
+      {
+        "latin": "Cur",
+        "ru": "Почему"
+      }
+    ],
+    "reviewed_today": [
+      "Studere",
+      "Tantum",
+      "Lacrima"
+    ]
   }
 ]

@@ -10200,5 +10200,27 @@
       "Tantum",
       "Lacrima"
     ]
+  },
+  {
+    "date": "2026-04-18",
+    "words": [
+      {
+        "latin": "Docere",
+        "ru": "Учить, обучать"
+      },
+      {
+        "latin": "Infans",
+        "ru": "Ребенок"
+      },
+      {
+        "latin": "Error",
+        "ru": "Ошибка"
+      }
+    ],
+    "reviewed_today": [
+      "Pars",
+      "Crimen",
+      "Arma"
+    ]
   }
 ]

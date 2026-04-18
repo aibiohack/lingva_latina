@@ -10156,5 +10156,27 @@
       "Statuere",
       "Fundamentum"
     ]
+  },
+  {
+    "date": "2026-04-18",
+    "words": [
+      {
+        "latin": "Vocare",
+        "ru": "Звать"
+      },
+      {
+        "latin": "Super",
+        "ru": "Над"
+      },
+      {
+        "latin": "Vitare",
+        "ru": "Избегать"
+      }
+    ],
+    "reviewed_today": [
+      "Hostis",
+      "Ambulare",
+      "Posse"
+    ]
   }
 ]

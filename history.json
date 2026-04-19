@@ -10288,5 +10288,27 @@
       "Civis",
       "Versari"
     ]
+  },
+  {
+    "date": "2026-04-19",
+    "words": [
+      {
+        "latin": "Charta",
+        "ru": "Бумага, лист"
+      },
+      {
+        "latin": "Aeternus",
+        "ru": "Вечный"
+      },
+      {
+        "latin": "Primus",
+        "ru": "Первый"
+      }
+    ],
+    "reviewed_today": [
+      "Consuetudo",
+      "Texere",
+      "Surdus"
+    ]
   }
 ]

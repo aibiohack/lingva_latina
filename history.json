@@ -10266,5 +10266,27 @@
       "Morari",
       "Laudare"
     ]
+  },
+  {
+    "date": "2026-04-19",
+    "words": [
+      {
+        "latin": "Conari",
+        "ru": "Пытаться, стараться"
+      },
+      {
+        "latin": "Lex",
+        "ru": "Закон"
+      },
+      {
+        "latin": "Via",
+        "ru": "Путь, дорога"
+      }
+    ],
+    "reviewed_today": [
+      "Infelix",
+      "Civis",
+      "Versari"
+    ]
   }
 ]

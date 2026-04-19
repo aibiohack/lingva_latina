@@ -10222,5 +10222,27 @@
       "Crimen",
       "Arma"
     ]
+  },
+  {
+    "date": "2026-04-19",
+    "words": [
+      {
+        "latin": "Scio",
+        "ru": "Знаю"
+      },
+      {
+        "latin": "Ferre",
+        "ru": "Нести"
+      },
+      {
+        "latin": "Suus",
+        "ru": "Свой"
+      }
+    ],
+    "reviewed_today": [
+      "Conari",
+      "Semel",
+      "Restituere"
+    ]
   }
 ]

@@ -10332,5 +10332,27 @@
       "Tacere",
       "Rus"
     ]
+  },
+  {
+    "date": "2026-04-20",
+    "words": [
+      {
+        "latin": "Vos",
+        "ru": "Вы"
+      },
+      {
+        "latin": "Velle",
+        "ru": "Хотеть"
+      },
+      {
+        "latin": "Virtus",
+        "ru": "Мужество, добродетель"
+      }
+    ],
+    "reviewed_today": [
+      "Tamen",
+      "Navis",
+      "Sepulcrum"
+    ]
   }
 ]

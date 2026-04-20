@@ -10376,5 +10376,27 @@
       "Manere",
       "Multitudo"
     ]
+  },
+  {
+    "date": "2026-04-20",
+    "words": [
+      {
+        "latin": "Ut",
+        "ru": "Чтобы, как"
+      },
+      {
+        "latin": "Terribilis",
+        "ru": "Ужасный"
+      },
+      {
+        "latin": "Sursum",
+        "ru": "Вверх"
+      }
+    ],
+    "reviewed_today": [
+      "Patria",
+      "Triduum",
+      "Bellum"
+    ]
   }
 ]

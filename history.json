@@ -10354,5 +10354,27 @@
       "Navis",
       "Sepulcrum"
     ]
+  },
+  {
+    "date": "2026-04-20",
+    "words": [
+      {
+        "latin": "Dubius",
+        "ru": "Сомнительный"
+      },
+      {
+        "latin": "Ager",
+        "ru": "Поле"
+      },
+      {
+        "latin": "Umbra",
+        "ru": "Тень"
+      }
+    ],
+    "reviewed_today": [
+      "Liber",
+      "Manere",
+      "Multitudo"
+    ]
   }
 ]

@@ -10310,5 +10310,27 @@
       "Texere",
       "Surdus"
     ]
+  },
+  {
+    "date": "2026-04-20",
+    "words": [
+      {
+        "latin": "Ira",
+        "ru": "Гнев"
+      },
+      {
+        "latin": "Volare",
+        "ru": "Летать"
+      },
+      {
+        "latin": "Videlicet",
+        "ru": "Очевидно, именно"
+      }
+    ],
+    "reviewed_today": [
+      "Magnus",
+      "Tacere",
+      "Rus"
+    ]
   }
 ]

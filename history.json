@@ -10442,5 +10442,27 @@
       "Qualis",
       "Tutus"
     ]
+  },
+  {
+    "date": "2026-04-21",
+    "words": [
+      {
+        "latin": "Aio",
+        "ru": "Говорю, утверждаю"
+      },
+      {
+        "latin": "Vultus",
+        "ru": "Лицо, лик"
+      },
+      {
+        "latin": "Post",
+        "ru": "После"
+      }
+    ],
+    "reviewed_today": [
+      "Legatus",
+      "Versus",
+      "Cogitare"
+    ]
   }
 ]

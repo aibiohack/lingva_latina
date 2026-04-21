@@ -10398,5 +10398,27 @@
       "Triduum",
       "Bellum"
     ]
+  },
+  {
+    "date": "2026-04-21",
+    "words": [
+      {
+        "latin": "Volare",
+        "ru": "Летать"
+      },
+      {
+        "latin": "Tormentum",
+        "ru": "Мучение, пытка"
+      },
+      {
+        "latin": "Sententia",
+        "ru": "Мнение, изречение"
+      }
+    ],
+    "reviewed_today": [
+      "Vero",
+      "Crux",
+      "Vitrum"
+    ]
   }
 ]

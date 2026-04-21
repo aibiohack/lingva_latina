@@ -10420,5 +10420,27 @@
       "Crux",
       "Vitrum"
     ]
+  },
+  {
+    "date": "2026-04-21",
+    "words": [
+      {
+        "latin": "Ius",
+        "ru": "Право, закон"
+      },
+      {
+        "latin": "Ver",
+        "ru": "Весна"
+      },
+      {
+        "latin": "Venari",
+        "ru": "Охотиться"
+      }
+    ],
+    "reviewed_today": [
+      "Atque",
+      "Qualis",
+      "Tutus"
+    ]
   }
 ]

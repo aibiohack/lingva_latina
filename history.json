@@ -10508,5 +10508,27 @@
       "Habitus",
       "Bene"
     ]
+  },
+  {
+    "date": "2026-04-22",
+    "words": [
+      {
+        "latin": "Cupere",
+        "ru": "Желать"
+      },
+      {
+        "latin": "Regio",
+        "ru": "Область"
+      },
+      {
+        "latin": "Eloquens",
+        "ru": "Красноречивый"
+      }
+    ],
+    "reviewed_today": [
+      "Curare",
+      "Doctus",
+      "Subito"
+    ]
   }
 ]

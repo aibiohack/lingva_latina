@@ -10552,5 +10552,27 @@
       "Totus",
       "Diligere"
     ]
+  },
+  {
+    "date": "2026-04-22",
+    "words": [
+      {
+        "latin": "Putare",
+        "ru": "Считать, полагать"
+      },
+      {
+        "latin": "Iustus",
+        "ru": "Справедливый"
+      },
+      {
+        "latin": "Primus",
+        "ru": "Первый"
+      }
+    ],
+    "reviewed_today": [
+      "Legatus",
+      "Venenum",
+      "Pater"
+    ]
   }
 ]

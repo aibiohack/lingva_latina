@@ -10486,5 +10486,27 @@
       "Constantia",
       "Radix"
     ]
+  },
+  {
+    "date": "2026-04-22",
+    "words": [
+      {
+        "latin": "Iurare",
+        "ru": "Клясться"
+      },
+      {
+        "latin": "Vetus",
+        "ru": "Старый"
+      },
+      {
+        "latin": "Fieri",
+        "ru": "Становиться, делаться"
+      }
+    ],
+    "reviewed_today": [
+      "Inquit",
+      "Habitus",
+      "Bene"
+    ]
   }
 ]

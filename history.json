@@ -10530,5 +10530,27 @@
       "Doctus",
       "Subito"
     ]
+  },
+  {
+    "date": "2026-04-22",
+    "words": [
+      {
+        "latin": "Fortasse",
+        "ru": "Может быть"
+      },
+      {
+        "latin": "Telum",
+        "ru": "Оружие, копье"
+      },
+      {
+        "latin": "Tertius",
+        "ru": "Третий"
+      }
+    ],
+    "reviewed_today": [
+      "Tergum",
+      "Totus",
+      "Diligere"
+    ]
   }
 ]

@@ -10574,5 +10574,27 @@
       "Venenum",
       "Pater"
     ]
+  },
+  {
+    "date": "2026-04-23",
+    "words": [
+      {
+        "latin": "Fructus",
+        "ru": "Плод, доход"
+      },
+      {
+        "latin": "Aeternus",
+        "ru": "Вечный"
+      },
+      {
+        "latin": "Desistere",
+        "ru": "Прекращать, отступать"
+      }
+    ],
+    "reviewed_today": [
+      "Sum",
+      "Eligere",
+      "Tangere"
+    ]
   }
 ]

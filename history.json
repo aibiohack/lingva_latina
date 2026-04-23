@@ -10618,5 +10618,27 @@
       "Vulnus",
       "Fere"
     ]
+  },
+  {
+    "date": "2026-04-23",
+    "words": [
+      {
+        "latin": "Crux",
+        "ru": "Крест"
+      },
+      {
+        "latin": "Iniquus",
+        "ru": "Несправедливый"
+      },
+      {
+        "latin": "Facinus",
+        "ru": "Дело, поступок (часто дурной)"
+      }
+    ],
+    "reviewed_today": [
+      "Testis",
+      "Fons",
+      "Ruere"
+    ]
   }
 ]

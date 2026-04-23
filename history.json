@@ -10596,5 +10596,27 @@
       "Eligere",
       "Tangere"
     ]
+  },
+  {
+    "date": "2026-04-23",
+    "words": [
+      {
+        "latin": "Sanguis",
+        "ru": "Кровь"
+      },
+      {
+        "latin": "Tacere",
+        "ru": "Молчать"
+      },
+      {
+        "latin": "Meritum",
+        "ru": "Заслуга"
+      }
+    ],
+    "reviewed_today": [
+      "Magister",
+      "Vulnus",
+      "Fere"
+    ]
   }
 ]

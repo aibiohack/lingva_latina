@@ -10640,5 +10640,27 @@
       "Fons",
       "Ruere"
     ]
+  },
+  {
+    "date": "2026-04-23",
+    "words": [
+      {
+        "latin": "Publicus",
+        "ru": "Общественный"
+      },
+      {
+        "latin": "Meus",
+        "ru": "Мой"
+      },
+      {
+        "latin": "Idem",
+        "ru": "Тот же самый"
+      }
+    ],
+    "reviewed_today": [
+      "Rota",
+      "Sustinere",
+      "Tibia"
+    ]
   }
 ]

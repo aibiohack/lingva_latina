@@ -10728,5 +10728,27 @@
       "Usque",
       "Scribere"
     ]
+  },
+  {
+    "date": "2026-04-24",
+    "words": [
+      {
+        "latin": "Pulcher",
+        "ru": "Красивый"
+      },
+      {
+        "latin": "Conari",
+        "ru": "Пытаться, стараться"
+      },
+      {
+        "latin": "Eligere",
+        "ru": "Выбирать"
+      }
+    ],
+    "reviewed_today": [
+      "Intelligere",
+      "Charta",
+      "Temptare"
+    ]
   }
 ]

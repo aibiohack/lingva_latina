@@ -10684,5 +10684,27 @@
       "Causa",
       "Ipse"
     ]
+  },
+  {
+    "date": "2026-04-24",
+    "words": [
+      {
+        "latin": "Ubi",
+        "ru": "Где"
+      },
+      {
+        "latin": "Suscipere",
+        "ru": "Предпринимать, принимать"
+      },
+      {
+        "latin": "Vel",
+        "ru": "Или, даже"
+      }
+    ],
+    "reviewed_today": [
+      "Prope",
+      "Instruere",
+      "Terrere"
+    ]
   }
 ]

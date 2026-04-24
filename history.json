@@ -10706,5 +10706,27 @@
       "Instruere",
       "Terrere"
     ]
+  },
+  {
+    "date": "2026-04-24",
+    "words": [
+      {
+        "latin": "Vester",
+        "ru": "Ваш"
+      },
+      {
+        "latin": "Tam",
+        "ru": "Так"
+      },
+      {
+        "latin": "Statua",
+        "ru": "Статуя"
+      }
+    ],
+    "reviewed_today": [
+      "Tandem",
+      "Usque",
+      "Scribere"
+    ]
   }
 ]

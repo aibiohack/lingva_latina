@@ -10662,5 +10662,27 @@
       "Sustinere",
       "Tibia"
     ]
+  },
+  {
+    "date": "2026-04-24",
+    "words": [
+      {
+        "latin": "Luxuria",
+        "ru": "Роскошь"
+      },
+      {
+        "latin": "Dicere",
+        "ru": "Говорить"
+      },
+      {
+        "latin": "Decere",
+        "ru": "Подобать, приличествовать"
+      }
+    ],
+    "reviewed_today": [
+      "Sapiens",
+      "Causa",
+      "Ipse"
+    ]
   }
 ]

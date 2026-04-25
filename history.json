@@ -10772,5 +10772,27 @@
       "Orbis",
       "Sino"
     ]
+  },
+  {
+    "date": "2026-04-25",
+    "words": [
+      {
+        "latin": "Arma",
+        "ru": "Оружие"
+      },
+      {
+        "latin": "Aliquis",
+        "ru": "Кто-нибудь, какой-нибудь"
+      },
+      {
+        "latin": "Benevolentia",
+        "ru": "Доброжелательность"
+      }
+    ],
+    "reviewed_today": [
+      "Dignus",
+      "Disciplina",
+      "Umquam"
+    ]
   }
 ]

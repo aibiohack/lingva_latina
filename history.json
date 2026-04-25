@@ -10816,5 +10816,27 @@
       "Inter",
       "Currere"
     ]
+  },
+  {
+    "date": "2026-04-25",
+    "words": [
+      {
+        "latin": "Confirmare",
+        "ru": "Укреплять, подтверждать"
+      },
+      {
+        "latin": "Verbum",
+        "ru": "Слово"
+      },
+      {
+        "latin": "Similis",
+        "ru": "Похожий"
+      }
+    ],
+    "reviewed_today": [
+      "Quis",
+      "Cunctus",
+      "Auxilium"
+    ]
   }
 ]

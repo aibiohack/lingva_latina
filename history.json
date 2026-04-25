@@ -10794,5 +10794,27 @@
       "Disciplina",
       "Umquam"
     ]
+  },
+  {
+    "date": "2026-04-25",
+    "words": [
+      {
+        "latin": "Aut",
+        "ru": "Или"
+      },
+      {
+        "latin": "Doctrina",
+        "ru": "Учение, наука"
+      },
+      {
+        "latin": "Respondere",
+        "ru": "Отвечать"
+      }
+    ],
+    "reviewed_today": [
+      "Ridere",
+      "Inter",
+      "Currere"
+    ]
   }
 ]

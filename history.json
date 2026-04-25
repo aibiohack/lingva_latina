@@ -10750,5 +10750,27 @@
       "Charta",
       "Temptare"
     ]
+  },
+  {
+    "date": "2026-04-25",
+    "words": [
+      {
+        "latin": "Horrere",
+        "ru": "Ужасаться, трепетать"
+      },
+      {
+        "latin": "Usque",
+        "ru": "Вплоть до"
+      },
+      {
+        "latin": "Stultus",
+        "ru": "Глупый"
+      }
+    ],
+    "reviewed_today": [
+      "Scutum",
+      "Orbis",
+      "Sino"
+    ]
   }
 ]

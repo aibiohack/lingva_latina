@@ -10904,5 +10904,27 @@
       "Undique",
       "Fragilis"
     ]
+  },
+  {
+    "date": "2026-04-26",
+    "words": [
+      {
+        "latin": "Soror",
+        "ru": "Сестра"
+      },
+      {
+        "latin": "Solus",
+        "ru": "Один, единственный"
+      },
+      {
+        "latin": "Largus",
+        "ru": "Щедрый, обильный"
+      }
+    ],
+    "reviewed_today": [
+      "Severus",
+      "Volo",
+      "Vicinus"
+    ]
   }
 ]

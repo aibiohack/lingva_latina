@@ -10860,5 +10860,27 @@
       "Hinc",
       "Densus"
     ]
+  },
+  {
+    "date": "2026-04-26",
+    "words": [
+      {
+        "latin": "Flamma",
+        "ru": "Пламя"
+      },
+      {
+        "latin": "Utilis",
+        "ru": "Полезный"
+      },
+      {
+        "latin": "Nullus",
+        "ru": "Никакой"
+      }
+    ],
+    "reviewed_today": [
+      "Post",
+      "Ruere",
+      "Quod"
+    ]
   }
 ]

@@ -10838,5 +10838,27 @@
       "Cunctus",
       "Auxilium"
     ]
+  },
+  {
+    "date": "2026-04-26",
+    "words": [
+      {
+        "latin": "Incendere",
+        "ru": "Зажигать"
+      },
+      {
+        "latin": "Videlicet",
+        "ru": "Очевидно, именно"
+      },
+      {
+        "latin": "Vivus",
+        "ru": "Живой"
+      }
+    ],
+    "reviewed_today": [
+      "Violare",
+      "Hinc",
+      "Densus"
+    ]
   }
 ]

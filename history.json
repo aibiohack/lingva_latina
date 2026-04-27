@@ -10926,5 +10926,27 @@
       "Volo",
       "Vicinus"
     ]
+  },
+  {
+    "date": "2026-04-27",
+    "words": [
+      {
+        "latin": "Vae",
+        "ru": "Горе!"
+      },
+      {
+        "latin": "Sanitas",
+        "ru": "Здоровье, разумность"
+      },
+      {
+        "latin": "Canis",
+        "ru": "Собака"
+      }
+    ],
+    "reviewed_today": [
+      "Miles",
+      "Saxum",
+      "Credere"
+    ]
   }
 ]

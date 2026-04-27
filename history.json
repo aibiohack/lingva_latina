@@ -1,24 +1,6 @@
 [
   {
     "date": "2025-12-24",
-    "type": "words",
-    "items": [
-      {
-        "latin": "Conari",
-        "ru": "Пытаться, стараться"
-      },
-      {
-        "latin": "Quoque",
-        "ru": "Также"
-      },
-      {
-        "latin": "Sine",
-        "ru": "Без"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-24",
     "words": [
       {
         "latin": "Singulus",
@@ -10951,6 +10933,28 @@
       "Ungere",
       "Malle",
       "Turpis"
+    ]
+  },
+  {
+    "date": "2026-04-27",
+    "words": [
+      {
+        "latin": "Multitudo",
+        "ru": "Множество"
+      },
+      {
+        "latin": "Lucere",
+        "ru": "Светить"
+      },
+      {
+        "latin": "Malus",
+        "ru": "Плохой"
+      }
+    ],
+    "reviewed_today": [
+      "Laudare",
+      "Vehiculum",
+      "Umquam"
     ]
   }
 ]

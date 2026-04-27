@@ -1,22 +1,5 @@
 [
   {
-    "date": "2025-12-24",
-    "words": [
-      {
-        "latin": "Singulus",
-        "ru": "Одиночный"
-      },
-      {
-        "latin": "Stirps",
-        "ru": "Корень, род"
-      },
-      {
-        "latin": "Crux",
-        "ru": "Крест"
-      }
-    ]
-  },
-  {
     "date": "2025-12-25",
     "words": [
       {
@@ -10955,6 +10938,28 @@
       "Laudare",
       "Vehiculum",
       "Umquam"
+    ]
+  },
+  {
+    "date": "2026-04-27",
+    "words": [
+      {
+        "latin": "Salus",
+        "ru": "Здоровье, спасение"
+      },
+      {
+        "latin": "Humus",
+        "ru": "Земля"
+      },
+      {
+        "latin": "Sagitta",
+        "ru": "Стрела"
+      }
+    ],
+    "reviewed_today": [
+      "Singulus",
+      "Argentum",
+      "Quid"
     ]
   }
 ]

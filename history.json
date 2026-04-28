@@ -3,23 +3,6 @@
     "date": "2025-12-25",
     "words": [
       {
-        "latin": "Vicinus",
-        "ru": "Сосед"
-      },
-      {
-        "latin": "Consistere",
-        "ru": "Останавливаться, состоять"
-      },
-      {
-        "latin": "Sacer",
-        "ru": "Священный"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-25",
-    "words": [
-      {
         "latin": "Fieri",
         "ru": "Становиться, делаться"
       },
@@ -10970,6 +10953,28 @@
       "Constituere",
       "Aut",
       "Varius"
+    ]
+  },
+  {
+    "date": "2026-04-28",
+    "words": [
+      {
+        "latin": "Reus",
+        "ru": "Подсудимый, виновный"
+      },
+      {
+        "latin": "Exspectare",
+        "ru": "Ожидать"
+      },
+      {
+        "latin": "Sal",
+        "ru": "Соль, остроумие"
+      }
+    ],
+    "reviewed_today": [
+      "Fieri",
+      "Audire",
+      "Remus"
     ]
   }
 ]

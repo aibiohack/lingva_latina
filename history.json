@@ -3,23 +3,6 @@
     "date": "2025-12-25",
     "words": [
       {
-        "latin": "Fieri",
-        "ru": "Становиться, делаться"
-      },
-      {
-        "latin": "Cogitare",
-        "ru": "Думать"
-      },
-      {
-        "latin": "Ars",
-        "ru": "Искусство"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-25",
-    "words": [
-      {
         "latin": "Ignoscerе",
         "ru": "Прощать"
       },
@@ -10975,6 +10958,28 @@
       "Fieri",
       "Audire",
       "Remus"
+    ]
+  },
+  {
+    "date": "2026-04-28",
+    "words": [
+      {
+        "latin": "Victoria",
+        "ru": "Победа"
+      },
+      {
+        "latin": "Custos",
+        "ru": "Страж"
+      },
+      {
+        "latin": "Utique",
+        "ru": "Во всяком случае, особенно"
+      }
+    ],
+    "reviewed_today": [
+      "Infans",
+      "Annus",
+      "Vincire"
     ]
   }
 ]

@@ -3,23 +3,6 @@
     "date": "2025-12-25",
     "words": [
       {
-        "latin": "Reus",
-        "ru": "Подсудимый, виновный"
-      },
-      {
-        "latin": "Victor",
-        "ru": "Победитель"
-      },
-      {
-        "latin": "Sal",
-        "ru": "Соль, остроумие"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-25",
-    "words": [
-      {
         "latin": "Vicinus",
         "ru": "Сосед"
       },
@@ -10965,6 +10948,28 @@
       "Densus",
       "Filia",
       "Religio"
+    ]
+  },
+  {
+    "date": "2026-04-28",
+    "words": [
+      {
+        "latin": "Stirps",
+        "ru": "Корень, род"
+      },
+      {
+        "latin": "Crescere",
+        "ru": "Расти"
+      },
+      {
+        "latin": "Infelix",
+        "ru": "Несчастный"
+      }
+    ],
+    "reviewed_today": [
+      "Constituere",
+      "Aut",
+      "Varius"
     ]
   }
 ]

@@ -3,23 +3,6 @@
     "date": "2025-12-25",
     "words": [
       {
-        "latin": "Infelix",
-        "ru": "Несчастный"
-      },
-      {
-        "latin": "Crescere",
-        "ru": "Расти"
-      },
-      {
-        "latin": "Vox",
-        "ru": "Голос"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-25",
-    "words": [
-      {
         "latin": "Reus",
         "ru": "Подсудимый, виновный"
       },
@@ -10960,6 +10943,28 @@
       "Singulus",
       "Argentum",
       "Quid"
+    ]
+  },
+  {
+    "date": "2026-04-28",
+    "words": [
+      {
+        "latin": "Civilis",
+        "ru": "Гражданский"
+      },
+      {
+        "latin": "Utinam",
+        "ru": "О если бы (желание)"
+      },
+      {
+        "latin": "Virtus",
+        "ru": "Мужество, добродетель"
+      }
+    ],
+    "reviewed_today": [
+      "Densus",
+      "Filia",
+      "Religio"
     ]
   }
 ]

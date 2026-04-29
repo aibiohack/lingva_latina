@@ -3,24 +3,6 @@
     "date": "2025-12-25",
     "words": [
       {
-        "latin": "Ignoscerе",
-        "ru": "Прощать"
-      },
-      {
-        "latin": "Vastus",
-        "ru": "Огромный, пустой"
-      },
-      {
-        "latin": "Modus",
-        "ru": "Мера, способ"
-      }
-    ],
-    "slot": 2
-  },
-  {
-    "date": "2025-12-25",
-    "words": [
-      {
         "latin": "Mox",
         "ru": "Скоро"
       },
@@ -10980,6 +10962,28 @@
       "Infans",
       "Annus",
       "Vincire"
+    ]
+  },
+  {
+    "date": "2026-04-29",
+    "words": [
+      {
+        "latin": "Tandem",
+        "ru": "Наконец"
+      },
+      {
+        "latin": "Bellum",
+        "ru": "Война"
+      },
+      {
+        "latin": "Testis",
+        "ru": "Свидетель"
+      }
+    ],
+    "reviewed_today": [
+      "Templum",
+      "Persona",
+      "Sedere"
     ]
   }
 ]

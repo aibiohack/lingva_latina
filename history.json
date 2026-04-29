@@ -3,28 +3,6 @@
     "date": "2025-12-25",
     "words": [
       {
-        "latin": "Tres",
-        "ru": "Три"
-      },
-      {
-        "latin": "Bibere",
-        "ru": "Пить"
-      },
-      {
-        "latin": "Sentire",
-        "ru": "Чувствовать, полагать"
-      }
-    ],
-    "reviewed_today": [
-      "Stirps",
-      "Singulus",
-      "Crux"
-    ]
-  },
-  {
-    "date": "2025-12-25",
-    "words": [
-      {
         "latin": "Tibia",
         "ru": "Флейта, голень"
       },
@@ -10993,6 +10971,28 @@
       "Civilis",
       "Innocens",
       "Arbor"
+    ]
+  },
+  {
+    "date": "2026-04-29",
+    "words": [
+      {
+        "latin": "Mox",
+        "ru": "Скоро"
+      },
+      {
+        "latin": "Humanus",
+        "ru": "Человеческий"
+      },
+      {
+        "latin": "Declarare",
+        "ru": "Объявлять"
+      }
+    ],
+    "reviewed_today": [
+      "Togatus",
+      "Triginta",
+      "Delectare"
     ]
   }
 ]

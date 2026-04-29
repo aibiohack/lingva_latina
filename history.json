@@ -3,24 +3,6 @@
     "date": "2025-12-25",
     "words": [
       {
-        "latin": "Mox",
-        "ru": "Скоро"
-      },
-      {
-        "latin": "Emere",
-        "ru": "Покупать"
-      },
-      {
-        "latin": "Humanus",
-        "ru": "Человеческий"
-      }
-    ],
-    "slot": 2
-  },
-  {
-    "date": "2025-12-25",
-    "words": [
-      {
         "latin": "Insula",
         "ru": "Остров"
       },
@@ -10984,6 +10966,28 @@
       "Templum",
       "Persona",
       "Sedere"
+    ]
+  },
+  {
+    "date": "2026-04-29",
+    "words": [
+      {
+        "latin": "Ars",
+        "ru": "Искусство"
+      },
+      {
+        "latin": "Cogitare",
+        "ru": "Думать"
+      },
+      {
+        "latin": "Ignoscerе",
+        "ru": "Прощать"
+      }
+    ],
+    "reviewed_today": [
+      "Mutare",
+      "Meus",
+      "Constantia"
     ]
   }
 ]

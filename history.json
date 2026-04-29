@@ -3,23 +3,6 @@
     "date": "2025-12-25",
     "words": [
       {
-        "latin": "Insula",
-        "ru": "Остров"
-      },
-      {
-        "latin": "Annus",
-        "ru": "Год"
-      },
-      {
-        "latin": "Declarare",
-        "ru": "Объявлять"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-25",
-    "words": [
-      {
         "latin": "Tres",
         "ru": "Три"
       },
@@ -10988,6 +10971,28 @@
       "Mutare",
       "Meus",
       "Constantia"
+    ]
+  },
+  {
+    "date": "2026-04-29",
+    "words": [
+      {
+        "latin": "Pone",
+        "ru": "Позади"
+      },
+      {
+        "latin": "Singulus",
+        "ru": "Одиночный"
+      },
+      {
+        "latin": "Ferre",
+        "ru": "Нести"
+      }
+    ],
+    "reviewed_today": [
+      "Civilis",
+      "Innocens",
+      "Arbor"
     ]
   }
 ]

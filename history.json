@@ -1,27 +1,5 @@
 [
   {
-    "date": "2025-12-25",
-    "words": [
-      {
-        "latin": "Domus",
-        "ru": "Дом"
-      },
-      {
-        "latin": "Tertius",
-        "ru": "Третий"
-      },
-      {
-        "latin": "Summa",
-        "ru": "Сумма, итог"
-      }
-    ],
-    "reviewed_today": [
-      "Modus",
-      "Consistere",
-      "Sacer"
-    ]
-  },
-  {
     "date": "2025-12-26",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Tristis",
       "Mons",
       "Situs"
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "words": [
+      {
+        "latin": "Tamen",
+        "ru": "Однако"
+      },
+      {
+        "latin": "Donum",
+        "ru": "Подарок"
+      },
+      {
+        "latin": "Scribere",
+        "ru": "Писать"
+      }
+    ],
+    "reviewed_today": [
+      "Qualis",
+      "Iugum",
+      "Dens"
     ]
   }
 ]

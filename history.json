@@ -3,28 +3,6 @@
     "date": "2025-12-26",
     "words": [
       {
-        "latin": "Iudicium",
-        "ru": "Суд, суждение"
-      },
-      {
-        "latin": "Metus",
-        "ru": "Страх"
-      },
-      {
-        "latin": "Clarus",
-        "ru": "Ясный, светлый"
-      }
-    ],
-    "reviewed_today": [
-      "Victor",
-      "Vastus",
-      "Vox"
-    ]
-  },
-  {
-    "date": "2025-12-26",
-    "words": [
-      {
         "latin": "Sine",
         "ru": "Без"
       },
@@ -10997,6 +10975,28 @@
       "Qualis",
       "Iugum",
       "Dens"
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "words": [
+      {
+        "latin": "Mons",
+        "ru": "Гора"
+      },
+      {
+        "latin": "Suavis",
+        "ru": "Приятный, сладкий"
+      },
+      {
+        "latin": "Sub",
+        "ru": "Под"
+      }
+    ],
+    "reviewed_today": [
+      "Libenter",
+      "Figura",
+      "Loqui"
     ]
   }
 ]

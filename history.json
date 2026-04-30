@@ -3,28 +3,6 @@
     "date": "2025-12-25",
     "words": [
       {
-        "latin": "Hora",
-        "ru": "Час"
-      },
-      {
-        "latin": "Terror",
-        "ru": "Ужас, страх"
-      },
-      {
-        "latin": "Spiritus",
-        "ru": "Дух"
-      }
-    ],
-    "reviewed_today": [
-      "Fieri",
-      "Ars",
-      "Mox"
-    ]
-  },
-  {
-    "date": "2025-12-25",
-    "words": [
-      {
         "latin": "Domus",
         "ru": "Дом"
       },
@@ -10997,6 +10975,28 @@
       "Magnitudo",
       "Fragilis",
       "Lumen"
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "words": [
+      {
+        "latin": "Sentire",
+        "ru": "Чувствовать, полагать"
+      },
+      {
+        "latin": "Scelus",
+        "ru": "Prestuplenie, znodeyanie"
+      },
+      {
+        "latin": "Sentire",
+        "ru": "Чувствовать"
+      }
+    ],
+    "reviewed_today": [
+      "Tristis",
+      "Mons",
+      "Situs"
     ]
   }
 ]

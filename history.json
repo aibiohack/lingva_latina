@@ -3,24 +3,6 @@
     "date": "2025-12-25",
     "words": [
       {
-        "latin": "Tibia",
-        "ru": "Флейта, голень"
-      },
-      {
-        "latin": "Scelus",
-        "ru": "Prestuplenie, znodeyanie"
-      },
-      {
-        "latin": "Decidere",
-        "ru": "Падать, решаться"
-      }
-    ],
-    "reviewed_today": []
-  },
-  {
-    "date": "2025-12-25",
-    "words": [
-      {
         "latin": "Hora",
         "ru": "Час"
       },
@@ -10993,6 +10975,28 @@
       "Togatus",
       "Triginta",
       "Delectare"
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "words": [
+      {
+        "latin": "Mos",
+        "ru": "Нрав, обычай"
+      },
+      {
+        "latin": "Decidere",
+        "ru": "Падать, решаться"
+      },
+      {
+        "latin": "Via",
+        "ru": "Путь, дорога"
+      }
+    ],
+    "reviewed_today": [
+      "Magnitudo",
+      "Fragilis",
+      "Lumen"
     ]
   }
 ]

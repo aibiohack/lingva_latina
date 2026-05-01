@@ -3,28 +3,6 @@
     "date": "2025-12-27",
     "words": [
       {
-        "latin": "Iugum",
-        "ru": "Ярмо, иго"
-      },
-      {
-        "latin": "Senectus",
-        "ru": "Старость"
-      },
-      {
-        "latin": "Curare",
-        "ru": "Заботиться"
-      }
-    ],
-    "reviewed_today": [
-      "Summa",
-      "Crux",
-      "Victor"
-    ]
-  },
-  {
-    "date": "2025-12-27",
-    "words": [
-      {
         "latin": "Silentium",
         "ru": "Молчание, тишина"
       },
@@ -10997,6 +10975,28 @@
       "Dicere",
       "Dedico",
       "Laudare"
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "words": [
+      {
+        "latin": "Barbarus",
+        "ru": "Чужеземец, варвар"
+      },
+      {
+        "latin": "Vivere",
+        "ru": "Жить"
+      },
+      {
+        "latin": "Dubitare",
+        "ru": "Сомневаться"
+      }
+    ],
+    "reviewed_today": [
+      "Crux",
+      "Tutus",
+      "Recens"
     ]
   }
 ]

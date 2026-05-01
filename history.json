@@ -3,28 +3,6 @@
     "date": "2025-12-26",
     "words": [
       {
-        "latin": "Vacuus",
-        "ru": "Пустой, свободный"
-      },
-      {
-        "latin": "Magnitudo",
-        "ru": "Величина"
-      },
-      {
-        "latin": "Ecclesia",
-        "ru": "Церковь"
-      }
-    ],
-    "reviewed_today": [
-      "Scelus",
-      "Insula",
-      "Emere"
-    ]
-  },
-  {
-    "date": "2025-12-26",
-    "words": [
-      {
         "latin": "Vis",
         "ru": "Сила"
       },
@@ -10997,6 +10975,28 @@
       "Externus",
       "Latere",
       "Facinus"
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "words": [
+      {
+        "latin": "Enuntiare",
+        "ru": "Высказывать"
+      },
+      {
+        "latin": "Quoque",
+        "ru": "Также"
+      },
+      {
+        "latin": "Punitio",
+        "ru": "Наказание"
+      }
+    ],
+    "reviewed_today": [
+      "Forum",
+      "Mittere",
+      "Gratia"
     ]
   }
 ]

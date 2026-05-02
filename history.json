@@ -3,28 +3,6 @@
     "date": "2025-12-28",
     "words": [
       {
-        "latin": "Moenia",
-        "ru": "Стены (городские)"
-      },
-      {
-        "latin": "Sinister",
-        "ru": "Левый"
-      },
-      {
-        "latin": "Triumphus",
-        "ru": "Триумф, победа"
-      }
-    ],
-    "reviewed_today": [
-      "Decidere",
-      "Dolor",
-      "Sacer"
-    ]
-  },
-  {
-    "date": "2025-12-28",
-    "words": [
-      {
         "latin": "Vita",
         "ru": "Жизнь"
       },
@@ -10997,6 +10975,28 @@
       "Suspicio",
       "Dicere",
       "Cotidie"
+    ]
+  },
+  {
+    "date": "2026-05-02",
+    "words": [
+      {
+        "latin": "Fessus",
+        "ru": "Усталый"
+      },
+      {
+        "latin": "Delectare",
+        "ru": "Радовать"
+      },
+      {
+        "latin": "Dolor",
+        "ru": "Боль"
+      }
+    ],
+    "reviewed_today": [
+      "Sex",
+      "Agere",
+      "Legere"
     ]
   }
 ]

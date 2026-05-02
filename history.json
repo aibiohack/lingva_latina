@@ -3,28 +3,6 @@
     "date": "2025-12-27",
     "words": [
       {
-        "latin": "Silentium",
-        "ru": "Молчание, тишина"
-      },
-      {
-        "latin": "Enuntiare",
-        "ru": "Высказывать"
-      },
-      {
-        "latin": "Aut",
-        "ru": "Или"
-      }
-    ],
-    "reviewed_today": [
-      "Tres",
-      "Domus",
-      "Humanus"
-    ]
-  },
-  {
-    "date": "2025-12-27",
-    "words": [
-      {
         "latin": "Fessus",
         "ru": "Усталый"
       },
@@ -10997,6 +10975,28 @@
       "Crux",
       "Tutus",
       "Recens"
+    ]
+  },
+  {
+    "date": "2026-05-02",
+    "words": [
+      {
+        "latin": "Legatus",
+        "ru": "Посол, легат"
+      },
+      {
+        "latin": "Aqua",
+        "ru": "Вода"
+      },
+      {
+        "latin": "Orbis",
+        "ru": "Круг, мир"
+      }
+    ],
+    "reviewed_today": [
+      "Mentior",
+      "Iurare",
+      "Si"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2025-12-27",
-    "words": [
-      {
-        "latin": "Delectare",
-        "ru": "Радовать"
-      },
-      {
-        "latin": "Cunctus",
-        "ru": "Весь, совокупный"
-      },
-      {
-        "latin": "Suavis",
-        "ru": "Приятный, сладкий"
-      }
-    ],
-    "reviewed_today": [
-      "Bibere",
-      "Sine",
-      "Tibia"
-    ]
-  },
-  {
     "date": "2025-12-28",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Sustinere",
       "Suus",
       "Brevis"
+    ]
+  },
+  {
+    "date": "2026-05-02",
+    "words": [
+      {
+        "latin": "Herba",
+        "ru": "Трава"
+      },
+      {
+        "latin": "Sacer",
+        "ru": "Священный"
+      },
+      {
+        "latin": "Dedico",
+        "ru": "Посвящаю"
+      }
+    ],
+    "reviewed_today": [
+      "Suspicio",
+      "Dicere",
+      "Cotidie"
     ]
   }
 ]

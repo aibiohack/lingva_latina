@@ -3,28 +3,6 @@
     "date": "2025-12-28",
     "words": [
       {
-        "latin": "Ira",
-        "ru": "Гнев"
-      },
-      {
-        "latin": "Magister",
-        "ru": "Учитель"
-      },
-      {
-        "latin": "Fuga",
-        "ru": "Бегство"
-      }
-    ],
-    "reviewed_today": [
-      "Scelus",
-      "Curare",
-      "Tantum"
-    ]
-  },
-  {
-    "date": "2025-12-28",
-    "words": [
-      {
         "latin": "Regio",
         "ru": "Область"
       },
@@ -10997,6 +10975,28 @@
       "Temere",
       "Laborare",
       "Filius"
+    ]
+  },
+  {
+    "date": "2026-05-03",
+    "words": [
+      {
+        "latin": "Vita",
+        "ru": "Жизнь"
+      },
+      {
+        "latin": "Immortalis",
+        "ru": "Бессмертный"
+      },
+      {
+        "latin": "Triumphus",
+        "ru": "Триумф, победа"
+      }
+    ],
+    "reviewed_today": [
+      "Materia",
+      "Saxum",
+      "Crescere"
     ]
   }
 ]

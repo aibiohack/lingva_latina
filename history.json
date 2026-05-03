@@ -1,27 +1,5 @@
 [
   {
-    "date": "2025-12-28",
-    "words": [
-      {
-        "latin": "Regio",
-        "ru": "Область"
-      },
-      {
-        "latin": "Malus",
-        "ru": "Плохой"
-      },
-      {
-        "latin": "Currere",
-        "ru": "Бежать"
-      }
-    ],
-    "reviewed_today": [
-      "Reus",
-      "Crux",
-      "Tertius"
-    ]
-  },
-  {
     "date": "2025-12-29",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Materia",
       "Saxum",
       "Crescere"
+    ]
+  },
+  {
+    "date": "2026-05-03",
+    "words": [
+      {
+        "latin": "Porta",
+        "ru": "Ворота"
+      },
+      {
+        "latin": "Moenia",
+        "ru": "Стены (городские)"
+      },
+      {
+        "latin": "Atque",
+        "ru": "А также, и"
+      }
+    ],
+    "reviewed_today": [
+      "Venenum",
+      "Scire",
+      "Urgere"
     ]
   }
 ]

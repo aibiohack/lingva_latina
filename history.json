@@ -1,27 +1,5 @@
 [
   {
-    "date": "2025-12-29",
-    "words": [
-      {
-        "latin": "Vivus",
-        "ru": "Живой"
-      },
-      {
-        "latin": "Grex",
-        "ru": "Стадо, толпа"
-      },
-      {
-        "latin": "Ubi",
-        "ru": "Где"
-      }
-    ],
-    "reviewed_today": [
-      "Ecclesia",
-      "Iudicium",
-      "Fuga"
-    ]
-  },
-  {
     "date": "2025-12-30",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Vulnero",
       "Filia",
       "Color"
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "words": [
+      {
+        "latin": "Felicitas",
+        "ru": "Счастье"
+      },
+      {
+        "latin": "Fieri",
+        "ru": "Становиться, делаться"
+      },
+      {
+        "latin": "Videlicet",
+        "ru": "Очевидно, именно"
+      }
+    ],
+    "reviewed_today": [
+      "Vester",
+      "Secundus",
+      "Recipere"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2025-12-30",
-    "words": [
-      {
-        "latin": "Venerari",
-        "ru": "Почитать, боготворить"
-      },
-      {
-        "latin": "Discipulus",
-        "ru": "Ученик"
-      },
-      {
-        "latin": "Maestus",
-        "ru": "Грустный"
-      }
-    ],
-    "reviewed_today": [
-      "Immortalis",
-      "Modus",
-      "Sinister"
-    ]
-  },
-  {
     "date": "2025-12-31",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Patria",
       "Imperare",
       "Situs"
+    ]
+  },
+  {
+    "date": "2026-05-05",
+    "words": [
+      {
+        "latin": "Miles",
+        "ru": "Воин"
+      },
+      {
+        "latin": "Primus",
+        "ru": "Первый"
+      },
+      {
+        "latin": "Dexter",
+        "ru": "Правый"
+      }
+    ],
+    "reviewed_today": [
+      "Regio",
+      "Canis",
+      "Quattuor"
     ]
   }
 ]

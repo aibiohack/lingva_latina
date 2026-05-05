@@ -3,28 +3,6 @@
     "date": "2025-12-31",
     "words": [
       {
-        "latin": "Tabula",
-        "ru": "Доска, таблица"
-      },
-      {
-        "latin": "Labor",
-        "ru": "Труд"
-      },
-      {
-        "latin": "Vindex",
-        "ru": "Защитник, мститель"
-      }
-    ],
-    "reviewed_today": [
-      "Regio",
-      "Terror",
-      "Iugum"
-    ]
-  },
-  {
-    "date": "2025-12-31",
-    "words": [
-      {
         "latin": "Tumultus",
         "ru": "Смятение, шум"
       },
@@ -10997,6 +10975,28 @@
       "Flumen",
       "Venari",
       "Aeternitas"
+    ]
+  },
+  {
+    "date": "2026-05-05",
+    "words": [
+      {
+        "latin": "Cur",
+        "ru": "Почему"
+      },
+      {
+        "latin": "Uterque",
+        "ru": "И тот и другой"
+      },
+      {
+        "latin": "Ultra",
+        "ru": "Сверх, по ту сторону"
+      }
+    ],
+    "reviewed_today": [
+      "Plenus",
+      "Expectare",
+      "Socius"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2025-12-30",
     "words": [
       {
-        "latin": "Salus",
-        "ru": "Здоровье, спасение, приветствие"
-      },
-      {
-        "latin": "Audax",
-        "ru": "Смелый, дерзкий"
-      },
-      {
-        "latin": "Sursum",
-        "ru": "Вверх"
-      }
-    ],
-    "reviewed_today": [
-      "Cunctus",
-      "Declarare",
-      "Delectare"
-    ]
-  },
-  {
-    "date": "2025-12-30",
-    "words": [
-      {
         "latin": "Venerari",
         "ru": "Почитать, боготворить"
       },
@@ -10997,6 +10975,28 @@
       "Testis",
       "Quasi",
       "Horrere"
+    ]
+  },
+  {
+    "date": "2026-05-05",
+    "words": [
+      {
+        "latin": "Sanguis",
+        "ru": "Кровь"
+      },
+      {
+        "latin": "Ridere",
+        "ru": "Смеяться"
+      },
+      {
+        "latin": "Verus",
+        "ru": "Истинный"
+      }
+    ],
+    "reviewed_today": [
+      "Patria",
+      "Imperare",
+      "Situs"
     ]
   }
 ]

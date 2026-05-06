@@ -3,28 +3,6 @@
     "date": "2026-01-01",
     "words": [
       {
-        "latin": "Gaudium",
-        "ru": "Радость"
-      },
-      {
-        "latin": "Auxilium",
-        "ru": "Помощь"
-      },
-      {
-        "latin": "Poeta",
-        "ru": "Поэт"
-      }
-    ],
-    "reviewed_today": [
-      "Vitare",
-      "Stirps",
-      "Coepi"
-    ]
-  },
-  {
-    "date": "2026-01-01",
-    "words": [
-      {
         "latin": "Licet",
         "ru": "Можно, позволено"
       },
@@ -10997,6 +10975,28 @@
       "Longus",
       "Sensus",
       "Retinere"
+    ]
+  },
+  {
+    "date": "2026-05-06",
+    "words": [
+      {
+        "latin": "Genu",
+        "ru": "Колено"
+      },
+      {
+        "latin": "Severus",
+        "ru": "Строгий, суровый"
+      },
+      {
+        "latin": "Argentum",
+        "ru": "Серебро"
+      }
+    ],
+    "reviewed_today": [
+      "Crimen",
+      "Statim",
+      "Servire"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2025-12-31",
-    "words": [
-      {
-        "latin": "Ventus",
-        "ru": "Ветер"
-      },
-      {
-        "latin": "Idem",
-        "ru": "Тот же самый"
-      },
-      {
-        "latin": "Saepe",
-        "ru": "Часто"
-      }
-    ],
-    "reviewed_today": [
-      "Modus",
-      "Ira",
-      "Mox"
-    ]
-  },
-  {
     "date": "2026-01-01",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Ignoscerе",
       "Herba",
       "Gens"
+    ]
+  },
+  {
+    "date": "2026-05-06",
+    "words": [
+      {
+        "latin": "Luna",
+        "ru": "Луна"
+      },
+      {
+        "latin": "Ullus",
+        "ru": "Какой-либо"
+      },
+      {
+        "latin": "Voluntas",
+        "ru": "Воля, желание"
+      }
+    ],
+    "reviewed_today": [
+      "Longus",
+      "Sensus",
+      "Retinere"
     ]
   }
 ]

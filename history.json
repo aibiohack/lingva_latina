@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-01",
-    "words": [
-      {
-        "latin": "Caput",
-        "ru": "Голова"
-      },
-      {
-        "latin": "Tu",
-        "ru": "Ты"
-      },
-      {
-        "latin": "Damnum",
-        "ru": "Ущерб, убыток"
-      }
-    ],
-    "reviewed_today": [
-      "Decidere",
-      "Suavis",
-      "Senectus"
-    ]
-  },
-  {
     "date": "2026-01-02",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Sic",
       "Locus",
       "Cantare"
+    ]
+  },
+  {
+    "date": "2026-05-07",
+    "words": [
+      {
+        "latin": "Quid",
+        "ru": "Что"
+      },
+      {
+        "latin": "Venerari",
+        "ru": "Почитать"
+      },
+      {
+        "latin": "Auxilium",
+        "ru": "Помощь"
+      }
+    ],
+    "reviewed_today": [
+      "Venire",
+      "Togatus",
+      "Summa"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-01-01",
     "words": [
       {
-        "latin": "Licet",
-        "ru": "Можно, позволено"
-      },
-      {
-        "latin": "Mutare",
-        "ru": "Менять"
-      },
-      {
-        "latin": "Undique",
-        "ru": "Отовсюду"
-      }
-    ],
-    "reviewed_today": [
-      "Sinister",
-      "Regio",
-      "Dum"
-    ]
-  },
-  {
-    "date": "2026-01-01",
-    "words": [
-      {
         "latin": "Causa",
         "ru": "Причина"
       },
@@ -10997,6 +10975,28 @@
       "Crimen",
       "Statim",
       "Servire"
+    ]
+  },
+  {
+    "date": "2026-05-07",
+    "words": [
+      {
+        "latin": "Poeta",
+        "ru": "Поэт"
+      },
+      {
+        "latin": "Gaudium",
+        "ru": "Радость"
+      },
+      {
+        "latin": "Auxilium",
+        "ru": "Помощь"
+      }
+    ],
+    "reviewed_today": [
+      "Dum",
+      "Vox",
+      "Lacrima"
     ]
   }
 ]

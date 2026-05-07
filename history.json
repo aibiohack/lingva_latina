@@ -3,28 +3,6 @@
     "date": "2026-01-02",
     "words": [
       {
-        "latin": "Si",
-        "ru": "Если"
-      },
-      {
-        "latin": "Comes",
-        "ru": "Спутник, граф"
-      },
-      {
-        "latin": "Uva",
-        "ru": "Виноград"
-      }
-    ],
-    "reviewed_today": [
-      "Immortalis",
-      "Ante",
-      "Cunctus"
-    ]
-  },
-  {
-    "date": "2026-01-02",
-    "words": [
-      {
         "latin": "Vetus",
         "ru": "Старый"
       },
@@ -10997,6 +10975,28 @@
       "Venire",
       "Togatus",
       "Summa"
+    ]
+  },
+  {
+    "date": "2026-05-07",
+    "words": [
+      {
+        "latin": "Causa",
+        "ru": "Причина"
+      },
+      {
+        "latin": "Tu",
+        "ru": "Ты"
+      },
+      {
+        "latin": "Tu",
+        "ru": "Ты"
+      }
+    ],
+    "reviewed_today": [
+      "Quattuor",
+      "Uterque",
+      "Benevolentia"
     ]
   }
 ]

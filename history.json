@@ -3,28 +3,6 @@
     "date": "2026-01-01",
     "words": [
       {
-        "latin": "Causa",
-        "ru": "Причина"
-      },
-      {
-        "latin": "Harena",
-        "ru": "Песок, арена"
-      },
-      {
-        "latin": "Victoria",
-        "ru": "Победа"
-      }
-    ],
-    "reviewed_today": [
-      "Reus",
-      "Tibia",
-      "Humanus"
-    ]
-  },
-  {
-    "date": "2026-01-01",
-    "words": [
-      {
         "latin": "Caput",
         "ru": "Голова"
       },
@@ -10997,6 +10975,28 @@
       "Dum",
       "Vox",
       "Lacrima"
+    ]
+  },
+  {
+    "date": "2026-05-07",
+    "words": [
+      {
+        "latin": "Terere",
+        "ru": "Тереть, тратить время"
+      },
+      {
+        "latin": "Valetudo",
+        "ru": "Здоровье (состояние)"
+      },
+      {
+        "latin": "Licet",
+        "ru": "Можно, позволено"
+      }
+    ],
+    "reviewed_today": [
+      "Sic",
+      "Locus",
+      "Cantare"
     ]
   }
 ]

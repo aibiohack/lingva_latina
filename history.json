@@ -3,28 +3,6 @@
     "date": "2026-01-03",
     "words": [
       {
-        "latin": "Testimonium",
-        "ru": "Свидетельство"
-      },
-      {
-        "latin": "Loqui",
-        "ru": "Говорить"
-      },
-      {
-        "latin": "Terra",
-        "ru": "Земля"
-      }
-    ],
-    "reviewed_today": [
-      "Decidere",
-      "Vita",
-      "Enuntiare"
-    ]
-  },
-  {
-    "date": "2026-01-03",
-    "words": [
-      {
         "latin": "Orbis",
         "ru": "Круг, мир"
       },
@@ -10997,6 +10975,28 @@
       "Densus",
       "Septem",
       "Laus"
+    ]
+  },
+  {
+    "date": "2026-05-08",
+    "words": [
+      {
+        "latin": "Officium",
+        "ru": "Обязанность"
+      },
+      {
+        "latin": "Fere",
+        "ru": "Почти, обыкновенно"
+      },
+      {
+        "latin": "Pugnare",
+        "ru": "Сражаться"
+      }
+    ],
+    "reviewed_today": [
+      "Metuere",
+      "Gerere",
+      "Vocare"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-01-02",
     "words": [
       {
-        "latin": "Vetus",
-        "ru": "Старый"
-      },
-      {
-        "latin": "Valere",
-        "ru": "Быть здоровым, иметь силу"
-      },
-      {
-        "latin": "Socius",
-        "ru": "Союзник, товарищ"
-      }
-    ],
-    "reviewed_today": [
-      "Grex",
-      "Maestus",
-      "Vastus"
-    ]
-  },
-  {
-    "date": "2026-01-02",
-    "words": [
-      {
         "latin": "Gignere",
         "ru": "Рождать, производить"
       },
@@ -10997,6 +10975,28 @@
       "Quattuor",
       "Uterque",
       "Benevolentia"
+    ]
+  },
+  {
+    "date": "2026-05-08",
+    "words": [
+      {
+        "latin": "Damnum",
+        "ru": "Ущерб, убыток"
+      },
+      {
+        "latin": "Si",
+        "ru": "Если"
+      },
+      {
+        "latin": "Comes",
+        "ru": "Спутник, граф"
+      }
+    ],
+    "reviewed_today": [
+      "Quasi",
+      "Vox",
+      "Innocens"
     ]
   }
 ]

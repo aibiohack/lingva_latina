@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-02",
-    "words": [
-      {
-        "latin": "Ridere",
-        "ru": "Смеяться"
-      },
-      {
-        "latin": "Fenestra",
-        "ru": "Окно"
-      },
-      {
-        "latin": "Spatium",
-        "ru": "Пространство, промежуток"
-      }
-    ],
-    "reviewed_today": [
-      "Gaudium",
-      "Vindex",
-      "Silentium"
-    ]
-  },
-  {
     "date": "2026-01-03",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Tenebrae",
       "Dens",
       "Culpa"
+    ]
+  },
+  {
+    "date": "2026-05-08",
+    "words": [
+      {
+        "latin": "Parens",
+        "ru": "Родитель"
+      },
+      {
+        "latin": "Nuntius",
+        "ru": "Вестник"
+      },
+      {
+        "latin": "Ars",
+        "ru": "Искусство"
+      }
+    ],
+    "reviewed_today": [
+      "Densus",
+      "Septem",
+      "Laus"
     ]
   }
 ]

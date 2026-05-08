@@ -3,28 +3,6 @@
     "date": "2026-01-02",
     "words": [
       {
-        "latin": "Gignere",
-        "ru": "Рождать, производить"
-      },
-      {
-        "latin": "Vigilare",
-        "ru": "Бодрствовать"
-      },
-      {
-        "latin": "Sarcina",
-        "ru": "Узел, багаж"
-      }
-    ],
-    "reviewed_today": [
-      "Aurum",
-      "Luna",
-      "Sinister"
-    ]
-  },
-  {
-    "date": "2026-01-02",
-    "words": [
-      {
         "latin": "Ridere",
         "ru": "Смеяться"
       },
@@ -10997,6 +10975,28 @@
       "Quasi",
       "Vox",
       "Innocens"
+    ]
+  },
+  {
+    "date": "2026-05-08",
+    "words": [
+      {
+        "latin": "Laetus",
+        "ru": "Веселый, тучный"
+      },
+      {
+        "latin": "Beatus",
+        "ru": "Счастливый, блаженный"
+      },
+      {
+        "latin": "Similis",
+        "ru": "Похожий"
+      }
+    ],
+    "reviewed_today": [
+      "Tenebrae",
+      "Dens",
+      "Culpa"
     ]
   }
 ]

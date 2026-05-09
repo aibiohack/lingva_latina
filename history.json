@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-03",
-    "words": [
-      {
-        "latin": "Defendere",
-        "ru": "Защищать"
-      },
-      {
-        "latin": "Humus",
-        "ru": "Земля"
-      },
-      {
-        "latin": "Amare",
-        "ru": "Любить"
-      }
-    ],
-    "reviewed_today": [
-      "Aut",
-      "Causa",
-      "Clarus"
-    ]
-  },
-  {
     "date": "2026-01-04",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Sitire",
       "Fessus",
       "Sursum"
+    ]
+  },
+  {
+    "date": "2026-05-09",
+    "words": [
+      {
+        "latin": "Claudere",
+        "ru": "Закрывать"
+      },
+      {
+        "latin": "Iter",
+        "ru": "Путь"
+      },
+      {
+        "latin": "Socius",
+        "ru": "Союзник"
+      }
+    ],
+    "reviewed_today": [
+      "Desiderium",
+      "Tectum",
+      "Civitas"
     ]
   }
 ]

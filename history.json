@@ -3,28 +3,6 @@
     "date": "2026-01-03",
     "words": [
       {
-        "latin": "Vinculum",
-        "ru": "Узы, цепь"
-      },
-      {
-        "latin": "Vester",
-        "ru": "Ваш"
-      },
-      {
-        "latin": "Densus",
-        "ru": "Густой, плотный"
-      }
-    ],
-    "reviewed_today": [
-      "Caput",
-      "Humanus",
-      "Tabula"
-    ]
-  },
-  {
-    "date": "2026-01-03",
-    "words": [
-      {
         "latin": "Defendere",
         "ru": "Защищать"
       },
@@ -10997,6 +10975,28 @@
       "Sal",
       "Legatus",
       "Navis"
+    ]
+  },
+  {
+    "date": "2026-05-09",
+    "words": [
+      {
+        "latin": "Testimonium",
+        "ru": "Свидетельство"
+      },
+      {
+        "latin": "Natura",
+        "ru": "Природа"
+      },
+      {
+        "latin": "Loqui",
+        "ru": "Говорить"
+      }
+    ],
+    "reviewed_today": [
+      "Sitire",
+      "Fessus",
+      "Sursum"
     ]
   }
 ]

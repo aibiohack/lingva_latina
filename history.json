@@ -3,28 +3,6 @@
     "date": "2026-01-03",
     "words": [
       {
-        "latin": "Orbis",
-        "ru": "Круг, мир"
-      },
-      {
-        "latin": "Natura",
-        "ru": "Природа"
-      },
-      {
-        "latin": "Vulnus",
-        "ru": "Рана"
-      }
-    ],
-    "reviewed_today": [
-      "Hodie",
-      "Undique",
-      "Vox"
-    ]
-  },
-  {
-    "date": "2026-01-03",
-    "words": [
-      {
         "latin": "Vinculum",
         "ru": "Узы, цепь"
       },
@@ -10997,6 +10975,28 @@
       "Metuere",
       "Gerere",
       "Vocare"
+    ]
+  },
+  {
+    "date": "2026-05-09",
+    "words": [
+      {
+        "latin": "Quantus",
+        "ru": "Сколько"
+      },
+      {
+        "latin": "Rota",
+        "ru": "Колесо"
+      },
+      {
+        "latin": "Putare",
+        "ru": "Считать, полагать"
+      }
+    ],
+    "reviewed_today": [
+      "Sal",
+      "Legatus",
+      "Navis"
     ]
   }
 ]

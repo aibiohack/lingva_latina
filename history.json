@@ -3,28 +3,6 @@
     "date": "2026-01-04",
     "words": [
       {
-        "latin": "Dexter",
-        "ru": "Правый"
-      },
-      {
-        "latin": "Ferre",
-        "ru": "Нести"
-      },
-      {
-        "latin": "Unanimis",
-        "ru": "Единодушный"
-      }
-    ],
-    "reviewed_today": [
-      "Victor",
-      "Cunctus",
-      "Ventus"
-    ]
-  },
-  {
-    "date": "2026-01-04",
-    "words": [
-      {
         "latin": "Levis",
         "ru": "Легкий"
       },
@@ -10997,6 +10975,28 @@
       "Desiderium",
       "Tectum",
       "Civitas"
+    ]
+  },
+  {
+    "date": "2026-05-09",
+    "words": [
+      {
+        "latin": "Urbs",
+        "ru": "Город"
+      },
+      {
+        "latin": "Venus",
+        "ru": "Любовь, Венера"
+      },
+      {
+        "latin": "Aevum",
+        "ru": "Век, эпоха"
+      }
+    ],
+    "reviewed_today": [
+      "Furor",
+      "Vestis",
+      "Timere"
     ]
   }
 ]

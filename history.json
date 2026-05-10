@@ -3,28 +3,6 @@
     "date": "2026-01-05",
     "words": [
       {
-        "latin": "Velle",
-        "ru": "Хотеть"
-      },
-      {
-        "latin": "Trabs",
-        "ru": "Балка, дерево"
-      },
-      {
-        "latin": "Scientia",
-        "ru": "Знание, наука"
-      }
-    ],
-    "reviewed_today": [
-      "Iudicium",
-      "Vox",
-      "Sinister"
-    ]
-  },
-  {
-    "date": "2026-01-05",
-    "words": [
-      {
         "latin": "Urgere",
         "ru": "Гнать, теснить"
       },
@@ -10997,6 +10975,28 @@
       "Sub",
       "Inanis",
       "Integer"
+    ]
+  },
+  {
+    "date": "2026-05-10",
+    "words": [
+      {
+        "latin": "Quattuor",
+        "ru": "Четыре"
+      },
+      {
+        "latin": "Retinere",
+        "ru": "Удерживать, сохранять"
+      },
+      {
+        "latin": "Levis",
+        "ru": "Легкий"
+      }
+    ],
+    "reviewed_today": [
+      "Nomen",
+      "Umbra",
+      "Sitire"
     ]
   }
 ]

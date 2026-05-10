@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-04",
-    "words": [
-      {
-        "latin": "Venire",
-        "ru": "Приходить"
-      },
-      {
-        "latin": "Quattuor",
-        "ru": "Четыре"
-      },
-      {
-        "latin": "Laudare",
-        "ru": "Хвалить"
-      }
-    ],
-    "reviewed_today": [
-      "Currere",
-      "Luna",
-      "Labor"
-    ]
-  },
-  {
     "date": "2026-01-05",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Certe",
       "Idoneus",
       "Ignis"
+    ]
+  },
+  {
+    "date": "2026-05-10",
+    "words": [
+      {
+        "latin": "Sanguis",
+        "ru": "Кровь"
+      },
+      {
+        "latin": "Ignis",
+        "ru": "Огонь"
+      },
+      {
+        "latin": "Colere",
+        "ru": "Возделывать, почитать"
+      }
+    ],
+    "reviewed_today": [
+      "Sub",
+      "Inanis",
+      "Integer"
     ]
   }
 ]

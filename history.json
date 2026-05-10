@@ -3,28 +3,6 @@
     "date": "2026-01-04",
     "words": [
       {
-        "latin": "Retinere",
-        "ru": "Удерживать, сохранять"
-      },
-      {
-        "latin": "Sapiens",
-        "ru": "Мудрый, разумный"
-      },
-      {
-        "latin": "Bellum",
-        "ru": "Война"
-      }
-    ],
-    "reviewed_today": [
-      "Vindex",
-      "Dum",
-      "Triduum"
-    ]
-  },
-  {
-    "date": "2026-01-04",
-    "words": [
-      {
         "latin": "Venire",
         "ru": "Приходить"
       },
@@ -10997,6 +10975,28 @@
       "Parens",
       "Mentior",
       "Malle"
+    ]
+  },
+  {
+    "date": "2026-05-10",
+    "words": [
+      {
+        "latin": "Telum",
+        "ru": "Оружие, копье"
+      },
+      {
+        "latin": "Invenire",
+        "ru": "Находить"
+      },
+      {
+        "latin": "Cena",
+        "ru": "Обед"
+      }
+    ],
+    "reviewed_today": [
+      "Certe",
+      "Idoneus",
+      "Ignis"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-01-05",
     "words": [
       {
-        "latin": "Utilitas",
-        "ru": "Польза, выгода"
-      },
-      {
-        "latin": "Debere",
-        "ru": "Быть должным"
-      },
-      {
-        "latin": "Aperire",
-        "ru": "Открывать"
-      }
-    ],
-    "reviewed_today": [
-      "Spiritus",
-      "Curare",
-      "Ubi"
-    ]
-  },
-  {
-    "date": "2026-01-05",
-    "words": [
-      {
         "latin": "Sol",
         "ru": "Солнце"
       },
@@ -10997,6 +10975,28 @@
       "Cura",
       "Gratia",
       "Fallere"
+    ]
+  },
+  {
+    "date": "2026-05-11",
+    "words": [
+      {
+        "latin": "Honor",
+        "ru": "Честь"
+      },
+      {
+        "latin": "Splendor",
+        "ru": "Блеск, великолепие"
+      },
+      {
+        "latin": "Sedere",
+        "ru": "Сидеть"
+      }
+    ],
+    "reviewed_today": [
+      "Vultus",
+      "Triginta",
+      "Dubius"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-05",
-    "words": [
-      {
-        "latin": "Sol",
-        "ru": "Солнце"
-      },
-      {
-        "latin": "Stultus",
-        "ru": "Глупый"
-      },
-      {
-        "latin": "Visere",
-        "ru": "Осматривать, посещать"
-      }
-    ],
-    "reviewed_today": [
-      "Enuntiare",
-      "Magnitudo",
-      "Maestus"
-    ]
-  },
-  {
     "date": "2026-01-06",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Vultus",
       "Triginta",
       "Dubius"
+    ]
+  },
+  {
+    "date": "2026-05-11",
+    "words": [
+      {
+        "latin": "Iuvare",
+        "ru": "Помогать, радовать"
+      },
+      {
+        "latin": "Aperire",
+        "ru": "Открывать"
+      },
+      {
+        "latin": "Utilitas",
+        "ru": "Польза, выгода"
+      }
+    ],
+    "reviewed_today": [
+      "Gaudere",
+      "Aura",
+      "Felicitas"
     ]
   }
 ]

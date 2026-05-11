@@ -3,28 +3,6 @@
     "date": "2026-01-06",
     "words": [
       {
-        "latin": "Ingens",
-        "ru": "Огромный"
-      },
-      {
-        "latin": "Gaudere",
-        "ru": "Радоваться"
-      },
-      {
-        "latin": "Desistere",
-        "ru": "Прекращать, отступать"
-      }
-    ],
-    "reviewed_today": [
-      "Ridere",
-      "Gignere",
-      "Meritum"
-    ]
-  },
-  {
-    "date": "2026-01-06",
-    "words": [
-      {
         "latin": "Suscipere",
         "ru": "Предпринимать, принимать"
       },
@@ -10997,6 +10975,28 @@
       "Gaudere",
       "Aura",
       "Felicitas"
+    ]
+  },
+  {
+    "date": "2026-05-11",
+    "words": [
+      {
+        "latin": "Fieri",
+        "ru": "Становиться, делаться"
+      },
+      {
+        "latin": "Lignum",
+        "ru": "Дерево, дрова"
+      },
+      {
+        "latin": "Cur",
+        "ru": "Почему"
+      }
+    ],
+    "reviewed_today": [
+      "Fides",
+      "Iucundus",
+      "Talis"
     ]
   }
 ]

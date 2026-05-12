@@ -3,28 +3,6 @@
     "date": "2026-01-07",
     "words": [
       {
-        "latin": "Videre",
-        "ru": "Видеть"
-      },
-      {
-        "latin": "Civis",
-        "ru": "Гражданин"
-      },
-      {
-        "latin": "Venus",
-        "ru": "Любовь, Венера"
-      }
-    ],
-    "reviewed_today": [
-      "Iugum",
-      "Malus",
-      "Nox"
-    ]
-  },
-  {
-    "date": "2026-01-07",
-    "words": [
-      {
         "latin": "Saxum",
         "ru": "Скала, камень"
       },
@@ -10997,6 +10975,28 @@
       "Multitudo",
       "Cantare",
       "Ultimus"
+    ]
+  },
+  {
+    "date": "2026-05-12",
+    "words": [
+      {
+        "latin": "Tendere",
+        "ru": "Натягивать, стремиться"
+      },
+      {
+        "latin": "Victor",
+        "ru": "Победитель"
+      },
+      {
+        "latin": "Mox",
+        "ru": "Скоро"
+      }
+    ],
+    "reviewed_today": [
+      "Satis",
+      "Ungere",
+      "Arma"
     ]
   }
 ]

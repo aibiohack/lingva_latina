@@ -3,28 +3,6 @@
     "date": "2026-01-06",
     "words": [
       {
-        "latin": "Suscipere",
-        "ru": "Предпринимать, принимать"
-      },
-      {
-        "latin": "Aureus",
-        "ru": "Золотой"
-      },
-      {
-        "latin": "Medicus",
-        "ru": "Врач"
-      }
-    ],
-    "reviewed_today": [
-      "Poeta",
-      "Natura",
-      "Terra"
-    ]
-  },
-  {
-    "date": "2026-01-06",
-    "words": [
-      {
         "latin": "Nihil",
         "ru": "Ничто"
       },
@@ -10997,6 +10975,28 @@
       "Fides",
       "Iucundus",
       "Talis"
+    ]
+  },
+  {
+    "date": "2026-05-12",
+    "words": [
+      {
+        "latin": "Simul",
+        "ru": "Одновременно, вместе"
+      },
+      {
+        "latin": "Fundamentum",
+        "ru": "Основание"
+      },
+      {
+        "latin": "Ferrum",
+        "ru": "Железо"
+      }
+    ],
+    "reviewed_today": [
+      "Monere",
+      "Pro",
+      "Libenter"
     ]
   }
 ]

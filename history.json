@@ -3,28 +3,6 @@
     "date": "2026-01-07",
     "words": [
       {
-        "latin": "Saxum",
-        "ru": "Скала, камень"
-      },
-      {
-        "latin": "Pone",
-        "ru": "Позади"
-      },
-      {
-        "latin": "Decere",
-        "ru": "Подобать, приличествовать"
-      }
-    ],
-    "reviewed_today": [
-      "Vis",
-      "Undique",
-      "Dum"
-    ]
-  },
-  {
-    "date": "2026-01-07",
-    "words": [
-      {
         "latin": "Aio",
         "ru": "Говорю, утверждаю"
       },
@@ -10997,6 +10975,28 @@
       "Satis",
       "Ungere",
       "Arma"
+    ]
+  },
+  {
+    "date": "2026-05-13",
+    "words": [
+      {
+        "latin": "Solium",
+        "ru": "Престол, трон"
+      },
+      {
+        "latin": "Videre",
+        "ru": "Видеть"
+      },
+      {
+        "latin": "Videre",
+        "ru": "Видеть"
+      }
+    ],
+    "reviewed_today": [
+      "Atque",
+      "Ager",
+      "Ceterus"
     ]
   }
 ]

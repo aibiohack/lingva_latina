@@ -3,28 +3,6 @@
     "date": "2026-01-08",
     "words": [
       {
-        "latin": "Coniunx",
-        "ru": "Супруг, супруга"
-      },
-      {
-        "latin": "Vicis",
-        "ru": "Перемена, очередь"
-      },
-      {
-        "latin": "Genu",
-        "ru": "Колено"
-      }
-    ],
-    "reviewed_today": [
-      "Sacer",
-      "Magnitudo",
-      "Cunctus"
-    ]
-  },
-  {
-    "date": "2026-01-08",
-    "words": [
-      {
         "latin": "Gelu",
         "ru": "Мороз, лед"
       },
@@ -10997,6 +10975,28 @@
       "Caput",
       "Stilus",
       "Bellum"
+    ]
+  },
+  {
+    "date": "2026-05-13",
+    "words": [
+      {
+        "latin": "Fatum",
+        "ru": "Судьба"
+      },
+      {
+        "latin": "Iucundus",
+        "ru": "Приятный"
+      },
+      {
+        "latin": "Spiritus",
+        "ru": "Дух, дыхание"
+      }
+    ],
+    "reviewed_today": [
+      "Fatum",
+      "Laborare",
+      "Honestus"
     ]
   }
 ]

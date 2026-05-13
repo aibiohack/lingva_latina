@@ -3,28 +3,6 @@
     "date": "2026-01-07",
     "words": [
       {
-        "latin": "Aio",
-        "ru": "Говорю, утверждаю"
-      },
-      {
-        "latin": "Nuntius",
-        "ru": "Вестник"
-      },
-      {
-        "latin": "Remus",
-        "ru": "Весло"
-      }
-    ],
-    "reviewed_today": [
-      "Silentium",
-      "Defendere",
-      "Moenia"
-    ]
-  },
-  {
-    "date": "2026-01-07",
-    "words": [
-      {
         "latin": "Quasi",
         "ru": "Как будто"
       },
@@ -10997,6 +10975,28 @@
       "Atque",
       "Ager",
       "Ceterus"
+    ]
+  },
+  {
+    "date": "2026-05-13",
+    "words": [
+      {
+        "latin": "Respondere",
+        "ru": "Отвечать"
+      },
+      {
+        "latin": "Diabolus",
+        "ru": "Дьявол"
+      },
+      {
+        "latin": "Ventus",
+        "ru": "Ветер"
+      }
+    ],
+    "reviewed_today": [
+      "Limen",
+      "Sidus",
+      "Nox"
     ]
   }
 ]

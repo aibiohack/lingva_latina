@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-07",
-    "words": [
-      {
-        "latin": "Quasi",
-        "ru": "Как будто"
-      },
-      {
-        "latin": "Pauper",
-        "ru": "Бедный"
-      },
-      {
-        "latin": "Turba",
-        "ru": "Толпа, сумятица"
-      }
-    ],
-    "reviewed_today": [
-      "Aurum",
-      "Causa",
-      "Venerari"
-    ]
-  },
-  {
     "date": "2026-01-08",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Limen",
       "Sidus",
       "Nox"
+    ]
+  },
+  {
+    "date": "2026-05-13",
+    "words": [
+      {
+        "latin": "Iudex",
+        "ru": "Судья"
+      },
+      {
+        "latin": "Reus",
+        "ru": "Подсудимый, виновный"
+      },
+      {
+        "latin": "Certe",
+        "ru": "Конечно"
+      }
+    ],
+    "reviewed_today": [
+      "Caput",
+      "Stilus",
+      "Bellum"
     ]
   }
 ]

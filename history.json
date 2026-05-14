@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-08",
-    "words": [
-      {
-        "latin": "Epistula",
-        "ru": "Письмо"
-      },
-      {
-        "latin": "Liber",
-        "ru": "Книга"
-      },
-      {
-        "latin": "Dives",
-        "ru": "Богатый"
-      }
-    ],
-    "reviewed_today": [
-      "Vigilare",
-      "Suavis",
-      "Salus"
-    ]
-  },
-  {
     "date": "2026-01-09",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Super",
       "Putare",
       "Antiquus"
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "words": [
+      {
+        "latin": "Oculus",
+        "ru": "Глаз"
+      },
+      {
+        "latin": "Ceterus",
+        "ru": "Прочий, остальной"
+      },
+      {
+        "latin": "Sacer",
+        "ru": "Священный"
+      }
+    ],
+    "reviewed_today": [
+      "Os, oris",
+      "Forum",
+      "Parare"
     ]
   }
 ]

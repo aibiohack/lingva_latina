@@ -3,28 +3,6 @@
     "date": "2026-01-09",
     "words": [
       {
-        "latin": "Ubique",
-        "ru": "Везде, повсюду"
-      },
-      {
-        "latin": "Sed",
-        "ru": "Но"
-      },
-      {
-        "latin": "Atque",
-        "ru": "А также, и"
-      }
-    ],
-    "reviewed_today": [
-      "Vehementer",
-      "Crescere",
-      "Debere"
-    ]
-  },
-  {
-    "date": "2026-01-09",
-    "words": [
-      {
         "latin": "Tum",
         "ru": "Тогда"
       },
@@ -10997,6 +10975,28 @@
       "Os, oris",
       "Forum",
       "Parare"
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "words": [
+      {
+        "latin": "Pauper",
+        "ru": "Бедный"
+      },
+      {
+        "latin": "Epistula",
+        "ru": "Письмо"
+      },
+      {
+        "latin": "Liber",
+        "ru": "Книга"
+      }
+    ],
+    "reviewed_today": [
+      "Rumpere",
+      "Rapere",
+      "Vehementer"
     ]
   }
 ]

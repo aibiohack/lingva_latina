@@ -3,28 +3,6 @@
     "date": "2026-01-08",
     "words": [
       {
-        "latin": "Mos",
-        "ru": "Нрав, обычай"
-      },
-      {
-        "latin": "Doctus",
-        "ru": "Ученый"
-      },
-      {
-        "latin": "Sermo",
-        "ru": "Речь, беседа"
-      }
-    ],
-    "reviewed_today": [
-      "Testimonium",
-      "Licet",
-      "Videre"
-    ]
-  },
-  {
-    "date": "2026-01-08",
-    "words": [
-      {
         "latin": "Epistula",
         "ru": "Письмо"
       },
@@ -10997,6 +10975,28 @@
       "Ecclesia",
       "Trabs",
       "Valde"
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "words": [
+      {
+        "latin": "Saxum",
+        "ru": "Скала, камень"
+      },
+      {
+        "latin": "Fluere",
+        "ru": "Течь"
+      },
+      {
+        "latin": "Gelu",
+        "ru": "Мороз, лед"
+      }
+    ],
+    "reviewed_today": [
+      "Super",
+      "Putare",
+      "Antiquus"
     ]
   }
 ]

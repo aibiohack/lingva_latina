@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-09",
-    "words": [
-      {
-        "latin": "Fallere",
-        "ru": "Обманывать"
-      },
-      {
-        "latin": "Volvo",
-        "ru": "Качу, раздумываю"
-      },
-      {
-        "latin": "Heri",
-        "ru": "Вчера"
-      }
-    ],
-    "reviewed_today": [
-      "Sermo",
-      "Gaudere",
-      "Tres"
-    ]
-  },
-  {
     "date": "2026-01-10",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Tueri",
       "Quod",
       "Rumor"
+    ]
+  },
+  {
+    "date": "2026-05-15",
+    "words": [
+      {
+        "latin": "Ingenium",
+        "ru": "Природный дар, талант"
+      },
+      {
+        "latin": "Pugnare",
+        "ru": "Сражаться"
+      },
+      {
+        "latin": "Inter",
+        "ru": "Между"
+      }
+    ],
+    "reviewed_today": [
+      "Stirps",
+      "Sub",
+      "Sentire"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-01-09",
     "words": [
       {
-        "latin": "Tum",
-        "ru": "Тогда"
-      },
-      {
-        "latin": "Cras",
-        "ru": "Завтра"
-      },
-      {
-        "latin": "Magis",
-        "ru": "Более"
-      }
-    ],
-    "reviewed_today": [
-      "Vindex",
-      "Ingens",
-      "Amare"
-    ]
-  },
-  {
-    "date": "2026-01-09",
-    "words": [
-      {
         "latin": "Supplex",
         "ru": "Молящий, покорный"
       },
@@ -10997,6 +10975,28 @@
       "Rumpere",
       "Rapere",
       "Vehementer"
+    ]
+  },
+  {
+    "date": "2026-05-15",
+    "words": [
+      {
+        "latin": "Statim",
+        "ru": "Немедленно"
+      },
+      {
+        "latin": "Vendere",
+        "ru": "Продавать"
+      },
+      {
+        "latin": "Innocens",
+        "ru": "Невинный"
+      }
+    ],
+    "reviewed_today": [
+      "Violare",
+      "Unus",
+      "Labor"
     ]
   }
 ]

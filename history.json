@@ -3,28 +3,6 @@
     "date": "2026-01-10",
     "words": [
       {
-        "latin": "Utilis",
-        "ru": "Полезный"
-      },
-      {
-        "latin": "Enim",
-        "ru": "Ибо, ведь"
-      },
-      {
-        "latin": "Relinquere",
-        "ru": "Оставлять"
-      }
-    ],
-    "reviewed_today": [
-      "Epistula",
-      "Iugum",
-      "Annus"
-    ]
-  },
-  {
-    "date": "2026-01-10",
-    "words": [
-      {
         "latin": "Efficere",
         "ru": "Действовать, исполнять"
       },
@@ -10997,6 +10975,28 @@
       "Stirps",
       "Sub",
       "Sentire"
+    ]
+  },
+  {
+    "date": "2026-05-15",
+    "words": [
+      {
+        "latin": "Regere",
+        "ru": "Править"
+      },
+      {
+        "latin": "Fallere",
+        "ru": "Обманывать"
+      },
+      {
+        "latin": "Regere",
+        "ru": "Править, управлять"
+      }
+    ],
+    "reviewed_today": [
+      "Usque",
+      "Iocus",
+      "Undique"
     ]
   }
 ]

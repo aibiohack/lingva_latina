@@ -3,28 +3,6 @@
     "date": "2026-01-09",
     "words": [
       {
-        "latin": "Supplex",
-        "ru": "Молящий, покорный"
-      },
-      {
-        "latin": "Nullus",
-        "ru": "Никакой"
-      },
-      {
-        "latin": "Regere",
-        "ru": "Править"
-      }
-    ],
-    "reviewed_today": [
-      "Pauper",
-      "Reus",
-      "Poeta"
-    ]
-  },
-  {
-    "date": "2026-01-09",
-    "words": [
-      {
         "latin": "Fallere",
         "ru": "Обманывать"
       },
@@ -10997,6 +10975,28 @@
       "Violare",
       "Unus",
       "Labor"
+    ]
+  },
+  {
+    "date": "2026-05-15",
+    "words": [
+      {
+        "latin": "Ubique",
+        "ru": "Везде, повсюду"
+      },
+      {
+        "latin": "Sed",
+        "ru": "Но"
+      },
+      {
+        "latin": "Cras",
+        "ru": "Завтра"
+      }
+    ],
+    "reviewed_today": [
+      "Tueri",
+      "Quod",
+      "Rumor"
     ]
   }
 ]

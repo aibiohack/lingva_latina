@@ -3,28 +3,6 @@
     "date": "2026-01-10",
     "words": [
       {
-        "latin": "Scire",
-        "ru": "Знать"
-      },
-      {
-        "latin": "Soror",
-        "ru": "Сестра"
-      },
-      {
-        "latin": "Unde",
-        "ru": "Откуда"
-      }
-    ],
-    "reviewed_today": [
-      "Cras",
-      "Sufferre",
-      "Nullus"
-    ]
-  },
-  {
-    "date": "2026-01-10",
-    "words": [
-      {
         "latin": "Scribere",
         "ru": "Писать"
       },
@@ -10997,6 +10975,28 @@
       "Tranquillitas",
       "Habitus",
       "Mos"
+    ]
+  },
+  {
+    "date": "2026-05-16",
+    "words": [
+      {
+        "latin": "Triumphus",
+        "ru": "Триумф, победа"
+      },
+      {
+        "latin": "Ignis",
+        "ru": "Огонь"
+      },
+      {
+        "latin": "Vel",
+        "ru": "Или, даже"
+      }
+    ],
+    "reviewed_today": [
+      "Finis",
+      "Opus",
+      "Disputare"
     ]
   }
 ]

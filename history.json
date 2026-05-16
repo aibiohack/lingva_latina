@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-10",
-    "words": [
-      {
-        "latin": "Scribere",
-        "ru": "Писать"
-      },
-      {
-        "latin": "Initium",
-        "ru": "Начало"
-      },
-      {
-        "latin": "Ingenium",
-        "ru": "Талант, ум"
-      }
-    ],
-    "reviewed_today": [
-      "Valere",
-      "Enuntiare",
-      "Aperire"
-    ]
-  },
-  {
     "date": "2026-01-11",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Finis",
       "Opus",
       "Disputare"
+    ]
+  },
+  {
+    "date": "2026-05-16",
+    "words": [
+      {
+        "latin": "Enim",
+        "ru": "Ибо, ведь"
+      },
+      {
+        "latin": "Unde",
+        "ru": "Откуда"
+      },
+      {
+        "latin": "Scire",
+        "ru": "Знать"
+      }
+    ],
+    "reviewed_today": [
+      "Rumor",
+      "Creare",
+      "Ruere"
     ]
   }
 ]

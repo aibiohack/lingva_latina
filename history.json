@@ -3,28 +3,6 @@
     "date": "2026-01-11",
     "words": [
       {
-        "latin": "Lupus",
-        "ru": "Волк"
-      },
-      {
-        "latin": "Lapis",
-        "ru": "Камень"
-      },
-      {
-        "latin": "Arbor",
-        "ru": "Дерево"
-      }
-    ],
-    "reviewed_today": [
-      "Socius",
-      "Vigilare",
-      "Iungera"
-    ]
-  },
-  {
-    "date": "2026-01-11",
-    "words": [
-      {
         "latin": "Totus",
         "ru": "Весь, целый"
       },
@@ -10997,6 +10975,28 @@
       "Rumor",
       "Creare",
       "Ruere"
+    ]
+  },
+  {
+    "date": "2026-05-16",
+    "words": [
+      {
+        "latin": "Statua",
+        "ru": "Статуя"
+      },
+      {
+        "latin": "Si",
+        "ru": "Если"
+      },
+      {
+        "latin": "Edere",
+        "ru": "Есть (кушать)"
+      }
+    ],
+    "reviewed_today": [
+      "Vigilia",
+      "Medicus",
+      "Morari"
     ]
   }
 ]

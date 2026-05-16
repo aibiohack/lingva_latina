@@ -3,28 +3,6 @@
     "date": "2026-01-10",
     "words": [
       {
-        "latin": "Efficere",
-        "ru": "Действовать, исполнять"
-      },
-      {
-        "latin": "Desiderium",
-        "ru": "Желание, тоска"
-      },
-      {
-        "latin": "Ignis",
-        "ru": "Огонь"
-      }
-    ],
-    "reviewed_today": [
-      "Vicinus",
-      "Uva",
-      "Sol"
-    ]
-  },
-  {
-    "date": "2026-01-10",
-    "words": [
-      {
         "latin": "Scire",
         "ru": "Знать"
       },
@@ -10997,6 +10975,28 @@
       "Usque",
       "Iocus",
       "Undique"
+    ]
+  },
+  {
+    "date": "2026-05-16",
+    "words": [
+      {
+        "latin": "Gratia",
+        "ru": "Благодать, спасибо"
+      },
+      {
+        "latin": "Remus",
+        "ru": "Весло"
+      },
+      {
+        "latin": "Schola",
+        "ru": "Школа"
+      }
+    ],
+    "reviewed_today": [
+      "Tranquillitas",
+      "Habitus",
+      "Mos"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-01-11",
     "words": [
       {
-        "latin": "Apud",
-        "ru": "У, при, около"
-      },
-      {
-        "latin": "Sanguis",
-        "ru": "Кровь"
-      },
-      {
-        "latin": "Urbs",
-        "ru": "Город"
-      }
-    ],
-    "reviewed_today": [
-      "Iugum",
-      "Ventus",
-      "Terra"
-    ]
-  },
-  {
-    "date": "2026-01-11",
-    "words": [
-      {
         "latin": "Tuus",
         "ru": "Твой"
       },
@@ -10997,6 +10975,28 @@
       "Ardere",
       "Dies",
       "Tamen"
+    ]
+  },
+  {
+    "date": "2026-05-17",
+    "words": [
+      {
+        "latin": "Volvo",
+        "ru": "Качу, раздумываю"
+      },
+      {
+        "latin": "Mensis",
+        "ru": "Месяц"
+      },
+      {
+        "latin": "Lupus",
+        "ru": "Волк"
+      }
+    ],
+    "reviewed_today": [
+      "Sic",
+      "Saepe",
+      "Tenebrae"
     ]
   }
 ]

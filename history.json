@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-11",
-    "words": [
-      {
-        "latin": "Tuus",
-        "ru": "Твой"
-      },
-      {
-        "latin": "Claudere",
-        "ru": "Закрывать"
-      },
-      {
-        "latin": "Iubere",
-        "ru": "Приказывать"
-      }
-    ],
-    "reviewed_today": [
-      "Nox",
-      "Domus",
-      "Stultus"
-    ]
-  },
-  {
     "date": "2026-01-12",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Sic",
       "Saepe",
       "Tenebrae"
+    ]
+  },
+  {
+    "date": "2026-05-17",
+    "words": [
+      {
+        "latin": "Virtus",
+        "ru": "Добродетель, мужество"
+      },
+      {
+        "latin": "Duo",
+        "ru": "Два"
+      },
+      {
+        "latin": "Senatus",
+        "ru": "Сенат"
+      }
+    ],
+    "reviewed_today": [
+      "Sacer",
+      "Tollere",
+      "Atque"
     ]
   }
 ]

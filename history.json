@@ -3,28 +3,6 @@
     "date": "2026-01-11",
     "words": [
       {
-        "latin": "Totus",
-        "ru": "Весь, целый"
-      },
-      {
-        "latin": "Maiores",
-        "ru": "Предки"
-      },
-      {
-        "latin": "Mensis",
-        "ru": "Месяц"
-      }
-    ],
-    "reviewed_today": [
-      "Loqui",
-      "Dum",
-      "Caput"
-    ]
-  },
-  {
-    "date": "2026-01-11",
-    "words": [
-      {
         "latin": "Apud",
         "ru": "У, при, около"
       },
@@ -10997,6 +10975,28 @@
       "Vigilia",
       "Medicus",
       "Morari"
+    ]
+  },
+  {
+    "date": "2026-05-17",
+    "words": [
+      {
+        "latin": "Gelu",
+        "ru": "Мороз, лед"
+      },
+      {
+        "latin": "Sum",
+        "ru": "Я есмь (быть)"
+      },
+      {
+        "latin": "Nihil",
+        "ru": "Ничто"
+      }
+    ],
+    "reviewed_today": [
+      "Ardere",
+      "Dies",
+      "Tamen"
     ]
   }
 ]

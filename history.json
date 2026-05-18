@@ -3,28 +3,6 @@
     "date": "2026-01-13",
     "words": [
       {
-        "latin": "Appellare",
-        "ru": "Называть, обращаться"
-      },
-      {
-        "latin": "Argentum",
-        "ru": "Серебро"
-      },
-      {
-        "latin": "Facinus",
-        "ru": "Дело, поступок (часто дурной)"
-      }
-    ],
-    "reviewed_today": [
-      "Liber",
-      "Orbis",
-      "Delectare"
-    ]
-  },
-  {
-    "date": "2026-01-13",
-    "words": [
-      {
         "latin": "Lucere",
         "ru": "Светить"
       },
@@ -10997,6 +10975,28 @@
       "Persona",
       "Salve",
       "Audax"
+    ]
+  },
+  {
+    "date": "2026-05-18",
+    "words": [
+      {
+        "latin": "Morari",
+        "ru": "Медлить, задерживаться"
+      },
+      {
+        "latin": "Vincire",
+        "ru": "Связывать"
+      },
+      {
+        "latin": "Membrum",
+        "ru": "Член (тела), часть"
+      }
+    ],
+    "reviewed_today": [
+      "Vetustus",
+      "Levis",
+      "Vox"
     ]
   }
 ]

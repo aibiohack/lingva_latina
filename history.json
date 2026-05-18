@@ -3,28 +3,6 @@
     "date": "2026-01-12",
     "words": [
       {
-        "latin": "Sapere",
-        "ru": "Быть мудрым"
-      },
-      {
-        "latin": "Pulcher",
-        "ru": "Красивый"
-      },
-      {
-        "latin": "Cibus",
-        "ru": "Пища, еда"
-      }
-    ],
-    "reviewed_today": [
-      "Senectus",
-      "Densus",
-      "Vulnus"
-    ]
-  },
-  {
-    "date": "2026-01-12",
-    "words": [
-      {
         "latin": "Mare",
         "ru": "Море"
       },
@@ -10997,6 +10975,28 @@
       "Autem",
       "Diu",
       "Exire"
+    ]
+  },
+  {
+    "date": "2026-05-18",
+    "words": [
+      {
+        "latin": "Tuus",
+        "ru": "Твой"
+      },
+      {
+        "latin": "Vates",
+        "ru": "Пророк, поэт"
+      },
+      {
+        "latin": "Apud",
+        "ru": "У, при, около"
+      }
+    ],
+    "reviewed_today": [
+      "Videlicet",
+      "Rumpere",
+      "Venerari"
     ]
   }
 ]

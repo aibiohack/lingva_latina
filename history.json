@@ -3,28 +3,6 @@
     "date": "2026-01-12",
     "words": [
       {
-        "latin": "Mare",
-        "ru": "Море"
-      },
-      {
-        "latin": "Animus",
-        "ru": "Дух, разум"
-      },
-      {
-        "latin": "Virtus",
-        "ru": "Мужество, добродетель"
-      }
-    ],
-    "reviewed_today": [
-      "Spectare",
-      "Aperire",
-      "Vacuus"
-    ]
-  },
-  {
-    "date": "2026-01-12",
-    "words": [
-      {
         "latin": "Credere",
         "ru": "Верить"
       },
@@ -10997,6 +10975,28 @@
       "Videlicet",
       "Rumpere",
       "Venerari"
+    ]
+  },
+  {
+    "date": "2026-05-18",
+    "words": [
+      {
+        "latin": "Ubi",
+        "ru": "Где"
+      },
+      {
+        "latin": "Discere",
+        "ru": "Учиться"
+      },
+      {
+        "latin": "Vastus",
+        "ru": "Огромный, пустой"
+      }
+    ],
+    "reviewed_today": [
+      "Cras",
+      "Universus",
+      "Secundum"
     ]
   }
 ]

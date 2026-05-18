@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-12",
-    "words": [
-      {
-        "latin": "Credere",
-        "ru": "Верить"
-      },
-      {
-        "latin": "Iniquus",
-        "ru": "Несправедливый"
-      },
-      {
-        "latin": "Iustus",
-        "ru": "Справедливый"
-      }
-    ],
-    "reviewed_today": [
-      "Sacer",
-      "Malus",
-      "Silva"
-    ]
-  },
-  {
     "date": "2026-01-13",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Cras",
       "Universus",
       "Secundum"
+    ]
+  },
+  {
+    "date": "2026-05-18",
+    "words": [
+      {
+        "latin": "Vigilare",
+        "ru": "Бодрствовать"
+      },
+      {
+        "latin": "Materia",
+        "ru": "Вещество, материя"
+      },
+      {
+        "latin": "Tollere",
+        "ru": "Поднимать, уничтожать"
+      }
+    ],
+    "reviewed_today": [
+      "Persona",
+      "Salve",
+      "Audax"
     ]
   }
 ]

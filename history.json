@@ -3,28 +3,6 @@
     "date": "2026-01-13",
     "words": [
       {
-        "latin": "Tutus",
-        "ru": "Безопасный"
-      },
-      {
-        "latin": "Potestas",
-        "ru": "Власть"
-      },
-      {
-        "latin": "Libenter",
-        "ru": "Охотно"
-      }
-    ],
-    "reviewed_today": [
-      "Atque",
-      "Cras",
-      "Sapere"
-    ]
-  },
-  {
-    "date": "2026-01-13",
-    "words": [
-      {
         "latin": "Ter",
         "ru": "Трижды"
       },
@@ -10997,6 +10975,28 @@
       "Habitare",
       "Discipulus",
       "Colere"
+    ]
+  },
+  {
+    "date": "2026-05-19",
+    "words": [
+      {
+        "latin": "Credere",
+        "ru": "Верить"
+      },
+      {
+        "latin": "Sapere",
+        "ru": "Быть мудрым"
+      },
+      {
+        "latin": "Asper",
+        "ru": "Шероховатый, суровый"
+      }
+    ],
+    "reviewed_today": [
+      "Pars",
+      "Dicere",
+      "Somnus"
     ]
   }
 ]

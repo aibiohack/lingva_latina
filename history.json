@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-13",
-    "words": [
-      {
-        "latin": "Ter",
-        "ru": "Трижды"
-      },
-      {
-        "latin": "Rex",
-        "ru": "Царь, король"
-      },
-      {
-        "latin": "Hortus",
-        "ru": "Сад"
-      }
-    ],
-    "reviewed_today": [
-      "Trabs",
-      "Reus",
-      "Venerari"
-    ]
-  },
-  {
     "date": "2026-01-14",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Pars",
       "Dicere",
       "Somnus"
+    ]
+  },
+  {
+    "date": "2026-05-19",
+    "words": [
+      {
+        "latin": "Argentum",
+        "ru": "Серебро"
+      },
+      {
+        "latin": "Tacere",
+        "ru": "Молчать"
+      },
+      {
+        "latin": "Testis",
+        "ru": "Свидетель"
+      }
+    ],
+    "reviewed_today": [
+      "Spectare",
+      "Suus",
+      "Felix"
     ]
   }
 ]

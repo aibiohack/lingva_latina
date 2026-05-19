@@ -3,28 +3,6 @@
     "date": "2026-01-14",
     "words": [
       {
-        "latin": "Timere",
-        "ru": "Бояться"
-      },
-      {
-        "latin": "Etiam",
-        "ru": "Также, даже"
-      },
-      {
-        "latin": "Severus",
-        "ru": "Строгий, суровый"
-      }
-    ],
-    "reviewed_today": [
-      "Claudere",
-      "Venire",
-      "Vigilare"
-    ]
-  },
-  {
-    "date": "2026-01-14",
-    "words": [
-      {
         "latin": "Utor",
         "ru": "Пользуюсь"
       },
@@ -10997,6 +10975,28 @@
       "Spectare",
       "Suus",
       "Felix"
+    ]
+  },
+  {
+    "date": "2026-05-19",
+    "words": [
+      {
+        "latin": "Humus",
+        "ru": "Земля"
+      },
+      {
+        "latin": "Fallere",
+        "ru": "Обманывать"
+      },
+      {
+        "latin": "Tabula",
+        "ru": "Доска, таблица, картина"
+      }
+    ],
+    "reviewed_today": [
+      "Roma",
+      "Mutare",
+      "Iscere"
     ]
   }
 ]

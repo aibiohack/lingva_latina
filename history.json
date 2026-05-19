@@ -3,28 +3,6 @@
     "date": "2026-01-13",
     "words": [
       {
-        "latin": "Lucere",
-        "ru": "Светить"
-      },
-      {
-        "latin": "Suspicio",
-        "ru": "Подозрение"
-      },
-      {
-        "latin": "Asper",
-        "ru": "Шероховатый, суровый"
-      }
-    ],
-    "reviewed_today": [
-      "Ars",
-      "Declarare",
-      "Moenia"
-    ]
-  },
-  {
-    "date": "2026-01-13",
-    "words": [
-      {
         "latin": "Tutus",
         "ru": "Безопасный"
       },
@@ -10997,6 +10975,28 @@
       "Vetustus",
       "Levis",
       "Vox"
+    ]
+  },
+  {
+    "date": "2026-05-19",
+    "words": [
+      {
+        "latin": "Idem",
+        "ru": "Тот же самый"
+      },
+      {
+        "latin": "Habitus",
+        "ru": "Состояние, облик"
+      },
+      {
+        "latin": "Dominus",
+        "ru": "Господин"
+      }
+    ],
+    "reviewed_today": [
+      "Habitare",
+      "Discipulus",
+      "Colere"
     ]
   }
 ]

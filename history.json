@@ -3,28 +3,6 @@
     "date": "2026-01-15",
     "words": [
       {
-        "latin": "Uter",
-        "ru": "Кто из двух"
-      },
-      {
-        "latin": "Religio",
-        "ru": "Религия"
-      },
-      {
-        "latin": "Castrum",
-        "ru": "Крепость"
-      }
-    ],
-    "reviewed_today": [
-      "Videre",
-      "Claudere",
-      "Tibia"
-    ]
-  },
-  {
-    "date": "2026-01-15",
-    "words": [
-      {
         "latin": "Super",
         "ru": "Над"
       },
@@ -10997,6 +10975,28 @@
       "Venerari",
       "Semel",
       "Suus"
+    ]
+  },
+  {
+    "date": "2026-05-20",
+    "words": [
+      {
+        "latin": "Iniquus",
+        "ru": "Несправедливый"
+      },
+      {
+        "latin": "Vicus",
+        "ru": "Деревня, квартал"
+      },
+      {
+        "latin": "Invitare",
+        "ru": "Приглашать"
+      }
+    ],
+    "reviewed_today": [
+      "Solitudo",
+      "Tolerare",
+      "Vallis"
     ]
   }
 ]

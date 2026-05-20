@@ -3,28 +3,6 @@
     "date": "2026-01-14",
     "words": [
       {
-        "latin": "Utor",
-        "ru": "Пользуюсь"
-      },
-      {
-        "latin": "Monere",
-        "ru": "Напоминать, убеждать"
-      },
-      {
-        "latin": "Habitus",
-        "ru": "Состояние, облик"
-      }
-    ],
-    "reviewed_today": [
-      "Senectus",
-      "Suavis",
-      "Ubique"
-    ]
-  },
-  {
-    "date": "2026-01-14",
-    "words": [
-      {
         "latin": "Scutum",
         "ru": "Щит"
       },
@@ -10997,6 +10975,28 @@
       "Roma",
       "Mutare",
       "Iscere"
+    ]
+  },
+  {
+    "date": "2026-05-20",
+    "words": [
+      {
+        "latin": "Potestas",
+        "ru": "Власть"
+      },
+      {
+        "latin": "Etiam",
+        "ru": "Также, даже"
+      },
+      {
+        "latin": "Libenter",
+        "ru": "Охотно"
+      }
+    ],
+    "reviewed_today": [
+      "Certe",
+      "Morari",
+      "Vulnus"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-01-14",
     "words": [
       {
-        "latin": "Scutum",
-        "ru": "Щит"
-      },
-      {
-        "latin": "Rumpere",
-        "ru": "Рвать, ломать"
-      },
-      {
-        "latin": "Morari",
-        "ru": "Медлить, задерживаться"
-      }
-    ],
-    "reviewed_today": [
-      "Potestas",
-      "Scribere",
-      "Iniquus"
-    ]
-  },
-  {
-    "date": "2026-01-14",
-    "words": [
-      {
         "latin": "Hostis",
         "ru": "Враг"
       },
@@ -10997,6 +10975,28 @@
       "Certe",
       "Morari",
       "Vulnus"
+    ]
+  },
+  {
+    "date": "2026-05-20",
+    "words": [
+      {
+        "latin": "Fortasse",
+        "ru": "Может быть"
+      },
+      {
+        "latin": "Unda",
+        "ru": "Волна"
+      },
+      {
+        "latin": "Civilis",
+        "ru": "Гражданский"
+      }
+    ],
+    "reviewed_today": [
+      "Situs",
+      "Venire",
+      "Forum"
     ]
   }
 ]

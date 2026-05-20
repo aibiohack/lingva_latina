@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-14",
-    "words": [
-      {
-        "latin": "Hostis",
-        "ru": "Враг"
-      },
-      {
-        "latin": "Sanctus",
-        "ru": "Святой, нерушимый"
-      },
-      {
-        "latin": "Veho",
-        "ru": "Везу"
-      }
-    ],
-    "reviewed_today": [
-      "Epistula",
-      "Aperire",
-      "Iudicium"
-    ]
-  },
-  {
     "date": "2026-01-15",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Situs",
       "Venire",
       "Forum"
+    ]
+  },
+  {
+    "date": "2026-05-20",
+    "words": [
+      {
+        "latin": "Scutum",
+        "ru": "Щит"
+      },
+      {
+        "latin": "Rumpere",
+        "ru": "Рвать, ломать"
+      },
+      {
+        "latin": "Monere",
+        "ru": "Напоминать, убеждать"
+      }
+    ],
+    "reviewed_today": [
+      "Venerari",
+      "Semel",
+      "Suus"
     ]
   }
 ]

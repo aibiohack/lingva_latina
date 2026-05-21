@@ -3,28 +3,6 @@
     "date": "2026-01-15",
     "words": [
       {
-        "latin": "Super",
-        "ru": "Над"
-      },
-      {
-        "latin": "Imago",
-        "ru": "Изображение"
-      },
-      {
-        "latin": "Beatus",
-        "ru": "Счастливый, блаженный"
-      }
-    ],
-    "reviewed_today": [
-      "Uva",
-      "Enim",
-      "Triumphus"
-    ]
-  },
-  {
-    "date": "2026-01-15",
-    "words": [
-      {
         "latin": "Externus",
         "ru": "Внешний, чужой"
       },
@@ -10997,6 +10975,28 @@
       "Solitudo",
       "Tolerare",
       "Vallis"
+    ]
+  },
+  {
+    "date": "2026-05-21",
+    "words": [
+      {
+        "latin": "Religio",
+        "ru": "Религия"
+      },
+      {
+        "latin": "Castrum",
+        "ru": "Крепость"
+      },
+      {
+        "latin": "Utor",
+        "ru": "Пользуюсь"
+      }
+    ],
+    "reviewed_today": [
+      "Gignere",
+      "Magis",
+      "Laborare"
     ]
   }
 ]

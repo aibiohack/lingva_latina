@@ -3,28 +3,6 @@
     "date": "2026-01-16",
     "words": [
       {
-        "latin": "Suus",
-        "ru": "Свой"
-      },
-      {
-        "latin": "Conditio",
-        "ru": "Условие, положение"
-      },
-      {
-        "latin": "Novus",
-        "ru": "Новый"
-      }
-    ],
-    "reviewed_today": [
-      "Damnum",
-      "Crux",
-      "Hora"
-    ]
-  },
-  {
-    "date": "2026-01-16",
-    "words": [
-      {
         "latin": "Herba",
         "ru": "Трава"
       },
@@ -10997,6 +10975,28 @@
       "Timor",
       "Soleo",
       "Amoenus"
+    ]
+  },
+  {
+    "date": "2026-05-21",
+    "words": [
+      {
+        "latin": "Uter",
+        "ru": "Кто из двух"
+      },
+      {
+        "latin": "Imago",
+        "ru": "Изображение"
+      },
+      {
+        "latin": "Terrere",
+        "ru": "Устрашать"
+      }
+    ],
+    "reviewed_today": [
+      "Forma",
+      "Initium",
+      "Vindex"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-01-15",
     "words": [
       {
-        "latin": "Externus",
-        "ru": "Внешний, чужой"
-      },
-      {
-        "latin": "Villa",
-        "ru": "Вилла, усадьба"
-      },
-      {
-        "latin": "Salve",
-        "ru": "Здравствуй"
-      }
-    ],
-    "reviewed_today": [
-      "Saxum",
-      "Vis",
-      "Medicus"
-    ]
-  },
-  {
-    "date": "2026-01-15",
-    "words": [
-      {
         "latin": "Talis",
         "ru": "Такой"
       },
@@ -10997,6 +10975,28 @@
       "Gignere",
       "Magis",
       "Laborare"
+    ]
+  },
+  {
+    "date": "2026-05-21",
+    "words": [
+      {
+        "latin": "Opus",
+        "ru": "Работа"
+      },
+      {
+        "latin": "Sarcina",
+        "ru": "Узел, багаж"
+      },
+      {
+        "latin": "Fabula",
+        "ru": "Сказка, рассказ"
+      }
+    ],
+    "reviewed_today": [
+      "Senatus",
+      "Bellum",
+      "Schola"
     ]
   }
 ]

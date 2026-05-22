@@ -3,28 +3,6 @@
     "date": "2026-01-16",
     "words": [
       {
-        "latin": "Velox",
-        "ru": "Быстрый"
-      },
-      {
-        "latin": "Pax",
-        "ru": "Мир"
-      },
-      {
-        "latin": "Disertus",
-        "ru": "Красноречивый"
-      }
-    ],
-    "reviewed_today": [
-      "Sursum",
-      "Harena",
-      "Sermo"
-    ]
-  },
-  {
-    "date": "2026-01-16",
-    "words": [
-      {
         "latin": "Fidelis",
         "ru": "Верный, надежный"
       },
@@ -10997,6 +10975,28 @@
       "Dividere",
       "Meus",
       "Vates"
+    ]
+  },
+  {
+    "date": "2026-05-22",
+    "words": [
+      {
+        "latin": "Inimicus",
+        "ru": "Недруг, личный враг"
+      },
+      {
+        "latin": "Carmen",
+        "ru": "Песня, стихи"
+      },
+      {
+        "latin": "Verbum",
+        "ru": "Слово"
+      }
+    ],
+    "reviewed_today": [
+      "Civitas",
+      "Vitium",
+      "Vox"
     ]
   }
 ]

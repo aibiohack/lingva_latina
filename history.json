@@ -3,28 +3,6 @@
     "date": "2026-01-16",
     "words": [
       {
-        "latin": "Herba",
-        "ru": "Трава"
-      },
-      {
-        "latin": "Amoenus",
-        "ru": "Приятный, прелестный"
-      },
-      {
-        "latin": "Charta",
-        "ru": "Бумага, лист"
-      }
-    ],
-    "reviewed_today": [
-      "Laus",
-      "Mos",
-      "Crescere"
-    ]
-  },
-  {
-    "date": "2026-01-16",
-    "words": [
-      {
         "latin": "Velox",
         "ru": "Быстрый"
       },
@@ -10997,6 +10975,28 @@
       "Forma",
       "Initium",
       "Vindex"
+    ]
+  },
+  {
+    "date": "2026-05-22",
+    "words": [
+      {
+        "latin": "Fuga",
+        "ru": "Бегство"
+      },
+      {
+        "latin": "Vita",
+        "ru": "Жизнь"
+      },
+      {
+        "latin": "Supplex",
+        "ru": "Молящий, покорный"
+      }
+    ],
+    "reviewed_today": [
+      "Dividere",
+      "Meus",
+      "Vates"
     ]
   }
 ]

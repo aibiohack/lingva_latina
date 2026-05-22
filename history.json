@@ -3,28 +3,6 @@
     "date": "2026-01-17",
     "words": [
       {
-        "latin": "Tandem",
-        "ru": "Наконец"
-      },
-      {
-        "latin": "Verber",
-        "ru": "Удар, бич"
-      },
-      {
-        "latin": "Tollere",
-        "ru": "Поднимать, уничтожать"
-      }
-    ],
-    "reviewed_today": [
-      "Caput",
-      "Aut",
-      "Aeternitas"
-    ]
-  },
-  {
-    "date": "2026-01-17",
-    "words": [
-      {
         "latin": "Tangere",
         "ru": "Трогать"
       },
@@ -10997,6 +10975,28 @@
       "Togatus",
       "Posse",
       "Sinister"
+    ]
+  },
+  {
+    "date": "2026-05-22",
+    "words": [
+      {
+        "latin": "Ipse",
+        "ru": "Сам"
+      },
+      {
+        "latin": "Tertius",
+        "ru": "Третий"
+      },
+      {
+        "latin": "Sedere",
+        "ru": "Сидеть"
+      }
+    ],
+    "reviewed_today": [
+      "Sanitas",
+      "Venerari",
+      "Exire"
     ]
   }
 ]

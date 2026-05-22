@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-16",
-    "words": [
-      {
-        "latin": "Fidelis",
-        "ru": "Верный, надежный"
-      },
-      {
-        "latin": "Inimicus",
-        "ru": "Недруг, личный враг"
-      },
-      {
-        "latin": "Signum",
-        "ru": "Знак, знамя"
-      }
-    ],
-    "reviewed_today": [
-      "Doctus",
-      "Valetudo",
-      "Vacuus"
-    ]
-  },
-  {
     "date": "2026-01-17",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Civitas",
       "Vitium",
       "Vox"
+    ]
+  },
+  {
+    "date": "2026-05-22",
+    "words": [
+      {
+        "latin": "Monere",
+        "ru": "Напоминать, убеждать"
+      },
+      {
+        "latin": "Ager",
+        "ru": "Поле"
+      },
+      {
+        "latin": "Vir",
+        "ru": "Мужчина"
+      }
+    ],
+    "reviewed_today": [
+      "Togatus",
+      "Posse",
+      "Sinister"
     ]
   }
 ]

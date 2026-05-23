@@ -3,28 +3,6 @@
     "date": "2026-01-18",
     "words": [
       {
-        "latin": "Sacerdos",
-        "ru": "Жрец, священник"
-      },
-      {
-        "latin": "Flos",
-        "ru": "Цветок"
-      },
-      {
-        "latin": "Usque",
-        "ru": "Вплоть до"
-      }
-    ],
-    "reviewed_today": [
-      "Tumultus",
-      "Unanimis",
-      "Charta"
-    ]
-  },
-  {
-    "date": "2026-01-18",
-    "words": [
-      {
         "latin": "Morbus",
         "ru": "Болезнь"
       },
@@ -10997,6 +10975,28 @@
       "Saepe",
       "Sanguis",
       "Medius"
+    ]
+  },
+  {
+    "date": "2026-05-23",
+    "words": [
+      {
+        "latin": "Spectare",
+        "ru": "Смотреть, созерцать"
+      },
+      {
+        "latin": "Unda",
+        "ru": "Волна"
+      },
+      {
+        "latin": "Turba",
+        "ru": "Толпа, сумятица"
+      }
+    ],
+    "reviewed_today": [
+      "Telum",
+      "Comes",
+      "Diligere"
     ]
   }
 ]

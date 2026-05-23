@@ -3,28 +3,6 @@
     "date": "2026-01-17",
     "words": [
       {
-        "latin": "Senex",
-        "ru": "Старик"
-      },
-      {
-        "latin": "Debeo",
-        "ru": "Должен"
-      },
-      {
-        "latin": "Os, oris",
-        "ru": "Рот"
-      }
-    ],
-    "reviewed_today": [
-      "Emere",
-      "Viator",
-      "Solium"
-    ]
-  },
-  {
-    "date": "2026-01-17",
-    "words": [
-      {
         "latin": "Tormentum",
         "ru": "Мучение, пытка"
       },
@@ -10997,6 +10975,28 @@
       "Incipere",
       "Luna",
       "Filius"
+    ]
+  },
+  {
+    "date": "2026-05-23",
+    "words": [
+      {
+        "latin": "Utor",
+        "ru": "Пользуюсь"
+      },
+      {
+        "latin": "Fingere",
+        "ru": "Изображать, выдумывать"
+      },
+      {
+        "latin": "Parens",
+        "ru": "Родитель"
+      }
+    ],
+    "reviewed_today": [
+      "Tendere",
+      "Ordo",
+      "Quasi"
     ]
   }
 ]

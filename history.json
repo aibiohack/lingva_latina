@@ -3,28 +3,6 @@
     "date": "2026-01-17",
     "words": [
       {
-        "latin": "Tangere",
-        "ru": "Трогать"
-      },
-      {
-        "latin": "Umerus",
-        "ru": "Плечо"
-      },
-      {
-        "latin": "Aliquis",
-        "ru": "Кто-нибудь, какой-нибудь"
-      }
-    ],
-    "reviewed_today": [
-      "Ignoscerе",
-      "Habitus",
-      "Vicinus"
-    ]
-  },
-  {
-    "date": "2026-01-17",
-    "words": [
-      {
         "latin": "Senex",
         "ru": "Старик"
       },
@@ -10997,6 +10975,28 @@
       "Sanitas",
       "Venerari",
       "Exire"
+    ]
+  },
+  {
+    "date": "2026-05-23",
+    "words": [
+      {
+        "latin": "Dulcis",
+        "ru": "Сладкий"
+      },
+      {
+        "latin": "Sarcina",
+        "ru": "Узел, багаж"
+      },
+      {
+        "latin": "Pugnare",
+        "ru": "Сражаться"
+      }
+    ],
+    "reviewed_today": [
+      "Incipere",
+      "Luna",
+      "Filius"
     ]
   }
 ]

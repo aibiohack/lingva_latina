@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-17",
-    "words": [
-      {
-        "latin": "Tormentum",
-        "ru": "Мучение, пытка"
-      },
-      {
-        "latin": "Fama",
-        "ru": "Молва, слух"
-      },
-      {
-        "latin": "Mollis",
-        "ru": "Мягкий"
-      }
-    ],
-    "reviewed_today": [
-      "Iuvare",
-      "Morari",
-      "Sarcina"
-    ]
-  },
-  {
     "date": "2026-01-18",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Tendere",
       "Ordo",
       "Quasi"
+    ]
+  },
+  {
+    "date": "2026-05-23",
+    "words": [
+      {
+        "latin": "Verber",
+        "ru": "Удар, бич"
+      },
+      {
+        "latin": "Senex",
+        "ru": "Старик"
+      },
+      {
+        "latin": "Senex",
+        "ru": "Старик"
+      }
+    ],
+    "reviewed_today": [
+      "Saepe",
+      "Sanguis",
+      "Medius"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-01-18",
     "words": [
       {
-        "latin": "Morbus",
-        "ru": "Болезнь"
-      },
-      {
-        "latin": "Incipere",
-        "ru": "Начинать"
-      },
-      {
-        "latin": "Regnum",
-        "ru": "Царство, власть"
-      }
-    ],
-    "reviewed_today": [
-      "Levis",
-      "Vigilare",
-      "Doctus"
-    ]
-  },
-  {
-    "date": "2026-01-18",
-    "words": [
-      {
         "latin": "Invitare",
         "ru": "Приглашать"
       },
@@ -10997,6 +10975,28 @@
       "Telum",
       "Comes",
       "Diligere"
+    ]
+  },
+  {
+    "date": "2026-05-24",
+    "words": [
+      {
+        "latin": "Iubere",
+        "ru": "Приказывать"
+      },
+      {
+        "latin": "Tu",
+        "ru": "Ты"
+      },
+      {
+        "latin": "Grex",
+        "ru": "Стадо, толпа"
+      }
+    ],
+    "reviewed_today": [
+      "Ripa",
+      "Exire",
+      "Mensis"
     ]
   }
 ]

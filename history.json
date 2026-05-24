@@ -3,28 +3,6 @@
     "date": "2026-01-18",
     "words": [
       {
-        "latin": "Invitare",
-        "ru": "Приглашать"
-      },
-      {
-        "latin": "Ille",
-        "ru": "Тот, он"
-      },
-      {
-        "latin": "Ducenti",
-        "ru": "Двести"
-      }
-    ],
-    "reviewed_today": [
-      "Turpis",
-      "Ubi",
-      "Turba"
-    ]
-  },
-  {
-    "date": "2026-01-18",
-    "words": [
-      {
         "latin": "Convivium",
         "ru": "Пир"
       },
@@ -10997,6 +10975,28 @@
       "Ripa",
       "Exire",
       "Mensis"
+    ]
+  },
+  {
+    "date": "2026-05-24",
+    "words": [
+      {
+        "latin": "Mollis",
+        "ru": "Мягкий"
+      },
+      {
+        "latin": "Incipere",
+        "ru": "Начинать"
+      },
+      {
+        "latin": "Umerus",
+        "ru": "Плечо"
+      }
+    ],
+    "reviewed_today": [
+      "Sum",
+      "Ignoscerе",
+      "Populus"
     ]
   }
 ]

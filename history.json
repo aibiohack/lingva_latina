@@ -3,28 +3,6 @@
     "date": "2026-01-19",
     "words": [
       {
-        "latin": "Parare",
-        "ru": "Готовить"
-      },
-      {
-        "latin": "Servus",
-        "ru": "Раб, слуга"
-      },
-      {
-        "latin": "Mater",
-        "ru": "Мать"
-      }
-    ],
-    "reviewed_today": [
-      "Quattuor",
-      "Terror",
-      "Decidere"
-    ]
-  },
-  {
-    "date": "2026-01-19",
-    "words": [
-      {
         "latin": "Sententia",
         "ru": "Мнение, фраза"
       },
@@ -10997,6 +10975,28 @@
       "Abbas",
       "Moenia",
       "Unus"
+    ]
+  },
+  {
+    "date": "2026-05-24",
+    "words": [
+      {
+        "latin": "Convivium",
+        "ru": "Пир"
+      },
+      {
+        "latin": "Morbus",
+        "ru": "Болезнь"
+      },
+      {
+        "latin": "Periculum",
+        "ru": "Опасность"
+      }
+    ],
+    "reviewed_today": [
+      "Stirps",
+      "Omnis",
+      "Coniunx"
     ]
   }
 ]

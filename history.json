@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-18",
-    "words": [
-      {
-        "latin": "Convivium",
-        "ru": "Пир"
-      },
-      {
-        "latin": "Flere",
-        "ru": "Плакать"
-      },
-      {
-        "latin": "Periculum",
-        "ru": "Опасность"
-      }
-    ],
-    "reviewed_today": [
-      "Terra",
-      "Salus",
-      "Herba"
-    ]
-  },
-  {
     "date": "2026-01-19",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Sum",
       "Ignoscerе",
       "Populus"
+    ]
+  },
+  {
+    "date": "2026-05-24",
+    "words": [
+      {
+        "latin": "Imitari",
+        "ru": "Подражать"
+      },
+      {
+        "latin": "Vindicare",
+        "ru": "Заявлять права, мстить"
+      },
+      {
+        "latin": "Habeo",
+        "ru": "Иметь"
+      }
+    ],
+    "reviewed_today": [
+      "Abbas",
+      "Moenia",
+      "Unus"
     ]
   }
 ]

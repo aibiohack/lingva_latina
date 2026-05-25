@@ -3,28 +3,6 @@
     "date": "2026-01-19",
     "words": [
       {
-        "latin": "Angustus",
-        "ru": "Узкий, тесный"
-      },
-      {
-        "latin": "Maxime",
-        "ru": "Весьма, больше всего"
-      },
-      {
-        "latin": "Vinea",
-        "ru": "Виноградник"
-      }
-    ],
-    "reviewed_today": [
-      "Viator",
-      "Tollere",
-      "Licet"
-    ]
-  },
-  {
-    "date": "2026-01-19",
-    "words": [
-      {
         "latin": "Vincere",
         "ru": "Победить"
       },
@@ -10997,6 +10975,28 @@
       "Invenire",
       "Causa",
       "Legio"
+    ]
+  },
+  {
+    "date": "2026-05-25",
+    "words": [
+      {
+        "latin": "Signum",
+        "ru": "Знак, знамя"
+      },
+      {
+        "latin": "Honestus",
+        "ru": "Честный"
+      },
+      {
+        "latin": "Tuba",
+        "ru": "Труба"
+      }
+    ],
+    "reviewed_today": [
+      "Ver",
+      "Scelus",
+      "Iuvare"
     ]
   }
 ]

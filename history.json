@@ -3,28 +3,6 @@
     "date": "2026-01-20",
     "words": [
       {
-        "latin": "Felix",
-        "ru": "Счастливый"
-      },
-      {
-        "latin": "Pes",
-        "ru": "Нога"
-      },
-      {
-        "latin": "Vinum",
-        "ru": "Вино"
-      }
-    ],
-    "reviewed_today": [
-      "Iudicium",
-      "Vastus",
-      "Mox"
-    ]
-  },
-  {
-    "date": "2026-01-20",
-    "words": [
-      {
         "latin": "Terribilis",
         "ru": "Ужасный"
       },
@@ -10997,6 +10975,28 @@
       "Oculus",
       "Intelligere",
       "Severus"
+    ]
+  },
+  {
+    "date": "2026-05-25",
+    "words": [
+      {
+        "latin": "Mollis",
+        "ru": "Мягкий"
+      },
+      {
+        "latin": "Sub",
+        "ru": "Под"
+      },
+      {
+        "latin": "Villa",
+        "ru": "Вилла, усадьба"
+      }
+    ],
+    "reviewed_today": [
+      "Arma",
+      "Mittere",
+      "Flamma"
     ]
   }
 ]

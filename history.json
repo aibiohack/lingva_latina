@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-19",
-    "words": [
-      {
-        "latin": "Vincere",
-        "ru": "Победить"
-      },
-      {
-        "latin": "Via",
-        "ru": "Путь"
-      },
-      {
-        "latin": "Navis",
-        "ru": "Корабль"
-      }
-    ],
-    "reviewed_today": [
-      "Mare",
-      "Animus",
-      "Tantum"
-    ]
-  },
-  {
     "date": "2026-01-20",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Ver",
       "Scelus",
       "Iuvare"
+    ]
+  },
+  {
+    "date": "2026-05-25",
+    "words": [
+      {
+        "latin": "Forum",
+        "ru": "Площадь"
+      },
+      {
+        "latin": "Ducenti",
+        "ru": "Двести"
+      },
+      {
+        "latin": "Maxime",
+        "ru": "Весьма, больше всего"
+      }
+    ],
+    "reviewed_today": [
+      "Oculus",
+      "Intelligere",
+      "Severus"
     ]
   }
 ]

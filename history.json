@@ -3,28 +3,6 @@
     "date": "2026-01-19",
     "words": [
       {
-        "latin": "Sententia",
-        "ru": "Мнение, фраза"
-      },
-      {
-        "latin": "Forum",
-        "ru": "Площадь"
-      },
-      {
-        "latin": "Soleo",
-        "ru": "Иметь обыкновение"
-      }
-    ],
-    "reviewed_today": [
-      "Curare",
-      "Mensis",
-      "Uva"
-    ]
-  },
-  {
-    "date": "2026-01-19",
-    "words": [
-      {
         "latin": "Angustus",
         "ru": "Узкий, тесный"
       },
@@ -10997,6 +10975,28 @@
       "Stirps",
       "Omnis",
       "Coniunx"
+    ]
+  },
+  {
+    "date": "2026-05-25",
+    "words": [
+      {
+        "latin": "Servus",
+        "ru": "Раб, слуга"
+      },
+      {
+        "latin": "Servus",
+        "ru": "Раб"
+      },
+      {
+        "latin": "Mater",
+        "ru": "Мать"
+      }
+    ],
+    "reviewed_today": [
+      "Invenire",
+      "Causa",
+      "Legio"
     ]
   }
 ]

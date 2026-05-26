@@ -3,28 +3,6 @@
     "date": "2026-01-20",
     "words": [
       {
-        "latin": "Exire",
-        "ru": "Выходить"
-      },
-      {
-        "latin": "Varius",
-        "ru": "Разный"
-      },
-      {
-        "latin": "Reliquus",
-        "ru": "Остальной, прочий"
-      }
-    ],
-    "reviewed_today": [
-      "Ceterus",
-      "Spatium",
-      "Uter"
-    ]
-  },
-  {
-    "date": "2026-01-20",
-    "words": [
-      {
         "latin": "Malle",
         "ru": "Предпочитать"
       },
@@ -10997,6 +10975,28 @@
       "Vinculum",
       "Ambulare",
       "Intra"
+    ]
+  },
+  {
+    "date": "2026-05-26",
+    "words": [
+      {
+        "latin": "Inimicus",
+        "ru": "Недруг, личный враг"
+      },
+      {
+        "latin": "Vendere",
+        "ru": "Продавать"
+      },
+      {
+        "latin": "Circa",
+        "ru": "Вокруг, около"
+      }
+    ],
+    "reviewed_today": [
+      "Spectare",
+      "Valetudo",
+      "Ira"
     ]
   }
 ]

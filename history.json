@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-20",
-    "words": [
-      {
-        "latin": "Malle",
-        "ru": "Предпочитать"
-      },
-      {
-        "latin": "Tot",
-        "ru": "Столько"
-      },
-      {
-        "latin": "Quoque",
-        "ru": "Также"
-      }
-    ],
-    "reviewed_today": [
-      "Reus",
-      "Nihil",
-      "Convivium"
-    ]
-  },
-  {
     "date": "2026-01-21",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Spectare",
       "Valetudo",
       "Ira"
+    ]
+  },
+  {
+    "date": "2026-05-26",
+    "words": [
+      {
+        "latin": "Varius",
+        "ru": "Разнообразный"
+      },
+      {
+        "latin": "Pes",
+        "ru": "Нога"
+      },
+      {
+        "latin": "Exire",
+        "ru": "Выходить"
+      }
+    ],
+    "reviewed_today": [
+      "Templum",
+      "Tam",
+      "Fere"
     ]
   }
 ]

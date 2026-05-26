@@ -3,28 +3,6 @@
     "date": "2026-01-20",
     "words": [
       {
-        "latin": "Terribilis",
-        "ru": "Ужасный"
-      },
-      {
-        "latin": "Certe",
-        "ru": "Наверняка, конечно"
-      },
-      {
-        "latin": "Opus",
-        "ru": "Работа"
-      }
-    ],
-    "reviewed_today": [
-      "Regere",
-      "Venus",
-      "Conditio"
-    ]
-  },
-  {
-    "date": "2026-01-20",
-    "words": [
-      {
         "latin": "Exire",
         "ru": "Выходить"
       },
@@ -10997,6 +10975,28 @@
       "Arma",
       "Mittere",
       "Flamma"
+    ]
+  },
+  {
+    "date": "2026-05-26",
+    "words": [
+      {
+        "latin": "Vinum",
+        "ru": "Вино"
+      },
+      {
+        "latin": "Angustus",
+        "ru": "Узкий, тесный"
+      },
+      {
+        "latin": "Vinea",
+        "ru": "Виноградник"
+      }
+    ],
+    "reviewed_today": [
+      "Vinculum",
+      "Ambulare",
+      "Intra"
     ]
   }
 ]

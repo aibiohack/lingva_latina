@@ -3,28 +3,6 @@
     "date": "2026-01-21",
     "words": [
       {
-        "latin": "Umbra",
-        "ru": "Тень"
-      },
-      {
-        "latin": "Statua",
-        "ru": "Статуя"
-      },
-      {
-        "latin": "Vale",
-        "ru": "Прощай (будь здоров)"
-      }
-    ],
-    "reviewed_today": [
-      "Vox",
-      "Tollere",
-      "Scire"
-    ]
-  },
-  {
-    "date": "2026-01-21",
-    "words": [
-      {
         "latin": "Officium",
         "ru": "Обязанность"
       },
@@ -10997,6 +10975,28 @@
       "Templum",
       "Tam",
       "Fere"
+    ]
+  },
+  {
+    "date": "2026-05-27",
+    "words": [
+      {
+        "latin": "Lumen",
+        "ru": "Свет"
+      },
+      {
+        "latin": "Talis",
+        "ru": "Такой"
+      },
+      {
+        "latin": "Spatium",
+        "ru": "Пространство, промежуток"
+      }
+    ],
+    "reviewed_today": [
+      "Victoria",
+      "Fidelis",
+      "Turba"
     ]
   }
 ]

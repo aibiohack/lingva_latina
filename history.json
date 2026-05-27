@@ -3,28 +3,6 @@
     "date": "2026-01-21",
     "words": [
       {
-        "latin": "Officium",
-        "ru": "Обязанность"
-      },
-      {
-        "latin": "Multus",
-        "ru": "Многочисленный"
-      },
-      {
-        "latin": "Tamen",
-        "ru": "Однако"
-      }
-    ],
-    "reviewed_today": [
-      "Amare",
-      "Tertius",
-      "Rumpere"
-    ]
-  },
-  {
-    "date": "2026-01-21",
-    "words": [
-      {
         "latin": "Solitudo",
         "ru": "Одиночество, пустыня"
       },
@@ -10997,6 +10975,28 @@
       "Victoria",
       "Fidelis",
       "Turba"
+    ]
+  },
+  {
+    "date": "2026-05-27",
+    "words": [
+      {
+        "latin": "Vas",
+        "ru": "Сосуд"
+      },
+      {
+        "latin": "Prope",
+        "ru": "Близко"
+      },
+      {
+        "latin": "Ratio",
+        "ru": "Разум, расчет, метод"
+      }
+    ],
+    "reviewed_today": [
+      "Sepulcrum",
+      "Intra",
+      "Solum"
     ]
   }
 ]

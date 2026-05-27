@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-21",
-    "words": [
-      {
-        "latin": "Vitrum",
-        "ru": "Стекло"
-      },
-      {
-        "latin": "Similis",
-        "ru": "Похожий"
-      },
-      {
-        "latin": "Vos",
-        "ru": "Вы"
-      }
-    ],
-    "reviewed_today": [
-      "Beatus",
-      "Terror",
-      "Idem"
-    ]
-  },
-  {
     "date": "2026-01-22",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Statua",
       "Facilis",
       "Morbus"
+    ]
+  },
+  {
+    "date": "2026-05-27",
+    "words": [
+      {
+        "latin": "Multus",
+        "ru": "Многочисленный"
+      },
+      {
+        "latin": "Violare",
+        "ru": "Нарушать, оскорблять"
+      },
+      {
+        "latin": "Tot",
+        "ru": "Столько"
+      }
+    ],
+    "reviewed_today": [
+      "Petere",
+      "Lacrima",
+      "Fames"
     ]
   }
 ]

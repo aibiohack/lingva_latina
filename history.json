@@ -3,28 +3,6 @@
     "date": "2026-01-22",
     "words": [
       {
-        "latin": "Meus",
-        "ru": "Мой"
-      },
-      {
-        "latin": "Pro",
-        "ru": "За, вместо"
-      },
-      {
-        "latin": "Veritas",
-        "ru": "Истина"
-      }
-    ],
-    "reviewed_today": [
-      "Sacer",
-      "Sanguis",
-      "Singulus"
-    ]
-  },
-  {
-    "date": "2026-01-22",
-    "words": [
-      {
         "latin": "Magnus",
         "ru": "Большой"
       },
@@ -10997,6 +10975,28 @@
       "Iter",
       "Spectare",
       "Triginta"
+    ]
+  },
+  {
+    "date": "2026-05-28",
+    "words": [
+      {
+        "latin": "Os, oris",
+        "ru": "Рот"
+      },
+      {
+        "latin": "Fames",
+        "ru": "Голод"
+      },
+      {
+        "latin": "Dignus",
+        "ru": "Достойный"
+      }
+    ],
+    "reviewed_today": [
+      "Sine",
+      "Urgere",
+      "Rota"
     ]
   }
 ]

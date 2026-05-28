@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-22",
-    "words": [
-      {
-        "latin": "Magnus",
-        "ru": "Большой"
-      },
-      {
-        "latin": "Respondere",
-        "ru": "Отвечать"
-      },
-      {
-        "latin": "Ut",
-        "ru": "Как, чтобы"
-      }
-    ],
-    "reviewed_today": [
-      "Pax",
-      "Super",
-      "Sapiens"
-    ]
-  },
-  {
     "date": "2026-01-23",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Sine",
       "Urgere",
       "Rota"
+    ]
+  },
+  {
+    "date": "2026-05-28",
+    "words": [
+      {
+        "latin": "Lucere",
+        "ru": "Светить"
+      },
+      {
+        "latin": "Dolor",
+        "ru": "Боль"
+      },
+      {
+        "latin": "Vitare",
+        "ru": "Избегать"
+      }
+    ],
+    "reviewed_today": [
+      "Sufferre",
+      "Tu",
+      "Septem"
     ]
   }
 ]

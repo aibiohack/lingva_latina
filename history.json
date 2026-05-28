@@ -3,28 +3,6 @@
     "date": "2026-01-23",
     "words": [
       {
-        "latin": "Somnus",
-        "ru": "Сон"
-      },
-      {
-        "latin": "Ungere",
-        "ru": "Мазать, умащать"
-      },
-      {
-        "latin": "Cena",
-        "ru": "Обед"
-      }
-    ],
-    "reviewed_today": [
-      "Duo",
-      "Tum",
-      "Umbra"
-    ]
-  },
-  {
-    "date": "2026-01-23",
-    "words": [
-      {
         "latin": "Confirmare",
         "ru": "Укреплять, подтверждать"
       },
@@ -10997,6 +10975,28 @@
       "Sufferre",
       "Tu",
       "Septem"
+    ]
+  },
+  {
+    "date": "2026-05-28",
+    "words": [
+      {
+        "latin": "Silentium",
+        "ru": "Молчание, тишина"
+      },
+      {
+        "latin": "Difficilis",
+        "ru": "Трудный"
+      },
+      {
+        "latin": "Intelligere",
+        "ru": "Понимать"
+      }
+    ],
+    "reviewed_today": [
+      "Velum",
+      "Certe",
+      "Salus"
     ]
   }
 ]

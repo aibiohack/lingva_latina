@@ -3,28 +3,6 @@
     "date": "2026-01-22",
     "words": [
       {
-        "latin": "Ibi",
-        "ru": "Там"
-      },
-      {
-        "latin": "Fragilis",
-        "ru": "Хрупкий, ломкий"
-      },
-      {
-        "latin": "Filia",
-        "ru": "Дочь"
-      }
-    ],
-    "reviewed_today": [
-      "Annus",
-      "Virtus",
-      "Quoque"
-    ]
-  },
-  {
-    "date": "2026-01-22",
-    "words": [
-      {
         "latin": "Meus",
         "ru": "Мой"
       },
@@ -10997,6 +10975,28 @@
       "Petere",
       "Lacrima",
       "Fames"
+    ]
+  },
+  {
+    "date": "2026-05-28",
+    "words": [
+      {
+        "latin": "Decere",
+        "ru": "Подобать, приличествовать"
+      },
+      {
+        "latin": "Turpis",
+        "ru": "Позорный, безобразный"
+      },
+      {
+        "latin": "Vestis",
+        "ru": "Одежда"
+      }
+    ],
+    "reviewed_today": [
+      "Iter",
+      "Spectare",
+      "Triginta"
     ]
   }
 ]

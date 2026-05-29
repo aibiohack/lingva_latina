@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-23",
-    "words": [
-      {
-        "latin": "Brevis",
-        "ru": "Короткий"
-      },
-      {
-        "latin": "Consuetudo",
-        "ru": "Привычка, обычай"
-      },
-      {
-        "latin": "Tolerare",
-        "ru": "Терпеть, переносить"
-      }
-    ],
-    "reviewed_today": [
-      "Urgere",
-      "Annus",
-      "Largus"
-    ]
-  },
-  {
     "date": "2026-01-24",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Super",
       "Lenis",
       "Civilis"
+    ]
+  },
+  {
+    "date": "2026-05-29",
+    "words": [
+      {
+        "latin": "Modus",
+        "ru": "Мера, способ"
+      },
+      {
+        "latin": "Gloria",
+        "ru": "Слава"
+      },
+      {
+        "latin": "Vivere",
+        "ru": "Жить"
+      }
+    ],
+    "reviewed_today": [
+      "Vivere",
+      "Soror",
+      "Invidia"
     ]
   }
 ]

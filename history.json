@@ -3,28 +3,6 @@
     "date": "2026-01-24",
     "words": [
       {
-        "latin": "Superbus",
-        "ru": "Гордый, высокомерный"
-      },
-      {
-        "latin": "Locus",
-        "ru": "Место"
-      },
-      {
-        "latin": "Dormire",
-        "ru": "Спать"
-      }
-    ],
-    "reviewed_today": [
-      "Turpis",
-      "Aureus",
-      "Idem"
-    ]
-  },
-  {
-    "date": "2026-01-24",
-    "words": [
-      {
         "latin": "Quis",
         "ru": "Кто"
       },
@@ -10997,6 +10975,28 @@
       "Vivere",
       "Soror",
       "Invidia"
+    ]
+  },
+  {
+    "date": "2026-05-29",
+    "words": [
+      {
+        "latin": "Tolerare",
+        "ru": "Терпеть, переносить"
+      },
+      {
+        "latin": "Sapientia",
+        "ru": "Мудрость"
+      },
+      {
+        "latin": "Brevis",
+        "ru": "Короткий"
+      }
+    ],
+    "reviewed_today": [
+      "Turpis",
+      "Restituere",
+      "Albus"
     ]
   }
 ]

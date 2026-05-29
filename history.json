@@ -3,28 +3,6 @@
     "date": "2026-01-23",
     "words": [
       {
-        "latin": "Confirmare",
-        "ru": "Укреплять, подтверждать"
-      },
-      {
-        "latin": "Sapientia",
-        "ru": "Мудрость"
-      },
-      {
-        "latin": "Audire",
-        "ru": "Слышать"
-      }
-    ],
-    "reviewed_today": [
-      "Terror",
-      "Grex",
-      "Saxum"
-    ]
-  },
-  {
-    "date": "2026-01-23",
-    "words": [
-      {
         "latin": "Proprius",
         "ru": "Собственный"
       },
@@ -10997,6 +10975,28 @@
       "Velum",
       "Certe",
       "Salus"
+    ]
+  },
+  {
+    "date": "2026-05-29",
+    "words": [
+      {
+        "latin": "Sum",
+        "ru": "Я есмь (быть)"
+      },
+      {
+        "latin": "Furor",
+        "ru": "Безумие, ярость"
+      },
+      {
+        "latin": "Laetus",
+        "ru": "Веселый, тучный"
+      }
+    ],
+    "reviewed_today": [
+      "Mors",
+      "Vetustus",
+      "Inimicus"
     ]
   }
 ]

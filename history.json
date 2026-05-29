@@ -3,28 +3,6 @@
     "date": "2026-01-23",
     "words": [
       {
-        "latin": "Proprius",
-        "ru": "Собственный"
-      },
-      {
-        "latin": "Gratia",
-        "ru": "Благодать, спасибо"
-      },
-      {
-        "latin": "Memoria",
-        "ru": "Память"
-      }
-    ],
-    "reviewed_today": [
-      "Habitus",
-      "Utor",
-      "Asper"
-    ]
-  },
-  {
-    "date": "2026-01-23",
-    "words": [
-      {
         "latin": "Brevis",
         "ru": "Короткий"
       },
@@ -10997,6 +10975,28 @@
       "Mors",
       "Vetustus",
       "Inimicus"
+    ]
+  },
+  {
+    "date": "2026-05-29",
+    "words": [
+      {
+        "latin": "Magnus",
+        "ru": "Большой"
+      },
+      {
+        "latin": "Fragilis",
+        "ru": "Хрупкий, ломкий"
+      },
+      {
+        "latin": "Audire",
+        "ru": "Слышать"
+      }
+    ],
+    "reviewed_today": [
+      "Super",
+      "Lenis",
+      "Civilis"
     ]
   }
 ]

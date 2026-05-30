@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-24",
-    "words": [
-      {
-        "latin": "Utinam",
-        "ru": "О если бы (желание)"
-      },
-      {
-        "latin": "Honor",
-        "ru": "Честь"
-      },
-      {
-        "latin": "Sequi",
-        "ru": "Следовать, сопровождать"
-      }
-    ],
-    "reviewed_today": [
-      "Flere",
-      "Iustus",
-      "Aio"
-    ]
-  },
-  {
     "date": "2026-01-25",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Consistere",
       "Regere",
       "Natura"
+    ]
+  },
+  {
+    "date": "2026-05-30",
+    "words": [
+      {
+        "latin": "Quis",
+        "ru": "Кто"
+      },
+      {
+        "latin": "Stare",
+        "ru": "Стоять"
+      },
+      {
+        "latin": "Stare",
+        "ru": "Стоять"
+      }
+    ],
+    "reviewed_today": [
+      "Constantia",
+      "Aperire",
+      "Superbus"
     ]
   }
 ]

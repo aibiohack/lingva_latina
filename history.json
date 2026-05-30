@@ -3,28 +3,6 @@
     "date": "2026-01-24",
     "words": [
       {
-        "latin": "Quis",
-        "ru": "Кто"
-      },
-      {
-        "latin": "Cum (союз)",
-        "ru": "Когда"
-      },
-      {
-        "latin": "Vulnero",
-        "ru": "Раню"
-      }
-    ],
-    "reviewed_today": [
-      "Reliquus",
-      "Currere",
-      "Rex"
-    ]
-  },
-  {
-    "date": "2026-01-24",
-    "words": [
-      {
         "latin": "Statim",
         "ru": "Немедленно"
       },
@@ -10997,6 +10975,28 @@
       "Turpis",
       "Restituere",
       "Albus"
+    ]
+  },
+  {
+    "date": "2026-05-30",
+    "words": [
+      {
+        "latin": "Temperantia",
+        "ru": "Умеренность"
+      },
+      {
+        "latin": "Urgere",
+        "ru": "Гнать, теснить"
+      },
+      {
+        "latin": "Insula",
+        "ru": "Остров"
+      }
+    ],
+    "reviewed_today": [
+      "Iungera",
+      "Benevolentia",
+      "Bibere"
     ]
   }
 ]

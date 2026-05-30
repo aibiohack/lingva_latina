@@ -3,28 +3,6 @@
     "date": "2026-01-24",
     "words": [
       {
-        "latin": "Statim",
-        "ru": "Немедленно"
-      },
-      {
-        "latin": "Stare",
-        "ru": "Стоять"
-      },
-      {
-        "latin": "Post",
-        "ru": "После"
-      }
-    ],
-    "reviewed_today": [
-      "Sentire",
-      "Memoria",
-      "Ingens"
-    ]
-  },
-  {
-    "date": "2026-01-24",
-    "words": [
-      {
         "latin": "Utinam",
         "ru": "О если бы (желание)"
       },
@@ -10997,6 +10975,28 @@
       "Iungera",
       "Benevolentia",
       "Bibere"
+    ]
+  },
+  {
+    "date": "2026-05-30",
+    "words": [
+      {
+        "latin": "Vulnero",
+        "ru": "Раню"
+      },
+      {
+        "latin": "Dormire",
+        "ru": "Спать"
+      },
+      {
+        "latin": "Cum (союз)",
+        "ru": "Когда"
+      }
+    ],
+    "reviewed_today": [
+      "Consistere",
+      "Regere",
+      "Natura"
     ]
   }
 ]

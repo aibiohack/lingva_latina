@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-25",
-    "words": [
-      {
-        "latin": "Disputare",
-        "ru": "Рассуждать, спорить"
-      },
-      {
-        "latin": "Vendere",
-        "ru": "Продавать"
-      },
-      {
-        "latin": "Cupere",
-        "ru": "Желать"
-      }
-    ],
-    "reviewed_today": [
-      "Dives",
-      "Suscipere",
-      "Nuntius"
-    ]
-  },
-  {
     "date": "2026-01-26",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Senectus",
       "Terere",
       "Suavis"
+    ]
+  },
+  {
+    "date": "2026-05-31",
+    "words": [
+      {
+        "latin": "Fallere",
+        "ru": "Обманывать"
+      },
+      {
+        "latin": "Cur",
+        "ru": "Почему"
+      },
+      {
+        "latin": "Qualis",
+        "ru": "Какой"
+      }
+    ],
+    "reviewed_today": [
+      "Vae",
+      "Utor",
+      "Quaerere"
     ]
   }
 ]

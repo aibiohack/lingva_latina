@@ -3,28 +3,6 @@
     "date": "2026-01-25",
     "words": [
       {
-        "latin": "Auctor",
-        "ru": "Творец, автор"
-      },
-      {
-        "latin": "Verbum",
-        "ru": "Слово"
-      },
-      {
-        "latin": "Vivere",
-        "ru": "Жить"
-      }
-    ],
-    "reviewed_today": [
-      "Volvo",
-      "Potestas",
-      "Uter"
-    ]
-  },
-  {
-    "date": "2026-01-25",
-    "words": [
-      {
         "latin": "Vultus",
         "ru": "Лицо, выражение лица"
       },
@@ -10997,6 +10975,28 @@
       "Temere",
       "Tum",
       "Canis"
+    ]
+  },
+  {
+    "date": "2026-05-31",
+    "words": [
+      {
+        "latin": "Simul",
+        "ru": "Одновременно, вместе"
+      },
+      {
+        "latin": "Scribere",
+        "ru": "Писать"
+      },
+      {
+        "latin": "Surdus",
+        "ru": "Глухой"
+      }
+    ],
+    "reviewed_today": [
+      "Species",
+      "Iacere",
+      "Dicere"
     ]
   }
 ]

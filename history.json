@@ -3,28 +3,6 @@
     "date": "2026-01-25",
     "words": [
       {
-        "latin": "Vultus",
-        "ru": "Лицо, выражение лица"
-      },
-      {
-        "latin": "Ipse",
-        "ru": "Сам"
-      },
-      {
-        "latin": "Spes",
-        "ru": "Надежда"
-      }
-    ],
-    "reviewed_today": [
-      "Maxime",
-      "Vita",
-      "Stultus"
-    ]
-  },
-  {
-    "date": "2026-01-25",
-    "words": [
-      {
         "latin": "Disputare",
         "ru": "Рассуждать, спорить"
       },
@@ -10997,6 +10975,28 @@
       "Species",
       "Iacere",
       "Dicere"
+    ]
+  },
+  {
+    "date": "2026-05-31",
+    "words": [
+      {
+        "latin": "Surdus",
+        "ru": "Глухой"
+      },
+      {
+        "latin": "Tristis",
+        "ru": "Печальный, суровый"
+      },
+      {
+        "latin": "Initium",
+        "ru": "Начало"
+      }
+    ],
+    "reviewed_today": [
+      "Senectus",
+      "Terere",
+      "Suavis"
     ]
   }
 ]

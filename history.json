@@ -3,28 +3,6 @@
     "date": "2026-01-27",
     "words": [
       {
-        "latin": "Cantare",
-        "ru": "Петь"
-      },
-      {
-        "latin": "Puer",
-        "ru": "Мальчик"
-      },
-      {
-        "latin": "Securus",
-        "ru": "Безопасный, беззаботный"
-      }
-    ],
-    "reviewed_today": [
-      "Singulus",
-      "Venire",
-      "Ecclesia"
-    ]
-  },
-  {
-    "date": "2026-01-27",
-    "words": [
-      {
         "latin": "Volare",
         "ru": "Летать"
       },
@@ -10997,6 +10975,28 @@
       "Scelus",
       "Pone",
       "Semel"
+    ]
+  },
+  {
+    "date": "2026-06-01",
+    "words": [
+      {
+        "latin": "Levis",
+        "ru": "Легкий"
+      },
+      {
+        "latin": "Imperare",
+        "ru": "Приказывать"
+      },
+      {
+        "latin": "Castrum",
+        "ru": "Крепость"
+      }
+    ],
+    "reviewed_today": [
+      "Verbum",
+      "Benevolentia",
+      "Amare"
     ]
   }
 ]

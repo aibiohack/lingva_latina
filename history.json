@@ -3,28 +3,6 @@
     "date": "2026-01-26",
     "words": [
       {
-        "latin": "Ludus",
-        "ru": "Игра, школа"
-      },
-      {
-        "latin": "Dubius",
-        "ru": "Сомнительный"
-      },
-      {
-        "latin": "Ardere",
-        "ru": "Гореть, пылать"
-      }
-    ],
-    "reviewed_today": [
-      "Quasi",
-      "Videre",
-      "Visere"
-    ]
-  },
-  {
-    "date": "2026-01-26",
-    "words": [
-      {
         "latin": "Munus",
         "ru": "Дар, обязанность"
       },
@@ -10997,6 +10975,28 @@
       "Summa",
       "Vox",
       "Multitudo"
+    ]
+  },
+  {
+    "date": "2026-06-01",
+    "words": [
+      {
+        "latin": "Res",
+        "ru": "Вещь, дело"
+      },
+      {
+        "latin": "Vir",
+        "ru": "Мужчина, муж"
+      },
+      {
+        "latin": "Exire",
+        "ru": "Выходить"
+      }
+    ],
+    "reviewed_today": [
+      "Terrere",
+      "Fraus",
+      "Lignum"
     ]
   }
 ]

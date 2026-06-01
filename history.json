@@ -3,28 +3,6 @@
     "date": "2026-01-26",
     "words": [
       {
-        "latin": "Error",
-        "ru": "Ошибка"
-      },
-      {
-        "latin": "Arma",
-        "ru": "Оружие"
-      },
-      {
-        "latin": "Bene",
-        "ru": "Хорошо"
-      }
-    ],
-    "reviewed_today": [
-      "Novus",
-      "Flere",
-      "Coepi"
-    ]
-  },
-  {
-    "date": "2026-01-26",
-    "words": [
-      {
         "latin": "Ludus",
         "ru": "Игра, школа"
       },
@@ -10997,6 +10975,28 @@
       "Habitare",
       "Regere",
       "Velle"
+    ]
+  },
+  {
+    "date": "2026-06-01",
+    "words": [
+      {
+        "latin": "Sequi",
+        "ru": "Следовать, сопровождать"
+      },
+      {
+        "latin": "Gravis",
+        "ru": "Тяжелый"
+      },
+      {
+        "latin": "Tergum",
+        "ru": "Спина"
+      }
+    ],
+    "reviewed_today": [
+      "Summa",
+      "Vox",
+      "Multitudo"
     ]
   }
 ]

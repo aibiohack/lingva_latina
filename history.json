@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-26",
-    "words": [
-      {
-        "latin": "Munus",
-        "ru": "Дар, обязанность"
-      },
-      {
-        "latin": "Impedire",
-        "ru": "Мешать, препятствовать"
-      },
-      {
-        "latin": "Flamma",
-        "ru": "Пламя"
-      }
-    ],
-    "reviewed_today": [
-      "Aeternitas",
-      "Utilitas",
-      "Tenere"
-    ]
-  },
-  {
     "date": "2026-01-27",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Terrere",
       "Fraus",
       "Lignum"
+    ]
+  },
+  {
+    "date": "2026-06-01",
+    "words": [
+      {
+        "latin": "Bene",
+        "ru": "Хорошо"
+      },
+      {
+        "latin": "Ardere",
+        "ru": "Гореть, пылать"
+      },
+      {
+        "latin": "Ludus",
+        "ru": "Игра, школа"
+      }
+    ],
+    "reviewed_today": [
+      "Scelus",
+      "Pone",
+      "Semel"
     ]
   }
 ]

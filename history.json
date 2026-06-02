@@ -3,28 +3,6 @@
     "date": "2026-01-27",
     "words": [
       {
-        "latin": "Volare",
-        "ru": "Летать"
-      },
-      {
-        "latin": "Creare",
-        "ru": "Творить, создавать"
-      },
-      {
-        "latin": "Vulgus",
-        "ru": "Толпа, чернь"
-      }
-    ],
-    "reviewed_today": [
-      "Ignis",
-      "Lucere",
-      "Tormentum"
-    ]
-  },
-  {
-    "date": "2026-01-27",
-    "words": [
-      {
         "latin": "Remedium",
         "ru": "Лекарство, средство"
       },
@@ -10997,6 +10975,28 @@
       "Verbum",
       "Benevolentia",
       "Amare"
+    ]
+  },
+  {
+    "date": "2026-06-02",
+    "words": [
+      {
+        "latin": "Ridere",
+        "ru": "Смеяться"
+      },
+      {
+        "latin": "Tectum",
+        "ru": "Крыша, кров"
+      },
+      {
+        "latin": "Rota",
+        "ru": "Колесо"
+      }
+    ],
+    "reviewed_today": [
+      "Aperire",
+      "Asper",
+      "Ferrum"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-01-28",
     "words": [
       {
-        "latin": "Inquit",
-        "ru": "Говорит (вводное)"
-      },
-      {
-        "latin": "Ambulare",
-        "ru": "Гулять, ходить"
-      },
-      {
-        "latin": "Tristis",
-        "ru": "Печальный"
-      }
-    ],
-    "reviewed_today": [
-      "Memoria",
-      "Umerus",
-      "Iuvare"
-    ]
-  },
-  {
-    "date": "2026-01-28",
-    "words": [
-      {
         "latin": "Cor",
         "ru": "Сердце"
       },
@@ -10997,6 +10975,28 @@
       "Credere",
       "Mollis",
       "Sanguis"
+    ]
+  },
+  {
+    "date": "2026-06-02",
+    "words": [
+      {
+        "latin": "Discedere",
+        "ru": "Уходить, расходиться"
+      },
+      {
+        "latin": "Habitare",
+        "ru": "Жить"
+      },
+      {
+        "latin": "Vesper",
+        "ru": "Вечер"
+      }
+    ],
+    "reviewed_today": [
+      "Verere",
+      "Moenia",
+      "Aestas"
     ]
   }
 ]

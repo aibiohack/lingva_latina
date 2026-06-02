@@ -3,28 +3,6 @@
     "date": "2026-01-27",
     "words": [
       {
-        "latin": "Remedium",
-        "ru": "Лекарство, средство"
-      },
-      {
-        "latin": "Tectum",
-        "ru": "Крыша, кров"
-      },
-      {
-        "latin": "Constituere",
-        "ru": "Устанавливать, решать"
-      }
-    ],
-    "reviewed_today": [
-      "Currere",
-      "Sanctus",
-      "Angustus"
-    ]
-  },
-  {
-    "date": "2026-01-27",
-    "words": [
-      {
         "latin": "Discedere",
         "ru": "Уходить, расходиться"
       },
@@ -10997,6 +10975,28 @@
       "Aperire",
       "Asper",
       "Ferrum"
+    ]
+  },
+  {
+    "date": "2026-06-02",
+    "words": [
+      {
+        "latin": "Creare",
+        "ru": "Творить, создавать"
+      },
+      {
+        "latin": "Vulgus",
+        "ru": "Толпа, чернь"
+      },
+      {
+        "latin": "Munus",
+        "ru": "Дар, обязанность"
+      }
+    ],
+    "reviewed_today": [
+      "Spiritus",
+      "Dens",
+      "Mittere"
     ]
   }
 ]

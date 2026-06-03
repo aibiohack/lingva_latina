@@ -3,28 +3,6 @@
     "date": "2026-01-29",
     "words": [
       {
-        "latin": "Colloquium",
-        "ru": "Разговор, беседа"
-      },
-      {
-        "latin": "Civitas",
-        "ru": "Государство, город"
-      },
-      {
-        "latin": "Innocens",
-        "ru": "Невинный"
-      }
-    ],
-    "reviewed_today": [
-      "Mensis",
-      "Iugum",
-      "Hortus"
-    ]
-  },
-  {
-    "date": "2026-01-29",
-    "words": [
-      {
         "latin": "Aura",
         "ru": "Ветерок, дуновение"
       },
@@ -10997,6 +10975,28 @@
       "Vituperare",
       "Texere",
       "Luna"
+    ]
+  },
+  {
+    "date": "2026-06-03",
+    "words": [
+      {
+        "latin": "Sinister",
+        "ru": "Левый"
+      },
+      {
+        "latin": "Restituere",
+        "ru": "Восстанавливать"
+      },
+      {
+        "latin": "Quod",
+        "ru": "Потому что"
+      }
+    ],
+    "reviewed_today": [
+      "Terror",
+      "Flumen",
+      "Verber"
     ]
   }
 ]

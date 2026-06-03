@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-28",
-    "words": [
-      {
-        "latin": "Tuba",
-        "ru": "Труба"
-      },
-      {
-        "latin": "Culpa",
-        "ru": "Вина"
-      },
-      {
-        "latin": "Vigilia",
-        "ru": "Стража, бодрствование"
-      }
-    ],
-    "reviewed_today": [
-      "Inimicus",
-      "Orbis",
-      "Coepi"
-    ]
-  },
-  {
     "date": "2026-01-29",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Autem",
       "Terrere",
       "Caelum"
+    ]
+  },
+  {
+    "date": "2026-06-03",
+    "words": [
+      {
+        "latin": "Telum",
+        "ru": "Оружие, копье"
+      },
+      {
+        "latin": "Recipere",
+        "ru": "Получать, принимать"
+      },
+      {
+        "latin": "Figura",
+        "ru": "Образ, вид"
+      }
+    ],
+    "reviewed_today": [
+      "Vituperare",
+      "Texere",
+      "Luna"
     ]
   }
 ]

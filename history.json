@@ -3,28 +3,6 @@
     "date": "2026-01-28",
     "words": [
       {
-        "latin": "Lignum",
-        "ru": "Дерево, дрова"
-      },
-      {
-        "latin": "Oculus",
-        "ru": "Глаз"
-      },
-      {
-        "latin": "Ius",
-        "ru": "Право, закон"
-      }
-    ],
-    "reviewed_today": [
-      "Reus",
-      "Auctor",
-      "Error"
-    ]
-  },
-  {
-    "date": "2026-01-28",
-    "words": [
-      {
         "latin": "Tuba",
         "ru": "Труба"
       },
@@ -10997,6 +10975,28 @@
       "Claudere",
       "Charta",
       "Versari"
+    ]
+  },
+  {
+    "date": "2026-06-03",
+    "words": [
+      {
+        "latin": "Regio",
+        "ru": "Область, страна"
+      },
+      {
+        "latin": "Nihil",
+        "ru": "Ничто"
+      },
+      {
+        "latin": "Lupus",
+        "ru": "Волк"
+      }
+    ],
+    "reviewed_today": [
+      "Autem",
+      "Terrere",
+      "Caelum"
     ]
   }
 ]

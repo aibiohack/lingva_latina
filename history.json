@@ -3,28 +3,6 @@
     "date": "2026-01-28",
     "words": [
       {
-        "latin": "Cor",
-        "ru": "Сердце"
-      },
-      {
-        "latin": "Sors",
-        "ru": "Жребий, судьба"
-      },
-      {
-        "latin": "Donum",
-        "ru": "Подарок"
-      }
-    ],
-    "reviewed_today": [
-      "Flos",
-      "Cogitare",
-      "Via"
-    ]
-  },
-  {
-    "date": "2026-01-28",
-    "words": [
-      {
         "latin": "Lignum",
         "ru": "Дерево, дрова"
       },
@@ -10997,6 +10975,28 @@
       "Verere",
       "Moenia",
       "Aestas"
+    ]
+  },
+  {
+    "date": "2026-06-03",
+    "words": [
+      {
+        "latin": "Pauper",
+        "ru": "Бедный"
+      },
+      {
+        "latin": "Insula",
+        "ru": "Остров"
+      },
+      {
+        "latin": "Orbis",
+        "ru": "Круг, мир"
+      }
+    ],
+    "reviewed_today": [
+      "Claudere",
+      "Charta",
+      "Versari"
     ]
   }
 ]

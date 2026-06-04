@@ -3,28 +3,6 @@
     "date": "2026-01-29",
     "words": [
       {
-        "latin": "Tribunus",
-        "ru": "Трибун"
-      },
-      {
-        "latin": "Semper",
-        "ru": "Всегда"
-      },
-      {
-        "latin": "Albus",
-        "ru": "Белый"
-      }
-    ],
-    "reviewed_today": [
-      "Victor",
-      "Regnum",
-      "Tertius"
-    ]
-  },
-  {
-    "date": "2026-01-29",
-    "words": [
-      {
         "latin": "Fundamentum",
         "ru": "Основание"
       },
@@ -10997,6 +10975,28 @@
       "Dies",
       "Debeo",
       "Soleo"
+    ]
+  },
+  {
+    "date": "2026-06-04",
+    "words": [
+      {
+        "latin": "Vigilia",
+        "ru": "Стража, бодрствование"
+      },
+      {
+        "latin": "Latere",
+        "ru": "Скрываться"
+      },
+      {
+        "latin": "Aura",
+        "ru": "Ветерок, дуновение"
+      }
+    ],
+    "reviewed_today": [
+      "Simul",
+      "Legio",
+      "Via"
     ]
   }
 ]

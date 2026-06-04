@@ -3,28 +3,6 @@
     "date": "2026-01-29",
     "words": [
       {
-        "latin": "Aura",
-        "ru": "Ветерок, дуновение"
-      },
-      {
-        "latin": "Latere",
-        "ru": "Скрываться"
-      },
-      {
-        "latin": "Fateri",
-        "ru": "Признавать, сознаваться"
-      }
-    ],
-    "reviewed_today": [
-      "Disputare",
-      "Crux",
-      "Visere"
-    ]
-  },
-  {
-    "date": "2026-01-29",
-    "words": [
-      {
         "latin": "Tribunus",
         "ru": "Трибун"
       },
@@ -10997,6 +10975,28 @@
       "Terror",
       "Flumen",
       "Verber"
+    ]
+  },
+  {
+    "date": "2026-06-04",
+    "words": [
+      {
+        "latin": "Umerus",
+        "ru": "Плечо"
+      },
+      {
+        "latin": "Visere",
+        "ru": "Осматривать, посещать"
+      },
+      {
+        "latin": "Trans",
+        "ru": "Через, по ту сторону"
+      }
+    ],
+    "reviewed_today": [
+      "Dies",
+      "Debeo",
+      "Soleo"
     ]
   }
 ]

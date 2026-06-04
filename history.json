@@ -3,28 +3,6 @@
     "date": "2026-01-30",
     "words": [
       {
-        "latin": "Unda",
-        "ru": "Волна"
-      },
-      {
-        "latin": "Porta",
-        "ru": "Ворота"
-      },
-      {
-        "latin": "Dulcis",
-        "ru": "Сладкий"
-      }
-    ],
-    "reviewed_today": [
-      "Vacuus",
-      "Victoria",
-      "Spes"
-    ]
-  },
-  {
-    "date": "2026-01-30",
-    "words": [
-      {
         "latin": "Aestas",
         "ru": "Лето"
       },
@@ -10997,6 +10975,28 @@
       "Lux",
       "Bellum",
       "Religio"
+    ]
+  },
+  {
+    "date": "2026-06-04",
+    "words": [
+      {
+        "latin": "Terrere",
+        "ru": "Устрашать"
+      },
+      {
+        "latin": "Ingenium",
+        "ru": "Талант, ум"
+      },
+      {
+        "latin": "Tenere",
+        "ru": "Держать"
+      }
+    ],
+    "reviewed_today": [
+      "Rus",
+      "Fabula",
+      "Forma"
     ]
   }
 ]

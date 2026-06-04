@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-29",
-    "words": [
-      {
-        "latin": "Fundamentum",
-        "ru": "Основание"
-      },
-      {
-        "latin": "Supra",
-        "ru": "Сверху, выше"
-      },
-      {
-        "latin": "Vel",
-        "ru": "Или, даже"
-      }
-    ],
-    "reviewed_today": [
-      "Regere",
-      "Terra",
-      "Sors"
-    ]
-  },
-  {
     "date": "2026-01-30",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Simul",
       "Legio",
       "Via"
+    ]
+  },
+  {
+    "date": "2026-06-04",
+    "words": [
+      {
+        "latin": "Fateri",
+        "ru": "Признавать, сознаваться"
+      },
+      {
+        "latin": "Civitas",
+        "ru": "Государство, город"
+      },
+      {
+        "latin": "Albus",
+        "ru": "Белый"
+      }
+    ],
+    "reviewed_today": [
+      "Lux",
+      "Bellum",
+      "Religio"
     ]
   }
 ]

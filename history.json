@@ -3,28 +3,6 @@
     "date": "2026-01-30",
     "words": [
       {
-        "latin": "Aestas",
-        "ru": "Лето"
-      },
-      {
-        "latin": "Cura",
-        "ru": "Забота, попечение"
-      },
-      {
-        "latin": "Vertere",
-        "ru": "Поворачивать"
-      }
-    ],
-    "reviewed_today": [
-      "Flos",
-      "Honor",
-      "Malle"
-    ]
-  },
-  {
-    "date": "2026-01-30",
-    "words": [
-      {
         "latin": "Ruere",
         "ru": "Рушиться, спешить"
       },
@@ -10997,6 +10975,28 @@
       "Rus",
       "Fabula",
       "Forma"
+    ]
+  },
+  {
+    "date": "2026-06-05",
+    "words": [
+      {
+        "latin": "Officium",
+        "ru": "Обязанность"
+      },
+      {
+        "latin": "Sequi",
+        "ru": "Следовать, сопровождать"
+      },
+      {
+        "latin": "Iter",
+        "ru": "Путь"
+      }
+    ],
+    "reviewed_today": [
+      "Exemplum",
+      "Lupus",
+      "Vacuus"
     ]
   }
 ]

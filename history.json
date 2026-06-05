@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-30",
-    "words": [
-      {
-        "latin": "Dicere",
-        "ru": "Говорить"
-      },
-      {
-        "latin": "Unus",
-        "ru": "Один"
-      },
-      {
-        "latin": "Censeo",
-        "ru": "Полагаю, считаю"
-      }
-    ],
-    "reviewed_today": [
-      "Rumpere",
-      "Victor",
-      "Senex"
-    ]
-  },
-  {
     "date": "2026-01-31",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Damnum",
       "Veritas",
       "Insula"
+    ]
+  },
+  {
+    "date": "2026-06-05",
+    "words": [
+      {
+        "latin": "Spes",
+        "ru": "Надежда"
+      },
+      {
+        "latin": "Mox",
+        "ru": "Скоро"
+      },
+      {
+        "latin": "Putare",
+        "ru": "Считать, полагать"
+      }
+    ],
+    "reviewed_today": [
+      "Habeo",
+      "Ager",
+      "Tardus"
     ]
   }
 ]

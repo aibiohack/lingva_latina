@@ -3,28 +3,6 @@
     "date": "2026-01-30",
     "words": [
       {
-        "latin": "Ruere",
-        "ru": "Рушиться, спешить"
-      },
-      {
-        "latin": "Contra",
-        "ru": "Против"
-      },
-      {
-        "latin": "Numerus",
-        "ru": "Число"
-      }
-    ],
-    "reviewed_today": [
-      "Incipere",
-      "Meritum",
-      "Gignere"
-    ]
-  },
-  {
-    "date": "2026-01-30",
-    "words": [
-      {
         "latin": "Dicere",
         "ru": "Говорить"
       },
@@ -10997,6 +10975,28 @@
       "Exemplum",
       "Lupus",
       "Vacuus"
+    ]
+  },
+  {
+    "date": "2026-06-05",
+    "words": [
+      {
+        "latin": "Cura",
+        "ru": "Забота, попечение"
+      },
+      {
+        "latin": "Supra",
+        "ru": "Сверху, выше"
+      },
+      {
+        "latin": "Aestas",
+        "ru": "Лето"
+      }
+    ],
+    "reviewed_today": [
+      "Damnum",
+      "Veritas",
+      "Insula"
     ]
   }
 ]

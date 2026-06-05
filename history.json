@@ -3,28 +3,6 @@
     "date": "2026-01-31",
     "words": [
       {
-        "latin": "Iscere",
-        "ru": "Просить, требовать"
-      },
-      {
-        "latin": "Angelus",
-        "ru": "Ангел"
-      },
-      {
-        "latin": "Vituperare",
-        "ru": "Ругать"
-      }
-    ],
-    "reviewed_today": [
-      "Idem",
-      "Proprius",
-      "Fingere"
-    ]
-  },
-  {
-    "date": "2026-01-31",
-    "words": [
-      {
         "latin": "Lenis",
         "ru": "Мягкий, нежный"
       },
@@ -10997,6 +10975,28 @@
       "Habeo",
       "Ager",
       "Tardus"
+    ]
+  },
+  {
+    "date": "2026-06-05",
+    "words": [
+      {
+        "latin": "Redire",
+        "ru": "Возвращаться"
+      },
+      {
+        "latin": "Luxuria",
+        "ru": "Роскошь"
+      },
+      {
+        "latin": "Donum",
+        "ru": "Подарок"
+      }
+    ],
+    "reviewed_today": [
+      "Diu",
+      "Clarus",
+      "Ducenti"
     ]
   }
 ]

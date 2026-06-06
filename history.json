@@ -3,28 +3,6 @@
     "date": "2026-01-31",
     "words": [
       {
-        "latin": "Equus",
-        "ru": "Лошадь"
-      },
-      {
-        "latin": "Frater",
-        "ru": "Брат"
-      },
-      {
-        "latin": "Abbas",
-        "ru": "Отец, настоятель"
-      }
-    ],
-    "reviewed_today": [
-      "Ignoscerе",
-      "Flere",
-      "Labor"
-    ]
-  },
-  {
-    "date": "2026-01-31",
-    "words": [
-      {
         "latin": "Fatum",
         "ru": "Судьба"
       },
@@ -10997,6 +10975,28 @@
       "Tueri",
       "Alius",
       "Cognoscere"
+    ]
+  },
+  {
+    "date": "2026-06-06",
+    "words": [
+      {
+        "latin": "Silva",
+        "ru": "Лес"
+      },
+      {
+        "latin": "Severus",
+        "ru": "Строгий, суровый"
+      },
+      {
+        "latin": "Dies",
+        "ru": "День"
+      }
+    ],
+    "reviewed_today": [
+      "Silva",
+      "Ergo",
+      "Confirmare"
     ]
   }
 ]

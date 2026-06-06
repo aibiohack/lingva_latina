@@ -3,28 +3,6 @@
     "date": "2026-01-31",
     "words": [
       {
-        "latin": "Lenis",
-        "ru": "Мягкий, нежный"
-      },
-      {
-        "latin": "Ultimus",
-        "ru": "Последний, крайний"
-      },
-      {
-        "latin": "Vir",
-        "ru": "Мужчина, муж"
-      }
-    ],
-    "reviewed_today": [
-      "Domus",
-      "Vis",
-      "Appellare"
-    ]
-  },
-  {
-    "date": "2026-01-31",
-    "words": [
-      {
         "latin": "Equus",
         "ru": "Лошадь"
       },
@@ -10997,6 +10975,28 @@
       "Diu",
       "Clarus",
       "Ducenti"
+    ]
+  },
+  {
+    "date": "2026-06-06",
+    "words": [
+      {
+        "latin": "Ruere",
+        "ru": "Рушиться, спешить"
+      },
+      {
+        "latin": "Tribunus",
+        "ru": "Трибун"
+      },
+      {
+        "latin": "Iscere",
+        "ru": "Просить, требовать"
+      }
+    ],
+    "reviewed_today": [
+      "Tueri",
+      "Alius",
+      "Cognoscere"
     ]
   }
 ]

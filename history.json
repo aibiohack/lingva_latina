@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-01-31",
-    "words": [
-      {
-        "latin": "Fatum",
-        "ru": "Судьба"
-      },
-      {
-        "latin": "Gratus",
-        "ru": "Приятный, благодарный"
-      },
-      {
-        "latin": "Cognoscere",
-        "ru": "Узнавать, познавать"
-      }
-    ],
-    "reviewed_today": [
-      "Vates",
-      "Rex",
-      "Hortus"
-    ]
-  },
-  {
     "date": "2026-02-01",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Silva",
       "Ergo",
       "Confirmare"
+    ]
+  },
+  {
+    "date": "2026-06-06",
+    "words": [
+      {
+        "latin": "Frater",
+        "ru": "Брат"
+      },
+      {
+        "latin": "Ultimus",
+        "ru": "Последний, крайний"
+      },
+      {
+        "latin": "Ultimus",
+        "ru": "Последний"
+      }
+    ],
+    "reviewed_today": [
+      "Orbis",
+      "Intelligere",
+      "Mox"
     ]
   }
 ]

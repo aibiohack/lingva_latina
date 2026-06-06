@@ -3,28 +3,6 @@
     "date": "2026-02-01",
     "words": [
       {
-        "latin": "Triginta",
-        "ru": "Тридцать"
-      },
-      {
-        "latin": "Solus",
-        "ru": "Один, единственный"
-      },
-      {
-        "latin": "Recens",
-        "ru": "Свежий, недавний"
-      }
-    ],
-    "reviewed_today": [
-      "Somnus",
-      "Dolor",
-      "Supra"
-    ]
-  },
-  {
-    "date": "2026-02-01",
-    "words": [
-      {
         "latin": "Septem",
         "ru": "Семь"
       },
@@ -10997,6 +10975,28 @@
       "Orbis",
       "Intelligere",
       "Mox"
+    ]
+  },
+  {
+    "date": "2026-06-06",
+    "words": [
+      {
+        "latin": "Imitari",
+        "ru": "Подражать"
+      },
+      {
+        "latin": "Uva",
+        "ru": "Виноград"
+      },
+      {
+        "latin": "Vivere",
+        "ru": "Жить"
+      }
+    ],
+    "reviewed_today": [
+      "Titulus",
+      "Malle",
+      "Eligere"
     ]
   }
 ]

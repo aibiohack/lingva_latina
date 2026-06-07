@@ -3,28 +3,6 @@
     "date": "2026-02-01",
     "words": [
       {
-        "latin": "Mittere",
-        "ru": "Посылать"
-      },
-      {
-        "latin": "Ducere",
-        "ru": "Вести"
-      },
-      {
-        "latin": "Carmen",
-        "ru": "Песня, стихи"
-      }
-    ],
-    "reviewed_today": [
-      "Victor",
-      "Fateri",
-      "Umerus"
-    ]
-  },
-  {
-    "date": "2026-02-01",
-    "words": [
-      {
         "latin": "Virgo",
         "ru": "Девушка, дева"
       },
@@ -10997,6 +10975,28 @@
       "Inter",
       "Difficilis",
       "Putare"
+    ]
+  },
+  {
+    "date": "2026-06-07",
+    "words": [
+      {
+        "latin": "Unda",
+        "ru": "Волна"
+      },
+      {
+        "latin": "Largus",
+        "ru": "Щедрый, обильный"
+      },
+      {
+        "latin": "Sidus",
+        "ru": "Звезда, созвездие"
+      }
+    ],
+    "reviewed_today": [
+      "Superbus",
+      "Tardus",
+      "Doctus"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-02-02",
     "words": [
       {
-        "latin": "Materia",
-        "ru": "Вещество, материя"
-      },
-      {
-        "latin": "Persona",
-        "ru": "Личность"
-      },
-      {
-        "latin": "Cur",
-        "ru": "Почему"
-      }
-    ],
-    "reviewed_today": [
-      "Gratus",
-      "Humus",
-      "Vocare"
-    ]
-  },
-  {
-    "date": "2026-02-02",
-    "words": [
-      {
         "latin": "Votum",
         "ru": "Обет, желание"
       },
@@ -10997,6 +10975,28 @@
       "Amare",
       "Habitare",
       "Parvus"
+    ]
+  },
+  {
+    "date": "2026-06-07",
+    "words": [
+      {
+        "latin": "Aurum",
+        "ru": "Золото"
+      },
+      {
+        "latin": "Altus",
+        "ru": "Высокий, глубокий"
+      },
+      {
+        "latin": "Vendere",
+        "ru": "Продавать"
+      }
+    ],
+    "reviewed_today": [
+      "Dextra",
+      "Vertere",
+      "Pater"
     ]
   }
 ]

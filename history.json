@@ -3,28 +3,6 @@
     "date": "2026-02-01",
     "words": [
       {
-        "latin": "Septem",
-        "ru": "Семь"
-      },
-      {
-        "latin": "Habeo",
-        "ru": "Иметь"
-      },
-      {
-        "latin": "Venari",
-        "ru": "Охотиться"
-      }
-    ],
-    "reviewed_today": [
-      "Virtus",
-      "Unda",
-      "Dexter"
-    ]
-  },
-  {
-    "date": "2026-02-01",
-    "words": [
-      {
         "latin": "Mittere",
         "ru": "Посылать"
       },
@@ -10997,6 +10975,28 @@
       "Titulus",
       "Malle",
       "Eligere"
+    ]
+  },
+  {
+    "date": "2026-06-07",
+    "words": [
+      {
+        "latin": "Gratus",
+        "ru": "Приятный, благодарный"
+      },
+      {
+        "latin": "Recens",
+        "ru": "Свежий, недавний"
+      },
+      {
+        "latin": "Cognoscere",
+        "ru": "Узнавать, познавать"
+      }
+    ],
+    "reviewed_today": [
+      "Inter",
+      "Difficilis",
+      "Putare"
     ]
   }
 ]

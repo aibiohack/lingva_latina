@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-01",
-    "words": [
-      {
-        "latin": "Virgo",
-        "ru": "Девушка, дева"
-      },
-      {
-        "latin": "Alius",
-        "ru": "Другой (из многих)"
-      },
-      {
-        "latin": "Situs",
-        "ru": "Положение, место"
-      }
-    ],
-    "reviewed_today": [
-      "Solium",
-      "Error",
-      "Utinam"
-    ]
-  },
-  {
     "date": "2026-02-02",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Superbus",
       "Tardus",
       "Doctus"
+    ]
+  },
+  {
+    "date": "2026-06-07",
+    "words": [
+      {
+        "latin": "Tangere",
+        "ru": "Трогать, касаться"
+      },
+      {
+        "latin": "Pugnare",
+        "ru": "Сражаться"
+      },
+      {
+        "latin": "Multitudo",
+        "ru": "Множество"
+      }
+    ],
+    "reviewed_today": [
+      "Amare",
+      "Habitare",
+      "Parvus"
     ]
   }
 ]

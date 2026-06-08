@@ -3,28 +3,6 @@
     "date": "2026-02-02",
     "words": [
       {
-        "latin": "Diabolus",
-        "ru": "Дьявол"
-      },
-      {
-        "latin": "Lingua",
-        "ru": "Язык"
-      },
-      {
-        "latin": "Voluptas",
-        "ru": "Удовольствие, наслаждение"
-      }
-    ],
-    "reviewed_today": [
-      "Tormentum",
-      "Magis",
-      "Sacer"
-    ]
-  },
-  {
-    "date": "2026-02-02",
-    "words": [
-      {
         "latin": "Validus",
         "ru": "Сильный"
       },
@@ -10997,6 +10975,28 @@
       "Albus",
       "Fidelis",
       "Visere"
+    ]
+  },
+  {
+    "date": "2026-06-08",
+    "words": [
+      {
+        "latin": "Vix",
+        "ru": "Едва, с трудом"
+      },
+      {
+        "latin": "Mittere",
+        "ru": "Посылать"
+      },
+      {
+        "latin": "Septem",
+        "ru": "Семь"
+      }
+    ],
+    "reviewed_today": [
+      "Temptare",
+      "Terribilis",
+      "Quoque"
     ]
   }
 ]

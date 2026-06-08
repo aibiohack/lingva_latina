@@ -3,28 +3,6 @@
     "date": "2026-02-02",
     "words": [
       {
-        "latin": "Votum",
-        "ru": "Обет, желание"
-      },
-      {
-        "latin": "Sensus",
-        "ru": "Чувство, смысл"
-      },
-      {
-        "latin": "Vix",
-        "ru": "Едва, с трудом"
-      }
-    ],
-    "reviewed_today": [
-      "Aurum",
-      "Infans",
-      "Cunctus"
-    ]
-  },
-  {
-    "date": "2026-02-02",
-    "words": [
-      {
         "latin": "Diabolus",
         "ru": "Дьявол"
       },
@@ -10997,6 +10975,28 @@
       "Dextra",
       "Vertere",
       "Pater"
+    ]
+  },
+  {
+    "date": "2026-06-08",
+    "words": [
+      {
+        "latin": "Radix",
+        "ru": "Корень"
+      },
+      {
+        "latin": "Cotidie",
+        "ru": "Ежедневно"
+      },
+      {
+        "latin": "Vinculum",
+        "ru": "Узы, цепь"
+      }
+    ],
+    "reviewed_today": [
+      "Albus",
+      "Fidelis",
+      "Visere"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-02-03",
     "words": [
       {
-        "latin": "Expectare",
-        "ru": "Ожидать"
-      },
-      {
-        "latin": "Surgere",
-        "ru": "Вставать, подниматься"
-      },
-      {
-        "latin": "Gloria",
-        "ru": "Слава"
-      }
-    ],
-    "reviewed_today": [
-      "Verber",
-      "Utor",
-      "Currere"
-    ]
-  },
-  {
-    "date": "2026-02-03",
-    "words": [
-      {
         "latin": "Celer",
         "ru": "Быстрый"
       },
@@ -10997,6 +10975,28 @@
       "Intra",
       "Veho",
       "Audax"
+    ]
+  },
+  {
+    "date": "2026-06-08",
+    "words": [
+      {
+        "latin": "Lingua",
+        "ru": "Язык"
+      },
+      {
+        "latin": "Validus",
+        "ru": "Сильный"
+      },
+      {
+        "latin": "Voluptas",
+        "ru": "Удовольствие, наслаждение"
+      }
+    ],
+    "reviewed_today": [
+      "Iter",
+      "Carmen",
+      "Restituere"
     ]
   }
 ]

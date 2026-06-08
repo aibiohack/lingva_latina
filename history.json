@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-02",
-    "words": [
-      {
-        "latin": "Validus",
-        "ru": "Сильный"
-      },
-      {
-        "latin": "Ripa",
-        "ru": "Берег (реки)"
-      },
-      {
-        "latin": "Viridis",
-        "ru": "Зеленый"
-      }
-    ],
-    "reviewed_today": [
-      "Navis",
-      "Licet",
-      "Desiderium"
-    ]
-  },
-  {
     "date": "2026-02-03",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Temptare",
       "Terribilis",
       "Quoque"
+    ]
+  },
+  {
+    "date": "2026-06-08",
+    "words": [
+      {
+        "latin": "Meus",
+        "ru": "Мой"
+      },
+      {
+        "latin": "Aestas",
+        "ru": "Лето"
+      },
+      {
+        "latin": "Horrere",
+        "ru": "Ужасаться, трепетать"
+      }
+    ],
+    "reviewed_today": [
+      "Intra",
+      "Veho",
+      "Audax"
     ]
   }
 ]

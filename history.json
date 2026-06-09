@@ -3,28 +3,6 @@
     "date": "2026-02-03",
     "words": [
       {
-        "latin": "Quaerere",
-        "ru": "Искать"
-      },
-      {
-        "latin": "Frigus",
-        "ru": "Холод, мороз"
-      },
-      {
-        "latin": "Populus",
-        "ru": "Народ"
-      }
-    ],
-    "reviewed_today": [
-      "Ars",
-      "Munus",
-      "Valetudo"
-    ]
-  },
-  {
-    "date": "2026-02-03",
-    "words": [
-      {
         "latin": "Volo",
         "ru": "Хочу"
       },
@@ -10997,6 +10975,28 @@
       "Frumentum",
       "Ferre",
       "Legio"
+    ]
+  },
+  {
+    "date": "2026-06-09",
+    "words": [
+      {
+        "latin": "Solum",
+        "ru": "Только, лишь"
+      },
+      {
+        "latin": "Species",
+        "ru": "Вид, наружность"
+      },
+      {
+        "latin": "Custos",
+        "ru": "Страж"
+      }
+    ],
+    "reviewed_today": [
+      "Velox",
+      "Stirps",
+      "Bibere"
     ]
   }
 ]

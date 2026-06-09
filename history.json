@@ -3,28 +3,6 @@
     "date": "2026-02-03",
     "words": [
       {
-        "latin": "Celer",
-        "ru": "Быстрый"
-      },
-      {
-        "latin": "Stilus",
-        "ru": "Стиль, палочка для письма"
-      },
-      {
-        "latin": "Velum",
-        "ru": "Парус, завеса"
-      }
-    ],
-    "reviewed_today": [
-      "Declarare",
-      "Meritum",
-      "Fuga"
-    ]
-  },
-  {
-    "date": "2026-02-03",
-    "words": [
-      {
         "latin": "Quaerere",
         "ru": "Искать"
       },
@@ -10997,6 +10975,28 @@
       "Iter",
       "Carmen",
       "Restituere"
+    ]
+  },
+  {
+    "date": "2026-06-09",
+    "words": [
+      {
+        "latin": "Veho",
+        "ru": "Везу"
+      },
+      {
+        "latin": "Statuere",
+        "ru": "Ставить, решать"
+      },
+      {
+        "latin": "Clarus",
+        "ru": "Ясный, светлый"
+      }
+    ],
+    "reviewed_today": [
+      "Frumentum",
+      "Ferre",
+      "Legio"
     ]
   }
 ]

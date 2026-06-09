@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-03",
-    "words": [
-      {
-        "latin": "Volo",
-        "ru": "Хочу"
-      },
-      {
-        "latin": "Facies",
-        "ru": "Лицо"
-      },
-      {
-        "latin": "Libertas",
-        "ru": "Свобода"
-      }
-    ],
-    "reviewed_today": [
-      "Vale",
-      "Tibia",
-      "Ungere"
-    ]
-  },
-  {
     "date": "2026-02-04",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Velox",
       "Stirps",
       "Bibere"
+    ]
+  },
+  {
+    "date": "2026-06-09",
+    "words": [
+      {
+        "latin": "Populus",
+        "ru": "Народ"
+      },
+      {
+        "latin": "Quaerere",
+        "ru": "Искать"
+      },
+      {
+        "latin": "Surgere",
+        "ru": "Вставать, подниматься"
+      }
+    ],
+    "reviewed_today": [
+      "Lux",
+      "Tenere",
+      "Vacuus"
     ]
   }
 ]

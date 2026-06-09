@@ -3,28 +3,6 @@
     "date": "2026-02-04",
     "words": [
       {
-        "latin": "Ullus",
-        "ru": "Какой-либо"
-      },
-      {
-        "latin": "Servire",
-        "ru": "Служить"
-      },
-      {
-        "latin": "Temere",
-        "ru": "Случайно, безрассудно"
-      }
-    ],
-    "reviewed_today": [
-      "Cantare",
-      "Persona",
-      "Licet"
-    ]
-  },
-  {
-    "date": "2026-02-04",
-    "words": [
-      {
         "latin": "Quid",
         "ru": "Что"
       },
@@ -10997,6 +10975,28 @@
       "Lux",
       "Tenere",
       "Vacuus"
+    ]
+  },
+  {
+    "date": "2026-06-09",
+    "words": [
+      {
+        "latin": "Tantum",
+        "ru": "Только"
+      },
+      {
+        "latin": "Vesper",
+        "ru": "Вечер"
+      },
+      {
+        "latin": "Religio",
+        "ru": "Религия"
+      }
+    ],
+    "reviewed_today": [
+      "Mutare",
+      "Laus",
+      "Victor"
     ]
   }
 ]

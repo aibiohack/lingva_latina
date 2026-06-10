@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-04",
-    "words": [
-      {
-        "latin": "Sex",
-        "ru": "Шесть"
-      },
-      {
-        "latin": "Doctrina",
-        "ru": "Учение, наука"
-      },
-      {
-        "latin": "Consilium",
-        "ru": "Совет, план"
-      }
-    ],
-    "reviewed_today": [
-      "Frater",
-      "Cogitare",
-      "Orbis"
-    ]
-  },
-  {
     "date": "2026-02-05",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Consuetudo",
       "Diligere",
       "Vocare"
+    ]
+  },
+  {
+    "date": "2026-06-10",
+    "words": [
+      {
+        "latin": "Vetus",
+        "ru": "Старый"
+      },
+      {
+        "latin": "Verere",
+        "ru": "Бояться, чтить"
+      },
+      {
+        "latin": "Ridere",
+        "ru": "Смеяться"
+      }
+    ],
+    "reviewed_today": [
+      "Conditio",
+      "Patria",
+      "Prope"
     ]
   }
 ]

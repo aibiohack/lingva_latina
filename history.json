@@ -3,28 +3,6 @@
     "date": "2026-02-04",
     "words": [
       {
-        "latin": "Luxuria",
-        "ru": "Роскошь"
-      },
-      {
-        "latin": "Lux",
-        "ru": "Свет"
-      },
-      {
-        "latin": "Laetus",
-        "ru": "Веселый, тучный"
-      }
-    ],
-    "reviewed_today": [
-      "Verber",
-      "Terere",
-      "Consuetudo"
-    ]
-  },
-  {
-    "date": "2026-02-04",
-    "words": [
-      {
         "latin": "Sex",
         "ru": "Шесть"
       },
@@ -10997,6 +10975,28 @@
       "Viginti",
       "Aeternitas",
       "Res"
+    ]
+  },
+  {
+    "date": "2026-06-10",
+    "words": [
+      {
+        "latin": "Singulus",
+        "ru": "Одиночный"
+      },
+      {
+        "latin": "Inter",
+        "ru": "Между"
+      },
+      {
+        "latin": "Debeo",
+        "ru": "Должен"
+      }
+    ],
+    "reviewed_today": [
+      "Consuetudo",
+      "Diligere",
+      "Vocare"
     ]
   }
 ]

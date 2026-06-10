@@ -3,28 +3,6 @@
     "date": "2026-02-04",
     "words": [
       {
-        "latin": "Quid",
-        "ru": "Что"
-      },
-      {
-        "latin": "Late",
-        "ru": "Широко"
-      },
-      {
-        "latin": "Texere",
-        "ru": "Ткать, плести"
-      }
-    ],
-    "reviewed_today": [
-      "Terrere",
-      "Similis",
-      "Densus"
-    ]
-  },
-  {
-    "date": "2026-02-04",
-    "words": [
-      {
         "latin": "Luxuria",
         "ru": "Роскошь"
       },
@@ -10997,6 +10975,28 @@
       "Mutare",
       "Laus",
       "Victor"
+    ]
+  },
+  {
+    "date": "2026-06-10",
+    "words": [
+      {
+        "latin": "Temere",
+        "ru": "Случайно, безрассудно"
+      },
+      {
+        "latin": "Volo",
+        "ru": "Хочу"
+      },
+      {
+        "latin": "Facies",
+        "ru": "Лицо"
+      }
+    ],
+    "reviewed_today": [
+      "Viginti",
+      "Aeternitas",
+      "Res"
     ]
   }
 ]

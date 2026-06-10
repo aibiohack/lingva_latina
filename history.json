@@ -3,28 +3,6 @@
     "date": "2026-02-05",
     "words": [
       {
-        "latin": "Felicitas",
-        "ru": "Счастье"
-      },
-      {
-        "latin": "Vae",
-        "ru": "Горе!"
-      },
-      {
-        "latin": "Durare",
-        "ru": "Длиться, закалять"
-      }
-    ],
-    "reviewed_today": [
-      "Sed",
-      "Scire",
-      "Grex"
-    ]
-  },
-  {
-    "date": "2026-02-05",
-    "words": [
-      {
         "latin": "Invidia",
         "ru": "Зависть"
       },
@@ -10997,6 +10975,28 @@
       "Conditio",
       "Patria",
       "Prope"
+    ]
+  },
+  {
+    "date": "2026-06-10",
+    "words": [
+      {
+        "latin": "Late",
+        "ru": "Широко"
+      },
+      {
+        "latin": "Consilium",
+        "ru": "Совет, план"
+      },
+      {
+        "latin": "Lux",
+        "ru": "Свет"
+      }
+    ],
+    "reviewed_today": [
+      "Sonus",
+      "Tenuis",
+      "Sententia"
     ]
   }
 ]

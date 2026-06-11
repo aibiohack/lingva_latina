@@ -3,28 +3,6 @@
     "date": "2026-02-06",
     "words": [
       {
-        "latin": "Plenus",
-        "ru": "Полный"
-      },
-      {
-        "latin": "Sanitas",
-        "ru": "Здоровье, разумность"
-      },
-      {
-        "latin": "Vicus",
-        "ru": "Деревня, квартал"
-      }
-    ],
-    "reviewed_today": [
-      "Vita",
-      "Contra",
-      "Debeo"
-    ]
-  },
-  {
-    "date": "2026-02-06",
-    "words": [
-      {
         "latin": "Tam",
         "ru": "Так"
       },
@@ -10997,6 +10975,28 @@
       "Superior",
       "Quasi",
       "Habitare"
+    ]
+  },
+  {
+    "date": "2026-06-11",
+    "words": [
+      {
+        "latin": "Invidia",
+        "ru": "Зависть"
+      },
+      {
+        "latin": "Studere",
+        "ru": "Стремиться, учиться"
+      },
+      {
+        "latin": "Familia",
+        "ru": "Семья, домочадцы"
+      }
+    ],
+    "reviewed_today": [
+      "Triumphus",
+      "Tristis",
+      "Finis"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-02-05",
     "words": [
       {
-        "latin": "Invidia",
-        "ru": "Зависть"
-      },
-      {
-        "latin": "Subito",
-        "ru": "Внезапно"
-      },
-      {
-        "latin": "Civilis",
-        "ru": "Гражданский"
-      }
-    ],
-    "reviewed_today": [
-      "Sursum",
-      "Vix",
-      "Terribilis"
-    ]
-  },
-  {
-    "date": "2026-02-05",
-    "words": [
-      {
         "latin": "Cotidie",
         "ru": "Ежедневно"
       },
@@ -10997,6 +10975,28 @@
       "Sonus",
       "Tenuis",
       "Sententia"
+    ]
+  },
+  {
+    "date": "2026-06-11",
+    "words": [
+      {
+        "latin": "Sentire",
+        "ru": "Чувствовать"
+      },
+      {
+        "latin": "Vertere",
+        "ru": "Поворачивать"
+      },
+      {
+        "latin": "Alius",
+        "ru": "Другой (из многих)"
+      }
+    ],
+    "reviewed_today": [
+      "Cur",
+      "Iter",
+      "Tremere"
     ]
   }
 ]

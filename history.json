@@ -3,28 +3,6 @@
     "date": "2026-02-05",
     "words": [
       {
-        "latin": "Cotidie",
-        "ru": "Ежедневно"
-      },
-      {
-        "latin": "Familia",
-        "ru": "Семья, домочадцы"
-      },
-      {
-        "latin": "Altus",
-        "ru": "Высокий, глубокий"
-      }
-    ],
-    "reviewed_today": [
-      "Vir",
-      "Suscipere",
-      "Sapere"
-    ]
-  },
-  {
-    "date": "2026-02-05",
-    "words": [
-      {
         "latin": "Furor",
         "ru": "Безумие, ярость"
       },
@@ -10997,6 +10975,28 @@
       "Cur",
       "Iter",
       "Tremere"
+    ]
+  },
+  {
+    "date": "2026-06-11",
+    "words": [
+      {
+        "latin": "Ergo",
+        "ru": "Следовательно, итак"
+      },
+      {
+        "latin": "Petere",
+        "ru": "Просить, стремиться"
+      },
+      {
+        "latin": "Iscere",
+        "ru": "Просить, требовать"
+      }
+    ],
+    "reviewed_today": [
+      "Invitare",
+      "Subito",
+      "Movere"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-06",
-    "words": [
-      {
-        "latin": "Viginti",
-        "ru": "Двадцать"
-      },
-      {
-        "latin": "Contemnere",
-        "ru": "Презирать"
-      },
-      {
-        "latin": "Hinc",
-        "ru": "Отсюда"
-      }
-    ],
-    "reviewed_today": [
-      "Annus",
-      "Discedere",
-      "Credere"
-    ]
-  },
-  {
     "date": "2026-02-07",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Recipere",
       "Currere",
       "Arbor"
+    ]
+  },
+  {
+    "date": "2026-06-12",
+    "words": [
+      {
+        "latin": "Familia",
+        "ru": "Семья, домочадцы"
+      },
+      {
+        "latin": "Fieri",
+        "ru": "Становиться, делаться"
+      },
+      {
+        "latin": "Timere",
+        "ru": "Бояться"
+      }
+    ],
+    "reviewed_today": [
+      "Laudare",
+      "Vacuus",
+      "Senectus"
     ]
   }
 ]

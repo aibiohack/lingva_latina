@@ -3,28 +3,6 @@
     "date": "2026-02-06",
     "words": [
       {
-        "latin": "Dominus",
-        "ru": "Господин"
-      },
-      {
-        "latin": "Uterque",
-        "ru": "И тот и другой"
-      },
-      {
-        "latin": "Invenire",
-        "ru": "Находить"
-      }
-    ],
-    "reviewed_today": [
-      "Utinam",
-      "Somnus",
-      "Audire"
-    ]
-  },
-  {
-    "date": "2026-02-06",
-    "words": [
-      {
         "latin": "Viginti",
         "ru": "Двадцать"
       },
@@ -10997,6 +10975,28 @@
       "Ordo",
       "Diabolus",
       "Debere"
+    ]
+  },
+  {
+    "date": "2026-06-12",
+    "words": [
+      {
+        "latin": "Nuntius",
+        "ru": "Вестник"
+      },
+      {
+        "latin": "Tribuere",
+        "ru": "Назначать, воздавать"
+      },
+      {
+        "latin": "Vestis",
+        "ru": "Одежда"
+      }
+    ],
+    "reviewed_today": [
+      "Recipere",
+      "Currere",
+      "Arbor"
     ]
   }
 ]

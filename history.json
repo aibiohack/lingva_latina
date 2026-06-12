@@ -3,28 +3,6 @@
     "date": "2026-02-07",
     "words": [
       {
-        "latin": "Satis",
-        "ru": "Достаточно"
-      },
-      {
-        "latin": "Limen",
-        "ru": "Порог"
-      },
-      {
-        "latin": "Princeps",
-        "ru": "Первый, вождь"
-      }
-    ],
-    "reviewed_today": [
-      "Ingenium",
-      "Vinea",
-      "Terribilis"
-    ]
-  },
-  {
-    "date": "2026-02-07",
-    "words": [
-      {
         "latin": "Horrere",
         "ru": "Ужасаться, трепетать"
       },
@@ -10997,6 +10975,28 @@
       "Laudare",
       "Vacuus",
       "Senectus"
+    ]
+  },
+  {
+    "date": "2026-06-12",
+    "words": [
+      {
+        "latin": "Contemnere",
+        "ru": "Презирать"
+      },
+      {
+        "latin": "Viginti",
+        "ru": "Двадцать"
+      },
+      {
+        "latin": "Turris",
+        "ru": "Башня"
+      }
+    ],
+    "reviewed_today": [
+      "Orbis",
+      "Certe",
+      "Quasi"
     ]
   }
 ]

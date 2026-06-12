@@ -3,28 +3,6 @@
     "date": "2026-02-06",
     "words": [
       {
-        "latin": "Tam",
-        "ru": "Так"
-      },
-      {
-        "latin": "Vacare",
-        "ru": "Быть свободным, пустовать"
-      },
-      {
-        "latin": "Turris",
-        "ru": "Башня"
-      }
-    ],
-    "reviewed_today": [
-      "Tu",
-      "Gaudere",
-      "Gravis"
-    ]
-  },
-  {
-    "date": "2026-02-06",
-    "words": [
-      {
         "latin": "Dominus",
         "ru": "Господин"
       },
@@ -10997,6 +10975,28 @@
       "Triumphus",
       "Tristis",
       "Finis"
+    ]
+  },
+  {
+    "date": "2026-06-12",
+    "words": [
+      {
+        "latin": "Sine",
+        "ru": "Без"
+      },
+      {
+        "latin": "Mons",
+        "ru": "Гора"
+      },
+      {
+        "latin": "Bellum",
+        "ru": "Война"
+      }
+    ],
+    "reviewed_today": [
+      "Ordo",
+      "Diabolus",
+      "Debere"
     ]
   }
 ]

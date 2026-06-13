@@ -3,28 +3,6 @@
     "date": "2026-02-07",
     "words": [
       {
-        "latin": "Horrere",
-        "ru": "Ужасаться, трепетать"
-      },
-      {
-        "latin": "Vehiculum",
-        "ru": "Повозка, судно"
-      },
-      {
-        "latin": "Conari",
-        "ru": "Пытаться, стараться"
-      }
-    ],
-    "reviewed_today": [
-      "Severus",
-      "Charta",
-      "Super"
-    ]
-  },
-  {
-    "date": "2026-02-07",
-    "words": [
-      {
         "latin": "Legatus",
         "ru": "Посол, легат"
       },
@@ -10997,6 +10975,28 @@
       "Orbis",
       "Certe",
       "Quasi"
+    ]
+  },
+  {
+    "date": "2026-06-13",
+    "words": [
+      {
+        "latin": "Venerari",
+        "ru": "Почитать"
+      },
+      {
+        "latin": "Vir",
+        "ru": "Мужчина"
+      },
+      {
+        "latin": "Summa",
+        "ru": "Итог, высшая степень"
+      }
+    ],
+    "reviewed_today": [
+      "Ipse",
+      "Videre",
+      "Putare"
     ]
   }
 ]

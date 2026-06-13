@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-07",
-    "words": [
-      {
-        "latin": "Frumentum",
-        "ru": "Хлеб, зерно"
-      },
-      {
-        "latin": "Statuere",
-        "ru": "Ставить, решать"
-      },
-      {
-        "latin": "Restituere",
-        "ru": "Восстанавливать"
-      }
-    ],
-    "reviewed_today": [
-      "Tuus",
-      "Videre",
-      "Silva"
-    ]
-  },
-  {
     "date": "2026-02-08",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Gaudium",
       "Equus",
       "Natura"
+    ]
+  },
+  {
+    "date": "2026-06-13",
+    "words": [
+      {
+        "latin": "Viridis",
+        "ru": "Зеленый"
+      },
+      {
+        "latin": "Maxime",
+        "ru": "Весьма, больше всего"
+      },
+      {
+        "latin": "Terere",
+        "ru": "Тереть, тратить время"
+      }
+    ],
+    "reviewed_today": [
+      "Sensus",
+      "Ars",
+      "Loqui"
     ]
   }
 ]

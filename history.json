@@ -3,28 +3,6 @@
     "date": "2026-02-08",
     "words": [
       {
-        "latin": "Color",
-        "ru": "Цвет"
-      },
-      {
-        "latin": "Medius",
-        "ru": "Средний"
-      },
-      {
-        "latin": "Vallum",
-        "ru": "Вал, укрепление"
-      }
-    ],
-    "reviewed_today": [
-      "Defendere",
-      "Tormentum",
-      "Tantum"
-    ]
-  },
-  {
-    "date": "2026-02-08",
-    "words": [
-      {
         "latin": "Recipere",
         "ru": "Получать"
       },
@@ -10997,6 +10975,28 @@
       "Sensus",
       "Ars",
       "Loqui"
+    ]
+  },
+  {
+    "date": "2026-06-13",
+    "words": [
+      {
+        "latin": "Frumentum",
+        "ru": "Хлеб, зерно"
+      },
+      {
+        "latin": "Princeps",
+        "ru": "Первый, вождь"
+      },
+      {
+        "latin": "Secundus",
+        "ru": "Второй, благоприятный"
+      }
+    ],
+    "reviewed_today": [
+      "Ignis",
+      "Situs",
+      "Vos"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-02-07",
     "words": [
       {
-        "latin": "Legatus",
-        "ru": "Посол, легат"
-      },
-      {
-        "latin": "Secundus",
-        "ru": "Второй, благоприятный"
-      },
-      {
-        "latin": "Species",
-        "ru": "Вид, наружность"
-      }
-    ],
-    "reviewed_today": [
-      "Consistere",
-      "Parare",
-      "Novus"
-    ]
-  },
-  {
-    "date": "2026-02-07",
-    "words": [
-      {
         "latin": "Frumentum",
         "ru": "Хлеб, зерно"
       },
@@ -10997,6 +10975,28 @@
       "Ipse",
       "Videre",
       "Putare"
+    ]
+  },
+  {
+    "date": "2026-06-13",
+    "words": [
+      {
+        "latin": "Ludus",
+        "ru": "Игра, школа"
+      },
+      {
+        "latin": "Ardere",
+        "ru": "Гореть, пылать"
+      },
+      {
+        "latin": "Verbum",
+        "ru": "Слово"
+      }
+    ],
+    "reviewed_today": [
+      "Gaudium",
+      "Equus",
+      "Natura"
     ]
   }
 ]

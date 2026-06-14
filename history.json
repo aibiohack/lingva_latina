@@ -3,28 +3,6 @@
     "date": "2026-02-08",
     "words": [
       {
-        "latin": "Velut",
-        "ru": "Как, словно"
-      },
-      {
-        "latin": "Vero",
-        "ru": "Истинно, однако"
-      },
-      {
-        "latin": "Dedico",
-        "ru": "Посвящаю"
-      }
-    ],
-    "reviewed_today": [
-      "Gignere",
-      "Laetus",
-      "Humus"
-    ]
-  },
-  {
-    "date": "2026-02-08",
-    "words": [
-      {
         "latin": "Diligere",
         "ru": "Любить, уважать"
       },
@@ -10997,6 +10975,28 @@
       "Durus",
       "Puer",
       "Sacerdos"
+    ]
+  },
+  {
+    "date": "2026-06-14",
+    "words": [
+      {
+        "latin": "Vallum",
+        "ru": "Вал, укрепление"
+      },
+      {
+        "latin": "Medius",
+        "ru": "Средний"
+      },
+      {
+        "latin": "Diu",
+        "ru": "Долго"
+      }
+    ],
+    "reviewed_today": [
+      "Incendere",
+      "Versus",
+      "Habitus"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-02-08",
     "words": [
       {
-        "latin": "Recipere",
-        "ru": "Получать"
-      },
-      {
-        "latin": "Diu",
-        "ru": "Долго"
-      },
-      {
-        "latin": "Ultra",
-        "ru": "Сверх, по ту сторону"
-      }
-    ],
-    "reviewed_today": [
-      "Fundamentum",
-      "Lumen",
-      "Vinum"
-    ]
-  },
-  {
-    "date": "2026-02-08",
-    "words": [
-      {
         "latin": "Velut",
         "ru": "Как, словно"
       },
@@ -10997,6 +10975,28 @@
       "Ignis",
       "Situs",
       "Vos"
+    ]
+  },
+  {
+    "date": "2026-06-14",
+    "words": [
+      {
+        "latin": "Sacer",
+        "ru": "Священный"
+      },
+      {
+        "latin": "Mentior",
+        "ru": "Лгу"
+      },
+      {
+        "latin": "Iugum",
+        "ru": "Ярмо, иго"
+      }
+    ],
+    "reviewed_today": [
+      "Durus",
+      "Puer",
+      "Sacerdos"
     ]
   }
 ]

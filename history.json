@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-08",
-    "words": [
-      {
-        "latin": "Diligere",
-        "ru": "Любить, уважать"
-      },
-      {
-        "latin": "Vallis",
-        "ru": "Долина"
-      },
-      {
-        "latin": "Ite",
-        "ru": "Идите"
-      }
-    ],
-    "reviewed_today": [
-      "Ira",
-      "Harena",
-      "Venus"
-    ]
-  },
-  {
     "date": "2026-02-09",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Incendere",
       "Versus",
       "Habitus"
+    ]
+  },
+  {
+    "date": "2026-06-14",
+    "words": [
+      {
+        "latin": "Salve",
+        "ru": "Здравствуй"
+      },
+      {
+        "latin": "Memoria",
+        "ru": "Память"
+      },
+      {
+        "latin": "Agere",
+        "ru": "Приводить в движение, гнать"
+      }
+    ],
+    "reviewed_today": [
+      "Arbor",
+      "Bestia",
+      "Angustus"
     ]
   }
 ]

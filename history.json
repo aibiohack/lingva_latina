@@ -3,28 +3,6 @@
     "date": "2026-02-09",
     "words": [
       {
-        "latin": "Diversus",
-        "ru": "Разный, противоположный"
-      },
-      {
-        "latin": "Timor",
-        "ru": "Страх"
-      },
-      {
-        "latin": "Cito",
-        "ru": "Быстро"
-      }
-    ],
-    "reviewed_today": [
-      "Ante",
-      "Castrum",
-      "Beatus"
-    ]
-  },
-  {
-    "date": "2026-02-09",
-    "words": [
-      {
         "latin": "Venia",
         "ru": "Милость, прощение"
       },
@@ -10997,6 +10975,28 @@
       "Arbor",
       "Bestia",
       "Angustus"
+    ]
+  },
+  {
+    "date": "2026-06-14",
+    "words": [
+      {
+        "latin": "Velut",
+        "ru": "Как, словно"
+      },
+      {
+        "latin": "Vallis",
+        "ru": "Долина"
+      },
+      {
+        "latin": "Diligere",
+        "ru": "Любить, уважать"
+      }
+    ],
+    "reviewed_today": [
+      "Pes",
+      "Limen",
+      "Ducere"
     ]
   }
 ]

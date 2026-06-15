@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-09",
-    "words": [
-      {
-        "latin": "Legere",
-        "ru": "Читать"
-      },
-      {
-        "latin": "Tegere",
-        "ru": "Покрывать, защищать"
-      },
-      {
-        "latin": "Usus",
-        "ru": "Опыт, использование"
-      }
-    ],
-    "reviewed_today": [
-      "Legatus",
-      "Durare",
-      "Tam"
-    ]
-  },
-  {
     "date": "2026-02-10",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Defendere",
       "Proprius",
       "Unanimis"
+    ]
+  },
+  {
+    "date": "2026-06-15",
+    "words": [
+      {
+        "latin": "Bibere",
+        "ru": "Пить"
+      },
+      {
+        "latin": "Iudex",
+        "ru": "Судья"
+      },
+      {
+        "latin": "Punitio",
+        "ru": "Наказание"
+      }
+    ],
+    "reviewed_today": [
+      "Parare",
+      "Mors",
+      "Pax"
     ]
   }
 ]

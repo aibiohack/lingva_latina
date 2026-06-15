@@ -3,28 +3,6 @@
     "date": "2026-02-09",
     "words": [
       {
-        "latin": "Venia",
-        "ru": "Милость, прощение"
-      },
-      {
-        "latin": "Taurus",
-        "ru": "Бык"
-      },
-      {
-        "latin": "Fere",
-        "ru": "Почти, обыкновенно"
-      }
-    ],
-    "reviewed_today": [
-      "Usque",
-      "Malle",
-      "Validus"
-    ]
-  },
-  {
-    "date": "2026-02-09",
-    "words": [
-      {
         "latin": "Legere",
         "ru": "Читать"
       },
@@ -10997,6 +10975,28 @@
       "Pes",
       "Limen",
       "Ducere"
+    ]
+  },
+  {
+    "date": "2026-06-15",
+    "words": [
+      {
+        "latin": "Cito",
+        "ru": "Быстро"
+      },
+      {
+        "latin": "Ite",
+        "ru": "Идите"
+      },
+      {
+        "latin": "Timor",
+        "ru": "Страх"
+      }
+    ],
+    "reviewed_today": [
+      "Defendere",
+      "Proprius",
+      "Unanimis"
     ]
   }
 ]

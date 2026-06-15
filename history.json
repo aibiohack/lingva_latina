@@ -3,28 +3,6 @@
     "date": "2026-02-10",
     "words": [
       {
-        "latin": "Incendere",
-        "ru": "Зажигать"
-      },
-      {
-        "latin": "Togatus",
-        "ru": "Одетый в тогу"
-      },
-      {
-        "latin": "Pecunia",
-        "ru": "Деньги"
-      }
-    ],
-    "reviewed_today": [
-      "Regere",
-      "Velut",
-      "Quoque"
-    ]
-  },
-  {
-    "date": "2026-02-10",
-    "words": [
-      {
         "latin": "Titulus",
         "ru": "Надпись, почетное звание"
       },
@@ -10997,6 +10975,28 @@
       "Parare",
       "Mors",
       "Pax"
+    ]
+  },
+  {
+    "date": "2026-06-15",
+    "words": [
+      {
+        "latin": "Usus",
+        "ru": "Опыт, использование"
+      },
+      {
+        "latin": "Tegere",
+        "ru": "Покрывать, защищать"
+      },
+      {
+        "latin": "Usus",
+        "ru": "Опыт, употребление"
+      }
+    ],
+    "reviewed_today": [
+      "Togatus",
+      "Mutare",
+      "Expectare"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-02-10",
     "words": [
       {
-        "latin": "Ergo",
-        "ru": "Следовательно, итак"
-      },
-      {
-        "latin": "Fulmen",
-        "ru": "Молния"
-      },
-      {
-        "latin": "Dignus",
-        "ru": "Достойный"
-      }
-    ],
-    "reviewed_today": [
-      "Statua",
-      "Albus",
-      "Convivium"
-    ]
-  },
-  {
-    "date": "2026-02-10",
-    "words": [
-      {
         "latin": "Integer",
         "ru": "Целый, нетронутый"
       },
@@ -10997,6 +10975,28 @@
       "Severus",
       "Forum",
       "Putare"
+    ]
+  },
+  {
+    "date": "2026-06-16",
+    "words": [
+      {
+        "latin": "Pecunia",
+        "ru": "Деньги"
+      },
+      {
+        "latin": "Autem",
+        "ru": "Же, однако"
+      },
+      {
+        "latin": "Togatus",
+        "ru": "Одетый в тогу"
+      }
+    ],
+    "reviewed_today": [
+      "Medius",
+      "Novus",
+      "Iudicium"
     ]
   }
 ]

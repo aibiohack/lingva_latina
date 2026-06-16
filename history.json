@@ -3,28 +3,6 @@
     "date": "2026-02-11",
     "words": [
       {
-        "latin": "Imperare",
-        "ru": "Приказывать"
-      },
-      {
-        "latin": "Decem",
-        "ru": "Десять"
-      },
-      {
-        "latin": "Movere",
-        "ru": "Двигать"
-      }
-    ],
-    "reviewed_today": [
-      "Tu",
-      "Aeternitas",
-      "Umerus"
-    ]
-  },
-  {
-    "date": "2026-02-11",
-    "words": [
-      {
         "latin": "Vilis",
         "ru": "Дешевый, скверный"
       },
@@ -10997,6 +10975,28 @@
       "Respondere",
       "Habitare",
       "Sed"
+    ]
+  },
+  {
+    "date": "2026-06-16",
+    "words": [
+      {
+        "latin": "Imperium",
+        "ru": "Власть"
+      },
+      {
+        "latin": "Iterum",
+        "ru": "Снова, второй раз"
+      },
+      {
+        "latin": "Exemplum",
+        "ru": "Пример"
+      }
+    ],
+    "reviewed_today": [
+      "Ius",
+      "Tueri",
+      "Coepi"
     ]
   }
 ]

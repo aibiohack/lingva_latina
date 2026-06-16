@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-10",
-    "words": [
-      {
-        "latin": "Integer",
-        "ru": "Целый, нетронутый"
-      },
-      {
-        "latin": "Gens",
-        "ru": "Племя, род"
-      },
-      {
-        "latin": "Exemplum",
-        "ru": "Пример"
-      }
-    ],
-    "reviewed_today": [
-      "Taurus",
-      "Ecclesia",
-      "Nuntius"
-    ]
-  },
-  {
     "date": "2026-02-11",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Medius",
       "Novus",
       "Iudicium"
+    ]
+  },
+  {
+    "date": "2026-06-16",
+    "words": [
+      {
+        "latin": "Intra",
+        "ru": "Внутри"
+      },
+      {
+        "latin": "Aurum",
+        "ru": "Золото"
+      },
+      {
+        "latin": "Vivere",
+        "ru": "Жить"
+      }
+    ],
+    "reviewed_today": [
+      "Defendere",
+      "Meritum",
+      "Exire"
     ]
   }
 ]

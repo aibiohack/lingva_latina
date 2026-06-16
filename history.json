@@ -3,28 +3,6 @@
     "date": "2026-02-11",
     "words": [
       {
-        "latin": "Disciplina",
-        "ru": "Обучение, порядок"
-      },
-      {
-        "latin": "Iterum",
-        "ru": "Снова, второй раз"
-      },
-      {
-        "latin": "Imperium",
-        "ru": "Власть"
-      }
-    ],
-    "reviewed_today": [
-      "Meus",
-      "Tabula",
-      "Supplex"
-    ]
-  },
-  {
-    "date": "2026-02-11",
-    "words": [
-      {
         "latin": "Imperare",
         "ru": "Приказывать"
       },
@@ -10997,6 +10975,28 @@
       "Defendere",
       "Meritum",
       "Exire"
+    ]
+  },
+  {
+    "date": "2026-06-16",
+    "words": [
+      {
+        "latin": "Fessus",
+        "ru": "Усталый"
+      },
+      {
+        "latin": "Loqui",
+        "ru": "Говорить"
+      },
+      {
+        "latin": "Agere",
+        "ru": "Приводить в движение, гнать"
+      }
+    ],
+    "reviewed_today": [
+      "Respondere",
+      "Habitare",
+      "Sed"
     ]
   }
 ]

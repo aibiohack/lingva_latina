@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-11",
-    "words": [
-      {
-        "latin": "Puella",
-        "ru": "Девочка"
-      },
-      {
-        "latin": "Tendere",
-        "ru": "Натягивать, стремиться"
-      },
-      {
-        "latin": "Sedere",
-        "ru": "Сидеть"
-      }
-    ],
-    "reviewed_today": [
-      "Pecunia",
-      "Vultus",
-      "Vindex"
-    ]
-  },
-  {
     "date": "2026-02-12",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Valere",
       "Tormentum",
       "Putare"
+    ]
+  },
+  {
+    "date": "2026-06-17",
+    "words": [
+      {
+        "latin": "Movere",
+        "ru": "Двигать"
+      },
+      {
+        "latin": "Decem",
+        "ru": "Десять"
+      },
+      {
+        "latin": "Rapere",
+        "ru": "Хватать, похищать"
+      }
+    ],
+    "reviewed_today": [
+      "Quattuor",
+      "Fulmen",
+      "Fovere"
     ]
   }
 ]

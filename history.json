@@ -3,28 +3,6 @@
     "date": "2026-02-11",
     "words": [
       {
-        "latin": "Vilis",
-        "ru": "Дешевый, скверный"
-      },
-      {
-        "latin": "Contentus",
-        "ru": "Довольный"
-      },
-      {
-        "latin": "Rapere",
-        "ru": "Хватать, похищать"
-      }
-    ],
-    "reviewed_today": [
-      "Vallis",
-      "Vicinus",
-      "Atque"
-    ]
-  },
-  {
-    "date": "2026-02-11",
-    "words": [
-      {
         "latin": "Puella",
         "ru": "Девочка"
       },
@@ -10997,6 +10975,28 @@
       "Ius",
       "Tueri",
       "Coepi"
+    ]
+  },
+  {
+    "date": "2026-06-17",
+    "words": [
+      {
+        "latin": "Voluptas",
+        "ru": "Удовольствие, наслаждение"
+      },
+      {
+        "latin": "Primus",
+        "ru": "Первый"
+      },
+      {
+        "latin": "Vinum",
+        "ru": "Вино"
+      }
+    ],
+    "reviewed_today": [
+      "Valere",
+      "Tormentum",
+      "Putare"
     ]
   }
 ]

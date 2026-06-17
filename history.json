@@ -3,28 +3,6 @@
     "date": "2026-02-12",
     "words": [
       {
-        "latin": "Imitari",
-        "ru": "Подражать"
-      },
-      {
-        "latin": "Parens",
-        "ru": "Родитель"
-      },
-      {
-        "latin": "Utique",
-        "ru": "Во всяком случае, особенно"
-      }
-    ],
-    "reviewed_today": [
-      "Vigilia",
-      "Heri",
-      "Spes"
-    ]
-  },
-  {
-    "date": "2026-02-12",
-    "words": [
-      {
         "latin": "Honestus",
         "ru": "Честный"
       },
@@ -10997,6 +10975,28 @@
       "Quattuor",
       "Fulmen",
       "Fovere"
+    ]
+  },
+  {
+    "date": "2026-06-17",
+    "words": [
+      {
+        "latin": "Epistula",
+        "ru": "Письмо"
+      },
+      {
+        "latin": "Iniquus",
+        "ru": "Несправедливый"
+      },
+      {
+        "latin": "Salus",
+        "ru": "Здоровье, спасение"
+      }
+    ],
+    "reviewed_today": [
+      "Fames",
+      "Herba",
+      "Crux"
     ]
   }
 ]

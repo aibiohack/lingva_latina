@@ -3,28 +3,6 @@
     "date": "2026-02-12",
     "words": [
       {
-        "latin": "Honestus",
-        "ru": "Честный"
-      },
-      {
-        "latin": "Iurare",
-        "ru": "Клясться"
-      },
-      {
-        "latin": "Rosa",
-        "ru": "Роза"
-      }
-    ],
-    "reviewed_today": [
-      "Constituere",
-      "Votum",
-      "Spatium"
-    ]
-  },
-  {
-    "date": "2026-02-12",
-    "words": [
-      {
         "latin": "Tempus",
         "ru": "Время"
       },
@@ -10997,6 +10975,28 @@
       "Fames",
       "Herba",
       "Crux"
+    ]
+  },
+  {
+    "date": "2026-06-17",
+    "words": [
+      {
+        "latin": "Vertere",
+        "ru": "Поворачивать"
+      },
+      {
+        "latin": "Turpis",
+        "ru": "Позорный, безобразный"
+      },
+      {
+        "latin": "Utor",
+        "ru": "Пользуюсь"
+      }
+    ],
+    "reviewed_today": [
+      "Libertas",
+      "Secundus",
+      "Forum"
     ]
   }
 ]

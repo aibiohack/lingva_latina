@@ -3,28 +3,6 @@
     "date": "2026-02-13",
     "words": [
       {
-        "latin": "Sonus",
-        "ru": "Звук"
-      },
-      {
-        "latin": "Servitus",
-        "ru": "Рабство"
-      },
-      {
-        "latin": "Fructus",
-        "ru": "Плод, доход"
-      }
-    ],
-    "reviewed_today": [
-      "Silva",
-      "Vinculum",
-      "Atque"
-    ]
-  },
-  {
-    "date": "2026-02-13",
-    "words": [
-      {
         "latin": "Stella",
         "ru": "Звезда"
       },
@@ -10997,6 +10975,28 @@
       "Atque",
       "Iscere",
       "Dicere"
+    ]
+  },
+  {
+    "date": "2026-06-18",
+    "words": [
+      {
+        "latin": "Sustinere",
+        "ru": "Поддерживать, выдерживать"
+      },
+      {
+        "latin": "Servire",
+        "ru": "Служить"
+      },
+      {
+        "latin": "Angustus",
+        "ru": "Узкий, тесный"
+      }
+    ],
+    "reviewed_today": [
+      "Vinum",
+      "Metus",
+      "Nox"
     ]
   }
 ]

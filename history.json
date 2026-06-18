@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-12",
-    "words": [
-      {
-        "latin": "Iudex",
-        "ru": "Судья"
-      },
-      {
-        "latin": "Simul",
-        "ru": "Одновременно, вместе"
-      },
-      {
-        "latin": "Pugnare",
-        "ru": "Сражаться"
-      }
-    ],
-    "reviewed_today": [
-      "Valere",
-      "Hora",
-      "Conari"
-    ]
-  },
-  {
     "date": "2026-02-13",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Colloquium",
       "Tertius",
       "Urbs"
+    ]
+  },
+  {
+    "date": "2026-06-18",
+    "words": [
+      {
+        "latin": "Victoria",
+        "ru": "Победа"
+      },
+      {
+        "latin": "Umbra",
+        "ru": "Тень"
+      },
+      {
+        "latin": "Potestas",
+        "ru": "Власть"
+      }
+    ],
+    "reviewed_today": [
+      "Iubere",
+      "Filia",
+      "Convivium"
     ]
   }
 ]

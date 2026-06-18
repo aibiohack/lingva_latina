@@ -3,28 +3,6 @@
     "date": "2026-02-13",
     "words": [
       {
-        "latin": "Sagitta",
-        "ru": "Стрела"
-      },
-      {
-        "latin": "Quod",
-        "ru": "Потому что"
-      },
-      {
-        "latin": "Eloquens",
-        "ru": "Красноречивый"
-      }
-    ],
-    "reviewed_today": [
-      "Signum",
-      "Membrum",
-      "Gelu"
-    ]
-  },
-  {
-    "date": "2026-02-13",
-    "words": [
-      {
         "latin": "Sonus",
         "ru": "Звук"
       },
@@ -10997,6 +10975,28 @@
       "Iubere",
       "Filia",
       "Convivium"
+    ]
+  },
+  {
+    "date": "2026-06-18",
+    "words": [
+      {
+        "latin": "Sarcina",
+        "ru": "Узел, багаж"
+      },
+      {
+        "latin": "Habitare",
+        "ru": "Жить"
+      },
+      {
+        "latin": "Pecunia",
+        "ru": "Деньги"
+      }
+    ],
+    "reviewed_today": [
+      "Atque",
+      "Iscere",
+      "Dicere"
     ]
   }
 ]

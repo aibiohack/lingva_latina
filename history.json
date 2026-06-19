@@ -3,28 +3,6 @@
     "date": "2026-02-14",
     "words": [
       {
-        "latin": "Inanis",
-        "ru": "Пустой, суетный"
-      },
-      {
-        "latin": "Facilis",
-        "ru": "Легкий"
-      },
-      {
-        "latin": "Templum",
-        "ru": "Храм"
-      }
-    ],
-    "reviewed_today": [
-      "Remus",
-      "Magis",
-      "Velox"
-    ]
-  },
-  {
-    "date": "2026-02-14",
-    "words": [
-      {
         "latin": "Eligere",
         "ru": "Выбирать"
       },
@@ -10997,6 +10975,28 @@
       "Ungere",
       "Civis",
       "Togatus"
+    ]
+  },
+  {
+    "date": "2026-06-19",
+    "words": [
+      {
+        "latin": "Consuetudo",
+        "ru": "Привычка, обычай"
+      },
+      {
+        "latin": "Sursum",
+        "ru": "Вверх"
+      },
+      {
+        "latin": "Spiritus",
+        "ru": "Дух, дыхание"
+      }
+    ],
+    "reviewed_today": [
+      "Ridere",
+      "Viator",
+      "Vita"
     ]
   }
 ]

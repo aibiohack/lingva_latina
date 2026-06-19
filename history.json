@@ -3,28 +3,6 @@
     "date": "2026-02-14",
     "words": [
       {
-        "latin": "Eligere",
-        "ru": "Выбирать"
-      },
-      {
-        "latin": "Eripere",
-        "ru": "Вырывать, похищать"
-      },
-      {
-        "latin": "Discere",
-        "ru": "Учиться"
-      }
-    ],
-    "reviewed_today": [
-      "Princeps",
-      "Tertius",
-      "Restituere"
-    ]
-  },
-  {
-    "date": "2026-02-14",
-    "words": [
-      {
         "latin": "Sitire",
         "ru": "Жаждать"
       },
@@ -10997,6 +10975,28 @@
       "Ridere",
       "Viator",
       "Vita"
+    ]
+  },
+  {
+    "date": "2026-06-19",
+    "words": [
+      {
+        "latin": "Inanis",
+        "ru": "Пустой, суетный"
+      },
+      {
+        "latin": "Vilis",
+        "ru": "Дешевый, скверный"
+      },
+      {
+        "latin": "Sonus",
+        "ru": "Звук"
+      }
+    ],
+    "reviewed_today": [
+      "Etiam",
+      "Cognoscere",
+      "Pecunia"
     ]
   }
 ]

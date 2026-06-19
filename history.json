@@ -3,28 +3,6 @@
     "date": "2026-02-13",
     "words": [
       {
-        "latin": "Stella",
-        "ru": "Звезда"
-      },
-      {
-        "latin": "Forma",
-        "ru": "Красота, форма"
-      },
-      {
-        "latin": "Barbarus",
-        "ru": "Чужеземец, варвар"
-      }
-    ],
-    "reviewed_today": [
-      "Magnitudo",
-      "Mox",
-      "Orbis"
-    ]
-  },
-  {
-    "date": "2026-02-13",
-    "words": [
-      {
         "latin": "Rus",
         "ru": "Деревня, поместье"
       },
@@ -10997,6 +10975,28 @@
       "Vinum",
       "Metus",
       "Nox"
+    ]
+  },
+  {
+    "date": "2026-06-19",
+    "words": [
+      {
+        "latin": "Tres",
+        "ru": "Три"
+      },
+      {
+        "latin": "Repetere",
+        "ru": "Повторять, требовать назад"
+      },
+      {
+        "latin": "Genu",
+        "ru": "Колено"
+      }
+    ],
+    "reviewed_today": [
+      "Vindex",
+      "Gens",
+      "Ambulare"
     ]
   }
 ]

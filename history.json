@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-13",
-    "words": [
-      {
-        "latin": "Rus",
-        "ru": "Деревня, поместье"
-      },
-      {
-        "latin": "Roma",
-        "ru": "Рим"
-      },
-      {
-        "latin": "Res",
-        "ru": "Вещь, дело, обстоятельство"
-      }
-    ],
-    "reviewed_today": [
-      "Infans",
-      "Tres",
-      "Volvo"
-    ]
-  },
-  {
     "date": "2026-02-14",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Vindex",
       "Gens",
       "Ambulare"
+    ]
+  },
+  {
+    "date": "2026-06-19",
+    "words": [
+      {
+        "latin": "Diligere",
+        "ru": "Любить, уважать"
+      },
+      {
+        "latin": "Similis",
+        "ru": "Похожий"
+      },
+      {
+        "latin": "Pugnare",
+        "ru": "Сражаться"
+      }
+    ],
+    "reviewed_today": [
+      "Ungere",
+      "Civis",
+      "Togatus"
     ]
   }
 ]

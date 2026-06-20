@@ -3,28 +3,6 @@
     "date": "2026-02-15",
     "words": [
       {
-        "latin": "Tueri",
-        "ru": "Смотреть, защищать"
-      },
-      {
-        "latin": "Qualis",
-        "ru": "Какой"
-      },
-      {
-        "latin": "Vestis",
-        "ru": "Одежда"
-      }
-    ],
-    "reviewed_today": [
-      "Super",
-      "Sapere",
-      "Confirmare"
-    ]
-  },
-  {
-    "date": "2026-02-15",
-    "words": [
-      {
         "latin": "Mentior",
         "ru": "Лгу"
       },
@@ -10997,6 +10975,28 @@
       "Vincere",
       "Pauper",
       "Diu"
+    ]
+  },
+  {
+    "date": "2026-06-20",
+    "words": [
+      {
+        "latin": "Splendor",
+        "ru": "Блеск, великолепие"
+      },
+      {
+        "latin": "Situs",
+        "ru": "Положение, место"
+      },
+      {
+        "latin": "Iterum",
+        "ru": "Снова, второй раз"
+      }
+    ],
+    "reviewed_today": [
+      "Quis",
+      "Infans",
+      "Hinc"
     ]
   }
 ]

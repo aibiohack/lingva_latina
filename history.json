@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-14",
-    "words": [
-      {
-        "latin": "Antiquus",
-        "ru": "Древний, старинный"
-      },
-      {
-        "latin": "Prope",
-        "ru": "Близко"
-      },
-      {
-        "latin": "Dubitare",
-        "ru": "Сомневаться"
-      }
-    ],
-    "reviewed_today": [
-      "Silva",
-      "Dedico",
-      "Fluere"
-    ]
-  },
-  {
     "date": "2026-02-15",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Salus",
       "Sustinere",
       "Fenestra"
+    ]
+  },
+  {
+    "date": "2026-06-20",
+    "words": [
+      {
+        "latin": "Cena",
+        "ru": "Обед"
+      },
+      {
+        "latin": "Aureus",
+        "ru": "Золотой"
+      },
+      {
+        "latin": "Patria",
+        "ru": "Родина"
+      }
+    ],
+    "reviewed_today": [
+      "Vincere",
+      "Pauper",
+      "Diu"
     ]
   }
 ]

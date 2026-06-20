@@ -3,28 +3,6 @@
     "date": "2026-02-15",
     "words": [
       {
-        "latin": "Mentior",
-        "ru": "Лгу"
-      },
-      {
-        "latin": "Testis",
-        "ru": "Свидетель"
-      },
-      {
-        "latin": "Edere",
-        "ru": "Есть (кушать)"
-      }
-    ],
-    "reviewed_today": [
-      "Tollere",
-      "Tegere",
-      "Clarus"
-    ]
-  },
-  {
-    "date": "2026-02-15",
-    "words": [
-      {
         "latin": "Tenuis",
         "ru": "Тонкий, слабый"
       },
@@ -10997,6 +10975,28 @@
       "Quis",
       "Infans",
       "Hinc"
+    ]
+  },
+  {
+    "date": "2026-06-20",
+    "words": [
+      {
+        "latin": "Vicinus",
+        "ru": "Соседний"
+      },
+      {
+        "latin": "Terror",
+        "ru": "Ужас, страх"
+      },
+      {
+        "latin": "Totus",
+        "ru": "Весь, целый"
+      }
+    ],
+    "reviewed_today": [
+      "Lingua",
+      "Quasi",
+      "Sagitta"
     ]
   }
 ]

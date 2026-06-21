@@ -3,28 +3,6 @@
     "date": "2026-02-16",
     "words": [
       {
-        "latin": "Schola",
-        "ru": "Школа"
-      },
-      {
-        "latin": "Sanus",
-        "ru": "Здоровый, трезвый"
-      },
-      {
-        "latin": "Temptare",
-        "ru": "Испытывать, пытаться"
-      }
-    ],
-    "reviewed_today": [
-      "Clamor",
-      "Mutare",
-      "Imitari"
-    ]
-  },
-  {
-    "date": "2026-02-16",
-    "words": [
-      {
         "latin": "Dextra",
         "ru": "Правая рука"
       },
@@ -10997,6 +10975,28 @@
       "Tectum",
       "Locus",
       "Vae"
+    ]
+  },
+  {
+    "date": "2026-06-21",
+    "words": [
+      {
+        "latin": "Trahere",
+        "ru": "Тащить, влечь"
+      },
+      {
+        "latin": "Tenuis",
+        "ru": "Тонкий, слабый"
+      },
+      {
+        "latin": "Versus",
+        "ru": "Стих, линия"
+      }
+    ],
+    "reviewed_today": [
+      "Fragilis",
+      "Roma",
+      "Inanis"
     ]
   }
 ]

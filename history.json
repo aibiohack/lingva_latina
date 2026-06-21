@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-15",
-    "words": [
-      {
-        "latin": "Trahere",
-        "ru": "Тащить, влечь"
-      },
-      {
-        "latin": "Versus",
-        "ru": "Стих, линия"
-      },
-      {
-        "latin": "Primus",
-        "ru": "Первый"
-      }
-    ],
-    "reviewed_today": [
-      "Totus",
-      "Supplex",
-      "Enuntiare"
-    ]
-  },
-  {
     "date": "2026-02-16",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Tamen",
       "Species",
       "Decere"
+    ]
+  },
+  {
+    "date": "2026-06-21",
+    "words": [
+      {
+        "latin": "Unde",
+        "ru": "Откуда"
+      },
+      {
+        "latin": "Contra",
+        "ru": "Против"
+      },
+      {
+        "latin": "Situs",
+        "ru": "Положение, место"
+      }
+    ],
+    "reviewed_today": [
+      "Tectum",
+      "Locus",
+      "Vae"
     ]
   }
 ]

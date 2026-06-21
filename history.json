@@ -3,28 +3,6 @@
     "date": "2026-02-16",
     "words": [
       {
-        "latin": "Dextra",
-        "ru": "Правая рука"
-      },
-      {
-        "latin": "Iter",
-        "ru": "Путь"
-      },
-      {
-        "latin": "Solum",
-        "ru": "Только, лишь"
-      }
-    ],
-    "reviewed_today": [
-      "Culpa",
-      "Discipulus",
-      "Ullus"
-    ]
-  },
-  {
-    "date": "2026-02-16",
-    "words": [
-      {
         "latin": "Inter",
         "ru": "Между"
       },
@@ -10997,6 +10975,28 @@
       "Fragilis",
       "Roma",
       "Inanis"
+    ]
+  },
+  {
+    "date": "2026-06-21",
+    "words": [
+      {
+        "latin": "Subito",
+        "ru": "Внезапно"
+      },
+      {
+        "latin": "Valere",
+        "ru": "Быть здоровым, иметь силу"
+      },
+      {
+        "latin": "Vesper",
+        "ru": "Вечер"
+      }
+    ],
+    "reviewed_today": [
+      "Venus",
+      "Parare",
+      "Iuvenis"
     ]
   }
 ]

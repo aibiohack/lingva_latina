@@ -3,28 +3,6 @@
     "date": "2026-02-15",
     "words": [
       {
-        "latin": "Tenuis",
-        "ru": "Тонкий, слабый"
-      },
-      {
-        "latin": "Longus",
-        "ru": "Длинный"
-      },
-      {
-        "latin": "Saeculum",
-        "ru": "Век, поколение"
-      }
-    ],
-    "reviewed_today": [
-      "Vacare",
-      "Gaudium",
-      "Ubi"
-    ]
-  },
-  {
-    "date": "2026-02-15",
-    "words": [
-      {
         "latin": "Trahere",
         "ru": "Тащить, влечь"
       },
@@ -10997,6 +10975,28 @@
       "Lingua",
       "Quasi",
       "Sagitta"
+    ]
+  },
+  {
+    "date": "2026-06-21",
+    "words": [
+      {
+        "latin": "Temptare",
+        "ru": "Испытывать, пытаться"
+      },
+      {
+        "latin": "Varius",
+        "ru": "Разный"
+      },
+      {
+        "latin": "Lacrima",
+        "ru": "Слеза"
+      }
+    ],
+    "reviewed_today": [
+      "Tamen",
+      "Species",
+      "Decere"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-02-17",
     "words": [
       {
-        "latin": "Vetustus",
-        "ru": "Древний"
-      },
-      {
-        "latin": "Videlicet",
-        "ru": "Очевидно, именно"
-      },
-      {
-        "latin": "Mors",
-        "ru": "Смерть"
-      }
-    ],
-    "reviewed_today": [
-      "Cura",
-      "Aperire",
-      "Velum"
-    ]
-  },
-  {
-    "date": "2026-02-17",
-    "words": [
-      {
         "latin": "Ulterior",
         "ru": "По ту сторону, дальнейший"
       },
@@ -10997,6 +10975,28 @@
       "Lux",
       "Vos",
       "Bene"
+    ]
+  },
+  {
+    "date": "2026-06-22",
+    "words": [
+      {
+        "latin": "Sanus",
+        "ru": "Здоровый, трезвый"
+      },
+      {
+        "latin": "Fraus",
+        "ru": "Обман, хитрость"
+      },
+      {
+        "latin": "Longus",
+        "ru": "Длинный"
+      }
+    ],
+    "reviewed_today": [
+      "Humanus",
+      "Imago",
+      "Umbra"
     ]
   }
 ]

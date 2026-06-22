@@ -3,28 +3,6 @@
     "date": "2026-02-17",
     "words": [
       {
-        "latin": "Ulterior",
-        "ru": "По ту сторону, дальнейший"
-      },
-      {
-        "latin": "Senatus",
-        "ru": "Сенат"
-      },
-      {
-        "latin": "Idoneus",
-        "ru": "Удобный, годный"
-      }
-    ],
-    "reviewed_today": [
-      "Tenere",
-      "Tu",
-      "Super"
-    ]
-  },
-  {
-    "date": "2026-02-17",
-    "words": [
-      {
         "latin": "Ordo",
         "ru": "Порядок"
       },
@@ -10997,6 +10975,28 @@
       "Humanus",
       "Imago",
       "Umbra"
+    ]
+  },
+  {
+    "date": "2026-06-22",
+    "words": [
+      {
+        "latin": "Donum",
+        "ru": "Подарок"
+      },
+      {
+        "latin": "Terra",
+        "ru": "Земля"
+      },
+      {
+        "latin": "Remedium",
+        "ru": "Лекарство, средство"
+      }
+    ],
+    "reviewed_today": [
+      "Votum",
+      "Munus",
+      "Exire"
     ]
   }
 ]

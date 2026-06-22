@@ -3,28 +3,6 @@
     "date": "2026-02-16",
     "words": [
       {
-        "latin": "Inter",
-        "ru": "Между"
-      },
-      {
-        "latin": "Flumen",
-        "ru": "Река"
-      },
-      {
-        "latin": "Redire",
-        "ru": "Возвращаться"
-      }
-    ],
-    "reviewed_today": [
-      "Gratus",
-      "Stirps",
-      "Statuere"
-    ]
-  },
-  {
-    "date": "2026-02-16",
-    "words": [
-      {
         "latin": "Vincire",
         "ru": "Связывать"
       },
@@ -10997,6 +10975,28 @@
       "Venus",
       "Parare",
       "Iuvenis"
+    ]
+  },
+  {
+    "date": "2026-06-22",
+    "words": [
+      {
+        "latin": "Satis",
+        "ru": "Достаточно"
+      },
+      {
+        "latin": "Vale",
+        "ru": "Прощай, будь здоров"
+      },
+      {
+        "latin": "Uterque",
+        "ru": "И тот и другой"
+      }
+    ],
+    "reviewed_today": [
+      "Heri",
+      "Terrere",
+      "Suavis"
     ]
   }
 ]

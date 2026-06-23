@@ -3,28 +3,6 @@
     "date": "2026-02-18",
     "words": [
       {
-        "latin": "Sepulcrum",
-        "ru": "Гробница, могила"
-      },
-      {
-        "latin": "Fovere",
-        "ru": "Греть, лелеять"
-      },
-      {
-        "latin": "Docere",
-        "ru": "Учить, обучать"
-      }
-    ],
-    "reviewed_today": [
-      "Persona",
-      "Tot",
-      "Civilis"
-    ]
-  },
-  {
-    "date": "2026-02-18",
-    "words": [
-      {
         "latin": "Instruere",
         "ru": "Наставлять, возводить"
       },
@@ -10997,6 +10975,28 @@
       "Temere",
       "Hortus",
       "Testis"
+    ]
+  },
+  {
+    "date": "2026-06-23",
+    "words": [
+      {
+        "latin": "Vindex",
+        "ru": "Защитник, мститель"
+      },
+      {
+        "latin": "Amoenus",
+        "ru": "Приятный, прелестный"
+      },
+      {
+        "latin": "Externus",
+        "ru": "Внешний, чужой"
+      }
+    ],
+    "reviewed_today": [
+      "Regnum",
+      "Enim",
+      "Monere"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-02-18",
     "words": [
       {
-        "latin": "Instruere",
-        "ru": "Наставлять, возводить"
-      },
-      {
-        "latin": "Fides",
-        "ru": "Вера"
-      },
-      {
-        "latin": "Pater",
-        "ru": "Отец"
-      }
-    ],
-    "reviewed_today": [
-      "Studere",
-      "Discere",
-      "Vulnus"
-    ]
-  },
-  {
-    "date": "2026-02-18",
-    "words": [
-      {
         "latin": "Omnis",
         "ru": "Весь"
       },
@@ -10997,6 +10975,28 @@
       "Regnum",
       "Enim",
       "Monere"
+    ]
+  },
+  {
+    "date": "2026-06-23",
+    "words": [
+      {
+        "latin": "Periculum",
+        "ru": "Опасность"
+      },
+      {
+        "latin": "Reus",
+        "ru": "Подсудимый, виновный"
+      },
+      {
+        "latin": "Publicus",
+        "ru": "Общественный"
+      }
+    ],
+    "reviewed_today": [
+      "Statua",
+      "Fovere",
+      "Mox"
     ]
   }
 ]

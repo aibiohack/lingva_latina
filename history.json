@@ -3,28 +3,6 @@
     "date": "2026-02-19",
     "words": [
       {
-        "latin": "Versari",
-        "ru": "Находиться, вращаться"
-      },
-      {
-        "latin": "Superior",
-        "ru": "Высший, старший"
-      },
-      {
-        "latin": "Sino",
-        "ru": "Позволять, оставлять"
-      }
-    ],
-    "reviewed_today": [
-      "Trabs",
-      "Sentire",
-      "Beatus"
-    ]
-  },
-  {
-    "date": "2026-02-19",
-    "words": [
-      {
         "latin": "Legio",
         "ru": "Легион"
       },
@@ -10997,6 +10975,28 @@
       "Longus",
       "Abbas",
       "Solium"
+    ]
+  },
+  {
+    "date": "2026-06-24",
+    "words": [
+      {
+        "latin": "Unanimis",
+        "ru": "Единодушный"
+      },
+      {
+        "latin": "Fingere",
+        "ru": "Изображать, выдумывать"
+      },
+      {
+        "latin": "Talis",
+        "ru": "Такой"
+      }
+    ],
+    "reviewed_today": [
+      "Ter",
+      "Dulcis",
+      "Quis"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-18",
-    "words": [
-      {
-        "latin": "Multitudo",
-        "ru": "Множество"
-      },
-      {
-        "latin": "Gerere",
-        "ru": "Вести, совершать"
-      },
-      {
-        "latin": "Spero",
-        "ru": "Надеяться"
-      }
-    ],
-    "reviewed_today": [
-      "Roma",
-      "Regnum",
-      "Validus"
-    ]
-  },
-  {
     "date": "2026-02-19",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Credere",
       "Voluptas",
       "Luxuria"
+    ]
+  },
+  {
+    "date": "2026-06-24",
+    "words": [
+      {
+        "latin": "Cras",
+        "ru": "Завтра"
+      },
+      {
+        "latin": "Laborare",
+        "ru": "Работать, страдать"
+      },
+      {
+        "latin": "Malle",
+        "ru": "Предпочитать"
+      }
+    ],
+    "reviewed_today": [
+      "Vinea",
+      "Utilitas",
+      "Semel"
     ]
   }
 ]

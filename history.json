@@ -3,28 +3,6 @@
     "date": "2026-02-18",
     "words": [
       {
-        "latin": "Omnis",
-        "ru": "Весь"
-      },
-      {
-        "latin": "Tranquillitas",
-        "ru": "Спокойствие, тишина"
-      },
-      {
-        "latin": "Dens",
-        "ru": "Зуб"
-      }
-    ],
-    "reviewed_today": [
-      "Sal",
-      "Usque",
-      "Dum"
-    ]
-  },
-  {
-    "date": "2026-02-18",
-    "words": [
-      {
         "latin": "Multitudo",
         "ru": "Множество"
       },
@@ -10997,6 +10975,28 @@
       "Statua",
       "Fovere",
       "Mox"
+    ]
+  },
+  {
+    "date": "2026-06-24",
+    "words": [
+      {
+        "latin": "Pater",
+        "ru": "Отец"
+      },
+      {
+        "latin": "Mors",
+        "ru": "Смерть"
+      },
+      {
+        "latin": "Ordo",
+        "ru": "Порядок"
+      }
+    ],
+    "reviewed_today": [
+      "Credere",
+      "Voluptas",
+      "Luxuria"
     ]
   }
 ]

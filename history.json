@@ -3,28 +3,6 @@
     "date": "2026-02-19",
     "words": [
       {
-        "latin": "Rogare",
-        "ru": "Просить, спрашивать"
-      },
-      {
-        "latin": "Laborare",
-        "ru": "Работать, страдать"
-      },
-      {
-        "latin": "Exercitus",
-        "ru": "Войско"
-      }
-    ],
-    "reviewed_today": [
-      "Turpis",
-      "Largus",
-      "Relinquere"
-    ]
-  },
-  {
-    "date": "2026-02-19",
-    "words": [
-      {
         "latin": "Versari",
         "ru": "Находиться, вращаться"
       },
@@ -10997,6 +10975,28 @@
       "Vinea",
       "Utilitas",
       "Semel"
+    ]
+  },
+  {
+    "date": "2026-06-24",
+    "words": [
+      {
+        "latin": "Tranquillitas",
+        "ru": "Спокойствие, тишина"
+      },
+      {
+        "latin": "Spero",
+        "ru": "Надеяться"
+      },
+      {
+        "latin": "Dens",
+        "ru": "Зуб"
+      }
+    ],
+    "reviewed_today": [
+      "Longus",
+      "Abbas",
+      "Solium"
     ]
   }
 ]

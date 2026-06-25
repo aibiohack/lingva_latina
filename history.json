@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-19",
-    "words": [
-      {
-        "latin": "Aevum",
-        "ru": "Век, эпоха"
-      },
-      {
-        "latin": "Punitio",
-        "ru": "Наказание"
-      },
-      {
-        "latin": "Intelligere",
-        "ru": "Понимать"
-      }
-    ],
-    "reviewed_today": [
-      "Reliquus",
-      "Forma",
-      "Apud"
-    ]
-  },
-  {
     "date": "2026-02-20",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Tormentum",
       "Dum",
       "Laudare"
+    ]
+  },
+  {
+    "date": "2026-06-25",
+    "words": [
+      {
+        "latin": "Sermo",
+        "ru": "Речь, беседа"
+      },
+      {
+        "latin": "Tamen",
+        "ru": "Однако"
+      },
+      {
+        "latin": "Verere",
+        "ru": "Бояться, чтить"
+      }
+    ],
+    "reviewed_today": [
+      "Apud",
+      "Quoque",
+      "Auxilium"
     ]
   }
 ]

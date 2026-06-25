@@ -3,28 +3,6 @@
     "date": "2026-02-20",
     "words": [
       {
-        "latin": "Vestigium",
-        "ru": "След"
-      },
-      {
-        "latin": "Venenum",
-        "ru": "Яд"
-      },
-      {
-        "latin": "Aeternus",
-        "ru": "Вечный"
-      }
-    ],
-    "reviewed_today": [
-      "Horrere",
-      "Similis",
-      "Signum"
-    ]
-  },
-  {
-    "date": "2026-02-20",
-    "words": [
-      {
         "latin": "Miser",
         "ru": "Жалкий, несчастный"
       },
@@ -10997,6 +10975,28 @@
       "Apud",
       "Quoque",
       "Auxilium"
+    ]
+  },
+  {
+    "date": "2026-06-25",
+    "words": [
+      {
+        "latin": "Emere",
+        "ru": "Покупать"
+      },
+      {
+        "latin": "Vulnus",
+        "ru": "Рана"
+      },
+      {
+        "latin": "Diu",
+        "ru": "Долго"
+      }
+    ],
+    "reviewed_today": [
+      "Puella",
+      "Imperare",
+      "Materia"
     ]
   }
 ]

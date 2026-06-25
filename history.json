@@ -3,28 +3,6 @@
     "date": "2026-02-19",
     "words": [
       {
-        "latin": "Legio",
-        "ru": "Легион"
-      },
-      {
-        "latin": "Caelum",
-        "ru": "Небо"
-      },
-      {
-        "latin": "Sui",
-        "ru": "Себя"
-      }
-    ],
-    "reviewed_today": [
-      "Fuga",
-      "Maxime",
-      "Quid"
-    ]
-  },
-  {
-    "date": "2026-02-19",
-    "words": [
-      {
         "latin": "Aevum",
         "ru": "Век, эпоха"
       },
@@ -10997,6 +10975,28 @@
       "Ter",
       "Dulcis",
       "Quis"
+    ]
+  },
+  {
+    "date": "2026-06-25",
+    "words": [
+      {
+        "latin": "Exemplum",
+        "ru": "Пример"
+      },
+      {
+        "latin": "Barbarus",
+        "ru": "Чужеземец, варвар"
+      },
+      {
+        "latin": "Mens",
+        "ru": "Ум"
+      }
+    ],
+    "reviewed_today": [
+      "Tormentum",
+      "Dum",
+      "Laudare"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-02-20",
     "words": [
       {
-        "latin": "Miser",
-        "ru": "Жалкий, несчастный"
-      },
-      {
-        "latin": "Sum",
-        "ru": "Я есмь (быть)"
-      },
-      {
-        "latin": "Petere",
-        "ru": "Просить, стремиться"
-      }
-    ],
-    "reviewed_today": [
-      "Dexter",
-      "Vilis",
-      "Vel"
-    ]
-  },
-  {
-    "date": "2026-02-20",
-    "words": [
-      {
         "latin": "Dulcedo",
         "ru": "Сладость, приятность"
       },
@@ -10997,6 +10975,28 @@
       "Puella",
       "Imperare",
       "Materia"
+    ]
+  },
+  {
+    "date": "2026-06-25",
+    "words": [
+      {
+        "latin": "Vestigium",
+        "ru": "След"
+      },
+      {
+        "latin": "Venenum",
+        "ru": "Яд"
+      },
+      {
+        "latin": "Caelum",
+        "ru": "Небо"
+      }
+    ],
+    "reviewed_today": [
+      "Eripere",
+      "Tradere",
+      "Expectare"
     ]
   }
 ]

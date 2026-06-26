@@ -3,28 +3,6 @@
     "date": "2026-02-21",
     "words": [
       {
-        "latin": "Benevolentia",
-        "ru": "Доброжелательность"
-      },
-      {
-        "latin": "Vitium",
-        "ru": "Порок, недостаток"
-      },
-      {
-        "latin": "Fortis",
-        "ru": "Храбрый"
-      }
-    ],
-    "reviewed_today": [
-      "Consuetudo",
-      "Frumentum",
-      "Religio"
-    ]
-  },
-  {
-    "date": "2026-02-21",
-    "words": [
-      {
         "latin": "Ver",
         "ru": "Весна"
       },
@@ -10997,6 +10975,28 @@
       "Nihil",
       "Mare",
       "Subito"
+    ]
+  },
+  {
+    "date": "2026-06-26",
+    "words": [
+      {
+        "latin": "Reus",
+        "ru": "Подсудимый, виновный"
+      },
+      {
+        "latin": "Vates",
+        "ru": "Пророк, поэт"
+      },
+      {
+        "latin": "Sol",
+        "ru": "Солнце"
+      }
+    ],
+    "reviewed_today": [
+      "Mox",
+      "Tormentum",
+      "Ignoscerе"
     ]
   }
 ]

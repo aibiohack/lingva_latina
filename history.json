@@ -3,28 +3,6 @@
     "date": "2026-02-21",
     "words": [
       {
-        "latin": "Monstrare",
-        "ru": "Показывать"
-      },
-      {
-        "latin": "Ferrum",
-        "ru": "Железо"
-      },
-      {
-        "latin": "Cupiditas",
-        "ru": "Желание, страсть"
-      }
-    ],
-    "reviewed_today": [
-      "Sedere",
-      "Ludus",
-      "Laborare"
-    ]
-  },
-  {
-    "date": "2026-02-21",
-    "words": [
-      {
         "latin": "Benevolentia",
         "ru": "Доброжелательность"
       },
@@ -10997,6 +10975,28 @@
       "Servus",
       "Discere",
       "Stilus"
+    ]
+  },
+  {
+    "date": "2026-06-26",
+    "words": [
+      {
+        "latin": "Dulcedo",
+        "ru": "Сладость, приятность"
+      },
+      {
+        "latin": "Crudele",
+        "ru": "Жестоко"
+      },
+      {
+        "latin": "Rogare",
+        "ru": "Просить, спрашивать"
+      }
+    ],
+    "reviewed_today": [
+      "Nihil",
+      "Mare",
+      "Subito"
     ]
   }
 ]

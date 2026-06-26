@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-20",
-    "words": [
-      {
-        "latin": "Scio",
-        "ru": "Знаю"
-      },
-      {
-        "latin": "Crudele",
-        "ru": "Жестоко"
-      },
-      {
-        "latin": "Fugere",
-        "ru": "Бежать"
-      }
-    ],
-    "reviewed_today": [
-      "Res",
-      "Vero",
-      "Dicere"
-    ]
-  },
-  {
     "date": "2026-02-21",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Trahere",
       "Fugere",
       "Periculum"
+    ]
+  },
+  {
+    "date": "2026-06-26",
+    "words": [
+      {
+        "latin": "Felix",
+        "ru": "Счастливый"
+      },
+      {
+        "latin": "Sanctus",
+        "ru": "Святой"
+      },
+      {
+        "latin": "Certe",
+        "ru": "Наверняка, конечно"
+      }
+    ],
+    "reviewed_today": [
+      "Servus",
+      "Discere",
+      "Stilus"
     ]
   }
 ]

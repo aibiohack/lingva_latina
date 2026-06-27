@@ -3,28 +3,6 @@
     "date": "2026-02-22",
     "words": [
       {
-        "latin": "Intra",
-        "ru": "Внутри"
-      },
-      {
-        "latin": "Verus",
-        "ru": "Истинный"
-      },
-      {
-        "latin": "Miles",
-        "ru": "Воин"
-      }
-    ],
-    "reviewed_today": [
-      "Quaerere",
-      "Vero",
-      "Dolor"
-    ]
-  },
-  {
-    "date": "2026-02-22",
-    "words": [
-      {
         "latin": "Telum",
         "ru": "Оружие, копье"
       },
@@ -10997,6 +10975,28 @@
       "Versus",
       "Utique",
       "Dubitare"
+    ]
+  },
+  {
+    "date": "2026-06-27",
+    "words": [
+      {
+        "latin": "Fuga",
+        "ru": "Бегство"
+      },
+      {
+        "latin": "Caput",
+        "ru": "Голова"
+      },
+      {
+        "latin": "Vivere",
+        "ru": "Жить"
+      }
+    ],
+    "reviewed_today": [
+      "Dulcis",
+      "Exercitus",
+      "Integer"
     ]
   }
 ]

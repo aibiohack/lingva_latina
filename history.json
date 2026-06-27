@@ -3,28 +3,6 @@
     "date": "2026-02-21",
     "words": [
       {
-        "latin": "Ver",
-        "ru": "Весна"
-      },
-      {
-        "latin": "Surdus",
-        "ru": "Глухой"
-      },
-      {
-        "latin": "Alter",
-        "ru": "Другой (из двух)"
-      }
-    ],
-    "reviewed_today": [
-      "Iam",
-      "Sino",
-      "Fallere"
-    ]
-  },
-  {
-    "date": "2026-02-21",
-    "words": [
-      {
         "latin": "Fons",
         "ru": "Источник"
       },
@@ -10997,6 +10975,28 @@
       "Mox",
       "Tormentum",
       "Ignoscerе"
+    ]
+  },
+  {
+    "date": "2026-06-27",
+    "words": [
+      {
+        "latin": "Stultus",
+        "ru": "Глупый"
+      },
+      {
+        "latin": "Lignum",
+        "ru": "Дерево, дрова"
+      },
+      {
+        "latin": "Valetudo",
+        "ru": "Здоровье (состояние)"
+      }
+    ],
+    "reviewed_today": [
+      "Supra",
+      "Proprius",
+      "Tu"
     ]
   }
 ]

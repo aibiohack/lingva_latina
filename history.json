@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-21",
-    "words": [
-      {
-        "latin": "Fons",
-        "ru": "Источник"
-      },
-      {
-        "latin": "Rectus",
-        "ru": "Прямой, правильный"
-      },
-      {
-        "latin": "Valde",
-        "ru": "Крепко, очень"
-      }
-    ],
-    "reviewed_today": [
-      "Saxum",
-      "Tabula",
-      "Autem"
-    ]
-  },
-  {
     "date": "2026-02-22",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Supra",
       "Proprius",
       "Tu"
+    ]
+  },
+  {
+    "date": "2026-06-27",
+    "words": [
+      {
+        "latin": "Vitium",
+        "ru": "Порок, недостаток"
+      },
+      {
+        "latin": "Alter",
+        "ru": "Другой (из двух)"
+      },
+      {
+        "latin": "Monstrare",
+        "ru": "Показывать"
+      }
+    ],
+    "reviewed_today": [
+      "Iuvenis",
+      "Senex",
+      "Surdus"
     ]
   }
 ]

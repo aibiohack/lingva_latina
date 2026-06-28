@@ -3,28 +3,6 @@
     "date": "2026-02-23",
     "words": [
       {
-        "latin": "Repetere",
-        "ru": "Повторять, требовать назад"
-      },
-      {
-        "latin": "Bestia",
-        "ru": "Зверь, животное"
-      },
-      {
-        "latin": "Mens",
-        "ru": "Ум"
-      }
-    ],
-    "reviewed_today": [
-      "Rogare",
-      "Septem",
-      "Gratia"
-    ]
-  },
-  {
-    "date": "2026-02-23",
-    "words": [
-      {
         "latin": "Uxor",
         "ru": "Жена"
       },
@@ -10997,6 +10975,28 @@
       "Maestus",
       "Tacere",
       "Puer"
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "words": [
+      {
+        "latin": "Rectus",
+        "ru": "Прямой, правильный"
+      },
+      {
+        "latin": "Rumor",
+        "ru": "Слух, молва"
+      },
+      {
+        "latin": "Valde",
+        "ru": "Крепко, очень"
+      }
+    ],
+    "reviewed_today": [
+      "Venari",
+      "Virgo",
+      "Expectare"
     ]
   }
 ]

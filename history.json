@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-22",
-    "words": [
-      {
-        "latin": "Sidus",
-        "ru": "Звезда, созвездие"
-      },
-      {
-        "latin": "Custos",
-        "ru": "Страж"
-      },
-      {
-        "latin": "Finis",
-        "ru": "Конец"
-      }
-    ],
-    "reviewed_today": [
-      "Utilitas",
-      "Spiritus",
-      "Sedere"
-    ]
-  },
-  {
     "date": "2026-02-23",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Lenis",
       "Filius",
       "Idem"
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "words": [
+      {
+        "latin": "Fraus",
+        "ru": "Обман, хитрость"
+      },
+      {
+        "latin": "Venire",
+        "ru": "Приходить"
+      },
+      {
+        "latin": "Subito",
+        "ru": "Внезапно"
+      }
+    ],
+    "reviewed_today": [
+      "Tectum",
+      "Tenuis",
+      "Benevolentia"
     ]
   }
 ]

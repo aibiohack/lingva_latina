@@ -3,28 +3,6 @@
     "date": "2026-02-22",
     "words": [
       {
-        "latin": "Telum",
-        "ru": "Оружие, копье"
-      },
-      {
-        "latin": "Aqua",
-        "ru": "Вода"
-      },
-      {
-        "latin": "Dividere",
-        "ru": "Делить"
-      }
-    ],
-    "reviewed_today": [
-      "Iurare",
-      "Talis",
-      "Ludus"
-    ]
-  },
-  {
-    "date": "2026-02-22",
-    "words": [
-      {
         "latin": "Sidus",
         "ru": "Звезда, созвездие"
       },
@@ -10997,6 +10975,28 @@
       "Dulcis",
       "Exercitus",
       "Integer"
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "words": [
+      {
+        "latin": "Iudex",
+        "ru": "Судья"
+      },
+      {
+        "latin": "Fides",
+        "ru": "Вера"
+      },
+      {
+        "latin": "Lupus",
+        "ru": "Волк"
+      }
+    ],
+    "reviewed_today": [
+      "Lenis",
+      "Filius",
+      "Idem"
     ]
   }
 ]

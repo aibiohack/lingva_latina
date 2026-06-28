@@ -3,28 +3,6 @@
     "date": "2026-02-23",
     "words": [
       {
-        "latin": "Sic",
-        "ru": "Так"
-      },
-      {
-        "latin": "Studium",
-        "ru": "Стремление, занятие, наука"
-      },
-      {
-        "latin": "Rumor",
-        "ru": "Слух, молва"
-      }
-    ],
-    "reviewed_today": [
-      "Gaudium",
-      "Gravis",
-      "Vindicare"
-    ]
-  },
-  {
-    "date": "2026-02-23",
-    "words": [
-      {
         "latin": "Repetere",
         "ru": "Повторять, требовать назад"
       },
@@ -10997,6 +10975,28 @@
       "Tectum",
       "Tenuis",
       "Benevolentia"
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "words": [
+      {
+        "latin": "Idem",
+        "ru": "Тот же самый"
+      },
+      {
+        "latin": "Diabolus",
+        "ru": "Дьявол"
+      },
+      {
+        "latin": "Solus",
+        "ru": "Один, единственный"
+      }
+    ],
+    "reviewed_today": [
+      "Maestus",
+      "Tacere",
+      "Puer"
     ]
   }
 ]

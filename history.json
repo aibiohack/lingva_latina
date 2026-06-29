@@ -3,28 +3,6 @@
     "date": "2026-02-24",
     "words": [
       {
-        "latin": "Vanitas",
-        "ru": "Суета, тщеславие"
-      },
-      {
-        "latin": "Circa",
-        "ru": "Вокруг, около"
-      },
-      {
-        "latin": "Vanus",
-        "ru": "Пустой, ложный"
-      }
-    ],
-    "reviewed_today": [
-      "Vestis",
-      "Uva",
-      "Solus"
-    ]
-  },
-  {
-    "date": "2026-02-24",
-    "words": [
-      {
         "latin": "Verere",
         "ru": "Бояться, чтить"
       },
@@ -10997,6 +10975,28 @@
       "Limen",
       "Cupiditas",
       "Coniunx"
+    ]
+  },
+  {
+    "date": "2026-06-29",
+    "words": [
+      {
+        "latin": "Ducere",
+        "ru": "Вести"
+      },
+      {
+        "latin": "Venari",
+        "ru": "Охотиться"
+      },
+      {
+        "latin": "Lapis",
+        "ru": "Камень"
+      }
+    ],
+    "reviewed_today": [
+      "Pes",
+      "Vastus",
+      "Triduum"
     ]
   }
 ]

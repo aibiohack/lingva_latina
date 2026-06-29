@@ -3,28 +3,6 @@
     "date": "2026-02-23",
     "words": [
       {
-        "latin": "Uxor",
-        "ru": "Жена"
-      },
-      {
-        "latin": "Iucundus",
-        "ru": "Приятный"
-      },
-      {
-        "latin": "Lacrima",
-        "ru": "Слеза"
-      }
-    ],
-    "reviewed_today": [
-      "Immortalis",
-      "Aeternitas",
-      "Lingua"
-    ]
-  },
-  {
-    "date": "2026-02-23",
-    "words": [
-      {
         "latin": "Voluntas",
         "ru": "Воля, желание"
       },
@@ -10997,6 +10975,28 @@
       "Venari",
       "Virgo",
       "Expectare"
+    ]
+  },
+  {
+    "date": "2026-06-29",
+    "words": [
+      {
+        "latin": "Proprius",
+        "ru": "Собственный"
+      },
+      {
+        "latin": "Hora",
+        "ru": "Час"
+      },
+      {
+        "latin": "Roma",
+        "ru": "Рим"
+      }
+    ],
+    "reviewed_today": [
+      "Herba",
+      "Salve",
+      "Hora"
     ]
   }
 ]

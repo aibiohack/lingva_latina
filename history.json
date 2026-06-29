@@ -3,28 +3,6 @@
     "date": "2026-02-24",
     "words": [
       {
-        "latin": "Quantus",
-        "ru": "Сколько"
-      },
-      {
-        "latin": "Temperantia",
-        "ru": "Умеренность"
-      },
-      {
-        "latin": "Mons",
-        "ru": "Гора"
-      }
-    ],
-    "reviewed_today": [
-      "Virgo",
-      "Familia",
-      "Tegere"
-    ]
-  },
-  {
-    "date": "2026-02-24",
-    "words": [
-      {
         "latin": "Vanitas",
         "ru": "Суета, тщеславие"
       },
@@ -10997,6 +10975,28 @@
       "Dextra",
       "Scire",
       "Tres"
+    ]
+  },
+  {
+    "date": "2026-06-29",
+    "words": [
+      {
+        "latin": "Delectare",
+        "ru": "Радовать"
+      },
+      {
+        "latin": "Civilis",
+        "ru": "Гражданский"
+      },
+      {
+        "latin": "Pax",
+        "ru": "Мир"
+      }
+    ],
+    "reviewed_today": [
+      "Limen",
+      "Cupiditas",
+      "Coniunx"
     ]
   }
 ]

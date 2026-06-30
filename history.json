@@ -3,28 +3,6 @@
     "date": "2026-02-24",
     "words": [
       {
-        "latin": "Verere",
-        "ru": "Бояться, чтить"
-      },
-      {
-        "latin": "Iacere",
-        "ru": "Бросать, кидать"
-      },
-      {
-        "latin": "Semel",
-        "ru": "Однажды"
-      }
-    ],
-    "reviewed_today": [
-      "Pro",
-      "Reliquus",
-      "Debeo"
-    ]
-  },
-  {
-    "date": "2026-02-24",
-    "words": [
-      {
         "latin": "Radix",
         "ru": "Корень"
       },
@@ -10997,6 +10975,28 @@
       "Pes",
       "Vastus",
       "Triduum"
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "words": [
+      {
+        "latin": "Ingens",
+        "ru": "Огромный"
+      },
+      {
+        "latin": "Causa",
+        "ru": "Причина"
+      },
+      {
+        "latin": "Damnum",
+        "ru": "Ущерб, убыток"
+      }
+    ],
+    "reviewed_today": [
+      "Tutus",
+      "Vituperare",
+      "Imitari"
     ]
   }
 ]

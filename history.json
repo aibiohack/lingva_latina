@@ -3,28 +3,6 @@
     "date": "2026-02-25",
     "words": [
       {
-        "latin": "Historia",
-        "ru": "История"
-      },
-      {
-        "latin": "Iocus",
-        "ru": "Шутка"
-      },
-      {
-        "latin": "Universus",
-        "ru": "Весь, всеобщий"
-      }
-    ],
-    "reviewed_today": [
-      "Limen",
-      "Usque",
-      "Cur"
-    ]
-  },
-  {
-    "date": "2026-02-25",
-    "words": [
-      {
         "latin": "Ager",
         "ru": "Поле"
       },
@@ -10997,6 +10975,28 @@
       "Indicare",
       "Atque",
       "Vetus"
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "words": [
+      {
+        "latin": "Conditio",
+        "ru": "Условие, положение"
+      },
+      {
+        "latin": "Ter",
+        "ru": "Трижды"
+      },
+      {
+        "latin": "Potestas",
+        "ru": "Власть"
+      }
+    ],
+    "reviewed_today": [
+      "Clamor",
+      "Forum",
+      "Tribunus"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-02-25",
     "words": [
       {
-        "latin": "Ager",
-        "ru": "Поле"
-      },
-      {
-        "latin": "Patria",
-        "ru": "Родина"
-      },
-      {
-        "latin": "Hiems",
-        "ru": "Зима"
-      }
-    ],
-    "reviewed_today": [
-      "Dulcedo",
-      "Malus",
-      "Iter"
-    ]
-  },
-  {
-    "date": "2026-02-25",
-    "words": [
-      {
         "latin": "Indicare",
         "ru": "Указывать"
       },
@@ -10997,6 +10975,28 @@
       "Clamor",
       "Forum",
       "Tribunus"
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "words": [
+      {
+        "latin": "Iocus",
+        "ru": "Шутка"
+      },
+      {
+        "latin": "Historia",
+        "ru": "История"
+      },
+      {
+        "latin": "Vanus",
+        "ru": "Пустой, ложный"
+      }
+    ],
+    "reviewed_today": [
+      "Vehiculum",
+      "Sine",
+      "Miser"
     ]
   }
 ]

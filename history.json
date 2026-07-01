@@ -3,28 +3,6 @@
     "date": "2026-02-26",
     "words": [
       {
-        "latin": "Metuere",
-        "ru": "Бояться"
-      },
-      {
-        "latin": "Fames",
-        "ru": "Голод"
-      },
-      {
-        "latin": "Figura",
-        "ru": "Образ, вид"
-      }
-    ],
-    "reviewed_today": [
-      "Circa",
-      "Nox",
-      "Vicus"
-    ]
-  },
-  {
-    "date": "2026-02-26",
-    "words": [
-      {
         "latin": "Crimen",
         "ru": "Обвинение, преступление"
       },
@@ -10997,6 +10975,28 @@
       "Ergo",
       "Terra",
       "Exercitus"
+    ]
+  },
+  {
+    "date": "2026-07-01",
+    "words": [
+      {
+        "latin": "Sacerdos",
+        "ru": "Жрец, священник"
+      },
+      {
+        "latin": "Pulcher",
+        "ru": "Красивый"
+      },
+      {
+        "latin": "Tollere",
+        "ru": "Поднимать, уничтожать"
+      }
+    ],
+    "reviewed_today": [
+      "Clarus",
+      "Aio",
+      "Auxilium"
     ]
   }
 ]

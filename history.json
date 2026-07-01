@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-25",
-    "words": [
-      {
-        "latin": "Colere",
-        "ru": "Возделывать, почитать"
-      },
-      {
-        "latin": "Filius",
-        "ru": "Сын"
-      },
-      {
-        "latin": "Agere",
-        "ru": "Приводить в движение, гнать"
-      }
-    ],
-    "reviewed_today": [
-      "Animus",
-      "Frumentum",
-      "Mens"
-    ]
-  },
-  {
     "date": "2026-02-26",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Temperantia",
       "Iucundus",
       "Magnus"
+    ]
+  },
+  {
+    "date": "2026-07-01",
+    "words": [
+      {
+        "latin": "Indicare",
+        "ru": "Указывать"
+      },
+      {
+        "latin": "Hiems",
+        "ru": "Зима"
+      },
+      {
+        "latin": "Hilaris",
+        "ru": "Веселый"
+      }
+    ],
+    "reviewed_today": [
+      "Ergo",
+      "Terra",
+      "Exercitus"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-02-26",
     "words": [
       {
-        "latin": "Dies",
-        "ru": "День"
-      },
-      {
-        "latin": "Copia",
-        "ru": "Запас, множество"
-      },
-      {
-        "latin": "Posse",
-        "ru": "Мочь"
-      }
-    ],
-    "reviewed_today": [
-      "Fieri",
-      "Vultus",
-      "Damnum"
-    ]
-  },
-  {
-    "date": "2026-02-26",
-    "words": [
-      {
         "latin": "Sustinere",
         "ru": "Поддерживать, выдерживать"
       },
@@ -10997,6 +10975,28 @@
       "Villa",
       "Desistere",
       "Umquam"
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "words": [
+      {
+        "latin": "Rus",
+        "ru": "Деревня, поместье"
+      },
+      {
+        "latin": "Villa",
+        "ru": "Вилла, усадьба"
+      },
+      {
+        "latin": "Vitare",
+        "ru": "Избегать"
+      }
+    ],
+    "reviewed_today": [
+      "Ludus",
+      "Exemplum",
+      "Meus"
     ]
   }
 ]

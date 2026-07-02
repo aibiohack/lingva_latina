@@ -3,28 +3,6 @@
     "date": "2026-02-27",
     "words": [
       {
-        "latin": "Arbor",
-        "ru": "Дерево"
-      },
-      {
-        "latin": "Copia",
-        "ru": "Запас, множество"
-      },
-      {
-        "latin": "Cotidie",
-        "ru": "Ежедневно"
-      }
-    ],
-    "reviewed_today": [
-      "Gens",
-      "Lacrima",
-      "Forma"
-    ]
-  },
-  {
-    "date": "2026-02-27",
-    "words": [
-      {
         "latin": "Legio",
         "ru": "Легион"
       },
@@ -10997,6 +10975,28 @@
       "Flumen",
       "Dominus",
       "Posse"
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "words": [
+      {
+        "latin": "Constantia",
+        "ru": "Постоянство, стойкость"
+      },
+      {
+        "latin": "Filius",
+        "ru": "Сын"
+      },
+      {
+        "latin": "Secundum",
+        "ru": "Согласно"
+      }
+    ],
+    "reviewed_today": [
+      "Periculum",
+      "Fidelis",
+      "Sonus"
     ]
   }
 ]

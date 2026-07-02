@@ -3,28 +3,6 @@
     "date": "2026-02-27",
     "words": [
       {
-        "latin": "Tremere",
-        "ru": "Дрожать, трепетать"
-      },
-      {
-        "latin": "Lex",
-        "ru": "Закон"
-      },
-      {
-        "latin": "Constantia",
-        "ru": "Постоянство, стойкость"
-      }
-    ],
-    "reviewed_today": [
-      "Filius",
-      "Argentum",
-      "Ullus"
-    ]
-  },
-  {
-    "date": "2026-02-27",
-    "words": [
-      {
         "latin": "Arbor",
         "ru": "Дерево"
       },
@@ -10997,6 +10975,28 @@
       "Malle",
       "Dicere",
       "Appellare"
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "words": [
+      {
+        "latin": "Votum",
+        "ru": "Обет, желание"
+      },
+      {
+        "latin": "Vir",
+        "ru": "Мужчина, муж"
+      },
+      {
+        "latin": "Consuetudo",
+        "ru": "Привычка, обычай"
+      }
+    ],
+    "reviewed_today": [
+      "Flumen",
+      "Dominus",
+      "Posse"
     ]
   }
 ]

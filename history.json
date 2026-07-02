@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-26",
-    "words": [
-      {
-        "latin": "Sustinere",
-        "ru": "Поддерживать, выдерживать"
-      },
-      {
-        "latin": "Tenebrae",
-        "ru": "Мрак, тьма"
-      },
-      {
-        "latin": "Manere",
-        "ru": "Оставаться"
-      }
-    ],
-    "reviewed_today": [
-      "Ultimus",
-      "Crudele",
-      "Iudex"
-    ]
-  },
-  {
     "date": "2026-02-27",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Ludus",
       "Exemplum",
       "Meus"
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "words": [
+      {
+        "latin": "Solum",
+        "ru": "Только, лишь"
+      },
+      {
+        "latin": "Labor",
+        "ru": "Труд"
+      },
+      {
+        "latin": "Gravis",
+        "ru": "Тяжелый"
+      }
+    ],
+    "reviewed_today": [
+      "Malle",
+      "Dicere",
+      "Appellare"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-02-28",
     "words": [
       {
-        "latin": "Vero",
-        "ru": "Истинно, однако"
-      },
-      {
-        "latin": "Equus",
-        "ru": "Лошадь"
-      },
-      {
-        "latin": "Persona",
-        "ru": "Личность"
-      }
-    ],
-    "reviewed_today": [
-      "Exemplum",
-      "Vigilia",
-      "Sedere"
-    ]
-  },
-  {
-    "date": "2026-02-28",
-    "words": [
-      {
         "latin": "Laetus",
         "ru": "Веселый, тучный"
       },
@@ -10997,6 +10975,28 @@
       "Amare",
       "Ille",
       "Crudele"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "words": [
+      {
+        "latin": "Sanguis",
+        "ru": "Кровь"
+      },
+      {
+        "latin": "Testis",
+        "ru": "Свидетель"
+      },
+      {
+        "latin": "Durare",
+        "ru": "Длиться, закалять"
+      }
+    ],
+    "reviewed_today": [
+      "Rus",
+      "Genu",
+      "Mittere"
     ]
   }
 ]

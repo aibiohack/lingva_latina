@@ -3,28 +3,6 @@
     "date": "2026-02-27",
     "words": [
       {
-        "latin": "Legio",
-        "ru": "Легион"
-      },
-      {
-        "latin": "Magis",
-        "ru": "Более"
-      },
-      {
-        "latin": "Ignis",
-        "ru": "Огонь"
-      }
-    ],
-    "reviewed_today": [
-      "Urbs",
-      "Moenia",
-      "Unus"
-    ]
-  },
-  {
-    "date": "2026-02-27",
-    "words": [
-      {
         "latin": "Roma",
         "ru": "Рим"
       },
@@ -10997,6 +10975,28 @@
       "Periculum",
       "Fidelis",
       "Sonus"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "words": [
+      {
+        "latin": "Statuere",
+        "ru": "Ставить, решать"
+      },
+      {
+        "latin": "Fulmen",
+        "ru": "Молния"
+      },
+      {
+        "latin": "Unde",
+        "ru": "Откуда"
+      }
+    ],
+    "reviewed_today": [
+      "Tumultus",
+      "Metuere",
+      "Lumen"
     ]
   }
 ]

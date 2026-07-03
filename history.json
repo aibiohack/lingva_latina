@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-27",
-    "words": [
-      {
-        "latin": "Roma",
-        "ru": "Рим"
-      },
-      {
-        "latin": "Vultus",
-        "ru": "Лицо, выражение лица"
-      },
-      {
-        "latin": "Parvus",
-        "ru": "Маленький"
-      }
-    ],
-    "reviewed_today": [
-      "Gelu",
-      "Facinus",
-      "Amare"
-    ]
-  },
-  {
     "date": "2026-02-28",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Tumultus",
       "Metuere",
       "Lumen"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "words": [
+      {
+        "latin": "Relinquere",
+        "ru": "Оставлять, покидать"
+      },
+      {
+        "latin": "Ridere",
+        "ru": "Смеяться"
+      },
+      {
+        "latin": "Ripa",
+        "ru": "Берег (реки)"
+      }
+    ],
+    "reviewed_today": [
+      "Fundamentum",
+      "Latere",
+      "Tribuere"
     ]
   }
 ]

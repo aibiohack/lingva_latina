@@ -3,28 +3,6 @@
     "date": "2026-02-28",
     "words": [
       {
-        "latin": "Densus",
-        "ru": "Густой, плотный"
-      },
-      {
-        "latin": "Sub",
-        "ru": "Под"
-      },
-      {
-        "latin": "Magister",
-        "ru": "Учитель"
-      }
-    ],
-    "reviewed_today": [
-      "Etiam",
-      "Titulus",
-      "Videre"
-    ]
-  },
-  {
-    "date": "2026-02-28",
-    "words": [
-      {
         "latin": "Vero",
         "ru": "Истинно, однако"
       },
@@ -10997,6 +10975,28 @@
       "Fundamentum",
       "Latere",
       "Tribuere"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "words": [
+      {
+        "latin": "Bestia",
+        "ru": "Зверь, животное"
+      },
+      {
+        "latin": "Viginti",
+        "ru": "Двадцать"
+      },
+      {
+        "latin": "Facies",
+        "ru": "Лицо"
+      }
+    ],
+    "reviewed_today": [
+      "Amare",
+      "Ille",
+      "Crudele"
     ]
   }
 ]

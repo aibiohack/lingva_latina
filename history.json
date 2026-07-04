@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-02-28",
-    "words": [
-      {
-        "latin": "Velox",
-        "ru": "Быстрый"
-      },
-      {
-        "latin": "Figura",
-        "ru": "Образ, вид"
-      },
-      {
-        "latin": "Victor",
-        "ru": "Победитель"
-      }
-    ],
-    "reviewed_today": [
-      "Vox",
-      "Tertius",
-      "Iuvenis"
-    ]
-  },
-  {
     "date": "2026-03-01",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Decere",
       "Hinc",
       "Ite"
+    ]
+  },
+  {
+    "date": "2026-07-04",
+    "words": [
+      {
+        "latin": "Sex",
+        "ru": "Шесть"
+      },
+      {
+        "latin": "Copia",
+        "ru": "Запас, множество"
+      },
+      {
+        "latin": "Densus",
+        "ru": "Густой, плотный"
+      }
+    ],
+    "reviewed_today": [
+      "Circa",
+      "Vivere",
+      "Posse"
     ]
   }
 ]

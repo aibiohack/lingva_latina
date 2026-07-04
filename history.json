@@ -3,28 +3,6 @@
     "date": "2026-03-01",
     "words": [
       {
-        "latin": "Stilus",
-        "ru": "Стиль, палочка для письма"
-      },
-      {
-        "latin": "Arma",
-        "ru": "Оружие"
-      },
-      {
-        "latin": "Singulus",
-        "ru": "Одиночный"
-      }
-    ],
-    "reviewed_today": [
-      "Rapere",
-      "Post",
-      "Manere"
-    ]
-  },
-  {
-    "date": "2026-03-01",
-    "words": [
-      {
         "latin": "Vindicare",
         "ru": "Заявлять права, мстить"
       },
@@ -10997,6 +10975,28 @@
       "Circa",
       "Vivere",
       "Posse"
+    ]
+  },
+  {
+    "date": "2026-07-04",
+    "words": [
+      {
+        "latin": "Tristis",
+        "ru": "Печальный, суровый"
+      },
+      {
+        "latin": "Suscipere",
+        "ru": "Предпринимать, принимать"
+      },
+      {
+        "latin": "Vale",
+        "ru": "Прощай (будь здоров)"
+      }
+    ],
+    "reviewed_today": [
+      "Vicus",
+      "Cupere",
+      "Ignoscerе"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-02-28",
     "words": [
       {
-        "latin": "Laetus",
-        "ru": "Веселый, тучный"
-      },
-      {
-        "latin": "Sex",
-        "ru": "Шесть"
-      },
-      {
-        "latin": "Telum",
-        "ru": "Оружие, копье"
-      }
-    ],
-    "reviewed_today": [
-      "Utor",
-      "Iuvare",
-      "Virtus"
-    ]
-  },
-  {
-    "date": "2026-02-28",
-    "words": [
-      {
         "latin": "Velox",
         "ru": "Быстрый"
       },
@@ -10997,6 +10975,28 @@
       "Rus",
       "Genu",
       "Mittere"
+    ]
+  },
+  {
+    "date": "2026-07-04",
+    "words": [
+      {
+        "latin": "Caput",
+        "ru": "Голова"
+      },
+      {
+        "latin": "Lumen",
+        "ru": "Свет"
+      },
+      {
+        "latin": "Immortalis",
+        "ru": "Бессмертный"
+      }
+    ],
+    "reviewed_today": [
+      "Decere",
+      "Hinc",
+      "Ite"
     ]
   }
 ]

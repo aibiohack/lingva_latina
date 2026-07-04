@@ -3,28 +3,6 @@
     "date": "2026-03-01",
     "words": [
       {
-        "latin": "Vindicare",
-        "ru": "Заявлять права, мстить"
-      },
-      {
-        "latin": "Pax",
-        "ru": "Мир"
-      },
-      {
-        "latin": "Vestis",
-        "ru": "Одежда"
-      }
-    ],
-    "reviewed_today": [
-      "Ut",
-      "Custos",
-      "Stirps"
-    ]
-  },
-  {
-    "date": "2026-03-01",
-    "words": [
-      {
         "latin": "Umbra",
         "ru": "Тень"
       },
@@ -10997,6 +10975,28 @@
       "Vicus",
       "Cupere",
       "Ignoscerе"
+    ]
+  },
+  {
+    "date": "2026-07-04",
+    "words": [
+      {
+        "latin": "Libertas",
+        "ru": "Свобода"
+      },
+      {
+        "latin": "Donum",
+        "ru": "Подарок"
+      },
+      {
+        "latin": "Mensis",
+        "ru": "Месяц"
+      }
+    ],
+    "reviewed_today": [
+      "Monstrare",
+      "Dens",
+      "Telum"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-03-02",
     "words": [
       {
-        "latin": "Sanctus",
-        "ru": "Святой"
-      },
-      {
-        "latin": "Parvus",
-        "ru": "Маленький"
-      },
-      {
-        "latin": "Frigus",
-        "ru": "Холод, мороз"
-      }
-    ],
-    "reviewed_today": [
-      "Cotidie",
-      "Terrere",
-      "Hiems"
-    ]
-  },
-  {
-    "date": "2026-03-02",
-    "words": [
-      {
         "latin": "Heri",
         "ru": "Вчера"
       },
@@ -10997,6 +10975,28 @@
       "Invidia",
       "Suavis",
       "Undique"
+    ]
+  },
+  {
+    "date": "2026-07-05",
+    "words": [
+      {
+        "latin": "Brevis",
+        "ru": "Короткий"
+      },
+      {
+        "latin": "Diversus",
+        "ru": "Разный, противоположный"
+      },
+      {
+        "latin": "Scire",
+        "ru": "Знать"
+      }
+    ],
+    "reviewed_today": [
+      "Senex",
+      "Septem",
+      "Cedere"
     ]
   }
 ]

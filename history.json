@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-01",
-    "words": [
-      {
-        "latin": "Vivere",
-        "ru": "Жить"
-      },
-      {
-        "latin": "Rosa",
-        "ru": "Роза"
-      },
-      {
-        "latin": "Invitare",
-        "ru": "Приглашать"
-      }
-    ],
-    "reviewed_today": [
-      "Ignis",
-      "Consilium",
-      "Magnus"
-    ]
-  },
-  {
     "date": "2026-03-02",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Timere",
       "Lupus",
       "Instruere"
+    ]
+  },
+  {
+    "date": "2026-07-05",
+    "words": [
+      {
+        "latin": "Talis",
+        "ru": "Такой"
+      },
+      {
+        "latin": "Colere",
+        "ru": "Возделывать, почитать"
+      },
+      {
+        "latin": "Ubique",
+        "ru": "Везде, повсюду"
+      }
+    ],
+    "reviewed_today": [
+      "Ira",
+      "Discipulus",
+      "Valetudo"
     ]
   }
 ]

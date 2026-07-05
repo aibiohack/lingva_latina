@@ -3,28 +3,6 @@
     "date": "2026-03-02",
     "words": [
       {
-        "latin": "Memoria",
-        "ru": "Память"
-      },
-      {
-        "latin": "Invenire",
-        "ru": "Находить, изобретать"
-      },
-      {
-        "latin": "Barbarus",
-        "ru": "Чужеземец, варвар"
-      }
-    ],
-    "reviewed_today": [
-      "Quoque",
-      "Aevum",
-      "Iugum"
-    ]
-  },
-  {
-    "date": "2026-03-02",
-    "words": [
-      {
         "latin": "Sanctus",
         "ru": "Святой"
       },
@@ -10997,6 +10975,28 @@
       "Ira",
       "Discipulus",
       "Valetudo"
+    ]
+  },
+  {
+    "date": "2026-07-05",
+    "words": [
+      {
+        "latin": "Stilus",
+        "ru": "Стиль, палочка для письма"
+      },
+      {
+        "latin": "Rosa",
+        "ru": "Роза"
+      },
+      {
+        "latin": "Rosa",
+        "ru": "Роза"
+      }
+    ],
+    "reviewed_today": [
+      "Invidia",
+      "Suavis",
+      "Undique"
     ]
   }
 ]

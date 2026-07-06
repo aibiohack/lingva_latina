@@ -3,28 +3,6 @@
     "date": "2026-03-02",
     "words": [
       {
-        "latin": "Heri",
-        "ru": "Вчера"
-      },
-      {
-        "latin": "Vacuus",
-        "ru": "Пустой, свободный"
-      },
-      {
-        "latin": "Testis",
-        "ru": "Свидетель"
-      }
-    ],
-    "reviewed_today": [
-      "Socius",
-      "Soror",
-      "Intelligere"
-    ]
-  },
-  {
-    "date": "2026-03-02",
-    "words": [
-      {
         "latin": "Verus",
         "ru": "Истинный"
       },
@@ -10997,6 +10975,28 @@
       "Senex",
       "Septem",
       "Cedere"
+    ]
+  },
+  {
+    "date": "2026-07-06",
+    "words": [
+      {
+        "latin": "Mons",
+        "ru": "Гора"
+      },
+      {
+        "latin": "Trans",
+        "ru": "Через, по ту сторону"
+      },
+      {
+        "latin": "Fovere",
+        "ru": "Греть, лелеять"
+      }
+    ],
+    "reviewed_today": [
+      "Duo",
+      "Sitire",
+      "Rectus"
     ]
   }
 ]

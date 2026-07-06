@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-02",
-    "words": [
-      {
-        "latin": "Verus",
-        "ru": "Истинный"
-      },
-      {
-        "latin": "Utilis",
-        "ru": "Полезный"
-      },
-      {
-        "latin": "Subito",
-        "ru": "Внезапно"
-      }
-    ],
-    "reviewed_today": [
-      "Sex",
-      "Vehementer",
-      "Caelum"
-    ]
-  },
-  {
     "date": "2026-03-03",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Duo",
       "Sitire",
       "Rectus"
+    ]
+  },
+  {
+    "date": "2026-07-06",
+    "words": [
+      {
+        "latin": "Victoria",
+        "ru": "Победа"
+      },
+      {
+        "latin": "Spes",
+        "ru": "Надежда"
+      },
+      {
+        "latin": "Tranquillitas",
+        "ru": "Спокойствие, тишина"
+      }
+    ],
+    "reviewed_today": [
+      "Coepi",
+      "Volvo",
+      "Diligere"
     ]
   }
 ]

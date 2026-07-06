@@ -3,28 +3,6 @@
     "date": "2026-03-03",
     "words": [
       {
-        "latin": "Debere",
-        "ru": "Быть должным"
-      },
-      {
-        "latin": "Aeternus",
-        "ru": "Вечный"
-      },
-      {
-        "latin": "Veho",
-        "ru": "Везу"
-      }
-    ],
-    "reviewed_today": [
-      "Res",
-      "Semper",
-      "Metuere"
-    ]
-  },
-  {
-    "date": "2026-03-03",
-    "words": [
-      {
         "latin": "Vicinus",
         "ru": "Соседний"
       },
@@ -10997,6 +10975,28 @@
       "Coepi",
       "Volvo",
       "Diligere"
+    ]
+  },
+  {
+    "date": "2026-07-06",
+    "words": [
+      {
+        "latin": "Tertius",
+        "ru": "Третий"
+      },
+      {
+        "latin": "Densus",
+        "ru": "Густой, плотный"
+      },
+      {
+        "latin": "Vindex",
+        "ru": "Защитник, мститель"
+      }
+    ],
+    "reviewed_today": [
+      "Punitio",
+      "Solus",
+      "Incendere"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-03-03",
     "words": [
       {
-        "latin": "Vicinus",
-        "ru": "Соседний"
-      },
-      {
-        "latin": "Sinister",
-        "ru": "Левый, дурной"
-      },
-      {
-        "latin": "Undique",
-        "ru": "Отовсюду"
-      }
-    ],
-    "reviewed_today": [
-      "Tibia",
-      "Senex",
-      "Monere"
-    ]
-  },
-  {
-    "date": "2026-03-03",
-    "words": [
-      {
         "latin": "Victor",
         "ru": "Победитель"
       },
@@ -10997,6 +10975,28 @@
       "Punitio",
       "Solus",
       "Incendere"
+    ]
+  },
+  {
+    "date": "2026-07-06",
+    "words": [
+      {
+        "latin": "Debere",
+        "ru": "Быть должным"
+      },
+      {
+        "latin": "Parvus",
+        "ru": "Маленький"
+      },
+      {
+        "latin": "Heri",
+        "ru": "Вчера"
+      }
+    ],
+    "reviewed_today": [
+      "Sine",
+      "Diversus",
+      "Titulus"
     ]
   }
 ]

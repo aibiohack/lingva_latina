@@ -3,28 +3,6 @@
     "date": "2026-03-04",
     "words": [
       {
-        "latin": "Cibus",
-        "ru": "Пища, еда"
-      },
-      {
-        "latin": "Disertus",
-        "ru": "Красноречивый"
-      },
-      {
-        "latin": "Arbor",
-        "ru": "Дерево"
-      }
-    ],
-    "reviewed_today": [
-      "Porta",
-      "Ignoscerе",
-      "Tuus"
-    ]
-  },
-  {
-    "date": "2026-03-04",
-    "words": [
-      {
         "latin": "Superbus",
         "ru": "Гордый, высокомерный"
       },
@@ -10997,6 +10975,28 @@
       "Pater",
       "Lenis",
       "Ungere"
+    ]
+  },
+  {
+    "date": "2026-07-07",
+    "words": [
+      {
+        "latin": "Domus",
+        "ru": "Дом"
+      },
+      {
+        "latin": "Vox",
+        "ru": "Голос"
+      },
+      {
+        "latin": "Vox",
+        "ru": "Голос, звук"
+      }
+    ],
+    "reviewed_today": [
+      "Longus",
+      "Coepi",
+      "Fessus"
     ]
   }
 ]

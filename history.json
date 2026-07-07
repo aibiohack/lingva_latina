@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-03",
-    "words": [
-      {
-        "latin": "Statuere",
-        "ru": "Ставить, решать"
-      },
-      {
-        "latin": "Vox",
-        "ru": "Голос, звук"
-      },
-      {
-        "latin": "Uxor",
-        "ru": "Жена"
-      }
-    ],
-    "reviewed_today": [
-      "Utique",
-      "Frater",
-      "Vertere"
-    ]
-  },
-  {
     "date": "2026-03-04",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Reus",
       "Officium",
       "Cupiditas"
+    ]
+  },
+  {
+    "date": "2026-07-07",
+    "words": [
+      {
+        "latin": "Socius",
+        "ru": "Союзник, товарищ"
+      },
+      {
+        "latin": "Innocens",
+        "ru": "Невинный"
+      },
+      {
+        "latin": "Idoneus",
+        "ru": "Удобный, годный"
+      }
+    ],
+    "reviewed_today": [
+      "Tutus",
+      "Simul",
+      "Tres"
     ]
   }
 ]

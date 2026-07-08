@@ -3,28 +3,6 @@
     "date": "2026-03-05",
     "words": [
       {
-        "latin": "Ridere",
-        "ru": "Смеяться"
-      },
-      {
-        "latin": "Signum",
-        "ru": "Знак"
-      },
-      {
-        "latin": "Alius",
-        "ru": "Другой (из многих)"
-      }
-    ],
-    "reviewed_today": [
-      "Sanctus",
-      "Vincire",
-      "Instruere"
-    ]
-  },
-  {
-    "date": "2026-03-05",
-    "words": [
-      {
         "latin": "Desiderium",
         "ru": "Желание, тоска"
       },
@@ -10997,6 +10975,28 @@
       "Scelus",
       "Facilis",
       "Spatium"
+    ]
+  },
+  {
+    "date": "2026-07-08",
+    "words": [
+      {
+        "latin": "Fidelis",
+        "ru": "Верный, надежный"
+      },
+      {
+        "latin": "Dividere",
+        "ru": "Делить"
+      },
+      {
+        "latin": "Tutus",
+        "ru": "Безопасный"
+      }
+    ],
+    "reviewed_today": [
+      "Consuetudo",
+      "Remus",
+      "Ripa"
     ]
   }
 ]

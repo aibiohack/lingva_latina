@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-04",
-    "words": [
-      {
-        "latin": "Saepe",
-        "ru": "Часто"
-      },
-      {
-        "latin": "Fidelis",
-        "ru": "Верный, надежный"
-      },
-      {
-        "latin": "Limen",
-        "ru": "Порог"
-      }
-    ],
-    "reviewed_today": [
-      "Tormentum",
-      "Studere",
-      "Laus"
-    ]
-  },
-  {
     "date": "2026-03-05",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Crudele",
       "Pars",
       "Vulnero"
+    ]
+  },
+  {
+    "date": "2026-07-08",
+    "words": [
+      {
+        "latin": "Imperare",
+        "ru": "Приказывать"
+      },
+      {
+        "latin": "Tenebrae",
+        "ru": "Мрак, тьма"
+      },
+      {
+        "latin": "Vae",
+        "ru": "Горе!"
+      }
+    ],
+    "reviewed_today": [
+      "Scelus",
+      "Facilis",
+      "Spatium"
     ]
   }
 ]

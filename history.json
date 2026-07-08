@@ -3,28 +3,6 @@
     "date": "2026-03-05",
     "words": [
       {
-        "latin": "Desiderium",
-        "ru": "Желание, тоска"
-      },
-      {
-        "latin": "Via",
-        "ru": "Путь"
-      },
-      {
-        "latin": "Templum",
-        "ru": "Храм"
-      }
-    ],
-    "reviewed_today": [
-      "Versari",
-      "Dignus",
-      "Imago"
-    ]
-  },
-  {
-    "date": "2026-03-05",
-    "words": [
-      {
         "latin": "Tremere",
         "ru": "Дрожать, трепетать"
       },
@@ -10997,6 +10975,28 @@
       "Consuetudo",
       "Remus",
       "Ripa"
+    ]
+  },
+  {
+    "date": "2026-07-08",
+    "words": [
+      {
+        "latin": "Ibi",
+        "ru": "Там"
+      },
+      {
+        "latin": "Vanitas",
+        "ru": "Суета, тщеславие"
+      },
+      {
+        "latin": "Solium",
+        "ru": "Престол, трон"
+      }
+    ],
+    "reviewed_today": [
+      "Terror",
+      "Temperantia",
+      "Difficilis"
     ]
   }
 ]

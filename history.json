@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-05",
-    "words": [
-      {
-        "latin": "Facilis",
-        "ru": "Легкий"
-      },
-      {
-        "latin": "Duo",
-        "ru": "Два"
-      },
-      {
-        "latin": "Honor",
-        "ru": "Честь"
-      }
-    ],
-    "reviewed_today": [
-      "Facilis",
-      "Lucere",
-      "Viator"
-    ]
-  },
-  {
     "date": "2026-03-06",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Gaudium",
       "Caelum",
       "Vulnus"
+    ]
+  },
+  {
+    "date": "2026-07-09",
+    "words": [
+      {
+        "latin": "Hiems",
+        "ru": "Зима"
+      },
+      {
+        "latin": "Tolerare",
+        "ru": "Терпеть, переносить"
+      },
+      {
+        "latin": "Vester",
+        "ru": "Ваш"
+      }
+    ],
+    "reviewed_today": [
+      "Pars",
+      "Ruere",
+      "Laborare"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-03-05",
     "words": [
       {
-        "latin": "Tremere",
-        "ru": "Дрожать, трепетать"
-      },
-      {
-        "latin": "Vicinus",
-        "ru": "Сосед"
-      },
-      {
-        "latin": "Finis",
-        "ru": "Конец"
-      }
-    ],
-    "reviewed_today": [
-      "Maestus",
-      "Subito",
-      "Bibere"
-    ]
-  },
-  {
-    "date": "2026-03-05",
-    "words": [
-      {
         "latin": "Facilis",
         "ru": "Легкий"
       },
@@ -10997,6 +10975,28 @@
       "Terror",
       "Temperantia",
       "Difficilis"
+    ]
+  },
+  {
+    "date": "2026-07-09",
+    "words": [
+      {
+        "latin": "Os, oris",
+        "ru": "Рот"
+      },
+      {
+        "latin": "Stare",
+        "ru": "Стоять"
+      },
+      {
+        "latin": "Habeo",
+        "ru": "Иметь"
+      }
+    ],
+    "reviewed_today": [
+      "Gaudium",
+      "Caelum",
+      "Vulnus"
     ]
   }
 ]

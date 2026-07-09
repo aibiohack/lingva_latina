@@ -3,28 +3,6 @@
     "date": "2026-03-06",
     "words": [
       {
-        "latin": "Rex",
-        "ru": "Царь, король"
-      },
-      {
-        "latin": "Pugnare",
-        "ru": "Сражаться"
-      },
-      {
-        "latin": "Sui",
-        "ru": "Себя"
-      }
-    ],
-    "reviewed_today": [
-      "Eripere",
-      "Laborare",
-      "Vendere"
-    ]
-  },
-  {
-    "date": "2026-03-06",
-    "words": [
-      {
         "latin": "Mare",
         "ru": "Море"
       },
@@ -10997,6 +10975,28 @@
       "Pars",
       "Ruere",
       "Laborare"
+    ]
+  },
+  {
+    "date": "2026-07-09",
+    "words": [
+      {
+        "latin": "Facilis",
+        "ru": "Легкий"
+      },
+      {
+        "latin": "Tremere",
+        "ru": "Дрожать, трепетать"
+      },
+      {
+        "latin": "Finis",
+        "ru": "Конец"
+      }
+    ],
+    "reviewed_today": [
+      "Sufferre",
+      "Frigus",
+      "Triduum"
     ]
   }
 ]

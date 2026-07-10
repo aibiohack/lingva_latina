@@ -3,28 +3,6 @@
     "date": "2026-03-06",
     "words": [
       {
-        "latin": "Velle",
-        "ru": "Хотеть"
-      },
-      {
-        "latin": "Defendere",
-        "ru": "Защищать"
-      },
-      {
-        "latin": "Barbarus",
-        "ru": "Чужеземец, варвар"
-      }
-    ],
-    "reviewed_today": [
-      "Trans",
-      "Honestus",
-      "Initium"
-    ]
-  },
-  {
-    "date": "2026-03-06",
-    "words": [
-      {
         "latin": "Venerari",
         "ru": "Почитать"
       },
@@ -10997,6 +10975,28 @@
       "Vos",
       "Ter",
       "Ridere"
+    ]
+  },
+  {
+    "date": "2026-07-10",
+    "words": [
+      {
+        "latin": "Tamen",
+        "ru": "Однако"
+      },
+      {
+        "latin": "Contra",
+        "ru": "Против"
+      },
+      {
+        "latin": "Disputare",
+        "ru": "Рассуждать, спорить"
+      }
+    ],
+    "reviewed_today": [
+      "Autem",
+      "Cotidie",
+      "Clarus"
     ]
   }
 ]

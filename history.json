@@ -3,28 +3,6 @@
     "date": "2026-03-06",
     "words": [
       {
-        "latin": "Mare",
-        "ru": "Море"
-      },
-      {
-        "latin": "Valere",
-        "ru": "Быть здоровым, иметь силу"
-      },
-      {
-        "latin": "Dubius",
-        "ru": "Сомнительный"
-      }
-    ],
-    "reviewed_today": [
-      "Censeo",
-      "Colloquium",
-      "Puer"
-    ]
-  },
-  {
-    "date": "2026-03-06",
-    "words": [
-      {
         "latin": "Velle",
         "ru": "Хотеть"
       },
@@ -10997,6 +10975,28 @@
       "Sufferre",
       "Frigus",
       "Triduum"
+    ]
+  },
+  {
+    "date": "2026-07-10",
+    "words": [
+      {
+        "latin": "Vicinus",
+        "ru": "Сосед"
+      },
+      {
+        "latin": "Cras",
+        "ru": "Завтра"
+      },
+      {
+        "latin": "Tibia",
+        "ru": "Флейта, голень"
+      }
+    ],
+    "reviewed_today": [
+      "Vos",
+      "Ter",
+      "Ridere"
     ]
   }
 ]

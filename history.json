@@ -3,28 +3,6 @@
     "date": "2026-03-07",
     "words": [
       {
-        "latin": "Sufferre",
-        "ru": "Терпеть, выносить"
-      },
-      {
-        "latin": "Vicus",
-        "ru": "Деревня, квартал"
-      },
-      {
-        "latin": "Charta",
-        "ru": "Бумага, лист"
-      }
-    ],
-    "reviewed_today": [
-      "Tangere",
-      "Natura",
-      "Pater"
-    ]
-  },
-  {
-    "date": "2026-03-07",
-    "words": [
-      {
         "latin": "Novus",
         "ru": "Новый"
       },
@@ -10997,6 +10975,28 @@
       "Valetudo",
       "Virtus",
       "Venenum"
+    ]
+  },
+  {
+    "date": "2026-07-10",
+    "words": [
+      {
+        "latin": "Forma",
+        "ru": "Красота, форма"
+      },
+      {
+        "latin": "Mare",
+        "ru": "Море"
+      },
+      {
+        "latin": "Sui",
+        "ru": "Себя"
+      }
+    ],
+    "reviewed_today": [
+      "Sanitas",
+      "Dividere",
+      "Desiderium"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-06",
-    "words": [
-      {
-        "latin": "Venerari",
-        "ru": "Почитать"
-      },
-      {
-        "latin": "Forma",
-        "ru": "Красота, форма"
-      },
-      {
-        "latin": "Debeo",
-        "ru": "Должен"
-      }
-    ],
-    "reviewed_today": [
-      "Reliquus",
-      "Animus",
-      "Robur"
-    ]
-  },
-  {
     "date": "2026-03-07",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Autem",
       "Cotidie",
       "Clarus"
+    ]
+  },
+  {
+    "date": "2026-07-10",
+    "words": [
+      {
+        "latin": "Scutum",
+        "ru": "Щит"
+      },
+      {
+        "latin": "Supplex",
+        "ru": "Молящий, покорный"
+      },
+      {
+        "latin": "Externus",
+        "ru": "Внешний, чужой"
+      }
+    ],
+    "reviewed_today": [
+      "Valetudo",
+      "Virtus",
+      "Venenum"
     ]
   }
 ]

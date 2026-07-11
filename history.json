@@ -3,28 +3,6 @@
     "date": "2026-03-07",
     "words": [
       {
-        "latin": "Miles",
-        "ru": "Воин"
-      },
-      {
-        "latin": "Vir",
-        "ru": "Мужчина"
-      },
-      {
-        "latin": "Coniunx",
-        "ru": "Супруг, супруга"
-      }
-    ],
-    "reviewed_today": [
-      "Satis",
-      "Puella",
-      "Plenus"
-    ]
-  },
-  {
-    "date": "2026-03-07",
-    "words": [
-      {
         "latin": "Animus",
         "ru": "Дух, разум"
       },
@@ -10997,6 +10975,28 @@
       "Varius",
       "Aliquis",
       "Castrum"
+    ]
+  },
+  {
+    "date": "2026-07-11",
+    "words": [
+      {
+        "latin": "Humus",
+        "ru": "Земля"
+      },
+      {
+        "latin": "Duo",
+        "ru": "Два"
+      },
+      {
+        "latin": "Docere",
+        "ru": "Учить, обучать"
+      }
+    ],
+    "reviewed_today": [
+      "Foedus",
+      "Filius",
+      "Lux"
     ]
   }
 ]

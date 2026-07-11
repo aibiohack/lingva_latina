@@ -3,28 +3,6 @@
     "date": "2026-03-08",
     "words": [
       {
-        "latin": "Volare",
-        "ru": "Летать"
-      },
-      {
-        "latin": "Contentus",
-        "ru": "Довольный"
-      },
-      {
-        "latin": "Flamma",
-        "ru": "Пламя"
-      }
-    ],
-    "reviewed_today": [
-      "Legere",
-      "Statuere",
-      "Suspicio"
-    ]
-  },
-  {
-    "date": "2026-03-08",
-    "words": [
-      {
         "latin": "Flos",
         "ru": "Цветок"
       },
@@ -10997,6 +10975,28 @@
       "Studium",
       "Liber",
       "Dominus"
+    ]
+  },
+  {
+    "date": "2026-07-11",
+    "words": [
+      {
+        "latin": "Sufferre",
+        "ru": "Терпеть, выносить"
+      },
+      {
+        "latin": "Coniunx",
+        "ru": "Супруг, супруга"
+      },
+      {
+        "latin": "Animus",
+        "ru": "Дух, разум"
+      }
+    ],
+    "reviewed_today": [
+      "Habitus",
+      "Crux",
+      "Iter"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-03-07",
     "words": [
       {
-        "latin": "Novus",
-        "ru": "Новый"
-      },
-      {
-        "latin": "Omnis",
-        "ru": "Весь"
-      },
-      {
-        "latin": "Trans",
-        "ru": "Через, по ту сторону"
-      }
-    ],
-    "reviewed_today": [
-      "Mare",
-      "Colloquium",
-      "Rosa"
-    ]
-  },
-  {
-    "date": "2026-03-07",
-    "words": [
-      {
         "latin": "Miles",
         "ru": "Воин"
       },
@@ -10997,6 +10975,28 @@
       "Sanitas",
       "Dividere",
       "Desiderium"
+    ]
+  },
+  {
+    "date": "2026-07-11",
+    "words": [
+      {
+        "latin": "Iustus",
+        "ru": "Справедливый"
+      },
+      {
+        "latin": "Membrum",
+        "ru": "Член (тела), часть"
+      },
+      {
+        "latin": "Discere",
+        "ru": "Учиться"
+      }
+    ],
+    "reviewed_today": [
+      "Varius",
+      "Aliquis",
+      "Castrum"
     ]
   }
 ]

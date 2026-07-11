@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-07",
-    "words": [
-      {
-        "latin": "Animus",
-        "ru": "Дух, разум"
-      },
-      {
-        "latin": "Iudicium",
-        "ru": "Суд, суждение"
-      },
-      {
-        "latin": "Diversus",
-        "ru": "Разный, противоположный"
-      }
-    ],
-    "reviewed_today": [
-      "Littera",
-      "Tolerare",
-      "Ius"
-    ]
-  },
-  {
     "date": "2026-03-08",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Foedus",
       "Filius",
       "Lux"
+    ]
+  },
+  {
+    "date": "2026-07-11",
+    "words": [
+      {
+        "latin": "Legere",
+        "ru": "Читать"
+      },
+      {
+        "latin": "Salus",
+        "ru": "Здоровье, спасение, приветствие"
+      },
+      {
+        "latin": "Mollis",
+        "ru": "Мягкий"
+      }
+    ],
+    "reviewed_today": [
+      "Studium",
+      "Liber",
+      "Dominus"
     ]
   }
 ]

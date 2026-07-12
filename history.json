@@ -3,28 +3,6 @@
     "date": "2026-03-08",
     "words": [
       {
-        "latin": "Efficere",
-        "ru": "Действовать, исполнять"
-      },
-      {
-        "latin": "Idoneus",
-        "ru": "Удобный, годный"
-      },
-      {
-        "latin": "Veritas",
-        "ru": "Истина"
-      }
-    ],
-    "reviewed_today": [
-      "Salus",
-      "Forum",
-      "Vallis"
-    ]
-  },
-  {
-    "date": "2026-03-08",
-    "words": [
-      {
         "latin": "Annus",
         "ru": "Год"
       },
@@ -10997,6 +10975,28 @@
       "Prope",
       "Brevis",
       "Cor"
+    ]
+  },
+  {
+    "date": "2026-07-12",
+    "words": [
+      {
+        "latin": "Vacare",
+        "ru": "Быть свободным, пустовать"
+      },
+      {
+        "latin": "Sal",
+        "ru": "Соль, остроумие"
+      },
+      {
+        "latin": "Sidus",
+        "ru": "Звезда, созвездие"
+      }
+    ],
+    "reviewed_today": [
+      "Vinum",
+      "Verere",
+      "Tamen"
     ]
   }
 ]

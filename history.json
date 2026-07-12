@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-08",
-    "words": [
-      {
-        "latin": "Annus",
-        "ru": "Год"
-      },
-      {
-        "latin": "Spiritus",
-        "ru": "Дух, дыхание"
-      },
-      {
-        "latin": "Tollere",
-        "ru": "Поднимать, уничтожать"
-      }
-    ],
-    "reviewed_today": [
-      "Pro",
-      "Inquit",
-      "Si"
-    ]
-  },
-  {
     "date": "2026-03-09",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Vinum",
       "Verere",
       "Tamen"
+    ]
+  },
+  {
+    "date": "2026-07-12",
+    "words": [
+      {
+        "latin": "Servitus",
+        "ru": "Рабство"
+      },
+      {
+        "latin": "Tamen",
+        "ru": "Однако"
+      },
+      {
+        "latin": "Vita",
+        "ru": "Жизнь"
+      }
+    ],
+    "reviewed_today": [
+      "Potestas",
+      "Colere",
+      "Ventus"
     ]
   }
 ]

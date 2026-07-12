@@ -3,28 +3,6 @@
     "date": "2026-03-08",
     "words": [
       {
-        "latin": "Flos",
-        "ru": "Цветок"
-      },
-      {
-        "latin": "Aeternus",
-        "ru": "Вечный"
-      },
-      {
-        "latin": "Securus",
-        "ru": "Безопасный, беззаботный"
-      }
-    ],
-    "reviewed_today": [
-      "Vacuus",
-      "Medicus",
-      "Late"
-    ]
-  },
-  {
-    "date": "2026-03-08",
-    "words": [
-      {
         "latin": "Efficere",
         "ru": "Действовать, исполнять"
       },
@@ -10997,6 +10975,28 @@
       "Habitus",
       "Crux",
       "Iter"
+    ]
+  },
+  {
+    "date": "2026-07-12",
+    "words": [
+      {
+        "latin": "Vehementer",
+        "ru": "Сильно, страстно"
+      },
+      {
+        "latin": "Respondere",
+        "ru": "Отвечать"
+      },
+      {
+        "latin": "Certe",
+        "ru": "Наверняка, конечно"
+      }
+    ],
+    "reviewed_today": [
+      "Prope",
+      "Brevis",
+      "Cor"
     ]
   }
 ]

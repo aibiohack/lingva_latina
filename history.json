@@ -3,28 +3,6 @@
     "date": "2026-03-09",
     "words": [
       {
-        "latin": "Flos",
-        "ru": "Цветок"
-      },
-      {
-        "latin": "Membrum",
-        "ru": "Член (тела), часть"
-      },
-      {
-        "latin": "Veritas",
-        "ru": "Истина"
-      }
-    ],
-    "reviewed_today": [
-      "Studium",
-      "Vultus",
-      "Persona"
-    ]
-  },
-  {
-    "date": "2026-03-09",
-    "words": [
-      {
         "latin": "Signum",
         "ru": "Знак, знамя"
       },
@@ -10997,6 +10975,28 @@
       "Potestas",
       "Colere",
       "Ventus"
+    ]
+  },
+  {
+    "date": "2026-07-12",
+    "words": [
+      {
+        "latin": "Debere",
+        "ru": "Быть должным"
+      },
+      {
+        "latin": "Imago",
+        "ru": "Изображение"
+      },
+      {
+        "latin": "Timor",
+        "ru": "Страх"
+      }
+    ],
+    "reviewed_today": [
+      "Fortasse",
+      "Fortis",
+      "Voluntas"
     ]
   }
 ]

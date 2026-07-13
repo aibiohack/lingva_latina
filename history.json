@@ -3,28 +3,6 @@
     "date": "2026-03-09",
     "words": [
       {
-        "latin": "Signum",
-        "ru": "Знак, знамя"
-      },
-      {
-        "latin": "Telum",
-        "ru": "Оружие, копье"
-      },
-      {
-        "latin": "Ignis",
-        "ru": "Огонь"
-      }
-    ],
-    "reviewed_today": [
-      "Nox",
-      "Late",
-      "Quaerere"
-    ]
-  },
-  {
-    "date": "2026-03-09",
-    "words": [
-      {
         "latin": "Satis",
         "ru": "Достаточно"
       },
@@ -10997,6 +10975,28 @@
       "Fortasse",
       "Fortis",
       "Voluntas"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "words": [
+      {
+        "latin": "Flos",
+        "ru": "Цветок"
+      },
+      {
+        "latin": "Securus",
+        "ru": "Безопасный, беззаботный"
+      },
+      {
+        "latin": "Contentus",
+        "ru": "Довольный"
+      }
+    ],
+    "reviewed_today": [
+      "Error",
+      "Ubique",
+      "Magnus"
     ]
   }
 ]

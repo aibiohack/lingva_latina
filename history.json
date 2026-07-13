@@ -3,28 +3,6 @@
     "date": "2026-03-10",
     "words": [
       {
-        "latin": "Fructus",
-        "ru": "Плод, доход"
-      },
-      {
-        "latin": "Spatium",
-        "ru": "Пространство, промежуток"
-      },
-      {
-        "latin": "Lapis",
-        "ru": "Камень"
-      }
-    ],
-    "reviewed_today": [
-      "Enuntiare",
-      "Sequi",
-      "Vos"
-    ]
-  },
-  {
-    "date": "2026-03-10",
-    "words": [
-      {
         "latin": "Color",
         "ru": "Цвет"
       },
@@ -10997,6 +10975,28 @@
       "Beatus",
       "Tangere",
       "Virtus"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "words": [
+      {
+        "latin": "Fama",
+        "ru": "Молва, слух"
+      },
+      {
+        "latin": "Sui",
+        "ru": "Себя"
+      },
+      {
+        "latin": "Dedico",
+        "ru": "Посвящаю"
+      }
+    ],
+    "reviewed_today": [
+      "Ludus",
+      "Iam",
+      "Ver"
     ]
   }
 ]

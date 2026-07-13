@@ -3,28 +3,6 @@
     "date": "2026-03-09",
     "words": [
       {
-        "latin": "Satis",
-        "ru": "Достаточно"
-      },
-      {
-        "latin": "Triginta",
-        "ru": "Тридцать"
-      },
-      {
-        "latin": "Sum",
-        "ru": "Я есмь (быть)"
-      }
-    ],
-    "reviewed_today": [
-      "Puella",
-      "Domus",
-      "Salus"
-    ]
-  },
-  {
-    "date": "2026-03-09",
-    "words": [
-      {
         "latin": "Vacare",
         "ru": "Быть свободным, пустовать"
       },
@@ -10997,6 +10975,28 @@
       "Error",
       "Ubique",
       "Magnus"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "words": [
+      {
+        "latin": "Quasi",
+        "ru": "Как будто"
+      },
+      {
+        "latin": "Lex",
+        "ru": "Закон"
+      },
+      {
+        "latin": "Certe",
+        "ru": "Конечно"
+      }
+    ],
+    "reviewed_today": [
+      "Vester",
+      "Eripere",
+      "Virgo"
     ]
   }
 ]

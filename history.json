@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-09",
-    "words": [
-      {
-        "latin": "Vacare",
-        "ru": "Быть свободным, пустовать"
-      },
-      {
-        "latin": "Barbarus",
-        "ru": "Чужеземец, варвар"
-      },
-      {
-        "latin": "Metuere",
-        "ru": "Бояться"
-      }
-    ],
-    "reviewed_today": [
-      "Clamor",
-      "Civitas",
-      "Largus"
-    ]
-  },
-  {
     "date": "2026-03-10",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Vester",
       "Eripere",
       "Virgo"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "words": [
+      {
+        "latin": "Sanctus",
+        "ru": "Святой, нерушимый"
+      },
+      {
+        "latin": "Fidelis",
+        "ru": "Верный, надежный"
+      },
+      {
+        "latin": "Sanctus",
+        "ru": "Святой"
+      }
+    ],
+    "reviewed_today": [
+      "Beatus",
+      "Tangere",
+      "Virtus"
     ]
   }
 ]

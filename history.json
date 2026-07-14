@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-10",
-    "words": [
-      {
-        "latin": "Visere",
-        "ru": "Осматривать, посещать"
-      },
-      {
-        "latin": "Ius",
-        "ru": "Право, закон"
-      },
-      {
-        "latin": "Saeculum",
-        "ru": "Век, поколение"
-      }
-    ],
-    "reviewed_today": [
-      "Uva",
-      "Disputare",
-      "Violare"
-    ]
-  },
-  {
     "date": "2026-03-11",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Celer",
       "Pars",
       "Atque"
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "words": [
+      {
+        "latin": "Nihil",
+        "ru": "Ничто"
+      },
+      {
+        "latin": "Externus",
+        "ru": "Внешний, чужой"
+      },
+      {
+        "latin": "Ut",
+        "ru": "Как, чтобы"
+      }
+    ],
+    "reviewed_today": [
+      "Fenestra",
+      "Multitudo",
+      "Clemens"
     ]
   }
 ]

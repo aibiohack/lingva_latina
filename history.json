@@ -3,28 +3,6 @@
     "date": "2026-03-10",
     "words": [
       {
-        "latin": "Villa",
-        "ru": "Вилла, усадьба"
-      },
-      {
-        "latin": "Vulnus",
-        "ru": "Рана"
-      },
-      {
-        "latin": "Vero",
-        "ru": "Истинно, однако"
-      }
-    ],
-    "reviewed_today": [
-      "Flamma",
-      "Multus",
-      "Equus"
-    ]
-  },
-  {
-    "date": "2026-03-10",
-    "words": [
-      {
         "latin": "Visere",
         "ru": "Осматривать, посещать"
       },
@@ -10997,6 +10975,28 @@
       "Mos",
       "Fingere",
       "Fieri"
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "words": [
+      {
+        "latin": "Umquam",
+        "ru": "Когда-либо"
+      },
+      {
+        "latin": "Metuere",
+        "ru": "Бояться"
+      },
+      {
+        "latin": "Color",
+        "ru": "Цвет"
+      }
+    ],
+    "reviewed_today": [
+      "Celer",
+      "Pars",
+      "Atque"
     ]
   }
 ]

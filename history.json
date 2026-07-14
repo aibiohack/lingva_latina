@@ -3,28 +3,6 @@
     "date": "2026-03-11",
     "words": [
       {
-        "latin": "Soror",
-        "ru": "Сестра"
-      },
-      {
-        "latin": "Singulus",
-        "ru": "Одиночный"
-      },
-      {
-        "latin": "Texere",
-        "ru": "Ткать, плести"
-      }
-    ],
-    "reviewed_today": [
-      "Vitium",
-      "Libenter",
-      "Dignus"
-    ]
-  },
-  {
-    "date": "2026-03-11",
-    "words": [
-      {
         "latin": "Vulnus",
         "ru": "Рана"
       },
@@ -10997,6 +10975,28 @@
       "Fenestra",
       "Multitudo",
       "Clemens"
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "words": [
+      {
+        "latin": "Historia",
+        "ru": "История"
+      },
+      {
+        "latin": "Crux",
+        "ru": "Крест"
+      },
+      {
+        "latin": "Latere",
+        "ru": "Скрываться"
+      }
+    ],
+    "reviewed_today": [
+      "Populus",
+      "Aurum",
+      "Magnitudo"
     ]
   }
 ]

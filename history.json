@@ -3,28 +3,6 @@
     "date": "2026-03-10",
     "words": [
       {
-        "latin": "Color",
-        "ru": "Цвет"
-      },
-      {
-        "latin": "Timere",
-        "ru": "Бояться"
-      },
-      {
-        "latin": "Umquam",
-        "ru": "Когда-либо"
-      }
-    ],
-    "reviewed_today": [
-      "Fortis",
-      "Nihil",
-      "Urbs"
-    ]
-  },
-  {
-    "date": "2026-03-10",
-    "words": [
-      {
         "latin": "Villa",
         "ru": "Вилла, усадьба"
       },
@@ -10997,6 +10975,28 @@
       "Ludus",
       "Iam",
       "Ver"
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "words": [
+      {
+        "latin": "Terra",
+        "ru": "Земля"
+      },
+      {
+        "latin": "Socius",
+        "ru": "Союзник, товарищ"
+      },
+      {
+        "latin": "Parens",
+        "ru": "Родитель"
+      }
+    ],
+    "reviewed_today": [
+      "Mos",
+      "Fingere",
+      "Fieri"
     ]
   }
 ]

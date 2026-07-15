@@ -3,28 +3,6 @@
     "date": "2026-03-11",
     "words": [
       {
-        "latin": "Vir",
-        "ru": "Мужчина"
-      },
-      {
-        "latin": "Lenis",
-        "ru": "Мягкий, нежный"
-      },
-      {
-        "latin": "Universus",
-        "ru": "Весь, всеобщий"
-      }
-    ],
-    "reviewed_today": [
-      "Rogare",
-      "Ipse",
-      "Legatus"
-    ]
-  },
-  {
-    "date": "2026-03-11",
-    "words": [
-      {
         "latin": "Ducere",
         "ru": "Вести"
       },
@@ -10997,6 +10975,28 @@
       "Repetere",
       "Triginta",
       "Iam"
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "words": [
+      {
+        "latin": "Studium",
+        "ru": "Стремление, занятие, наука"
+      },
+      {
+        "latin": "Limen",
+        "ru": "Порог"
+      },
+      {
+        "latin": "Saeculum",
+        "ru": "Век, поколение"
+      }
+    ],
+    "reviewed_today": [
+      "Totus",
+      "Felix",
+      "Sequi"
     ]
   }
 ]

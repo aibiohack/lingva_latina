@@ -3,28 +3,6 @@
     "date": "2026-03-12",
     "words": [
       {
-        "latin": "Contra",
-        "ru": "Против"
-      },
-      {
-        "latin": "Ingenium",
-        "ru": "Природный дар, талант"
-      },
-      {
-        "latin": "Lenis",
-        "ru": "Мягкий, нежный"
-      }
-    ],
-    "reviewed_today": [
-      "Beatus",
-      "Disertus",
-      "Fortis"
-    ]
-  },
-  {
-    "date": "2026-03-12",
-    "words": [
-      {
         "latin": "Roma",
         "ru": "Рим"
       },
@@ -10997,6 +10975,28 @@
       "Solus",
       "Imago",
       "Luxuria"
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "words": [
+      {
+        "latin": "Ultimus",
+        "ru": "Последний, крайний"
+      },
+      {
+        "latin": "Lingua",
+        "ru": "Язык"
+      },
+      {
+        "latin": "Simul",
+        "ru": "Одновременно, вместе"
+      }
+    ],
+    "reviewed_today": [
+      "Atque",
+      "Fieri",
+      "Frumentum"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-11",
-    "words": [
-      {
-        "latin": "Ducere",
-        "ru": "Вести"
-      },
-      {
-        "latin": "Putare",
-        "ru": "Считать, полагать"
-      },
-      {
-        "latin": "Vero",
-        "ru": "Истинно, но"
-      }
-    ],
-    "reviewed_today": [
-      "Iurare",
-      "Satis",
-      "Annus"
-    ]
-  },
-  {
     "date": "2026-03-12",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Totus",
       "Felix",
       "Sequi"
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "words": [
+      {
+        "latin": "Uva",
+        "ru": "Виноград"
+      },
+      {
+        "latin": "Sepulcrum",
+        "ru": "Гробница, могила"
+      },
+      {
+        "latin": "Lignum",
+        "ru": "Дерево, дрова"
+      }
+    ],
+    "reviewed_today": [
+      "Solus",
+      "Imago",
+      "Luxuria"
     ]
   }
 ]

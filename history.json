@@ -3,28 +3,6 @@
     "date": "2026-03-11",
     "words": [
       {
-        "latin": "Vulnus",
-        "ru": "Рана"
-      },
-      {
-        "latin": "Studium",
-        "ru": "Стремление, занятие, наука"
-      },
-      {
-        "latin": "Limen",
-        "ru": "Порог"
-      }
-    ],
-    "reviewed_today": [
-      "Studium",
-      "Vester",
-      "Dulcedo"
-    ]
-  },
-  {
-    "date": "2026-03-11",
-    "words": [
-      {
         "latin": "Vir",
         "ru": "Мужчина"
       },
@@ -10997,6 +10975,28 @@
       "Populus",
       "Aurum",
       "Magnitudo"
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "words": [
+      {
+        "latin": "Vicinus",
+        "ru": "Сосед"
+      },
+      {
+        "latin": "Scire",
+        "ru": "Знать"
+      },
+      {
+        "latin": "Vestis",
+        "ru": "Одежда"
+      }
+    ],
+    "reviewed_today": [
+      "Repetere",
+      "Triginta",
+      "Iam"
     ]
   }
 ]

@@ -7,28 +7,6 @@
         "ru": "Суд, суждение"
       },
       {
-        "latin": "Iacere",
-        "ru": "Бросать, кидать"
-      },
-      {
-        "latin": "Inimicus",
-        "ru": "Недруг, личный враг"
-      }
-    ],
-    "reviewed_today": [
-      "Umerus",
-      "Miser",
-      "Dives"
-    ]
-  },
-  {
-    "date": "2026-03-13",
-    "words": [
-      {
-        "latin": "Iudicium",
-        "ru": "Суд, суждение"
-      },
-      {
         "latin": "Persona",
         "ru": "Личность"
       },
@@ -10997,6 +10975,28 @@
       "Vis",
       "Veritas",
       "Dolor"
+    ]
+  },
+  {
+    "date": "2026-07-16",
+    "words": [
+      {
+        "latin": "Finis",
+        "ru": "Конец"
+      },
+      {
+        "latin": "Tabula",
+        "ru": "Доска, таблица, картина"
+      },
+      {
+        "latin": "Censeo",
+        "ru": "Полагаю, считаю"
+      }
+    ],
+    "reviewed_today": [
+      "Vulnero",
+      "Aurum",
+      "Ut"
     ]
   }
 ]

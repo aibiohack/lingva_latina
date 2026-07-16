@@ -3,28 +3,6 @@
     "date": "2026-03-12",
     "words": [
       {
-        "latin": "Roma",
-        "ru": "Рим"
-      },
-      {
-        "latin": "Initium",
-        "ru": "Начало"
-      },
-      {
-        "latin": "Urgere",
-        "ru": "Гнать, теснить"
-      }
-    ],
-    "reviewed_today": [
-      "Expectare",
-      "Vocare",
-      "Largus"
-    ]
-  },
-  {
-    "date": "2026-03-12",
-    "words": [
-      {
         "latin": "Semel",
         "ru": "Однажды"
       },
@@ -10997,6 +10975,28 @@
       "Atque",
       "Fieri",
       "Frumentum"
+    ]
+  },
+  {
+    "date": "2026-07-16",
+    "words": [
+      {
+        "latin": "Vero",
+        "ru": "Истинно, но"
+      },
+      {
+        "latin": "Vero",
+        "ru": "Истинно, однако"
+      },
+      {
+        "latin": "Lenis",
+        "ru": "Мягкий, нежный"
+      }
+    ],
+    "reviewed_today": [
+      "Hora",
+      "Mens",
+      "Sanctus"
     ]
   }
 ]

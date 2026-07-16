@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-12",
-    "words": [
-      {
-        "latin": "Expectare",
-        "ru": "Ожидать"
-      },
-      {
-        "latin": "Situs",
-        "ru": "Положение, место"
-      },
-      {
-        "latin": "Recipere",
-        "ru": "Получать"
-      }
-    ],
-    "reviewed_today": [
-      "Talis",
-      "Ordo",
-      "Sors"
-    ]
-  },
-  {
     "date": "2026-03-13",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Doctrina",
       "Sedere",
       "Sic"
+    ]
+  },
+  {
+    "date": "2026-07-16",
+    "words": [
+      {
+        "latin": "Sinister",
+        "ru": "Левый, дурной"
+      },
+      {
+        "latin": "Discedere",
+        "ru": "Уходить, расходиться"
+      },
+      {
+        "latin": "Vilis",
+        "ru": "Дешевый, скверный"
+      }
+    ],
+    "reviewed_today": [
+      "Vis",
+      "Veritas",
+      "Dolor"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-03-14",
     "words": [
       {
-        "latin": "Ille",
-        "ru": "Тот, он"
-      },
-      {
-        "latin": "Vituperare",
-        "ru": "Ругать"
-      },
-      {
-        "latin": "Vestis",
-        "ru": "Одежда"
-      }
-    ],
-    "reviewed_today": [
-      "Villa",
-      "Totus",
-      "Terribilis"
-    ]
-  },
-  {
-    "date": "2026-03-14",
-    "words": [
-      {
         "latin": "Triginta",
         "ru": "Тридцать"
       },
@@ -10997,6 +10975,28 @@
       "Pax",
       "Sagitta",
       "Sui"
+    ]
+  },
+  {
+    "date": "2026-07-17",
+    "words": [
+      {
+        "latin": "Arbor",
+        "ru": "Дерево"
+      },
+      {
+        "latin": "Cupere",
+        "ru": "Желать"
+      },
+      {
+        "latin": "Sors",
+        "ru": "Жребий, судьба"
+      }
+    ],
+    "reviewed_today": [
+      "Tum",
+      "Honestus",
+      "Nuntius"
     ]
   }
 ]

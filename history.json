@@ -3,28 +3,6 @@
     "date": "2026-03-13",
     "words": [
       {
-        "latin": "Iudicium",
-        "ru": "Суд, суждение"
-      },
-      {
-        "latin": "Persona",
-        "ru": "Личность"
-      },
-      {
-        "latin": "Scribere",
-        "ru": "Писать"
-      }
-    ],
-    "reviewed_today": [
-      "Donum",
-      "Servus",
-      "Claudere"
-    ]
-  },
-  {
-    "date": "2026-03-13",
-    "words": [
-      {
         "latin": "Malle",
         "ru": "Предпочитать"
       },
@@ -10997,6 +10975,28 @@
       "Vulnero",
       "Aurum",
       "Ut"
+    ]
+  },
+  {
+    "date": "2026-07-17",
+    "words": [
+      {
+        "latin": "Ubi",
+        "ru": "Где"
+      },
+      {
+        "latin": "Vestis",
+        "ru": "Одежда"
+      },
+      {
+        "latin": "Fallere",
+        "ru": "Обманывать"
+      }
+    ],
+    "reviewed_today": [
+      "Vehementer",
+      "Ter",
+      "Ars"
     ]
   }
 ]

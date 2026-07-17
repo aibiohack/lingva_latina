@@ -3,28 +3,6 @@
     "date": "2026-03-13",
     "words": [
       {
-        "latin": "Malle",
-        "ru": "Предпочитать"
-      },
-      {
-        "latin": "Eripere",
-        "ru": "Вырывать, похищать"
-      },
-      {
-        "latin": "Post",
-        "ru": "После"
-      }
-    ],
-    "reviewed_today": [
-      "Vis",
-      "Mox",
-      "Spiritus"
-    ]
-  },
-  {
-    "date": "2026-03-13",
-    "words": [
-      {
         "latin": "Umbra",
         "ru": "Тень"
       },
@@ -10997,6 +10975,28 @@
       "Vehementer",
       "Ter",
       "Ars"
+    ]
+  },
+  {
+    "date": "2026-07-17",
+    "words": [
+      {
+        "latin": "Lupus",
+        "ru": "Волк"
+      },
+      {
+        "latin": "Custos",
+        "ru": "Страж"
+      },
+      {
+        "latin": "Tumultus",
+        "ru": "Смятение, шум"
+      }
+    ],
+    "reviewed_today": [
+      "Spatium",
+      "Tardus",
+      "Sequi"
     ]
   }
 ]

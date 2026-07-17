@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-13",
-    "words": [
-      {
-        "latin": "Umbra",
-        "ru": "Тень"
-      },
-      {
-        "latin": "Satis",
-        "ru": "Достаточно"
-      },
-      {
-        "latin": "Pro",
-        "ru": "За, вместо"
-      }
-    ],
-    "reviewed_today": [
-      "Rectus",
-      "Recipere",
-      "Vel"
-    ]
-  },
-  {
     "date": "2026-03-14",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Spatium",
       "Tardus",
       "Sequi"
+    ]
+  },
+  {
+    "date": "2026-07-17",
+    "words": [
+      {
+        "latin": "Eripere",
+        "ru": "Вырывать, похищать"
+      },
+      {
+        "latin": "Expectare",
+        "ru": "Ожидать"
+      },
+      {
+        "latin": "Persona",
+        "ru": "Личность"
+      }
+    ],
+    "reviewed_today": [
+      "Pax",
+      "Sagitta",
+      "Sui"
     ]
   }
 ]

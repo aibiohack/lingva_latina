@@ -3,28 +3,6 @@
     "date": "2026-03-15",
     "words": [
       {
-        "latin": "Littera",
-        "ru": "Буква, (мн.ч.) письмо"
-      },
-      {
-        "latin": "Novus",
-        "ru": "Новый"
-      },
-      {
-        "latin": "Suspicio",
-        "ru": "Подозрение"
-      }
-    ],
-    "reviewed_today": [
-      "Unus",
-      "Tenebrae",
-      "Ignis"
-    ]
-  },
-  {
-    "date": "2026-03-15",
-    "words": [
-      {
         "latin": "Fama",
         "ru": "Молва, слух"
       },
@@ -10997,6 +10975,28 @@
       "Iurare",
       "Tormentum",
       "Umquam"
+    ]
+  },
+  {
+    "date": "2026-07-18",
+    "words": [
+      {
+        "latin": "Durus",
+        "ru": "Твердый"
+      },
+      {
+        "latin": "Miser",
+        "ru": "Жалкий, несчастный"
+      },
+      {
+        "latin": "Triginta",
+        "ru": "Тридцать"
+      }
+    ],
+    "reviewed_today": [
+      "Fames",
+      "Vocare",
+      "Tranquillitas"
     ]
   }
 ]

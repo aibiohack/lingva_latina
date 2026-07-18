@@ -3,28 +3,6 @@
     "date": "2026-03-14",
     "words": [
       {
-        "latin": "Charta",
-        "ru": "Бумага, лист"
-      },
-      {
-        "latin": "Sol",
-        "ru": "Солнце"
-      },
-      {
-        "latin": "Hinc",
-        "ru": "Отсюда"
-      }
-    ],
-    "reviewed_today": [
-      "Aurum",
-      "Luna",
-      "Orbis"
-    ]
-  },
-  {
-    "date": "2026-03-14",
-    "words": [
-      {
         "latin": "Durus",
         "ru": "Твердый"
       },
@@ -10997,6 +10975,28 @@
       "Fides",
       "Cogitare",
       "Impedire"
+    ]
+  },
+  {
+    "date": "2026-07-18",
+    "words": [
+      {
+        "latin": "Unda",
+        "ru": "Волна"
+      },
+      {
+        "latin": "Totus",
+        "ru": "Весь, целый"
+      },
+      {
+        "latin": "Sapientia",
+        "ru": "Мудрость"
+      }
+    ],
+    "reviewed_today": [
+      "Cena",
+      "Aureus",
+      "Contra"
     ]
   }
 ]

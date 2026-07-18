@@ -3,28 +3,6 @@
     "date": "2026-03-14",
     "words": [
       {
-        "latin": "Triginta",
-        "ru": "Тридцать"
-      },
-      {
-        "latin": "Durare",
-        "ru": "Длиться, закалять"
-      },
-      {
-        "latin": "Legio",
-        "ru": "Легион"
-      }
-    ],
-    "reviewed_today": [
-      "Maxime",
-      "Vestigium",
-      "Utinam"
-    ]
-  },
-  {
-    "date": "2026-03-14",
-    "words": [
-      {
         "latin": "Charta",
         "ru": "Бумага, лист"
       },
@@ -10997,6 +10975,28 @@
       "Tum",
       "Honestus",
       "Nuntius"
+    ]
+  },
+  {
+    "date": "2026-07-18",
+    "words": [
+      {
+        "latin": "Epistula",
+        "ru": "Письмо"
+      },
+      {
+        "latin": "Usque",
+        "ru": "Вплоть до"
+      },
+      {
+        "latin": "Colloquium",
+        "ru": "Разговор, беседа"
+      }
+    ],
+    "reviewed_today": [
+      "Fides",
+      "Cogitare",
+      "Impedire"
     ]
   }
 ]

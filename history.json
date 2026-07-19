@@ -3,28 +3,6 @@
     "date": "2026-03-16",
     "words": [
       {
-        "latin": "Certe",
-        "ru": "Наверняка, конечно"
-      },
-      {
-        "latin": "Veho",
-        "ru": "Везу"
-      },
-      {
-        "latin": "Gloria",
-        "ru": "Слава"
-      }
-    ],
-    "reviewed_today": [
-      "Respondere",
-      "Schola",
-      "Servus"
-    ]
-  },
-  {
-    "date": "2026-03-16",
-    "words": [
-      {
         "latin": "Felix",
         "ru": "Счастливый"
       },
@@ -10997,6 +10975,28 @@
       "Vitium",
       "Vitrum",
       "Saepe"
+    ]
+  },
+  {
+    "date": "2026-07-19",
+    "words": [
+      {
+        "latin": "Fessus",
+        "ru": "Усталый"
+      },
+      {
+        "latin": "Legio",
+        "ru": "Легион"
+      },
+      {
+        "latin": "Sedere",
+        "ru": "Сидеть"
+      }
+    ],
+    "reviewed_today": [
+      "Gravis",
+      "Hodie",
+      "Ut"
     ]
   }
 ]

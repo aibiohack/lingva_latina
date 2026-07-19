@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-15",
-    "words": [
-      {
-        "latin": "Incendere",
-        "ru": "Зажигать"
-      },
-      {
-        "latin": "Bestia",
-        "ru": "Зверь, животное"
-      },
-      {
-        "latin": "Instruere",
-        "ru": "Наставлять, возводить"
-      }
-    ],
-    "reviewed_today": [
-      "Umerus",
-      "Convivium",
-      "Angelus"
-    ]
-  },
-  {
     "date": "2026-03-16",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Vicus",
       "Veritas",
       "Docere"
+    ]
+  },
+  {
+    "date": "2026-07-19",
+    "words": [
+      {
+        "latin": "Liber",
+        "ru": "Книга"
+      },
+      {
+        "latin": "Togatus",
+        "ru": "Одетый в тогу"
+      },
+      {
+        "latin": "Ventus",
+        "ru": "Ветер"
+      }
+    ],
+    "reviewed_today": [
+      "Vitium",
+      "Vitrum",
+      "Saepe"
     ]
   }
 ]

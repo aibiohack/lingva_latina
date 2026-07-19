@@ -3,28 +3,6 @@
     "date": "2026-03-15",
     "words": [
       {
-        "latin": "Fama",
-        "ru": "Молва, слух"
-      },
-      {
-        "latin": "Morari",
-        "ru": "Медлить, задерживаться"
-      },
-      {
-        "latin": "Materia",
-        "ru": "Вещество, материя"
-      }
-    ],
-    "reviewed_today": [
-      "Gratia",
-      "Gens",
-      "Tam"
-    ]
-  },
-  {
-    "date": "2026-03-15",
-    "words": [
-      {
         "latin": "Dextra",
         "ru": "Правая рука"
       },
@@ -10997,6 +10975,28 @@
       "Fames",
       "Vocare",
       "Tranquillitas"
+    ]
+  },
+  {
+    "date": "2026-07-19",
+    "words": [
+      {
+        "latin": "Suspicio",
+        "ru": "Подозрение"
+      },
+      {
+        "latin": "Littera",
+        "ru": "Буква, (мн.ч.) письмо"
+      },
+      {
+        "latin": "Novus",
+        "ru": "Новый"
+      }
+    ],
+    "reviewed_today": [
+      "Temere",
+      "Visere",
+      "Servire"
     ]
   }
 ]

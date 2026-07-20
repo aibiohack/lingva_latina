@@ -3,28 +3,6 @@
     "date": "2026-03-16",
     "words": [
       {
-        "latin": "Tangere",
-        "ru": "Трогать, касаться"
-      },
-      {
-        "latin": "Canis",
-        "ru": "Собака"
-      },
-      {
-        "latin": "Aeternitas",
-        "ru": "Вечность"
-      }
-    ],
-    "reviewed_today": [
-      "Tranquillitas",
-      "Oculus",
-      "Late"
-    ]
-  },
-  {
-    "date": "2026-03-16",
-    "words": [
-      {
         "latin": "Solus",
         "ru": "Один, единственный"
       },
@@ -10997,6 +10975,28 @@
       "Medius",
       "Usque",
       "Ordo"
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "words": [
+      {
+        "latin": "Scio",
+        "ru": "Знаю"
+      },
+      {
+        "latin": "Vinea",
+        "ru": "Виноградник"
+      },
+      {
+        "latin": "Iter",
+        "ru": "Путь"
+      }
+    ],
+    "reviewed_today": [
+      "Habitare",
+      "Spero",
+      "Fovere"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-03-17",
     "words": [
       {
-        "latin": "Simul",
-        "ru": "Одновременно, вместе"
-      },
-      {
-        "latin": "Visere",
-        "ru": "Осматривать, посещать"
-      },
-      {
-        "latin": "Tollere",
-        "ru": "Поднимать, уничтожать"
-      }
-    ],
-    "reviewed_today": [
-      "Ille",
-      "Verber",
-      "Templum"
-    ]
-  },
-  {
-    "date": "2026-03-17",
-    "words": [
-      {
         "latin": "Sino",
         "ru": "Позволять, оставлять"
       },
@@ -10997,6 +10975,28 @@
       "Tergum",
       "Caput",
       "Statuere"
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "words": [
+      {
+        "latin": "Cena",
+        "ru": "Обед"
+      },
+      {
+        "latin": "Victor",
+        "ru": "Победитель"
+      },
+      {
+        "latin": "Habitus",
+        "ru": "Состояние, облик"
+      }
+    ],
+    "reviewed_today": [
+      "Desistere",
+      "Levis",
+      "Securus"
     ]
   }
 ]

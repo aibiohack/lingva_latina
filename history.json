@@ -3,28 +3,6 @@
     "date": "2026-03-16",
     "words": [
       {
-        "latin": "Felix",
-        "ru": "Счастливый"
-      },
-      {
-        "latin": "Sacerdos",
-        "ru": "Жрец, священник"
-      },
-      {
-        "latin": "Vel",
-        "ru": "Или, даже"
-      }
-    ],
-    "reviewed_today": [
-      "Gaudere",
-      "Fons",
-      "Confirmare"
-    ]
-  },
-  {
-    "date": "2026-03-16",
-    "words": [
-      {
         "latin": "Tangere",
         "ru": "Трогать, касаться"
       },
@@ -10997,6 +10975,28 @@
       "Gravis",
       "Hodie",
       "Ut"
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "words": [
+      {
+        "latin": "Tardus",
+        "ru": "Медленный"
+      },
+      {
+        "latin": "Mentior",
+        "ru": "Лгу"
+      },
+      {
+        "latin": "Labor",
+        "ru": "Труд"
+      }
+    ],
+    "reviewed_today": [
+      "Medius",
+      "Usque",
+      "Ordo"
     ]
   }
 ]

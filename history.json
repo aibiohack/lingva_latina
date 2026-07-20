@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-16",
-    "words": [
-      {
-        "latin": "Solus",
-        "ru": "Один, единственный"
-      },
-      {
-        "latin": "Diabolus",
-        "ru": "Дьявол"
-      },
-      {
-        "latin": "Remus",
-        "ru": "Весло"
-      }
-    ],
-    "reviewed_today": [
-      "Delectare",
-      "Videre",
-      "Ludus"
-    ]
-  },
-  {
     "date": "2026-03-17",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Habitare",
       "Spero",
       "Fovere"
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "words": [
+      {
+        "latin": "Ille",
+        "ru": "Тот, он"
+      },
+      {
+        "latin": "Utilis",
+        "ru": "Полезный"
+      },
+      {
+        "latin": "Parens",
+        "ru": "Родитель"
+      }
+    ],
+    "reviewed_today": [
+      "Tergum",
+      "Caput",
+      "Statuere"
     ]
   }
 ]

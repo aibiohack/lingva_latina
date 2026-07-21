@@ -3,28 +3,6 @@
     "date": "2026-03-17",
     "words": [
       {
-        "latin": "Sino",
-        "ru": "Позволять, оставлять"
-      },
-      {
-        "latin": "Repetere",
-        "ru": "Повторять, требовать назад"
-      },
-      {
-        "latin": "Vigilare",
-        "ru": "Бодрствовать"
-      }
-    ],
-    "reviewed_today": [
-      "Venenum",
-      "Error",
-      "Vix"
-    ]
-  },
-  {
-    "date": "2026-03-17",
-    "words": [
-      {
         "latin": "Vicis",
         "ru": "Перемена, очередь"
       },
@@ -10997,6 +10975,28 @@
       "Desistere",
       "Levis",
       "Securus"
+    ]
+  },
+  {
+    "date": "2026-07-21",
+    "words": [
+      {
+        "latin": "Iustus",
+        "ru": "Справедливый"
+      },
+      {
+        "latin": "Unus",
+        "ru": "Один"
+      },
+      {
+        "latin": "Via",
+        "ru": "Путь"
+      }
+    ],
+    "reviewed_today": [
+      "Colere",
+      "Solium",
+      "Castrum"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-17",
-    "words": [
-      {
-        "latin": "Consuetudo",
-        "ru": "Привычка, обычай"
-      },
-      {
-        "latin": "Auctor",
-        "ru": "Творец, автор"
-      },
-      {
-        "latin": "Contra",
-        "ru": "Против"
-      }
-    ],
-    "reviewed_today": [
-      "Efficere",
-      "Dedico",
-      "Scientia"
-    ]
-  },
-  {
     "date": "2026-03-18",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Mare",
       "Tectum",
       "Lupus"
+    ]
+  },
+  {
+    "date": "2026-07-21",
+    "words": [
+      {
+        "latin": "Beatus",
+        "ru": "Счастливый"
+      },
+      {
+        "latin": "Videlicet",
+        "ru": "Очевидно, именно"
+      },
+      {
+        "latin": "Turris",
+        "ru": "Башня"
+      }
+    ],
+    "reviewed_today": [
+      "Vulnus",
+      "Sanctus",
+      "Filius"
     ]
   }
 ]

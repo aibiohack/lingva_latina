@@ -3,28 +3,6 @@
     "date": "2026-03-17",
     "words": [
       {
-        "latin": "Vicis",
-        "ru": "Перемена, очередь"
-      },
-      {
-        "latin": "Ille",
-        "ru": "Тот, он"
-      },
-      {
-        "latin": "Celer",
-        "ru": "Быстрый"
-      }
-    ],
-    "reviewed_today": [
-      "Sarcina",
-      "Tertius",
-      "Taurus"
-    ]
-  },
-  {
-    "date": "2026-03-17",
-    "words": [
-      {
         "latin": "Consuetudo",
         "ru": "Привычка, обычай"
       },
@@ -10997,6 +10975,28 @@
       "Colere",
       "Solium",
       "Castrum"
+    ]
+  },
+  {
+    "date": "2026-07-21",
+    "words": [
+      {
+        "latin": "Dextra",
+        "ru": "Правая рука"
+      },
+      {
+        "latin": "Sino",
+        "ru": "Позволять, оставлять"
+      },
+      {
+        "latin": "Aeternitas",
+        "ru": "Вечность"
+      }
+    ],
+    "reviewed_today": [
+      "Mare",
+      "Tectum",
+      "Lupus"
     ]
   }
 ]

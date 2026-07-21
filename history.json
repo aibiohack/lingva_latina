@@ -3,28 +3,6 @@
     "date": "2026-03-18",
     "words": [
       {
-        "latin": "Difficilis",
-        "ru": "Трудный"
-      },
-      {
-        "latin": "Iucundus",
-        "ru": "Приятный"
-      },
-      {
-        "latin": "Gignere",
-        "ru": "Рождать, производить"
-      }
-    ],
-    "reviewed_today": [
-      "Ut",
-      "Tradere",
-      "Conditio"
-    ]
-  },
-  {
-    "date": "2026-03-18",
-    "words": [
-      {
         "latin": "Exercitus",
         "ru": "Войско"
       },
@@ -10997,6 +10975,28 @@
       "Vulnus",
       "Sanctus",
       "Filius"
+    ]
+  },
+  {
+    "date": "2026-07-21",
+    "words": [
+      {
+        "latin": "Ultra",
+        "ru": "Сверх, по ту сторону"
+      },
+      {
+        "latin": "Beatus",
+        "ru": "Счастливый"
+      },
+      {
+        "latin": "Lignum",
+        "ru": "Дерево, дрова"
+      }
+    ],
+    "reviewed_today": [
+      "Sol",
+      "Quis",
+      "Sententia"
     ]
   }
 ]

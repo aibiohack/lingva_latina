@@ -3,28 +3,6 @@
     "date": "2026-03-19",
     "words": [
       {
-        "latin": "Tribuere",
-        "ru": "Назначать, воздавать"
-      },
-      {
-        "latin": "Impedire",
-        "ru": "Мешать, препятствовать"
-      },
-      {
-        "latin": "Servire",
-        "ru": "Служить"
-      }
-    ],
-    "reviewed_today": [
-      "Ultra",
-      "Saeculum",
-      "Littera"
-    ]
-  },
-  {
-    "date": "2026-03-19",
-    "words": [
-      {
         "latin": "Statua",
         "ru": "Статуя"
       },
@@ -10997,6 +10975,28 @@
       "Venenum",
       "Respondere",
       "Vindex"
+    ]
+  },
+  {
+    "date": "2026-07-22",
+    "words": [
+      {
+        "latin": "Ridere",
+        "ru": "Смеяться"
+      },
+      {
+        "latin": "Remedium",
+        "ru": "Лекарство, средство"
+      },
+      {
+        "latin": "Lumen",
+        "ru": "Свет"
+      }
+    ],
+    "reviewed_today": [
+      "Taurus",
+      "Aeternitas",
+      "Iocus"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-03-18",
     "words": [
       {
-        "latin": "Exercitus",
-        "ru": "Войско"
-      },
-      {
-        "latin": "Desistere",
-        "ru": "Прекращать, отступать"
-      },
-      {
-        "latin": "Harena",
-        "ru": "Песок, арена"
-      }
-    ],
-    "reviewed_today": [
-      "Sal",
-      "Fragilis",
-      "Umquam"
-    ]
-  },
-  {
-    "date": "2026-03-18",
-    "words": [
-      {
         "latin": "Servire",
         "ru": "Служить"
       },
@@ -10997,6 +10975,28 @@
       "Sol",
       "Quis",
       "Sententia"
+    ]
+  },
+  {
+    "date": "2026-07-22",
+    "words": [
+      {
+        "latin": "Mare",
+        "ru": "Море"
+      },
+      {
+        "latin": "Fenestra",
+        "ru": "Окно"
+      },
+      {
+        "latin": "Lucere",
+        "ru": "Светить"
+      }
+    ],
+    "reviewed_today": [
+      "Tres",
+      "Utilis",
+      "Poeta"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-03-18",
     "words": [
       {
-        "latin": "Servire",
-        "ru": "Служить"
-      },
-      {
-        "latin": "Ambulare",
-        "ru": "Гулять, ходить"
-      },
-      {
-        "latin": "Insula",
-        "ru": "Остров"
-      }
-    ],
-    "reviewed_today": [
-      "Monere",
-      "Viridis",
-      "Terribilis"
-    ]
-  },
-  {
-    "date": "2026-03-18",
-    "words": [
-      {
         "latin": "Spectare",
         "ru": "Смотреть, созерцать"
       },
@@ -10997,6 +10975,28 @@
       "Tres",
       "Utilis",
       "Poeta"
+    ]
+  },
+  {
+    "date": "2026-07-22",
+    "words": [
+      {
+        "latin": "Auctor",
+        "ru": "Творец, автор"
+      },
+      {
+        "latin": "Vicis",
+        "ru": "Перемена, очередь"
+      },
+      {
+        "latin": "Harena",
+        "ru": "Песок, арена"
+      }
+    ],
+    "reviewed_today": [
+      "Ingens",
+      "Singulus",
+      "Canis"
     ]
   }
 ]

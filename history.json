@@ -3,28 +3,6 @@
     "date": "2026-03-20",
     "words": [
       {
-        "latin": "Claudere",
-        "ru": "Закрывать"
-      },
-      {
-        "latin": "Vetus",
-        "ru": "Старый"
-      },
-      {
-        "latin": "Vale",
-        "ru": "Прощай (будь здоров)"
-      }
-    ],
-    "reviewed_today": [
-      "Aestas",
-      "Invidia",
-      "Fundamentum"
-    ]
-  },
-  {
-    "date": "2026-03-20",
-    "words": [
-      {
         "latin": "Quasi",
         "ru": "Как будто"
       },
@@ -10997,6 +10975,28 @@
       "Quantus",
       "Simul",
       "Appellare"
+    ]
+  },
+  {
+    "date": "2026-07-23",
+    "words": [
+      {
+        "latin": "Sanctus",
+        "ru": "Святой"
+      },
+      {
+        "latin": "Memoria",
+        "ru": "Память"
+      },
+      {
+        "latin": "Cena",
+        "ru": "Обед"
+      }
+    ],
+    "reviewed_today": [
+      "Iucundus",
+      "Semel",
+      "Alter"
     ]
   }
 ]

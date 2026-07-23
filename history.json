@@ -3,28 +3,6 @@
     "date": "2026-03-19",
     "words": [
       {
-        "latin": "Tibia",
-        "ru": "Флейта, голень"
-      },
-      {
-        "latin": "Gignere",
-        "ru": "Рождать, производить"
-      },
-      {
-        "latin": "Talis",
-        "ru": "Такой"
-      }
-    ],
-    "reviewed_today": [
-      "Liber",
-      "Ducenti",
-      "Membrum"
-    ]
-  },
-  {
-    "date": "2026-03-19",
-    "words": [
-      {
         "latin": "Herba",
         "ru": "Трава"
       },
@@ -10997,6 +10975,28 @@
       "Sentire",
       "Reliquus",
       "Aurum"
+    ]
+  },
+  {
+    "date": "2026-07-23",
+    "words": [
+      {
+        "latin": "Unus",
+        "ru": "Один"
+      },
+      {
+        "latin": "Restituere",
+        "ru": "Восстанавливать"
+      },
+      {
+        "latin": "Sagitta",
+        "ru": "Стрела"
+      }
+    ],
+    "reviewed_today": [
+      "Servire",
+      "Clarus",
+      "Velle"
     ]
   }
 ]

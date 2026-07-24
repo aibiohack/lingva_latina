@@ -3,28 +3,6 @@
     "date": "2026-03-20",
     "words": [
       {
-        "latin": "Quasi",
-        "ru": "Как будто"
-      },
-      {
-        "latin": "Carmen",
-        "ru": "Песня, стихи"
-      },
-      {
-        "latin": "Scientia",
-        "ru": "Знание, наука"
-      }
-    ],
-    "reviewed_today": [
-      "Emere",
-      "Ut",
-      "Foedus"
-    ]
-  },
-  {
-    "date": "2026-03-20",
-    "words": [
-      {
         "latin": "Doctus",
         "ru": "Ученый"
       },
@@ -10997,6 +10975,28 @@
       "Iucundus",
       "Semel",
       "Alter"
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "words": [
+      {
+        "latin": "Hiems",
+        "ru": "Зима"
+      },
+      {
+        "latin": "Caelum",
+        "ru": "Небо"
+      },
+      {
+        "latin": "Ridere",
+        "ru": "Смеяться"
+      }
+    ],
+    "reviewed_today": [
+      "Summa",
+      "Servus",
+      "Externus"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-20",
-    "words": [
-      {
-        "latin": "Cena",
-        "ru": "Обед"
-      },
-      {
-        "latin": "Colloquium",
-        "ru": "Разговор, беседа"
-      },
-      {
-        "latin": "Titulus",
-        "ru": "Надпись, почетное звание"
-      }
-    ],
-    "reviewed_today": [
-      "Saepe",
-      "Lingua",
-      "Ignoscerе"
-    ]
-  },
-  {
     "date": "2026-03-21",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Iudex",
       "Saxum",
       "Bellum"
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "words": [
+      {
+        "latin": "Iacere",
+        "ru": "Бросать, кидать"
+      },
+      {
+        "latin": "Initium",
+        "ru": "Начало"
+      },
+      {
+        "latin": "Insula",
+        "ru": "Остров"
+      }
+    ],
+    "reviewed_today": [
+      "Crescere",
+      "Caput",
+      "Canis"
     ]
   }
 ]

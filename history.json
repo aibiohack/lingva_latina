@@ -3,28 +3,6 @@
     "date": "2026-03-20",
     "words": [
       {
-        "latin": "Doctus",
-        "ru": "Ученый"
-      },
-      {
-        "latin": "Colere",
-        "ru": "Возделывать, почитать"
-      },
-      {
-        "latin": "Stella",
-        "ru": "Звезда"
-      }
-    ],
-    "reviewed_today": [
-      "Alius",
-      "Templum",
-      "Horrere"
-    ]
-  },
-  {
-    "date": "2026-03-20",
-    "words": [
-      {
         "latin": "Cena",
         "ru": "Обед"
       },
@@ -10997,6 +10975,28 @@
       "Summa",
       "Servus",
       "Externus"
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "words": [
+      {
+        "latin": "Fovere",
+        "ru": "Греть, лелеять"
+      },
+      {
+        "latin": "Totus",
+        "ru": "Весь, целый"
+      },
+      {
+        "latin": "Roma",
+        "ru": "Рим"
+      }
+    ],
+    "reviewed_today": [
+      "Iudex",
+      "Saxum",
+      "Bellum"
     ]
   }
 ]

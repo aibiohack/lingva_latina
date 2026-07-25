@@ -3,28 +3,6 @@
     "date": "2026-03-21",
     "words": [
       {
-        "latin": "Iudicium",
-        "ru": "Суд, суждение"
-      },
-      {
-        "latin": "Venus",
-        "ru": "Любовь, Венера"
-      },
-      {
-        "latin": "Hostis",
-        "ru": "Враг"
-      }
-    ],
-    "reviewed_today": [
-      "Remus",
-      "Ubi",
-      "Scelus"
-    ]
-  },
-  {
-    "date": "2026-03-21",
-    "words": [
-      {
         "latin": "Ubi",
         "ru": "Где"
       },
@@ -10997,6 +10975,28 @@
       "Stultus",
       "Vicinus",
       "Uter"
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "words": [
+      {
+        "latin": "Cognoscere",
+        "ru": "Узнавать, познавать"
+      },
+      {
+        "latin": "Ruere",
+        "ru": "Рушиться, спешить"
+      },
+      {
+        "latin": "Vesper",
+        "ru": "Вечер"
+      }
+    ],
+    "reviewed_today": [
+      "Totus",
+      "Temptare",
+      "Mox"
     ]
   }
 ]

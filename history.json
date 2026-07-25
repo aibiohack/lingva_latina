@@ -3,28 +3,6 @@
     "date": "2026-03-21",
     "words": [
       {
-        "latin": "Vetus",
-        "ru": "Старый"
-      },
-      {
-        "latin": "Verbum",
-        "ru": "Слово"
-      },
-      {
-        "latin": "Fides",
-        "ru": "Вера"
-      }
-    ],
-    "reviewed_today": [
-      "Constituere",
-      "Tolerare",
-      "Scribere"
-    ]
-  },
-  {
-    "date": "2026-03-21",
-    "words": [
-      {
         "latin": "Iudicium",
         "ru": "Суд, суждение"
       },
@@ -10997,6 +10975,28 @@
       "Movere",
       "Duo",
       "Saeculum"
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "words": [
+      {
+        "latin": "Satis",
+        "ru": "Достаточно"
+      },
+      {
+        "latin": "Usus",
+        "ru": "Опыт, использование"
+      },
+      {
+        "latin": "Cantare",
+        "ru": "Петь"
+      }
+    ],
+    "reviewed_today": [
+      "Stultus",
+      "Vicinus",
+      "Uter"
     ]
   }
 ]

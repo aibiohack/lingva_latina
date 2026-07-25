@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-21",
-    "words": [
-      {
-        "latin": "Ubi",
-        "ru": "Где"
-      },
-      {
-        "latin": "Libertas",
-        "ru": "Свобода"
-      },
-      {
-        "latin": "Sermo",
-        "ru": "Речь, беседа"
-      }
-    ],
-    "reviewed_today": [
-      "Validus",
-      "Aliquis",
-      "Habitare"
-    ]
-  },
-  {
     "date": "2026-03-22",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Totus",
       "Temptare",
       "Mox"
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "words": [
+      {
+        "latin": "Iudicium",
+        "ru": "Суд, суждение"
+      },
+      {
+        "latin": "Scientia",
+        "ru": "Знание, наука"
+      },
+      {
+        "latin": "Stella",
+        "ru": "Звезда"
+      }
+    ],
+    "reviewed_today": [
+      "Magnitudo",
+      "Maiores",
+      "Gaudium"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-03-22",
     "words": [
       {
-        "latin": "Cedere",
-        "ru": "Идти, уступать"
-      },
-      {
-        "latin": "Manere",
-        "ru": "Оставаться"
-      },
-      {
-        "latin": "Somnus",
-        "ru": "Сон"
-      }
-    ],
-    "reviewed_today": [
-      "Sarcina",
-      "Tradere",
-      "Regnum"
-    ]
-  },
-  {
-    "date": "2026-03-22",
-    "words": [
-      {
         "latin": "Vulnus",
         "ru": "Рана"
       },
@@ -10997,6 +10975,28 @@
       "Magnitudo",
       "Maiores",
       "Gaudium"
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "words": [
+      {
+        "latin": "Trabs",
+        "ru": "Балка, дерево"
+      },
+      {
+        "latin": "Clarus",
+        "ru": "Ясный, светлый"
+      },
+      {
+        "latin": "Trahere",
+        "ru": "Тащить, влечь"
+      }
+    ],
+    "reviewed_today": [
+      "Ultra",
+      "Solitudo",
+      "Supplex"
     ]
   }
 ]

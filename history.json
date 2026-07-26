@@ -3,28 +3,6 @@
     "date": "2026-03-23",
     "words": [
       {
-        "latin": "Veritas",
-        "ru": "Истина"
-      },
-      {
-        "latin": "Respondere",
-        "ru": "Отвечать"
-      },
-      {
-        "latin": "Amoenus",
-        "ru": "Приятный, прелестный"
-      }
-    ],
-    "reviewed_today": [
-      "Iniquus",
-      "Ripa",
-      "Dens"
-    ]
-  },
-  {
-    "date": "2026-03-23",
-    "words": [
-      {
         "latin": "Censeo",
         "ru": "Полагаю, считаю"
       },
@@ -10997,6 +10975,28 @@
       "Aureus",
       "Tendere",
       "Luxuria"
+    ]
+  },
+  {
+    "date": "2026-07-26",
+    "words": [
+      {
+        "latin": "Annus",
+        "ru": "Год"
+      },
+      {
+        "latin": "Hostis",
+        "ru": "Враг"
+      },
+      {
+        "latin": "Maiores",
+        "ru": "Предки"
+      }
+    ],
+    "reviewed_today": [
+      "Sors",
+      "Disciplina",
+      "Plenus"
     ]
   }
 ]

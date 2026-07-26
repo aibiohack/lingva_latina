@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-22",
-    "words": [
-      {
-        "latin": "Annus",
-        "ru": "Год"
-      },
-      {
-        "latin": "Maiores",
-        "ru": "Предки"
-      },
-      {
-        "latin": "Sors",
-        "ru": "Жребий, судьба"
-      }
-    ],
-    "reviewed_today": [
-      "Utinam",
-      "Vox",
-      "Solus"
-    ]
-  },
-  {
     "date": "2026-03-23",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Historia",
       "Natura",
       "Parvus"
+    ]
+  },
+  {
+    "date": "2026-07-26",
+    "words": [
+      {
+        "latin": "Habeo",
+        "ru": "Иметь"
+      },
+      {
+        "latin": "Moenia",
+        "ru": "Стены (городские)"
+      },
+      {
+        "latin": "Summa",
+        "ru": "Сумма, итог"
+      }
+    ],
+    "reviewed_today": [
+      "Aureus",
+      "Tendere",
+      "Luxuria"
     ]
   }
 ]

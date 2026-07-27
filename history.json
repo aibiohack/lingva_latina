@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-23",
-    "words": [
-      {
-        "latin": "Filia",
-        "ru": "Дочь"
-      },
-      {
-        "latin": "Iungera",
-        "ru": "Соединять"
-      },
-      {
-        "latin": "Signum",
-        "ru": "Знак, знамя"
-      }
-    ],
-    "reviewed_today": [
-      "Inter",
-      "Species",
-      "Tuba"
-    ]
-  },
-  {
     "date": "2026-03-24",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Etiam",
       "Dividere",
       "Spiritus"
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "words": [
+      {
+        "latin": "Vehementer",
+        "ru": "Сильно, страстно"
+      },
+      {
+        "latin": "Vestis",
+        "ru": "Одежда"
+      },
+      {
+        "latin": "Forma",
+        "ru": "Красота, форма"
+      }
+    ],
+    "reviewed_today": [
+      "Ignis",
+      "Miles",
+      "Cupere"
     ]
   }
 ]

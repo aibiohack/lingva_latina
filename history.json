@@ -3,28 +3,6 @@
     "date": "2026-03-23",
     "words": [
       {
-        "latin": "Censeo",
-        "ru": "Полагаю, считаю"
-      },
-      {
-        "latin": "Subito",
-        "ru": "Внезапно"
-      },
-      {
-        "latin": "Beatus",
-        "ru": "Счастливый, блаженный"
-      }
-    ],
-    "reviewed_today": [
-      "Facinus",
-      "Metus",
-      "Aevum"
-    ]
-  },
-  {
-    "date": "2026-03-23",
-    "words": [
-      {
         "latin": "Supplex",
         "ru": "Молящий, покорный"
       },
@@ -10997,6 +10975,28 @@
       "Sors",
       "Disciplina",
       "Plenus"
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "words": [
+      {
+        "latin": "Remus",
+        "ru": "Весло"
+      },
+      {
+        "latin": "Silva",
+        "ru": "Лес"
+      },
+      {
+        "latin": "Visere",
+        "ru": "Осматривать, посещать"
+      }
+    ],
+    "reviewed_today": [
+      "Custos",
+      "Stilus",
+      "Mons"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-03-23",
     "words": [
       {
-        "latin": "Supplex",
-        "ru": "Молящий, покорный"
-      },
-      {
-        "latin": "Cantare",
-        "ru": "Петь"
-      },
-      {
-        "latin": "Uva",
-        "ru": "Виноград"
-      }
-    ],
-    "reviewed_today": [
-      "Doctrina",
-      "Nullus",
-      "Infans"
-    ]
-  },
-  {
-    "date": "2026-03-23",
-    "words": [
-      {
         "latin": "Filia",
         "ru": "Дочь"
       },
@@ -10997,6 +10975,28 @@
       "Custos",
       "Stilus",
       "Mons"
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "words": [
+      {
+        "latin": "Respondere",
+        "ru": "Отвечать"
+      },
+      {
+        "latin": "Ferrum",
+        "ru": "Железо"
+      },
+      {
+        "latin": "Libertas",
+        "ru": "Свобода"
+      }
+    ],
+    "reviewed_today": [
+      "Etiam",
+      "Dividere",
+      "Spiritus"
     ]
   }
 ]

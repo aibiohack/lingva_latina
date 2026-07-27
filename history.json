@@ -3,28 +3,6 @@
     "date": "2026-03-24",
     "words": [
       {
-        "latin": "Spes",
-        "ru": "Надежда"
-      },
-      {
-        "latin": "Sanguis",
-        "ru": "Кровь"
-      },
-      {
-        "latin": "Tendere",
-        "ru": "Натягивать, стремиться"
-      }
-    ],
-    "reviewed_today": [
-      "Currere",
-      "Turpis",
-      "Laborare"
-    ]
-  },
-  {
-    "date": "2026-03-24",
-    "words": [
-      {
         "latin": "Doctrina",
         "ru": "Учение, наука"
       },
@@ -10997,6 +10975,28 @@
       "Ignis",
       "Miles",
       "Cupere"
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "words": [
+      {
+        "latin": "Ingens",
+        "ru": "Огромный"
+      },
+      {
+        "latin": "Disputare",
+        "ru": "Рассуждать, спорить"
+      },
+      {
+        "latin": "Vitare",
+        "ru": "Избегать"
+      }
+    ],
+    "reviewed_today": [
+      "Magnitudo",
+      "Instruere",
+      "Crudele"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-03-24",
     "words": [
       {
-        "latin": "Doctrina",
-        "ru": "Учение, наука"
-      },
-      {
-        "latin": "Cotidie",
-        "ru": "Ежедневно"
-      },
-      {
-        "latin": "Spiritus",
-        "ru": "Дух"
-      }
-    ],
-    "reviewed_today": [
-      "Fama",
-      "Barbarus",
-      "Arbor"
-    ]
-  },
-  {
-    "date": "2026-03-24",
-    "words": [
-      {
         "latin": "Consistere",
         "ru": "Останавливаться, состоять"
       },
@@ -10997,6 +10975,28 @@
       "Magnitudo",
       "Instruere",
       "Crudele"
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "words": [
+      {
+        "latin": "Familia",
+        "ru": "Семья, домочадцы"
+      },
+      {
+        "latin": "Invitare",
+        "ru": "Приглашать"
+      },
+      {
+        "latin": "Vallis",
+        "ru": "Долина"
+      }
+    ],
+    "reviewed_today": [
+      "Umerus",
+      "Auxilium",
+      "Horrere"
     ]
   }
 ]

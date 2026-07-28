@@ -3,28 +3,6 @@
     "date": "2026-03-25",
     "words": [
       {
-        "latin": "Venari",
-        "ru": "Охотиться"
-      },
-      {
-        "latin": "Fulmen",
-        "ru": "Молния"
-      },
-      {
-        "latin": "Manere",
-        "ru": "Оставаться"
-      }
-    ],
-    "reviewed_today": [
-      "Discere",
-      "Tenebrae",
-      "Sacer"
-    ]
-  },
-  {
-    "date": "2026-03-25",
-    "words": [
-      {
         "latin": "Insula",
         "ru": "Остров"
       },
@@ -10997,6 +10975,28 @@
       "Sentire",
       "Littera",
       "Eligere"
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "words": [
+      {
+        "latin": "Sum",
+        "ru": "Я есмь (быть)"
+      },
+      {
+        "latin": "Audire",
+        "ru": "Слышать"
+      },
+      {
+        "latin": "Spectare",
+        "ru": "Смотреть"
+      }
+    ],
+    "reviewed_today": [
+      "Honestus",
+      "Ver",
+      "Castrum"
     ]
   }
 ]

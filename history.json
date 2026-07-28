@@ -3,28 +3,6 @@
     "date": "2026-03-24",
     "words": [
       {
-        "latin": "Consistere",
-        "ru": "Останавливаться, состоять"
-      },
-      {
-        "latin": "Respondere",
-        "ru": "Отвечать"
-      },
-      {
-        "latin": "Turba",
-        "ru": "Толпа, сумятица"
-      }
-    ],
-    "reviewed_today": [
-      "Aut",
-      "Gaudium",
-      "Servus"
-    ]
-  },
-  {
-    "date": "2026-03-24",
-    "words": [
-      {
         "latin": "Lex",
         "ru": "Закон"
       },
@@ -10997,6 +10975,28 @@
       "Umerus",
       "Auxilium",
       "Horrere"
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "words": [
+      {
+        "latin": "Nuntius",
+        "ru": "Вестник"
+      },
+      {
+        "latin": "Sol",
+        "ru": "Солнце"
+      },
+      {
+        "latin": "Studere",
+        "ru": "Стремиться, учиться"
+      }
+    ],
+    "reviewed_today": [
+      "Vicus",
+      "Grex",
+      "Mittere"
     ]
   }
 ]

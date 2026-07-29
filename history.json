@@ -3,28 +3,6 @@
     "date": "2026-03-26",
     "words": [
       {
-        "latin": "Totus",
-        "ru": "Весь, целый"
-      },
-      {
-        "latin": "Hinc",
-        "ru": "Отсюда"
-      },
-      {
-        "latin": "Doctus",
-        "ru": "Ученый"
-      }
-    ],
-    "reviewed_today": [
-      "Sententia",
-      "Ars",
-      "Radix"
-    ]
-  },
-  {
-    "date": "2026-03-26",
-    "words": [
-      {
         "latin": "Custos",
         "ru": "Страж"
       },
@@ -10997,6 +10975,28 @@
       "Iocus",
       "Tribuere",
       "Iustus"
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "words": [
+      {
+        "latin": "Laus",
+        "ru": "Похвала, слава"
+      },
+      {
+        "latin": "Iungera",
+        "ru": "Соединять"
+      },
+      {
+        "latin": "Sapiens",
+        "ru": "Мудрый, разумный"
+      }
+    ],
+    "reviewed_today": [
+      "Multitudo",
+      "Immortalis",
+      "Proprius"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-25",
-    "words": [
-      {
-        "latin": "Sapiens",
-        "ru": "Мудрый, разумный"
-      },
-      {
-        "latin": "Sitire",
-        "ru": "Жаждать"
-      },
-      {
-        "latin": "Laus",
-        "ru": "Похвала, слава"
-      }
-    ],
-    "reviewed_today": [
-      "Morari",
-      "Magister",
-      "Fere"
-    ]
-  },
-  {
     "date": "2026-03-26",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Novus",
       "Gaudere",
       "Mentior"
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "words": [
+      {
+        "latin": "Iucundus",
+        "ru": "Приятный"
+      },
+      {
+        "latin": "Talis",
+        "ru": "Такой"
+      },
+      {
+        "latin": "Gravis",
+        "ru": "Тяжелый"
+      }
+    ],
+    "reviewed_today": [
+      "Iocus",
+      "Tribuere",
+      "Iustus"
     ]
   }
 ]

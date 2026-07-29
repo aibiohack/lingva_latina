@@ -3,28 +3,6 @@
     "date": "2026-03-25",
     "words": [
       {
-        "latin": "Argentum",
-        "ru": "Серебро"
-      },
-      {
-        "latin": "Ripa",
-        "ru": "Берег (реки)"
-      },
-      {
-        "latin": "Trabs",
-        "ru": "Балка, дерево"
-      }
-    ],
-    "reviewed_today": [
-      "Horrere",
-      "Clemens",
-      "Summa"
-    ]
-  },
-  {
-    "date": "2026-03-25",
-    "words": [
-      {
         "latin": "Sapiens",
         "ru": "Мудрый, разумный"
       },
@@ -10997,6 +10975,28 @@
       "Imago",
       "Sursum",
       "Altus"
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "words": [
+      {
+        "latin": "Viginti",
+        "ru": "Двадцать"
+      },
+      {
+        "latin": "Rumpere",
+        "ru": "Рвать, ломать"
+      },
+      {
+        "latin": "Populus",
+        "ru": "Народ"
+      }
+    ],
+    "reviewed_today": [
+      "Novus",
+      "Gaudere",
+      "Mentior"
     ]
   }
 ]

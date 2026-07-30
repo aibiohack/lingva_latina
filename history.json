@@ -3,28 +3,6 @@
     "date": "2026-03-26",
     "words": [
       {
-        "latin": "Custos",
-        "ru": "Страж"
-      },
-      {
-        "latin": "Antiquus",
-        "ru": "Древний, старинный"
-      },
-      {
-        "latin": "Terror",
-        "ru": "Ужас, страх"
-      }
-    ],
-    "reviewed_today": [
-      "Sanguis",
-      "Tardus",
-      "Late"
-    ]
-  },
-  {
-    "date": "2026-03-26",
-    "words": [
-      {
         "latin": "Tenebrae",
         "ru": "Мрак, тьма"
       },
@@ -10997,6 +10975,28 @@
       "Multitudo",
       "Immortalis",
       "Proprius"
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "words": [
+      {
+        "latin": "Vestis",
+        "ru": "Одежда"
+      },
+      {
+        "latin": "Testis",
+        "ru": "Свидетель"
+      },
+      {
+        "latin": "Super",
+        "ru": "Над"
+      }
+    ],
+    "reviewed_today": [
+      "Cunctus",
+      "Dum",
+      "Roma"
     ]
   }
 ]

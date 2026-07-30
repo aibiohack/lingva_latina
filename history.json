@@ -3,28 +3,6 @@
     "date": "2026-03-27",
     "words": [
       {
-        "latin": "Tardus",
-        "ru": "Медленный"
-      },
-      {
-        "latin": "Gaudere",
-        "ru": "Радоваться"
-      },
-      {
-        "latin": "Vale",
-        "ru": "Прощай, будь здоров"
-      }
-    ],
-    "reviewed_today": [
-      "Angelus",
-      "Epistula",
-      "Terere"
-    ]
-  },
-  {
-    "date": "2026-03-27",
-    "words": [
-      {
         "latin": "Similis",
         "ru": "Похожий"
       },
@@ -10997,6 +10975,28 @@
       "Tenere",
       "Fatum",
       "Terrere"
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "words": [
+      {
+        "latin": "Sitire",
+        "ru": "Жаждать"
+      },
+      {
+        "latin": "Consistere",
+        "ru": "Останавливаться, состоять"
+      },
+      {
+        "latin": "Mutare",
+        "ru": "Менять"
+      }
+    ],
+    "reviewed_today": [
+      "Fallere",
+      "Turris",
+      "Fere"
     ]
   }
 ]

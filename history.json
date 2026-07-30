@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-26",
-    "words": [
-      {
-        "latin": "Locus",
-        "ru": "Место"
-      },
-      {
-        "latin": "Mutare",
-        "ru": "Менять"
-      },
-      {
-        "latin": "Ter",
-        "ru": "Трижды"
-      }
-    ],
-    "reviewed_today": [
-      "Pugnare",
-      "Mutare",
-      "Amare"
-    ]
-  },
-  {
     "date": "2026-03-27",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Singulus",
       "Ferre",
       "Iurare"
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "words": [
+      {
+        "latin": "Periculum",
+        "ru": "Опасность"
+      },
+      {
+        "latin": "Supplex",
+        "ru": "Молящий, покорный"
+      },
+      {
+        "latin": "Timere",
+        "ru": "Бояться"
+      }
+    ],
+    "reviewed_today": [
+      "Tenere",
+      "Fatum",
+      "Terrere"
     ]
   }
 ]

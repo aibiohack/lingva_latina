@@ -3,28 +3,6 @@
     "date": "2026-03-26",
     "words": [
       {
-        "latin": "Tenebrae",
-        "ru": "Мрак, тьма"
-      },
-      {
-        "latin": "Innocens",
-        "ru": "Невинный"
-      },
-      {
-        "latin": "Fructus",
-        "ru": "Плод, доход"
-      }
-    ],
-    "reviewed_today": [
-      "Vicus",
-      "Trabs",
-      "Telum"
-    ]
-  },
-  {
-    "date": "2026-03-26",
-    "words": [
-      {
         "latin": "Locus",
         "ru": "Место"
       },
@@ -10997,6 +10975,28 @@
       "Cunctus",
       "Dum",
       "Roma"
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "words": [
+      {
+        "latin": "Tres",
+        "ru": "Три"
+      },
+      {
+        "latin": "Fames",
+        "ru": "Голод"
+      },
+      {
+        "latin": "Incipere",
+        "ru": "Начинать"
+      }
+    ],
+    "reviewed_today": [
+      "Singulus",
+      "Ferre",
+      "Iurare"
     ]
   }
 ]

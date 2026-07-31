@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-27",
-    "words": [
-      {
-        "latin": "Post",
-        "ru": "После"
-      },
-      {
-        "latin": "Certe",
-        "ru": "Конечно"
-      },
-      {
-        "latin": "Rus",
-        "ru": "Деревня, поместье"
-      }
-    ],
-    "reviewed_today": [
-      "Publicus",
-      "Tamen",
-      "Triduum"
-    ]
-  },
-  {
     "date": "2026-03-28",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Somnus",
       "Constituere",
       "Aperire"
+    ]
+  },
+  {
+    "date": "2026-07-31",
+    "words": [
+      {
+        "latin": "Gaudere",
+        "ru": "Радоваться"
+      },
+      {
+        "latin": "Audax",
+        "ru": "Смелый, дерзкий"
+      },
+      {
+        "latin": "Locus",
+        "ru": "Место"
+      }
+    ],
+    "reviewed_today": [
+      "Ubique",
+      "Audire",
+      "Mentior"
     ]
   }
 ]

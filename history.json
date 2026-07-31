@@ -3,28 +3,6 @@
     "date": "2026-03-28",
     "words": [
       {
-        "latin": "Magister",
-        "ru": "Учитель"
-      },
-      {
-        "latin": "Gens",
-        "ru": "Племя, род"
-      },
-      {
-        "latin": "Docere",
-        "ru": "Учить, обучать"
-      }
-    ],
-    "reviewed_today": [
-      "Unde",
-      "Victor",
-      "Togatus"
-    ]
-  },
-  {
-    "date": "2026-03-28",
-    "words": [
-      {
         "latin": "Frigus",
         "ru": "Холод, мороз"
       },
@@ -10997,6 +10975,28 @@
       "Ubique",
       "Audire",
       "Mentior"
+    ]
+  },
+  {
+    "date": "2026-07-31",
+    "words": [
+      {
+        "latin": "Virtus",
+        "ru": "Добродетель, мужество"
+      },
+      {
+        "latin": "Bene",
+        "ru": "Хорошо"
+      },
+      {
+        "latin": "Tempus",
+        "ru": "Время"
+      }
+    ],
+    "reviewed_today": [
+      "Surgere",
+      "Unde",
+      "Sermo"
     ]
   }
 ]

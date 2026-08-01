@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-28",
-    "words": [
-      {
-        "latin": "Disputare",
-        "ru": "Рассуждать, спорить"
-      },
-      {
-        "latin": "Inquit",
-        "ru": "Говорит (вводное)"
-      },
-      {
-        "latin": "Petere",
-        "ru": "Просить, стремиться"
-      }
-    ],
-    "reviewed_today": [
-      "Senatus",
-      "Tardus",
-      "Flumen"
-    ]
-  },
-  {
     "date": "2026-03-29",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Civitas",
       "Libenter",
       "Fieri"
+    ]
+  },
+  {
+    "date": "2026-08-01",
+    "words": [
+      {
+        "latin": "Vester",
+        "ru": "Ваш"
+      },
+      {
+        "latin": "Tertius",
+        "ru": "Третий"
+      },
+      {
+        "latin": "Sapere",
+        "ru": "Быть мудрым"
+      }
+    ],
+    "reviewed_today": [
+      "Cor",
+      "Aurum",
+      "Qualis"
     ]
   }
 ]

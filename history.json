@@ -3,28 +3,6 @@
     "date": "2026-03-28",
     "words": [
       {
-        "latin": "Frigus",
-        "ru": "Холод, мороз"
-      },
-      {
-        "latin": "Claudere",
-        "ru": "Закрывать"
-      },
-      {
-        "latin": "Socius",
-        "ru": "Союзник"
-      }
-    ],
-    "reviewed_today": [
-      "Iterum",
-      "Totus",
-      "Sonus"
-    ]
-  },
-  {
-    "date": "2026-03-28",
-    "words": [
-      {
         "latin": "Virgo",
         "ru": "Девушка, дева"
       },
@@ -10997,6 +10975,28 @@
       "Surgere",
       "Unde",
       "Sermo"
+    ]
+  },
+  {
+    "date": "2026-08-01",
+    "words": [
+      {
+        "latin": "Vetus",
+        "ru": "Старый"
+      },
+      {
+        "latin": "Vestis",
+        "ru": "Одежда"
+      },
+      {
+        "latin": "Vinculum",
+        "ru": "Узы, цепь"
+      }
+    ],
+    "reviewed_today": [
+      "Filia",
+      "Fames",
+      "Foedus"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-03-28",
     "words": [
       {
-        "latin": "Virgo",
-        "ru": "Девушка, дева"
-      },
-      {
-        "latin": "Parare",
-        "ru": "Готовить"
-      },
-      {
-        "latin": "Tradere",
-        "ru": "Передавать, предавать"
-      }
-    ],
-    "reviewed_today": [
-      "Vero",
-      "Etiam",
-      "Sitire"
-    ]
-  },
-  {
-    "date": "2026-03-28",
-    "words": [
-      {
         "latin": "Disputare",
         "ru": "Рассуждать, спорить"
       },
@@ -10997,6 +10975,28 @@
       "Filia",
       "Fames",
       "Foedus"
+    ]
+  },
+  {
+    "date": "2026-08-01",
+    "words": [
+      {
+        "latin": "Frigus",
+        "ru": "Холод, мороз"
+      },
+      {
+        "latin": "Gens",
+        "ru": "Племя, род"
+      },
+      {
+        "latin": "Magister",
+        "ru": "Учитель"
+      }
+    ],
+    "reviewed_today": [
+      "Civitas",
+      "Libenter",
+      "Fieri"
     ]
   }
 ]

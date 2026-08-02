@@ -3,28 +3,6 @@
     "date": "2026-03-30",
     "words": [
       {
-        "latin": "Ventus",
-        "ru": "Ветер"
-      },
-      {
-        "latin": "Veritas",
-        "ru": "Истина"
-      },
-      {
-        "latin": "Vindicare",
-        "ru": "Заявлять права, мстить"
-      }
-    ],
-    "reviewed_today": [
-      "Longus",
-      "Villa",
-      "Arma"
-    ]
-  },
-  {
-    "date": "2026-03-30",
-    "words": [
-      {
         "latin": "Villa",
         "ru": "Вилла, усадьба"
       },
@@ -10997,6 +10975,28 @@
       "Poeta",
       "Uva",
       "Parens"
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "words": [
+      {
+        "latin": "Tollere",
+        "ru": "Поднимать, уничтожать"
+      },
+      {
+        "latin": "Venerari",
+        "ru": "Почитать, боготворить"
+      },
+      {
+        "latin": "Fructus",
+        "ru": "Плод, доход"
+      }
+    ],
+    "reviewed_today": [
+      "Aliquis",
+      "Audax",
+      "Pes"
     ]
   }
 ]

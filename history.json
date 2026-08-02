@@ -3,28 +3,6 @@
     "date": "2026-03-29",
     "words": [
       {
-        "latin": "Velum",
-        "ru": "Парус, завеса"
-      },
-      {
-        "latin": "Fons",
-        "ru": "Источник"
-      },
-      {
-        "latin": "Suus",
-        "ru": "Свой"
-      }
-    ],
-    "reviewed_today": [
-      "Dicere",
-      "Malus",
-      "Sagitta"
-    ]
-  },
-  {
-    "date": "2026-03-29",
-    "words": [
-      {
         "latin": "Parens",
         "ru": "Родитель"
       },
@@ -10997,6 +10975,28 @@
       "Cras",
       "Latere",
       "Victoria"
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "words": [
+      {
+        "latin": "Virgo",
+        "ru": "Девушка, дева"
+      },
+      {
+        "latin": "Parare",
+        "ru": "Готовить"
+      },
+      {
+        "latin": "Puella",
+        "ru": "Девочка"
+      }
+    ],
+    "reviewed_today": [
+      "Vincire",
+      "Debeo",
+      "Timere"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-03-30",
     "words": [
       {
-        "latin": "Texere",
-        "ru": "Ткать, плести"
-      },
-      {
-        "latin": "Tradere",
-        "ru": "Передавать, предавать"
-      },
-      {
-        "latin": "Vale",
-        "ru": "Прощай (будь здоров)"
-      }
-    ],
-    "reviewed_today": [
-      "Ridere",
-      "Videre",
-      "Canis"
-    ]
-  },
-  {
-    "date": "2026-03-30",
-    "words": [
-      {
         "latin": "Ungere",
         "ru": "Мазать, умащать"
       },
@@ -10997,6 +10975,28 @@
       "Solitudo",
       "Ludus",
       "Superbus"
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "words": [
+      {
+        "latin": "Tollere",
+        "ru": "Поднимать, уничтожать"
+      },
+      {
+        "latin": "Frater",
+        "ru": "Брат"
+      },
+      {
+        "latin": "Salve",
+        "ru": "Здравствуй"
+      }
+    ],
+    "reviewed_today": [
+      "Frumentum",
+      "Nihil",
+      "Sine"
     ]
   }
 ]

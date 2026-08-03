@@ -3,28 +3,6 @@
     "date": "2026-03-30",
     "words": [
       {
-        "latin": "Villa",
-        "ru": "Вилла, усадьба"
-      },
-      {
-        "latin": "Sors",
-        "ru": "Жребий, судьба"
-      },
-      {
-        "latin": "Super",
-        "ru": "Над"
-      }
-    ],
-    "reviewed_today": [
-      "Solium",
-      "Rus",
-      "Epistula"
-    ]
-  },
-  {
-    "date": "2026-03-30",
-    "words": [
-      {
         "latin": "Texere",
         "ru": "Ткать, плести"
       },
@@ -10997,6 +10975,28 @@
       "Aliquis",
       "Audax",
       "Pes"
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "words": [
+      {
+        "latin": "Gerere",
+        "ru": "Вести, совершать"
+      },
+      {
+        "latin": "Veritas",
+        "ru": "Истина"
+      },
+      {
+        "latin": "Veritas",
+        "ru": "Истина"
+      }
+    ],
+    "reviewed_today": [
+      "Solitudo",
+      "Ludus",
+      "Superbus"
     ]
   }
 ]

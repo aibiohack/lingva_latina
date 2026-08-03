@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-30",
-    "words": [
-      {
-        "latin": "Ungere",
-        "ru": "Мазать, умащать"
-      },
-      {
-        "latin": "Navis",
-        "ru": "Корабль"
-      },
-      {
-        "latin": "Recipere",
-        "ru": "Получать, принимать"
-      }
-    ],
-    "reviewed_today": [
-      "Numerus",
-      "Sapientia",
-      "Credere"
-    ]
-  },
-  {
     "date": "2026-03-31",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Frumentum",
       "Nihil",
       "Sine"
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "words": [
+      {
+        "latin": "Tradere",
+        "ru": "Передавать, предавать"
+      },
+      {
+        "latin": "Texere",
+        "ru": "Ткать, плести"
+      },
+      {
+        "latin": "Fons",
+        "ru": "Источник"
+      }
+    ],
+    "reviewed_today": [
+      "Sententia",
+      "Recipere",
+      "Liber"
     ]
   }
 ]

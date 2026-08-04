@@ -3,28 +3,6 @@
     "date": "2026-03-31",
     "words": [
       {
-        "latin": "Tres",
-        "ru": "Три"
-      },
-      {
-        "latin": "Vetus",
-        "ru": "Старый"
-      },
-      {
-        "latin": "Externus",
-        "ru": "Внешний, чужой"
-      }
-    ],
-    "reviewed_today": [
-      "Laborare",
-      "Error",
-      "Apud"
-    ]
-  },
-  {
-    "date": "2026-03-31",
-    "words": [
-      {
         "latin": "Sic",
         "ru": "Так"
       },
@@ -10997,6 +10975,28 @@
       "Cor",
       "Iacere",
       "Tibia"
+    ]
+  },
+  {
+    "date": "2026-08-04",
+    "words": [
+      {
+        "latin": "Vertere",
+        "ru": "Поворачивать"
+      },
+      {
+        "latin": "Copia",
+        "ru": "Запас, множество"
+      },
+      {
+        "latin": "Triginta",
+        "ru": "Тридцать"
+      }
+    ],
+    "reviewed_today": [
+      "Repetere",
+      "Confirmare",
+      "Flumen"
     ]
   }
 ]

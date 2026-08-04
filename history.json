@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-03-31",
-    "words": [
-      {
-        "latin": "Sic",
-        "ru": "Так"
-      },
-      {
-        "latin": "Quid",
-        "ru": "Что"
-      },
-      {
-        "latin": "Cotidie",
-        "ru": "Ежедневно"
-      }
-    ],
-    "reviewed_today": [
-      "Historia",
-      "Arma",
-      "Iudex"
-    ]
-  },
-  {
     "date": "2026-04-01",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Repetere",
       "Confirmare",
       "Flumen"
+    ]
+  },
+  {
+    "date": "2026-08-04",
+    "words": [
+      {
+        "latin": "Cras",
+        "ru": "Завтра"
+      },
+      {
+        "latin": "Retinere",
+        "ru": "Удерживать, сохранять"
+      },
+      {
+        "latin": "Annus",
+        "ru": "Год"
+      }
+    ],
+    "reviewed_today": [
+      "Iscere",
+      "Totus",
+      "Tergum"
     ]
   }
 ]

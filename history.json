@@ -3,28 +3,6 @@
     "date": "2026-04-01",
     "words": [
       {
-        "latin": "Magis",
-        "ru": "Более"
-      },
-      {
-        "latin": "Urbs",
-        "ru": "Город"
-      },
-      {
-        "latin": "Lacrima",
-        "ru": "Слеза"
-      }
-    ],
-    "reviewed_today": [
-      "Totus",
-      "Lenis",
-      "Littera"
-    ]
-  },
-  {
-    "date": "2026-04-01",
-    "words": [
-      {
         "latin": "Flere",
         "ru": "Плакать"
       },
@@ -10997,6 +10975,28 @@
       "Iscere",
       "Totus",
       "Tergum"
+    ]
+  },
+  {
+    "date": "2026-08-04",
+    "words": [
+      {
+        "latin": "Triumphus",
+        "ru": "Триумф, победа"
+      },
+      {
+        "latin": "Disciplina",
+        "ru": "Обучение, порядок"
+      },
+      {
+        "latin": "Vicinus",
+        "ru": "Соседний"
+      }
+    ],
+    "reviewed_today": [
+      "Schola",
+      "Aut",
+      "Umquam"
     ]
   }
 ]

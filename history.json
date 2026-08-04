@@ -3,28 +3,6 @@
     "date": "2026-03-31",
     "words": [
       {
-        "latin": "Sum",
-        "ru": "Я есмь (быть)"
-      },
-      {
-        "latin": "Aurum",
-        "ru": "Золото"
-      },
-      {
-        "latin": "Disciplina",
-        "ru": "Обучение, порядок"
-      }
-    ],
-    "reviewed_today": [
-      "Fragilis",
-      "Aevum",
-      "Laudare"
-    ]
-  },
-  {
-    "date": "2026-03-31",
-    "words": [
-      {
         "latin": "Tres",
         "ru": "Три"
       },
@@ -10997,6 +10975,28 @@
       "Hora",
       "Exercitus",
       "Mos"
+    ]
+  },
+  {
+    "date": "2026-08-04",
+    "words": [
+      {
+        "latin": "Ungere",
+        "ru": "Мазать, умащать"
+      },
+      {
+        "latin": "Navis",
+        "ru": "Корабль"
+      },
+      {
+        "latin": "Taurus",
+        "ru": "Бык"
+      }
+    ],
+    "reviewed_today": [
+      "Cor",
+      "Iacere",
+      "Tibia"
     ]
   }
 ]

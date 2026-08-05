@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-01",
-    "words": [
-      {
-        "latin": "Soror",
-        "ru": "Сестра"
-      },
-      {
-        "latin": "Semper",
-        "ru": "Всегда"
-      },
-      {
-        "latin": "Omnis",
-        "ru": "Весь"
-      }
-    ],
-    "reviewed_today": [
-      "Temptare",
-      "Instruere",
-      "Invidia"
-    ]
-  },
-  {
     "date": "2026-04-02",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Spiritus",
       "Cor",
       "Inquit"
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "words": [
+      {
+        "latin": "Animus",
+        "ru": "Дух, разум"
+      },
+      {
+        "latin": "Sinister",
+        "ru": "Левый, дурной"
+      },
+      {
+        "latin": "Vox",
+        "ru": "Голос"
+      }
+    ],
+    "reviewed_today": [
+      "Pulcher",
+      "Maestus",
+      "Vates"
     ]
   }
 ]

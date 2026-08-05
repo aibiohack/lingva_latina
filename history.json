@@ -3,28 +3,6 @@
     "date": "2026-04-01",
     "words": [
       {
-        "latin": "Flere",
-        "ru": "Плакать"
-      },
-      {
-        "latin": "Sedere",
-        "ru": "Сидеть"
-      },
-      {
-        "latin": "Iubere",
-        "ru": "Приказывать"
-      }
-    ],
-    "reviewed_today": [
-      "Pone",
-      "Facies",
-      "Vacuus"
-    ]
-  },
-  {
-    "date": "2026-04-01",
-    "words": [
-      {
         "latin": "Verus",
         "ru": "Истинный"
       },
@@ -10997,6 +10975,28 @@
       "Schola",
       "Aut",
       "Umquam"
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "words": [
+      {
+        "latin": "Ungere",
+        "ru": "Мазать, умащать"
+      },
+      {
+        "latin": "Meritum",
+        "ru": "Заслуга"
+      },
+      {
+        "latin": "Libertas",
+        "ru": "Свобода"
+      }
+    ],
+    "reviewed_today": [
+      "Porta",
+      "Idoneus",
+      "Vulnus"
     ]
   }
 ]

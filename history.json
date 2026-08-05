@@ -3,28 +3,6 @@
     "date": "2026-04-02",
     "words": [
       {
-        "latin": "Celer",
-        "ru": "Быстрый"
-      },
-      {
-        "latin": "Defendere",
-        "ru": "Защищать"
-      },
-      {
-        "latin": "Hortus",
-        "ru": "Сад"
-      }
-    ],
-    "reviewed_today": [
-      "Putare",
-      "Versari",
-      "Solium"
-    ]
-  },
-  {
-    "date": "2026-04-02",
-    "words": [
-      {
         "latin": "Servire",
         "ru": "Служить"
       },
@@ -10997,6 +10975,28 @@
       "Pulcher",
       "Maestus",
       "Vates"
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "words": [
+      {
+        "latin": "Si",
+        "ru": "Если"
+      },
+      {
+        "latin": "Verere",
+        "ru": "Бояться, чтить"
+      },
+      {
+        "latin": "Dextra",
+        "ru": "Правая рука"
+      }
+    ],
+    "reviewed_today": [
+      "Vitrum",
+      "Vituperare",
+      "Charta"
     ]
   }
 ]

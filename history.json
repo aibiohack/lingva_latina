@@ -3,28 +3,6 @@
     "date": "2026-04-01",
     "words": [
       {
-        "latin": "Verus",
-        "ru": "Истинный"
-      },
-      {
-        "latin": "Singulus",
-        "ru": "Одиночный"
-      },
-      {
-        "latin": "Dignus",
-        "ru": "Достойный"
-      }
-    ],
-    "reviewed_today": [
-      "Vetustus",
-      "Decidere",
-      "Nuntius"
-    ]
-  },
-  {
-    "date": "2026-04-01",
-    "words": [
-      {
         "latin": "Soror",
         "ru": "Сестра"
       },
@@ -10997,6 +10975,28 @@
       "Porta",
       "Idoneus",
       "Vulnus"
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "words": [
+      {
+        "latin": "Sapiens",
+        "ru": "Мудрый, разумный"
+      },
+      {
+        "latin": "Ungere",
+        "ru": "Мазать, умащать"
+      },
+      {
+        "latin": "Dominus",
+        "ru": "Господин"
+      }
+    ],
+    "reviewed_today": [
+      "Spiritus",
+      "Cor",
+      "Inquit"
     ]
   }
 ]

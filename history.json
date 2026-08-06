@@ -3,28 +3,6 @@
     "date": "2026-04-02",
     "words": [
       {
-        "latin": "Diversus",
-        "ru": "Разный, противоположный"
-      },
-      {
-        "latin": "Vehiculum",
-        "ru": "Повозка, судно"
-      },
-      {
-        "latin": "Magis",
-        "ru": "Более"
-      }
-    ],
-    "reviewed_today": [
-      "Furor",
-      "Facilis",
-      "Multitudo"
-    ]
-  },
-  {
-    "date": "2026-04-02",
-    "words": [
-      {
         "latin": "Radix",
         "ru": "Корень"
       },
@@ -10997,6 +10975,28 @@
       "Vultus",
       "Iudex",
       "Reliquus"
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "words": [
+      {
+        "latin": "Rumor",
+        "ru": "Слух, молва"
+      },
+      {
+        "latin": "Uxor",
+        "ru": "Жена"
+      },
+      {
+        "latin": "Utique",
+        "ru": "Во всяком случае, особенно"
+      }
+    ],
+    "reviewed_today": [
+      "Velox",
+      "Stirps",
+      "Ventus"
     ]
   }
 ]

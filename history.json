@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-02",
-    "words": [
-      {
-        "latin": "Radix",
-        "ru": "Корень"
-      },
-      {
-        "latin": "Stultus",
-        "ru": "Глупый"
-      },
-      {
-        "latin": "Invenire",
-        "ru": "Находить"
-      }
-    ],
-    "reviewed_today": [
-      "Epistula",
-      "Sinister",
-      "Sub"
-    ]
-  },
-  {
     "date": "2026-04-03",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Velox",
       "Stirps",
       "Ventus"
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "words": [
+      {
+        "latin": "Temperantia",
+        "ru": "Умеренность"
+      },
+      {
+        "latin": "Gravis",
+        "ru": "Тяжелый"
+      },
+      {
+        "latin": "Curare",
+        "ru": "Заботиться"
+      }
+    ],
+    "reviewed_today": [
+      "Unde",
+      "Tamen",
+      "Aurum"
     ]
   }
 ]

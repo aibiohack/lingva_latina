@@ -3,28 +3,6 @@
     "date": "2026-04-02",
     "words": [
       {
-        "latin": "Servire",
-        "ru": "Служить"
-      },
-      {
-        "latin": "Insula",
-        "ru": "Остров"
-      },
-      {
-        "latin": "Suus",
-        "ru": "Свой"
-      }
-    ],
-    "reviewed_today": [
-      "Tenuis",
-      "Ceterus",
-      "Legatus"
-    ]
-  },
-  {
-    "date": "2026-04-02",
-    "words": [
-      {
         "latin": "Diversus",
         "ru": "Разный, противоположный"
       },
@@ -10997,6 +10975,28 @@
       "Vitrum",
       "Vituperare",
       "Charta"
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "words": [
+      {
+        "latin": "Flere",
+        "ru": "Плакать"
+      },
+      {
+        "latin": "Defendere",
+        "ru": "Защищать"
+      },
+      {
+        "latin": "Hortus",
+        "ru": "Сад"
+      }
+    ],
+    "reviewed_today": [
+      "Vultus",
+      "Iudex",
+      "Reliquus"
     ]
   }
 ]

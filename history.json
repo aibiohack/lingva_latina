@@ -3,28 +3,6 @@
     "date": "2026-04-03",
     "words": [
       {
-        "latin": "Terra",
-        "ru": "Земля"
-      },
-      {
-        "latin": "Tumultus",
-        "ru": "Смятение, шум"
-      },
-      {
-        "latin": "Victor",
-        "ru": "Победитель"
-      }
-    ],
-    "reviewed_today": [
-      "Fateri",
-      "Docere",
-      "Iugum"
-    ]
-  },
-  {
-    "date": "2026-04-03",
-    "words": [
-      {
         "latin": "Bibere",
         "ru": "Пить"
       },
@@ -10997,6 +10975,28 @@
       "Visere",
       "Socius",
       "Quod"
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "words": [
+      {
+        "latin": "Altus",
+        "ru": "Высокий, глубокий"
+      },
+      {
+        "latin": "Mollis",
+        "ru": "Мягкий"
+      },
+      {
+        "latin": "Fatum",
+        "ru": "Судьба"
+      }
+    ],
+    "reviewed_today": [
+      "Viridis",
+      "Tegere",
+      "Verere"
     ]
   }
 ]

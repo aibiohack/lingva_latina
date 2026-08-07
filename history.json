@@ -3,28 +3,6 @@
     "date": "2026-04-03",
     "words": [
       {
-        "latin": "Sanctus",
-        "ru": "Святой, нерушимый"
-      },
-      {
-        "latin": "Efficere",
-        "ru": "Действовать, исполнять"
-      },
-      {
-        "latin": "Eligere",
-        "ru": "Выбирать"
-      }
-    ],
-    "reviewed_today": [
-      "Fortasse",
-      "Regio",
-      "Regnum"
-    ]
-  },
-  {
-    "date": "2026-04-03",
-    "words": [
-      {
         "latin": "Terra",
         "ru": "Земля"
       },
@@ -10997,6 +10975,28 @@
       "Unde",
       "Tamen",
       "Aurum"
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "words": [
+      {
+        "latin": "Indicare",
+        "ru": "Указывать"
+      },
+      {
+        "latin": "Amoenus",
+        "ru": "Приятный, прелестный"
+      },
+      {
+        "latin": "Labor",
+        "ru": "Труд"
+      }
+    ],
+    "reviewed_today": [
+      "Visere",
+      "Socius",
+      "Quod"
     ]
   }
 ]

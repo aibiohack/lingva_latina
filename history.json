@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-03",
-    "words": [
-      {
-        "latin": "Imperare",
-        "ru": "Приказывать"
-      },
-      {
-        "latin": "Vincire",
-        "ru": "Связывать"
-      },
-      {
-        "latin": "Colloquium",
-        "ru": "Разговор, беседа"
-      }
-    ],
-    "reviewed_today": [
-      "Tres",
-      "Soleo",
-      "Honestus"
-    ]
-  },
-  {
     "date": "2026-04-04",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Convivium",
       "Fateri",
       "Orbis"
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "words": [
+      {
+        "latin": "Tueri",
+        "ru": "Смотреть, защищать"
+      },
+      {
+        "latin": "Vehiculum",
+        "ru": "Повозка, судно"
+      },
+      {
+        "latin": "Efficere",
+        "ru": "Действовать, исполнять"
+      }
+    ],
+    "reviewed_today": [
+      "Aut",
+      "Lingua",
+      "Habeo"
     ]
   }
 ]

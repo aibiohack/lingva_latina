@@ -3,28 +3,6 @@
     "date": "2026-04-03",
     "words": [
       {
-        "latin": "Bibere",
-        "ru": "Пить"
-      },
-      {
-        "latin": "Ratio",
-        "ru": "Разум, расчет"
-      },
-      {
-        "latin": "Tueri",
-        "ru": "Смотреть, защищать"
-      }
-    ],
-    "reviewed_today": [
-      "Munus",
-      "Auxilium",
-      "Eripere"
-    ]
-  },
-  {
-    "date": "2026-04-03",
-    "words": [
-      {
         "latin": "Imperare",
         "ru": "Приказывать"
       },
@@ -10997,6 +10975,28 @@
       "Viridis",
       "Tegere",
       "Verere"
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "words": [
+      {
+        "latin": "Studium",
+        "ru": "Стремление, занятие, наука"
+      },
+      {
+        "latin": "Diu",
+        "ru": "Долго"
+      },
+      {
+        "latin": "Iustus",
+        "ru": "Справедливый"
+      }
+    ],
+    "reviewed_today": [
+      "Convivium",
+      "Fateri",
+      "Orbis"
     ]
   }
 ]

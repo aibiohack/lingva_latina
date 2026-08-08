@@ -3,28 +3,6 @@
     "date": "2026-04-04",
     "words": [
       {
-        "latin": "Habitus",
-        "ru": "Состояние, облик"
-      },
-      {
-        "latin": "Plenus",
-        "ru": "Полный"
-      },
-      {
-        "latin": "Magis",
-        "ru": "Более"
-      }
-    ],
-    "reviewed_today": [
-      "Materia",
-      "Potestas",
-      "Roma"
-    ]
-  },
-  {
-    "date": "2026-04-04",
-    "words": [
-      {
         "latin": "Spectare",
         "ru": "Смотреть, созерцать"
       },
@@ -10997,6 +10975,28 @@
       "Infelix",
       "Gelu",
       "Scio"
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "words": [
+      {
+        "latin": "Dum",
+        "ru": "Пока, в то время как"
+      },
+      {
+        "latin": "Fugere",
+        "ru": "Бежать"
+      },
+      {
+        "latin": "Cedere",
+        "ru": "Идти, уступать"
+      }
+    ],
+    "reviewed_today": [
+      "Metus",
+      "Tres",
+      "Vicus"
     ]
   }
 ]

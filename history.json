@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-04",
-    "words": [
-      {
-        "latin": "Spectare",
-        "ru": "Смотреть, созерцать"
-      },
-      {
-        "latin": "Supplex",
-        "ru": "Молящий, покорный"
-      },
-      {
-        "latin": "Inquit",
-        "ru": "Говорит (вводное)"
-      }
-    ],
-    "reviewed_today": [
-      "Patria",
-      "Solus",
-      "Eripere"
-    ]
-  },
-  {
     "date": "2026-04-05",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Metus",
       "Tres",
       "Vicus"
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "words": [
+      {
+        "latin": "Reus",
+        "ru": "Подсудимый, виновный"
+      },
+      {
+        "latin": "Honor",
+        "ru": "Честь"
+      },
+      {
+        "latin": "Tum",
+        "ru": "Тогда"
+      }
+    ],
+    "reviewed_today": [
+      "Fessus",
+      "Rapere",
+      "Umbra"
     ]
   }
 ]

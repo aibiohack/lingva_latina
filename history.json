@@ -3,28 +3,6 @@
     "date": "2026-04-04",
     "words": [
       {
-        "latin": "Verere",
-        "ru": "Бояться, чтить"
-      },
-      {
-        "latin": "Cedere",
-        "ru": "Идти, уступать"
-      },
-      {
-        "latin": "Sarcina",
-        "ru": "Узел, багаж"
-      }
-    ],
-    "reviewed_today": [
-      "Vicus",
-      "Telum",
-      "Hostis"
-    ]
-  },
-  {
-    "date": "2026-04-04",
-    "words": [
-      {
         "latin": "Habitus",
         "ru": "Состояние, облик"
       },
@@ -10997,6 +10975,28 @@
       "Tribuere",
       "Clemens",
       "Trans"
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "words": [
+      {
+        "latin": "Texere",
+        "ru": "Ткать, плести"
+      },
+      {
+        "latin": "Arbor",
+        "ru": "Дерево"
+      },
+      {
+        "latin": "Insula",
+        "ru": "Остров"
+      }
+    ],
+    "reviewed_today": [
+      "Infelix",
+      "Gelu",
+      "Scio"
     ]
   }
 ]

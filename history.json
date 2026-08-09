@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-05",
-    "words": [
-      {
-        "latin": "Tempus",
-        "ru": "Время"
-      },
-      {
-        "latin": "Solitudo",
-        "ru": "Одиночество, пустыня"
-      },
-      {
-        "latin": "Vincere",
-        "ru": "Победить"
-      }
-    ],
-    "reviewed_today": [
-      "Gignere",
-      "Usque",
-      "Cogitare"
-    ]
-  },
-  {
     "date": "2026-04-06",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Volo",
       "Remus",
       "Religio"
+    ]
+  },
+  {
+    "date": "2026-08-09",
+    "words": [
+      {
+        "latin": "Vir",
+        "ru": "Мужчина"
+      },
+      {
+        "latin": "Hortus",
+        "ru": "Сад"
+      },
+      {
+        "latin": "Superbus",
+        "ru": "Гордый, высокомерный"
+      }
+    ],
+    "reviewed_today": [
+      "Sursum",
+      "Petere",
+      "Vituperare"
     ]
   }
 ]

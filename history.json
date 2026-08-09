@@ -3,28 +3,6 @@
     "date": "2026-04-05",
     "words": [
       {
-        "latin": "Iustus",
-        "ru": "Справедливый"
-      },
-      {
-        "latin": "Colere",
-        "ru": "Возделывать, почитать"
-      },
-      {
-        "latin": "Sanctus",
-        "ru": "Святой"
-      }
-    ],
-    "reviewed_today": [
-      "Honor",
-      "Pars",
-      "Frumentum"
-    ]
-  },
-  {
-    "date": "2026-04-05",
-    "words": [
-      {
         "latin": "Angelus",
         "ru": "Ангел"
       },
@@ -10997,6 +10975,28 @@
       "Stilus",
       "Aestas",
       "Tradere"
+    ]
+  },
+  {
+    "date": "2026-08-09",
+    "words": [
+      {
+        "latin": "Turpis",
+        "ru": "Позорный, безобразный"
+      },
+      {
+        "latin": "Doctrina",
+        "ru": "Учение, наука"
+      },
+      {
+        "latin": "Tenebrae",
+        "ru": "Мрак, тьма"
+      }
+    ],
+    "reviewed_today": [
+      "Statua",
+      "Trans",
+      "Vivus"
     ]
   }
 ]

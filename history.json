@@ -3,28 +3,6 @@
     "date": "2026-04-05",
     "words": [
       {
-        "latin": "Angelus",
-        "ru": "Ангел"
-      },
-      {
-        "latin": "Ridere",
-        "ru": "Смеяться"
-      },
-      {
-        "latin": "Inimicus",
-        "ru": "Недруг, личный враг"
-      }
-    ],
-    "reviewed_today": [
-      "Integer",
-      "Salve",
-      "Sacerdos"
-    ]
-  },
-  {
-    "date": "2026-04-05",
-    "words": [
-      {
         "latin": "Tempus",
         "ru": "Время"
       },
@@ -10997,6 +10975,28 @@
       "Statua",
       "Trans",
       "Vivus"
+    ]
+  },
+  {
+    "date": "2026-08-09",
+    "words": [
+      {
+        "latin": "Unde",
+        "ru": "Откуда"
+      },
+      {
+        "latin": "Redire",
+        "ru": "Возвращаться"
+      },
+      {
+        "latin": "Conari",
+        "ru": "Пытаться, стараться"
+      }
+    ],
+    "reviewed_today": [
+      "Volo",
+      "Remus",
+      "Religio"
     ]
   }
 ]

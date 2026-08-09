@@ -3,28 +3,6 @@
     "date": "2026-04-05",
     "words": [
       {
-        "latin": "Oculus",
-        "ru": "Глаз"
-      },
-      {
-        "latin": "Venire",
-        "ru": "Приходить"
-      },
-      {
-        "latin": "Conditio",
-        "ru": "Условие, положение"
-      }
-    ],
-    "reviewed_today": [
-      "Habeo",
-      "Vacare",
-      "Vanus"
-    ]
-  },
-  {
-    "date": "2026-04-05",
-    "words": [
-      {
         "latin": "Iustus",
         "ru": "Справедливый"
       },
@@ -10997,6 +10975,28 @@
       "Fessus",
       "Rapere",
       "Umbra"
+    ]
+  },
+  {
+    "date": "2026-08-09",
+    "words": [
+      {
+        "latin": "Inquit",
+        "ru": "Говорит (вводное)"
+      },
+      {
+        "latin": "Plenus",
+        "ru": "Полный"
+      },
+      {
+        "latin": "Magis",
+        "ru": "Более"
+      }
+    ],
+    "reviewed_today": [
+      "Stilus",
+      "Aestas",
+      "Tradere"
     ]
   }
 ]

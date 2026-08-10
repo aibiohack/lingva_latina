@@ -3,28 +3,6 @@
     "date": "2026-04-06",
     "words": [
       {
-        "latin": "Socius",
-        "ru": "Союзник, товарищ"
-      },
-      {
-        "latin": "Legere",
-        "ru": "Читать"
-      },
-      {
-        "latin": "Fortis",
-        "ru": "Храбрый"
-      }
-    ],
-    "reviewed_today": [
-      "Exercitus",
-      "Imitari",
-      "Sustinere"
-    ]
-  },
-  {
-    "date": "2026-04-06",
-    "words": [
-      {
         "latin": "Statua",
         "ru": "Статуя"
       },
@@ -10997,6 +10975,28 @@
       "Sursum",
       "Petere",
       "Vituperare"
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "words": [
+      {
+        "latin": "Cur",
+        "ru": "Почему"
+      },
+      {
+        "latin": "Res",
+        "ru": "Вещь, дело"
+      },
+      {
+        "latin": "Mons",
+        "ru": "Гора"
+      }
+    ],
+    "reviewed_today": [
+      "Venire",
+      "Sapere",
+      "Situs"
     ]
   }
 ]

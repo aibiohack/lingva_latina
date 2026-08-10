@@ -3,28 +3,6 @@
     "date": "2026-04-06",
     "words": [
       {
-        "latin": "Statua",
-        "ru": "Статуя"
-      },
-      {
-        "latin": "Relinquere",
-        "ru": "Оставлять, покидать"
-      },
-      {
-        "latin": "Sensus",
-        "ru": "Чувство, смысл"
-      }
-    ],
-    "reviewed_today": [
-      "Puella",
-      "Periculum",
-      "Supra"
-    ]
-  },
-  {
-    "date": "2026-04-06",
-    "words": [
-      {
         "latin": "Aio",
         "ru": "Говорю, утверждаю"
       },
@@ -10997,6 +10975,28 @@
       "Venire",
       "Sapere",
       "Situs"
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "words": [
+      {
+        "latin": "Angelus",
+        "ru": "Ангел"
+      },
+      {
+        "latin": "Solitudo",
+        "ru": "Одиночество, пустыня"
+      },
+      {
+        "latin": "Fortis",
+        "ru": "Храбрый"
+      }
+    ],
+    "reviewed_today": [
+      "Fingere",
+      "Animus",
+      "Aqua"
     ]
   }
 ]

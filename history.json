@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-06",
-    "words": [
-      {
-        "latin": "Caput",
-        "ru": "Голова"
-      },
-      {
-        "latin": "Reliquus",
-        "ru": "Остальной, прочий"
-      },
-      {
-        "latin": "Triduum",
-        "ru": "Три дня"
-      }
-    ],
-    "reviewed_today": [
-      "Discedere",
-      "Incipere",
-      "Diversus"
-    ]
-  },
-  {
     "date": "2026-04-07",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Velox",
       "Quod",
       "Roma"
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "words": [
+      {
+        "latin": "Crescere",
+        "ru": "Расти"
+      },
+      {
+        "latin": "Nox",
+        "ru": "Ночь"
+      },
+      {
+        "latin": "Studium",
+        "ru": "Стремление, занятие, наука"
+      }
+    ],
+    "reviewed_today": [
+      "Filia",
+      "Circa",
+      "Sermo"
     ]
   }
 ]

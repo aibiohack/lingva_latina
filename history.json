@@ -3,28 +3,6 @@
     "date": "2026-04-06",
     "words": [
       {
-        "latin": "Aio",
-        "ru": "Говорю, утверждаю"
-      },
-      {
-        "latin": "Robur",
-        "ru": "Дуб, сила"
-      },
-      {
-        "latin": "Uva",
-        "ru": "Виноград"
-      }
-    ],
-    "reviewed_today": [
-      "Taurus",
-      "Restituere",
-      "Tectum"
-    ]
-  },
-  {
-    "date": "2026-04-06",
-    "words": [
-      {
         "latin": "Caput",
         "ru": "Голова"
       },
@@ -10997,6 +10975,28 @@
       "Fingere",
       "Animus",
       "Aqua"
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "words": [
+      {
+        "latin": "Figura",
+        "ru": "Образ, вид"
+      },
+      {
+        "latin": "Cor",
+        "ru": "Сердце"
+      },
+      {
+        "latin": "Parens",
+        "ru": "Родитель"
+      }
+    ],
+    "reviewed_today": [
+      "Velox",
+      "Quod",
+      "Roma"
     ]
   }
 ]

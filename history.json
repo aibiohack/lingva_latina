@@ -3,28 +3,6 @@
     "date": "2026-04-07",
     "words": [
       {
-        "latin": "Duo",
-        "ru": "Два"
-      },
-      {
-        "latin": "Posse",
-        "ru": "Мочь"
-      },
-      {
-        "latin": "Dives",
-        "ru": "Богатый"
-      }
-    ],
-    "reviewed_today": [
-      "Vicis",
-      "Conari",
-      "Tardus"
-    ]
-  },
-  {
-    "date": "2026-04-07",
-    "words": [
-      {
         "latin": "Vincere",
         "ru": "Победить"
       },
@@ -10997,6 +10975,28 @@
       "Filia",
       "Circa",
       "Sermo"
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "words": [
+      {
+        "latin": "Vir",
+        "ru": "Мужчина, муж"
+      },
+      {
+        "latin": "Ubi",
+        "ru": "Где"
+      },
+      {
+        "latin": "Servus",
+        "ru": "Раб, слуга"
+      }
+    ],
+    "reviewed_today": [
+      "Prope",
+      "Saxum",
+      "Sitire"
     ]
   }
 ]

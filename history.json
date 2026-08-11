@@ -3,28 +3,6 @@
     "date": "2026-04-07",
     "words": [
       {
-        "latin": "Vincere",
-        "ru": "Победить"
-      },
-      {
-        "latin": "Tamen",
-        "ru": "Однако"
-      },
-      {
-        "latin": "Mos",
-        "ru": "Нрав, обычай"
-      }
-    ],
-    "reviewed_today": [
-      "Varius",
-      "Docere",
-      "Cum (союз)"
-    ]
-  },
-  {
-    "date": "2026-04-07",
-    "words": [
-      {
         "latin": "Crimen",
         "ru": "Обвинение, преступление"
       },
@@ -10997,6 +10975,28 @@
       "Prope",
       "Saxum",
       "Sitire"
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "words": [
+      {
+        "latin": "Robur",
+        "ru": "Дуб, сила"
+      },
+      {
+        "latin": "Reliquus",
+        "ru": "Остальной, прочий"
+      },
+      {
+        "latin": "Posse",
+        "ru": "Мочь"
+      }
+    ],
+    "reviewed_today": [
+      "Petere",
+      "Lupus",
+      "Texere"
     ]
   }
 ]

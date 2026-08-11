@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-07",
-    "words": [
-      {
-        "latin": "Abbas",
-        "ru": "Отец, настоятель"
-      },
-      {
-        "latin": "Quoque",
-        "ru": "Также"
-      },
-      {
-        "latin": "Sinister",
-        "ru": "Левый"
-      }
-    ],
-    "reviewed_today": [
-      "Enim",
-      "Sedere",
-      "Utor"
-    ]
-  },
-  {
     "date": "2026-04-08",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Vetus",
       "Canis",
       "Vigilare"
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "words": [
+      {
+        "latin": "Vivere",
+        "ru": "Жить"
+      },
+      {
+        "latin": "Parens",
+        "ru": "Родитель"
+      },
+      {
+        "latin": "Ter",
+        "ru": "Трижды"
+      }
+    ],
+    "reviewed_today": [
+      "Emere",
+      "Gaudium",
+      "Innocens"
     ]
   }
 ]

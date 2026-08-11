@@ -3,28 +3,6 @@
     "date": "2026-04-07",
     "words": [
       {
-        "latin": "Crimen",
-        "ru": "Обвинение, преступление"
-      },
-      {
-        "latin": "Ridere",
-        "ru": "Смеяться"
-      },
-      {
-        "latin": "Instruere",
-        "ru": "Наставлять, возводить"
-      }
-    ],
-    "reviewed_today": [
-      "Saepe",
-      "Monere",
-      "Sequi"
-    ]
-  },
-  {
-    "date": "2026-04-07",
-    "words": [
-      {
         "latin": "Abbas",
         "ru": "Отец, настоятель"
       },
@@ -10997,6 +10975,28 @@
       "Petere",
       "Lupus",
       "Texere"
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "words": [
+      {
+        "latin": "Magis",
+        "ru": "Более"
+      },
+      {
+        "latin": "Alius",
+        "ru": "Другой (из многих)"
+      },
+      {
+        "latin": "Sanctus",
+        "ru": "Святой, нерушимый"
+      }
+    ],
+    "reviewed_today": [
+      "Vetus",
+      "Canis",
+      "Vigilare"
     ]
   }
 ]

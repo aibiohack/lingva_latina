@@ -3,28 +3,6 @@
     "date": "2026-04-08",
     "words": [
       {
-        "latin": "Venari",
-        "ru": "Охотиться"
-      },
-      {
-        "latin": "Tempus",
-        "ru": "Время"
-      },
-      {
-        "latin": "Ripa",
-        "ru": "Берег (реки)"
-      }
-    ],
-    "reviewed_today": [
-      "Pes",
-      "Constituere",
-      "Varius"
-    ]
-  },
-  {
-    "date": "2026-04-08",
-    "words": [
-      {
         "latin": "Instruere",
         "ru": "Наставлять, возводить"
       },
@@ -10997,6 +10975,28 @@
       "Malle",
       "Maiores",
       "Tendere"
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "words": [
+      {
+        "latin": "Pater",
+        "ru": "Отец"
+      },
+      {
+        "latin": "Dives",
+        "ru": "Богатый"
+      },
+      {
+        "latin": "Vincire",
+        "ru": "Связывать"
+      }
+    ],
+    "reviewed_today": [
+      "Cor",
+      "Vallis",
+      "Sagitta"
     ]
   }
 ]

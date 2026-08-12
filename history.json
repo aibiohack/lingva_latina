@@ -3,28 +3,6 @@
     "date": "2026-04-08",
     "words": [
       {
-        "latin": "Tabula",
-        "ru": "Доска, таблица, картина"
-      },
-      {
-        "latin": "Arma",
-        "ru": "Оружие"
-      },
-      {
-        "latin": "Beatus",
-        "ru": "Счастливый, блаженный"
-      }
-    ],
-    "reviewed_today": [
-      "Sui",
-      "Fides",
-      "Persona"
-    ]
-  },
-  {
-    "date": "2026-04-08",
-    "words": [
-      {
         "latin": "Venari",
         "ru": "Охотиться"
       },
@@ -10997,6 +10975,28 @@
       "Emere",
       "Gaudium",
       "Innocens"
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "words": [
+      {
+        "latin": "Dives",
+        "ru": "Богатый"
+      },
+      {
+        "latin": "Crimen",
+        "ru": "Обвинение, преступление"
+      },
+      {
+        "latin": "Abbas",
+        "ru": "Отец, настоятель"
+      }
+    ],
+    "reviewed_today": [
+      "Malle",
+      "Maiores",
+      "Tendere"
     ]
   }
 ]

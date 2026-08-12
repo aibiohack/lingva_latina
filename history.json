@@ -3,28 +3,6 @@
     "date": "2026-04-08",
     "words": [
       {
-        "latin": "Instruere",
-        "ru": "Наставлять, возводить"
-      },
-      {
-        "latin": "Genu",
-        "ru": "Колено"
-      },
-      {
-        "latin": "Os, oris",
-        "ru": "Рот"
-      }
-    ],
-    "reviewed_today": [
-      "Reus",
-      "Tuba",
-      "Punitio"
-    ]
-  },
-  {
-    "date": "2026-04-08",
-    "words": [
-      {
         "latin": "Pro",
         "ru": "За, вместо"
       },
@@ -10997,6 +10975,28 @@
       "Cor",
       "Vallis",
       "Sagitta"
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "words": [
+      {
+        "latin": "Donum",
+        "ru": "Подарок"
+      },
+      {
+        "latin": "Fovere",
+        "ru": "Греть, лелеять"
+      },
+      {
+        "latin": "Uter",
+        "ru": "Кто из двух"
+      }
+    ],
+    "reviewed_today": [
+      "Servus",
+      "Restituere",
+      "Reliquus"
     ]
   }
 ]

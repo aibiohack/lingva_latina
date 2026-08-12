@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-08",
-    "words": [
-      {
-        "latin": "Pro",
-        "ru": "За, вместо"
-      },
-      {
-        "latin": "Appellare",
-        "ru": "Называть, обращаться"
-      },
-      {
-        "latin": "Lacrima",
-        "ru": "Слеза"
-      }
-    ],
-    "reviewed_today": [
-      "Exemplum",
-      "Lux",
-      "Urbs"
-    ]
-  },
-  {
     "date": "2026-04-09",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Servus",
       "Restituere",
       "Reliquus"
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "words": [
+      {
+        "latin": "Ante",
+        "ru": "Перед, до"
+      },
+      {
+        "latin": "Meus",
+        "ru": "Мой"
+      },
+      {
+        "latin": "Colere",
+        "ru": "Возделывать, почитать"
+      }
+    ],
+    "reviewed_today": [
+      "Lumen",
+      "Supplex",
+      "Angelus"
     ]
   }
 ]

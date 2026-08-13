@@ -3,28 +3,6 @@
     "date": "2026-04-09",
     "words": [
       {
-        "latin": "Sacer",
-        "ru": "Священный"
-      },
-      {
-        "latin": "Sagitta",
-        "ru": "Стрела"
-      },
-      {
-        "latin": "Spiritus",
-        "ru": "Дух"
-      }
-    ],
-    "reviewed_today": [
-      "Ruere",
-      "Fateri",
-      "Satis"
-    ]
-  },
-  {
-    "date": "2026-04-09",
-    "words": [
-      {
         "latin": "Sarcina",
         "ru": "Узел, багаж"
       },
@@ -10997,6 +10975,28 @@
       "Lumen",
       "Supplex",
       "Angelus"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "words": [
+      {
+        "latin": "Appellare",
+        "ru": "Называть, обращаться"
+      },
+      {
+        "latin": "Instruere",
+        "ru": "Наставлять, возводить"
+      },
+      {
+        "latin": "Pro",
+        "ru": "За, вместо"
+      }
+    ],
+    "reviewed_today": [
+      "Versari",
+      "Decem",
+      "Celer"
     ]
   }
 ]

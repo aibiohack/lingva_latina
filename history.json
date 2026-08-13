@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-09",
-    "words": [
-      {
-        "latin": "Cupiditas",
-        "ru": "Желание, страсть"
-      },
-      {
-        "latin": "Vituperare",
-        "ru": "Ругать"
-      },
-      {
-        "latin": "Sepulcrum",
-        "ru": "Гробница, могила"
-      }
-    ],
-    "reviewed_today": [
-      "Enim",
-      "Honor",
-      "Vicinus"
-    ]
-  },
-  {
     "date": "2026-04-10",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Remedium",
       "Dum",
       "Inquit"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "words": [
+      {
+        "latin": "Superior",
+        "ru": "Высший, старший"
+      },
+      {
+        "latin": "Iungera",
+        "ru": "Соединять"
+      },
+      {
+        "latin": "Vivus",
+        "ru": "Живой"
+      }
+    ],
+    "reviewed_today": [
+      "Tuus",
+      "Tenuis",
+      "Durare"
     ]
   }
 ]

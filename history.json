@@ -3,28 +3,6 @@
     "date": "2026-04-09",
     "words": [
       {
-        "latin": "Sarcina",
-        "ru": "Узел, багаж"
-      },
-      {
-        "latin": "Emere",
-        "ru": "Покупать"
-      },
-      {
-        "latin": "Incendere",
-        "ru": "Зажигать"
-      }
-    ],
-    "reviewed_today": [
-      "Secundus",
-      "Parare",
-      "Tristis"
-    ]
-  },
-  {
-    "date": "2026-04-09",
-    "words": [
-      {
         "latin": "Tectum",
         "ru": "Крыша, кров"
       },
@@ -10997,6 +10975,28 @@
       "Versari",
       "Decem",
       "Celer"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "words": [
+      {
+        "latin": "Tribuere",
+        "ru": "Назначать, воздавать"
+      },
+      {
+        "latin": "Septem",
+        "ru": "Семь"
+      },
+      {
+        "latin": "Constituere",
+        "ru": "Устанавливать, решать"
+      }
+    ],
+    "reviewed_today": [
+      "Verber",
+      "Solum",
+      "Abbas"
     ]
   }
 ]

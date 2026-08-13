@@ -3,28 +3,6 @@
     "date": "2026-04-09",
     "words": [
       {
-        "latin": "Tectum",
-        "ru": "Крыша, кров"
-      },
-      {
-        "latin": "Venia",
-        "ru": "Милость, прощение"
-      },
-      {
-        "latin": "Civis",
-        "ru": "Гражданин"
-      }
-    ],
-    "reviewed_today": [
-      "Liber",
-      "Lupus",
-      "Iuvare"
-    ]
-  },
-  {
-    "date": "2026-04-09",
-    "words": [
-      {
         "latin": "Cupiditas",
         "ru": "Желание, страсть"
       },
@@ -10997,6 +10975,28 @@
       "Verber",
       "Solum",
       "Abbas"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "words": [
+      {
+        "latin": "Securus",
+        "ru": "Безопасный, беззаботный"
+      },
+      {
+        "latin": "Parare",
+        "ru": "Готовить"
+      },
+      {
+        "latin": "Flamma",
+        "ru": "Пламя"
+      }
+    ],
+    "reviewed_today": [
+      "Remedium",
+      "Dum",
+      "Inquit"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-04-10",
     "words": [
       {
-        "latin": "Iacere",
-        "ru": "Бросать, кидать"
-      },
-      {
-        "latin": "Bestia",
-        "ru": "Зверь, животное"
-      },
-      {
-        "latin": "Exercitus",
-        "ru": "Войско"
-      }
-    ],
-    "reviewed_today": [
-      "Medius",
-      "Finis",
-      "Turba"
-    ]
-  },
-  {
-    "date": "2026-04-10",
-    "words": [
-      {
         "latin": "Ut",
         "ru": "Как, чтобы"
       },
@@ -10997,6 +10975,28 @@
       "Posse",
       "Sidus",
       "Vox"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "words": [
+      {
+        "latin": "Sitire",
+        "ru": "Жаждать"
+      },
+      {
+        "latin": "Victoria",
+        "ru": "Победа"
+      },
+      {
+        "latin": "Intelligere",
+        "ru": "Понимать"
+      }
+    ],
+    "reviewed_today": [
+      "Antiquus",
+      "Aura",
+      "Os, oris"
     ]
   }
 ]

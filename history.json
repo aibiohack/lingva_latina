@@ -3,28 +3,6 @@
     "date": "2026-04-10",
     "words": [
       {
-        "latin": "Tardus",
-        "ru": "Медленный"
-      },
-      {
-        "latin": "Ingenium",
-        "ru": "Природный дар, талант"
-      },
-      {
-        "latin": "Vitrum",
-        "ru": "Стекло"
-      }
-    ],
-    "reviewed_today": [
-      "Quasi",
-      "Ubique",
-      "Vulnero"
-    ]
-  },
-  {
-    "date": "2026-04-10",
-    "words": [
-      {
         "latin": "Iacere",
         "ru": "Бросать, кидать"
       },
@@ -10997,6 +10975,28 @@
       "Tuus",
       "Tenuis",
       "Durare"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "words": [
+      {
+        "latin": "Civis",
+        "ru": "Гражданин"
+      },
+      {
+        "latin": "Cupiditas",
+        "ru": "Желание, страсть"
+      },
+      {
+        "latin": "Vituperare",
+        "ru": "Ругать"
+      }
+    ],
+    "reviewed_today": [
+      "Posse",
+      "Sidus",
+      "Vox"
     ]
   }
 ]

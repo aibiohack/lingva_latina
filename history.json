@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-11",
-    "words": [
-      {
-        "latin": "Memoria",
-        "ru": "Память"
-      },
-      {
-        "latin": "Semel",
-        "ru": "Однажды"
-      },
-      {
-        "latin": "Unus",
-        "ru": "Один"
-      }
-    ],
-    "reviewed_today": [
-      "Instruere",
-      "Os, oris",
-      "Tangere"
-    ]
-  },
-  {
     "date": "2026-04-12",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Terror",
       "Aliquis",
       "Gens"
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "words": [
+      {
+        "latin": "Magis",
+        "ru": "Более"
+      },
+      {
+        "latin": "Aut",
+        "ru": "Или"
+      },
+      {
+        "latin": "Tectum",
+        "ru": "Крыша, кров"
+      }
+    ],
+    "reviewed_today": [
+      "Securus",
+      "Consistere",
+      "Cras"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-04-11",
     "words": [
       {
-        "latin": "Tabula",
-        "ru": "Доска, таблица, картина"
-      },
-      {
-        "latin": "Laborare",
-        "ru": "Работать, страдать"
-      },
-      {
-        "latin": "Virtus",
-        "ru": "Добродетель, мужество"
-      }
-    ],
-    "reviewed_today": [
-      "Securus",
-      "Harena",
-      "Urbs"
-    ]
-  },
-  {
-    "date": "2026-04-11",
-    "words": [
-      {
         "latin": "Meritum",
         "ru": "Заслуга"
       },
@@ -10997,6 +10975,28 @@
       "Dum",
       "Ardere",
       "Angelus"
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "words": [
+      {
+        "latin": "Versari",
+        "ru": "Находиться, вращаться"
+      },
+      {
+        "latin": "Copia",
+        "ru": "Запас, множество"
+      },
+      {
+        "latin": "Spatium",
+        "ru": "Пространство, промежуток"
+      }
+    ],
+    "reviewed_today": [
+      "Rosa",
+      "Vetustus",
+      "Disertus"
     ]
   }
 ]

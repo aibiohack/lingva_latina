@@ -3,28 +3,6 @@
     "date": "2026-04-11",
     "words": [
       {
-        "latin": "Socius",
-        "ru": "Союзник"
-      },
-      {
-        "latin": "Duo",
-        "ru": "Два"
-      },
-      {
-        "latin": "Tam",
-        "ru": "Так"
-      }
-    ],
-    "reviewed_today": [
-      "Convivium",
-      "Donum",
-      "Foedus"
-    ]
-  },
-  {
-    "date": "2026-04-11",
-    "words": [
-      {
         "latin": "Memoria",
         "ru": "Память"
       },
@@ -10997,6 +10975,28 @@
       "Custos",
       "Unanimis",
       "Simul"
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "words": [
+      {
+        "latin": "Littera",
+        "ru": "Буква, (мн.ч.) письмо"
+      },
+      {
+        "latin": "Poeta",
+        "ru": "Поэт"
+      },
+      {
+        "latin": "Furor",
+        "ru": "Безумие, ярость"
+      }
+    ],
+    "reviewed_today": [
+      "Terror",
+      "Aliquis",
+      "Gens"
     ]
   }
 ]

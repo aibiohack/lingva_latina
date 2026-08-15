@@ -3,28 +3,6 @@
     "date": "2026-04-11",
     "words": [
       {
-        "latin": "Meritum",
-        "ru": "Заслуга"
-      },
-      {
-        "latin": "Vehementer",
-        "ru": "Сильно, страстно"
-      },
-      {
-        "latin": "Vetus",
-        "ru": "Старый"
-      }
-    ],
-    "reviewed_today": [
-      "Violare",
-      "Bibere",
-      "Schola"
-    ]
-  },
-  {
-    "date": "2026-04-11",
-    "words": [
-      {
         "latin": "Socius",
         "ru": "Союзник"
       },
@@ -10997,6 +10975,28 @@
       "Rosa",
       "Vetustus",
       "Disertus"
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "words": [
+      {
+        "latin": "Monere",
+        "ru": "Напоминать, убеждать"
+      },
+      {
+        "latin": "Fugere",
+        "ru": "Бежать"
+      },
+      {
+        "latin": "Multitudo",
+        "ru": "Множество"
+      }
+    ],
+    "reviewed_today": [
+      "Custos",
+      "Unanimis",
+      "Simul"
     ]
   }
 ]

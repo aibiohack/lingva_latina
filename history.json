@@ -3,28 +3,6 @@
     "date": "2026-04-12",
     "words": [
       {
-        "latin": "Miles",
-        "ru": "Воин"
-      },
-      {
-        "latin": "Vacuus",
-        "ru": "Пустой, свободный"
-      },
-      {
-        "latin": "Filia",
-        "ru": "Дочь"
-      }
-    ],
-    "reviewed_today": [
-      "Credere",
-      "Totus",
-      "Ullus"
-    ]
-  },
-  {
-    "date": "2026-04-12",
-    "words": [
-      {
         "latin": "Vicus",
         "ru": "Деревня, квартал"
       },
@@ -10997,6 +10975,28 @@
       "Securus",
       "Consistere",
       "Cras"
+    ]
+  },
+  {
+    "date": "2026-08-16",
+    "words": [
+      {
+        "latin": "Forum",
+        "ru": "Площадь"
+      },
+      {
+        "latin": "Ibi",
+        "ru": "Там"
+      },
+      {
+        "latin": "Locus",
+        "ru": "Место"
+      }
+    ],
+    "reviewed_today": [
+      "Restituere",
+      "Dives",
+      "Pes"
     ]
   }
 ]

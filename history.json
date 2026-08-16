@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-12",
-    "words": [
-      {
-        "latin": "Fovere",
-        "ru": "Греть, лелеять"
-      },
-      {
-        "latin": "Equus",
-        "ru": "Лошадь"
-      },
-      {
-        "latin": "Sursum",
-        "ru": "Вверх"
-      }
-    ],
-    "reviewed_today": [
-      "Felix",
-      "Temperantia",
-      "Parvus"
-    ]
-  },
-  {
     "date": "2026-04-13",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Fateri",
       "Somnus",
       "Rex"
+    ]
+  },
+  {
+    "date": "2026-08-16",
+    "words": [
+      {
+        "latin": "Unde",
+        "ru": "Откуда"
+      },
+      {
+        "latin": "Ludus",
+        "ru": "Игра, школа"
+      },
+      {
+        "latin": "Nomen",
+        "ru": "Имя"
+      }
+    ],
+    "reviewed_today": [
+      "Epistula",
+      "Doctus",
+      "Sacerdos"
     ]
   }
 ]

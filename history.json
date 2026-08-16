@@ -3,28 +3,6 @@
     "date": "2026-04-12",
     "words": [
       {
-        "latin": "Iter",
-        "ru": "Путь"
-      },
-      {
-        "latin": "Ulterior",
-        "ru": "По ту сторону, дальнейший"
-      },
-      {
-        "latin": "Tum",
-        "ru": "Тогда"
-      }
-    ],
-    "reviewed_today": [
-      "Volvo",
-      "Initium",
-      "Contentus"
-    ]
-  },
-  {
-    "date": "2026-04-12",
-    "words": [
-      {
         "latin": "Fovere",
         "ru": "Греть, лелеять"
       },
@@ -10997,6 +10975,28 @@
       "Dedico",
       "Ordo",
       "Densus"
+    ]
+  },
+  {
+    "date": "2026-08-16",
+    "words": [
+      {
+        "latin": "Dormire",
+        "ru": "Спать"
+      },
+      {
+        "latin": "Mutare",
+        "ru": "Менять"
+      },
+      {
+        "latin": "Verus",
+        "ru": "Истинный"
+      }
+    ],
+    "reviewed_today": [
+      "Fateri",
+      "Somnus",
+      "Rex"
     ]
   }
 ]

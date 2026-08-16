@@ -3,28 +3,6 @@
     "date": "2026-04-12",
     "words": [
       {
-        "latin": "Vicus",
-        "ru": "Деревня, квартал"
-      },
-      {
-        "latin": "Modus",
-        "ru": "Мера, способ"
-      },
-      {
-        "latin": "Lumen",
-        "ru": "Свет"
-      }
-    ],
-    "reviewed_today": [
-      "Sensus",
-      "Vivus",
-      "Robur"
-    ]
-  },
-  {
-    "date": "2026-04-12",
-    "words": [
-      {
         "latin": "Iter",
         "ru": "Путь"
       },
@@ -10997,6 +10975,28 @@
       "Restituere",
       "Dives",
       "Pes"
+    ]
+  },
+  {
+    "date": "2026-08-16",
+    "words": [
+      {
+        "latin": "Durus",
+        "ru": "Твердый"
+      },
+      {
+        "latin": "Barbarus",
+        "ru": "Чужеземец, варвар"
+      },
+      {
+        "latin": "Monstrare",
+        "ru": "Показывать"
+      }
+    ],
+    "reviewed_today": [
+      "Dedico",
+      "Ordo",
+      "Densus"
     ]
   }
 ]

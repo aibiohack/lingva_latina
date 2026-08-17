@@ -3,28 +3,6 @@
     "date": "2026-04-13",
     "words": [
       {
-        "latin": "Tantum",
-        "ru": "Только"
-      },
-      {
-        "latin": "Pars",
-        "ru": "Часть"
-      },
-      {
-        "latin": "Tertius",
-        "ru": "Третий"
-      }
-    ],
-    "reviewed_today": [
-      "Quasi",
-      "Surdus",
-      "Brevis"
-    ]
-  },
-  {
-    "date": "2026-04-13",
-    "words": [
-      {
         "latin": "Genu",
         "ru": "Колено"
       },
@@ -10997,6 +10975,28 @@
       "Fons",
       "Terrere",
       "Ius"
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "words": [
+      {
+        "latin": "Sanus",
+        "ru": "Здоровый, трезвый"
+      },
+      {
+        "latin": "Sursum",
+        "ru": "Вверх"
+      },
+      {
+        "latin": "Licet",
+        "ru": "Можно, позволено"
+      }
+    ],
+    "reviewed_today": [
+      "Fama",
+      "Tenebrae",
+      "Remedium"
     ]
   }
 ]

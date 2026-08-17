@@ -3,28 +3,6 @@
     "date": "2026-04-13",
     "words": [
       {
-        "latin": "Genu",
-        "ru": "Колено"
-      },
-      {
-        "latin": "Colere",
-        "ru": "Возделывать, почитать"
-      },
-      {
-        "latin": "Sine",
-        "ru": "Без"
-      }
-    ],
-    "reviewed_today": [
-      "Meus",
-      "Invitare",
-      "Amoenus"
-    ]
-  },
-  {
-    "date": "2026-04-13",
-    "words": [
-      {
         "latin": "Viridis",
         "ru": "Зеленый"
       },
@@ -10997,6 +10975,28 @@
       "Fama",
       "Tenebrae",
       "Remedium"
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "words": [
+      {
+        "latin": "Tectum",
+        "ru": "Крыша, кров"
+      },
+      {
+        "latin": "Voluntas",
+        "ru": "Воля, желание"
+      },
+      {
+        "latin": "Genu",
+        "ru": "Колено"
+      }
+    ],
+    "reviewed_today": [
+      "Turris",
+      "Ratio",
+      "Ventus"
     ]
   }
 ]

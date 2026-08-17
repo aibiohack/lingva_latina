@@ -3,28 +3,6 @@
     "date": "2026-04-13",
     "words": [
       {
-        "latin": "Fenestra",
-        "ru": "Окно"
-      },
-      {
-        "latin": "Difficilis",
-        "ru": "Трудный"
-      },
-      {
-        "latin": "Curare",
-        "ru": "Заботиться"
-      }
-    ],
-    "reviewed_today": [
-      "Ignis",
-      "Lingua",
-      "Flamma"
-    ]
-  },
-  {
-    "date": "2026-04-13",
-    "words": [
-      {
         "latin": "Tantum",
         "ru": "Только"
       },
@@ -10997,6 +10975,28 @@
       "Epistula",
       "Doctus",
       "Sacerdos"
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "words": [
+      {
+        "latin": "Vacuus",
+        "ru": "Пустой, свободный"
+      },
+      {
+        "latin": "Semel",
+        "ru": "Однажды"
+      },
+      {
+        "latin": "Equus",
+        "ru": "Лошадь"
+      }
+    ],
+    "reviewed_today": [
+      "Fons",
+      "Terrere",
+      "Ius"
     ]
   }
 ]

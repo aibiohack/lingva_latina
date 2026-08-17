@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-13",
-    "words": [
-      {
-        "latin": "Viridis",
-        "ru": "Зеленый"
-      },
-      {
-        "latin": "Superior",
-        "ru": "Высший, старший"
-      },
-      {
-        "latin": "Vetustus",
-        "ru": "Древний"
-      }
-    ],
-    "reviewed_today": [
-      "Numerus",
-      "Lex",
-      "Sapiens"
-    ]
-  },
-  {
     "date": "2026-04-14",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Turris",
       "Ratio",
       "Ventus"
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "words": [
+      {
+        "latin": "Spiritus",
+        "ru": "Дух, дыхание"
+      },
+      {
+        "latin": "Vivere",
+        "ru": "Жить"
+      },
+      {
+        "latin": "Stirps",
+        "ru": "Корень, род"
+      }
+    ],
+    "reviewed_today": [
+      "Moenia",
+      "Testimonium",
+      "Amoenus"
     ]
   }
 ]

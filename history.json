@@ -3,28 +3,6 @@
     "date": "2026-04-14",
     "words": [
       {
-        "latin": "Sensus",
-        "ru": "Чувство, смысл"
-      },
-      {
-        "latin": "Singulus",
-        "ru": "Одиночный"
-      },
-      {
-        "latin": "Nomen",
-        "ru": "Имя"
-      }
-    ],
-    "reviewed_today": [
-      "Magis",
-      "Humus",
-      "Ratio"
-    ]
-  },
-  {
-    "date": "2026-04-14",
-    "words": [
-      {
         "latin": "Primus",
         "ru": "Первый"
       },
@@ -10997,6 +10975,28 @@
       "Ingens",
       "Manere",
       "Populus"
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "words": [
+      {
+        "latin": "Ventus",
+        "ru": "Ветер"
+      },
+      {
+        "latin": "Vitare",
+        "ru": "Избегать"
+      },
+      {
+        "latin": "Magister",
+        "ru": "Учитель"
+      }
+    ],
+    "reviewed_today": [
+      "Sex",
+      "Furor",
+      "Pugnare"
     ]
   }
 ]

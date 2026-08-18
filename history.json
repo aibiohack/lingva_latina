@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-14",
-    "words": [
-      {
-        "latin": "Habitus",
-        "ru": "Состояние, облик"
-      },
-      {
-        "latin": "Salve",
-        "ru": "Здравствуй"
-      },
-      {
-        "latin": "Tardus",
-        "ru": "Медленный"
-      }
-    ],
-    "reviewed_today": [
-      "Ut",
-      "Pro",
-      "Diversus"
-    ]
-  },
-  {
     "date": "2026-04-15",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Domus",
       "Splendor",
       "Ignis"
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "words": [
+      {
+        "latin": "Barbarus",
+        "ru": "Чужеземец, варвар"
+      },
+      {
+        "latin": "Angustus",
+        "ru": "Узкий, тесный"
+      },
+      {
+        "latin": "Maiores",
+        "ru": "Предки"
+      }
+    ],
+    "reviewed_today": [
+      "Puella",
+      "Trans",
+      "Suscipere"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-04-14",
     "words": [
       {
-        "latin": "Primus",
-        "ru": "Первый"
-      },
-      {
-        "latin": "Ultra",
-        "ru": "Сверх, по ту сторону"
-      },
-      {
-        "latin": "Saepe",
-        "ru": "Часто"
-      }
-    ],
-    "reviewed_today": [
-      "Mentior",
-      "Tranquillitas",
-      "Instruere"
-    ]
-  },
-  {
-    "date": "2026-04-14",
-    "words": [
-      {
         "latin": "Habitus",
         "ru": "Состояние, облик"
       },
@@ -10997,6 +10975,28 @@
       "Sex",
       "Furor",
       "Pugnare"
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "words": [
+      {
+        "latin": "Pars",
+        "ru": "Часть"
+      },
+      {
+        "latin": "Sensus",
+        "ru": "Чувство, смысл"
+      },
+      {
+        "latin": "Vetustus",
+        "ru": "Древний"
+      }
+    ],
+    "reviewed_today": [
+      "Domus",
+      "Splendor",
+      "Ignis"
     ]
   }
 ]

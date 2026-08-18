@@ -3,28 +3,6 @@
     "date": "2026-04-14",
     "words": [
       {
-        "latin": "Statuere",
-        "ru": "Ставить, решать"
-      },
-      {
-        "latin": "Semper",
-        "ru": "Всегда"
-      },
-      {
-        "latin": "Fides",
-        "ru": "Вера"
-      }
-    ],
-    "reviewed_today": [
-      "Magnus",
-      "Unda",
-      "Iscere"
-    ]
-  },
-  {
-    "date": "2026-04-14",
-    "words": [
-      {
         "latin": "Sensus",
         "ru": "Чувство, смысл"
       },
@@ -10997,6 +10975,28 @@
       "Moenia",
       "Testimonium",
       "Amoenus"
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "words": [
+      {
+        "latin": "Scribere",
+        "ru": "Писать"
+      },
+      {
+        "latin": "Rus",
+        "ru": "Деревня, поместье"
+      },
+      {
+        "latin": "Iurare",
+        "ru": "Клясться"
+      }
+    ],
+    "reviewed_today": [
+      "Ingens",
+      "Manere",
+      "Populus"
     ]
   }
 ]

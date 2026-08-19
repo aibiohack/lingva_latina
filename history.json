@@ -3,28 +3,6 @@
     "date": "2026-04-15",
     "words": [
       {
-        "latin": "Fabula",
-        "ru": "Сказка, рассказ"
-      },
-      {
-        "latin": "Modus",
-        "ru": "Мера, способ"
-      },
-      {
-        "latin": "Sic",
-        "ru": "Так"
-      }
-    ],
-    "reviewed_today": [
-      "Pecunia",
-      "Eripere",
-      "Vertere"
-    ]
-  },
-  {
-    "date": "2026-04-15",
-    "words": [
-      {
         "latin": "Tabula",
         "ru": "Доска, таблица, картина"
       },
@@ -10997,6 +10975,28 @@
       "Puella",
       "Trans",
       "Suscipere"
+    ]
+  },
+  {
+    "date": "2026-08-19",
+    "words": [
+      {
+        "latin": "Delectare",
+        "ru": "Радовать"
+      },
+      {
+        "latin": "Ter",
+        "ru": "Трижды"
+      },
+      {
+        "latin": "Voluntas",
+        "ru": "Воля, желание"
+      }
+    ],
+    "reviewed_today": [
+      "Iungera",
+      "Dens",
+      "Canis"
     ]
   }
 ]

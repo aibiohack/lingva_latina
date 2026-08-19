@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-15",
-    "words": [
-      {
-        "latin": "Tibia",
-        "ru": "Флейта, голень"
-      },
-      {
-        "latin": "Superbus",
-        "ru": "Гордый, высокомерный"
-      },
-      {
-        "latin": "Sinister",
-        "ru": "Левый, дурной"
-      }
-    ],
-    "reviewed_today": [
-      "Vallis",
-      "Scutum",
-      "Cogitare"
-    ]
-  },
-  {
     "date": "2026-04-16",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Pulcher",
       "Tormentum",
       "Duo"
+    ]
+  },
+  {
+    "date": "2026-08-19",
+    "words": [
+      {
+        "latin": "Harena",
+        "ru": "Песок, арена"
+      },
+      {
+        "latin": "Exercitus",
+        "ru": "Войско"
+      },
+      {
+        "latin": "Socius",
+        "ru": "Союзник"
+      }
+    ],
+    "reviewed_today": [
+      "Via",
+      "Contentus",
+      "Tegere"
     ]
   }
 ]

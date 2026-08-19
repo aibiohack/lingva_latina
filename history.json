@@ -3,28 +3,6 @@
     "date": "2026-04-15",
     "words": [
       {
-        "latin": "Fama",
-        "ru": "Молва, слух"
-      },
-      {
-        "latin": "Temptare",
-        "ru": "Испытывать, пытаться"
-      },
-      {
-        "latin": "Vindicare",
-        "ru": "Заявлять права, мстить"
-      }
-    ],
-    "reviewed_today": [
-      "Ducere",
-      "Studere",
-      "Terror"
-    ]
-  },
-  {
-    "date": "2026-04-15",
-    "words": [
-      {
         "latin": "Tibia",
         "ru": "Флейта, голень"
       },
@@ -10997,6 +10975,28 @@
       "Charta",
       "Iurare",
       "Custos"
+    ]
+  },
+  {
+    "date": "2026-08-19",
+    "words": [
+      {
+        "latin": "Dies",
+        "ru": "День"
+      },
+      {
+        "latin": "Nox",
+        "ru": "Ночь"
+      },
+      {
+        "latin": "Volare",
+        "ru": "Летать"
+      }
+    ],
+    "reviewed_today": [
+      "Pulcher",
+      "Tormentum",
+      "Duo"
     ]
   }
 ]

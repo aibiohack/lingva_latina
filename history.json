@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-16",
-    "words": [
-      {
-        "latin": "Fuga",
-        "ru": "Бегство"
-      },
-      {
-        "latin": "Velle",
-        "ru": "Хотеть"
-      },
-      {
-        "latin": "Servire",
-        "ru": "Служить"
-      }
-    ],
-    "reviewed_today": [
-      "Contemnere",
-      "Duo",
-      "Doctrina"
-    ]
-  },
-  {
     "date": "2026-04-17",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Curare",
       "Valetudo",
       "Late"
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "words": [
+      {
+        "latin": "Vir",
+        "ru": "Мужчина, муж"
+      },
+      {
+        "latin": "Duo",
+        "ru": "Два"
+      },
+      {
+        "latin": "Voluptas",
+        "ru": "Удовольствие, наслаждение"
+      }
+    ],
+    "reviewed_today": [
+      "Contra",
+      "Tenere",
+      "Error"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-04-16",
     "words": [
       {
-        "latin": "Vulnus",
-        "ru": "Рана"
-      },
-      {
-        "latin": "Disciplina",
-        "ru": "Обучение, порядок"
-      },
-      {
-        "latin": "Aliquis",
-        "ru": "Кто-нибудь, какой-нибудь"
-      }
-    ],
-    "reviewed_today": [
-      "Diligere",
-      "Fluere",
-      "Diu"
-    ]
-  },
-  {
-    "date": "2026-04-16",
-    "words": [
-      {
         "latin": "Omnis",
         "ru": "Весь"
       },
@@ -10997,6 +10975,28 @@
       "Fenestra",
       "Ultra",
       "Triumphus"
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "words": [
+      {
+        "latin": "Imitari",
+        "ru": "Подражать"
+      },
+      {
+        "latin": "Vetus",
+        "ru": "Старый"
+      },
+      {
+        "latin": "Iacere",
+        "ru": "Бросать, кидать"
+      }
+    ],
+    "reviewed_today": [
+      "Vivere",
+      "Fidelis",
+      "Tribuere"
     ]
   }
 ]

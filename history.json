@@ -3,28 +3,6 @@
     "date": "2026-04-16",
     "words": [
       {
-        "latin": "Sine",
-        "ru": "Без"
-      },
-      {
-        "latin": "Temptare",
-        "ru": "Испытывать, пытаться"
-      },
-      {
-        "latin": "Ulterior",
-        "ru": "По ту сторону, дальнейший"
-      }
-    ],
-    "reviewed_today": [
-      "Res",
-      "Pulcher",
-      "Bellum"
-    ]
-  },
-  {
-    "date": "2026-04-16",
-    "words": [
-      {
         "latin": "Vulnus",
         "ru": "Рана"
       },
@@ -10997,6 +10975,28 @@
       "Via",
       "Contentus",
       "Tegere"
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "words": [
+      {
+        "latin": "Infelix",
+        "ru": "Несчастный"
+      },
+      {
+        "latin": "Porta",
+        "ru": "Ворота"
+      },
+      {
+        "latin": "Saxum",
+        "ru": "Скала, камень"
+      }
+    ],
+    "reviewed_today": [
+      "Fenestra",
+      "Ultra",
+      "Triumphus"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-04-16",
     "words": [
       {
-        "latin": "Omnis",
-        "ru": "Весь"
-      },
-      {
-        "latin": "Cantare",
-        "ru": "Петь"
-      },
-      {
-        "latin": "Foedus",
-        "ru": "Договор, союз"
-      }
-    ],
-    "reviewed_today": [
-      "Forum",
-      "Vix",
-      "Dormire"
-    ]
-  },
-  {
-    "date": "2026-04-16",
-    "words": [
-      {
         "latin": "Fuga",
         "ru": "Бегство"
       },
@@ -10997,6 +10975,28 @@
       "Vivere",
       "Fidelis",
       "Tribuere"
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "words": [
+      {
+        "latin": "Angustus",
+        "ru": "Узкий, тесный"
+      },
+      {
+        "latin": "Sanctus",
+        "ru": "Святой"
+      },
+      {
+        "latin": "Violare",
+        "ru": "Нарушать, оскорблять"
+      }
+    ],
+    "reviewed_today": [
+      "Curare",
+      "Valetudo",
+      "Late"
     ]
   }
 ]

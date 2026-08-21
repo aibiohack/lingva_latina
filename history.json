@@ -3,28 +3,6 @@
     "date": "2026-04-17",
     "words": [
       {
-        "latin": "Vester",
-        "ru": "Ваш"
-      },
-      {
-        "latin": "Aevum",
-        "ru": "Век, эпоха"
-      },
-      {
-        "latin": "Culpa",
-        "ru": "Вина"
-      }
-    ],
-    "reviewed_today": [
-      "Schola",
-      "Plenus",
-      "Mater"
-    ]
-  },
-  {
-    "date": "2026-04-17",
-    "words": [
-      {
         "latin": "Vertere",
         "ru": "Поворачивать"
       },
@@ -10997,6 +10975,28 @@
       "Morbus",
       "Vinum",
       "Senex"
+    ]
+  },
+  {
+    "date": "2026-08-21",
+    "words": [
+      {
+        "latin": "Foedus",
+        "ru": "Договор, союз"
+      },
+      {
+        "latin": "Triduum",
+        "ru": "Три дня"
+      },
+      {
+        "latin": "Manere",
+        "ru": "Оставаться"
+      }
+    ],
+    "reviewed_today": [
+      "Stilus",
+      "Magnus",
+      "Religio"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-17",
-    "words": [
-      {
-        "latin": "Vertere",
-        "ru": "Поворачивать"
-      },
-      {
-        "latin": "Legio",
-        "ru": "Легион"
-      },
-      {
-        "latin": "Coepi",
-        "ru": "Я начал"
-      }
-    ],
-    "reviewed_today": [
-      "Omnis",
-      "Durare",
-      "Novus"
-    ]
-  },
-  {
     "date": "2026-04-18",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Stilus",
       "Magnus",
       "Religio"
+    ]
+  },
+  {
+    "date": "2026-08-21",
+    "words": [
+      {
+        "latin": "Singulus",
+        "ru": "Одиночный, отдельный"
+      },
+      {
+        "latin": "Fabula",
+        "ru": "Сказка, рассказ"
+      },
+      {
+        "latin": "Ingenium",
+        "ru": "Талант, ум"
+      }
+    ],
+    "reviewed_today": [
+      "Testis",
+      "Visere",
+      "Tribunus"
     ]
   }
 ]

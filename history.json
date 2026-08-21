@@ -3,28 +3,6 @@
     "date": "2026-04-17",
     "words": [
       {
-        "latin": "Vis",
-        "ru": "Сила"
-      },
-      {
-        "latin": "Vendere",
-        "ru": "Продавать"
-      },
-      {
-        "latin": "Moenia",
-        "ru": "Стены (городские)"
-      }
-    ],
-    "reviewed_today": [
-      "Monere",
-      "Imago",
-      "Filius"
-    ]
-  },
-  {
-    "date": "2026-04-17",
-    "words": [
-      {
         "latin": "Manere",
         "ru": "Оставаться"
       },
@@ -10997,6 +10975,28 @@
       "Contra",
       "Tenere",
       "Error"
+    ]
+  },
+  {
+    "date": "2026-08-21",
+    "words": [
+      {
+        "latin": "Forum",
+        "ru": "Площадь"
+      },
+      {
+        "latin": "Fulmen",
+        "ru": "Молния"
+      },
+      {
+        "latin": "Ite",
+        "ru": "Идите"
+      }
+    ],
+    "reviewed_today": [
+      "Tempus",
+      "Tres",
+      "Ver"
     ]
   }
 ]

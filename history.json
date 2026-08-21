@@ -3,28 +3,6 @@
     "date": "2026-04-17",
     "words": [
       {
-        "latin": "Manere",
-        "ru": "Оставаться"
-      },
-      {
-        "latin": "Remus",
-        "ru": "Весло"
-      },
-      {
-        "latin": "Triduum",
-        "ru": "Три дня"
-      }
-    ],
-    "reviewed_today": [
-      "Modus",
-      "Curare",
-      "Cunctus"
-    ]
-  },
-  {
-    "date": "2026-04-17",
-    "words": [
-      {
         "latin": "Vester",
         "ru": "Ваш"
       },
@@ -10997,6 +10975,28 @@
       "Tempus",
       "Tres",
       "Ver"
+    ]
+  },
+  {
+    "date": "2026-08-21",
+    "words": [
+      {
+        "latin": "Vis",
+        "ru": "Сила"
+      },
+      {
+        "latin": "Ulterior",
+        "ru": "По ту сторону, дальнейший"
+      },
+      {
+        "latin": "Vis",
+        "ru": "Сила, мощь"
+      }
+    ],
+    "reviewed_today": [
+      "Morbus",
+      "Vinum",
+      "Senex"
     ]
   }
 ]

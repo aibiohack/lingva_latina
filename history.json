@@ -3,28 +3,6 @@
     "date": "2026-04-18",
     "words": [
       {
-        "latin": "Via",
-        "ru": "Путь, дорога"
-      },
-      {
-        "latin": "Proprius",
-        "ru": "Собственный"
-      },
-      {
-        "latin": "Cur",
-        "ru": "Почему"
-      }
-    ],
-    "reviewed_today": [
-      "Studere",
-      "Tantum",
-      "Lacrima"
-    ]
-  },
-  {
-    "date": "2026-04-18",
-    "words": [
-      {
         "latin": "Docere",
         "ru": "Учить, обучать"
       },
@@ -10997,6 +10975,28 @@
       "Asper",
       "Honor",
       "Liber"
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "words": [
+      {
+        "latin": "Mentior",
+        "ru": "Лгу"
+      },
+      {
+        "latin": "Facilis",
+        "ru": "Легкий"
+      },
+      {
+        "latin": "Dies",
+        "ru": "День"
+      }
+    ],
+    "reviewed_today": [
+      "Tot",
+      "Canis",
+      "Dextra"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-04-18",
     "words": [
       {
-        "latin": "Custos",
-        "ru": "Страж"
-      },
-      {
-        "latin": "Censeo",
-        "ru": "Полагаю, считаю"
-      },
-      {
-        "latin": "Regnum",
-        "ru": "Царство, власть"
-      }
-    ],
-    "reviewed_today": [
-      "Quattuor",
-      "Statuere",
-      "Fundamentum"
-    ]
-  },
-  {
-    "date": "2026-04-18",
-    "words": [
-      {
         "latin": "Vocare",
         "ru": "Звать"
       },
@@ -10997,6 +10975,28 @@
       "Testis",
       "Visere",
       "Tribunus"
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "words": [
+      {
+        "latin": "Volvo",
+        "ru": "Качу, раздумываю"
+      },
+      {
+        "latin": "Docere",
+        "ru": "Учить, обучать"
+      },
+      {
+        "latin": "Dulcedo",
+        "ru": "Сладость, приятность"
+      }
+    ],
+    "reviewed_today": [
+      "Vero",
+      "Iustus",
+      "Heri"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-18",
-    "words": [
-      {
-        "latin": "Docere",
-        "ru": "Учить, обучать"
-      },
-      {
-        "latin": "Infans",
-        "ru": "Ребенок"
-      },
-      {
-        "latin": "Error",
-        "ru": "Ошибка"
-      }
-    ],
-    "reviewed_today": [
-      "Pars",
-      "Crimen",
-      "Arma"
-    ]
-  },
-  {
     "date": "2026-04-19",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Tot",
       "Canis",
       "Dextra"
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "words": [
+      {
+        "latin": "Iniquus",
+        "ru": "Несправедливый"
+      },
+      {
+        "latin": "Annus",
+        "ru": "Год"
+      },
+      {
+        "latin": "Vetus",
+        "ru": "Старый"
+      }
+    ],
+    "reviewed_today": [
+      "Maxime",
+      "Officium",
+      "Victoria"
     ]
   }
 ]

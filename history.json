@@ -3,28 +3,6 @@
     "date": "2026-04-19",
     "words": [
       {
-        "latin": "Scio",
-        "ru": "Знаю"
-      },
-      {
-        "latin": "Ferre",
-        "ru": "Нести"
-      },
-      {
-        "latin": "Suus",
-        "ru": "Свой"
-      }
-    ],
-    "reviewed_today": [
-      "Conari",
-      "Semel",
-      "Restituere"
-    ]
-  },
-  {
-    "date": "2026-04-19",
-    "words": [
-      {
         "latin": "Universus",
         "ru": "Весь, всеобщий"
       },
@@ -10997,6 +10975,28 @@
       "Maxime",
       "Officium",
       "Victoria"
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "words": [
+      {
+        "latin": "Largus",
+        "ru": "Щедрый, обильный"
+      },
+      {
+        "latin": "Poeta",
+        "ru": "Поэт"
+      },
+      {
+        "latin": "Numerus",
+        "ru": "Число"
+      }
+    ],
+    "reviewed_today": [
+      "Sino",
+      "Maiores",
+      "Surgere"
     ]
   }
 ]

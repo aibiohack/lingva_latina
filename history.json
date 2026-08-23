@@ -3,28 +3,6 @@
     "date": "2026-04-19",
     "words": [
       {
-        "latin": "Universus",
-        "ru": "Весь, всеобщий"
-      },
-      {
-        "latin": "Virtus",
-        "ru": "Мужество, добродетель"
-      },
-      {
-        "latin": "Laudare",
-        "ru": "Хвалить"
-      }
-    ],
-    "reviewed_today": [
-      "Fames",
-      "Morari",
-      "Laudare"
-    ]
-  },
-  {
-    "date": "2026-04-19",
-    "words": [
-      {
         "latin": "Conari",
         "ru": "Пытаться, стараться"
       },
@@ -10997,6 +10975,28 @@
       "Sino",
       "Maiores",
       "Surgere"
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "words": [
+      {
+        "latin": "Infans",
+        "ru": "Ребенок"
+      },
+      {
+        "latin": "Coepi",
+        "ru": "Я начал"
+      },
+      {
+        "latin": "Suus",
+        "ru": "Свой"
+      }
+    ],
+    "reviewed_today": [
+      "Foedus",
+      "Intra",
+      "Ruere"
     ]
   }
 ]

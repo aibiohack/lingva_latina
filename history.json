@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-19",
-    "words": [
-      {
-        "latin": "Charta",
-        "ru": "Бумага, лист"
-      },
-      {
-        "latin": "Aeternus",
-        "ru": "Вечный"
-      },
-      {
-        "latin": "Primus",
-        "ru": "Первый"
-      }
-    ],
-    "reviewed_today": [
-      "Consuetudo",
-      "Texere",
-      "Surdus"
-    ]
-  },
-  {
     "date": "2026-04-20",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Texere",
       "Videre",
       "Labor"
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "words": [
+      {
+        "latin": "Laborare",
+        "ru": "Работать, страдать"
+      },
+      {
+        "latin": "Dens",
+        "ru": "Зуб"
+      },
+      {
+        "latin": "Recens",
+        "ru": "Свежий, недавний"
+      }
+    ],
+    "reviewed_today": [
+      "Sed",
+      "Dulcedo",
+      "Oculus"
     ]
   }
 ]

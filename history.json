@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-20",
-    "words": [
-      {
-        "latin": "Ut",
-        "ru": "Чтобы, как"
-      },
-      {
-        "latin": "Terribilis",
-        "ru": "Ужасный"
-      },
-      {
-        "latin": "Sursum",
-        "ru": "Вверх"
-      }
-    ],
-    "reviewed_today": [
-      "Patria",
-      "Triduum",
-      "Bellum"
-    ]
-  },
-  {
     "date": "2026-04-21",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Vulnus",
       "Morbus",
       "Doctus"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "words": [
+      {
+        "latin": "Velle",
+        "ru": "Хотеть"
+      },
+      {
+        "latin": "Dubius",
+        "ru": "Сомнительный"
+      },
+      {
+        "latin": "Velle",
+        "ru": "Хотеть"
+      }
+    ],
+    "reviewed_today": [
+      "Tertius",
+      "Sonus",
+      "Angelus"
     ]
   }
 ]

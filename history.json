@@ -3,28 +3,6 @@
     "date": "2026-04-20",
     "words": [
       {
-        "latin": "Vos",
-        "ru": "Вы"
-      },
-      {
-        "latin": "Velle",
-        "ru": "Хотеть"
-      },
-      {
-        "latin": "Virtus",
-        "ru": "Мужество, добродетель"
-      }
-    ],
-    "reviewed_today": [
-      "Tamen",
-      "Navis",
-      "Sepulcrum"
-    ]
-  },
-  {
-    "date": "2026-04-20",
-    "words": [
-      {
         "latin": "Dubius",
         "ru": "Сомнительный"
       },
@@ -10997,6 +10975,28 @@
       "Tardus",
       "Ignoscerе",
       "Vicinus"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "words": [
+      {
+        "latin": "Universus",
+        "ru": "Весь, всеобщий"
+      },
+      {
+        "latin": "Ira",
+        "ru": "Гнев"
+      },
+      {
+        "latin": "Charta",
+        "ru": "Бумага, лист"
+      }
+    ],
+    "reviewed_today": [
+      "Quattuor",
+      "Voluntas",
+      "Trans"
     ]
   }
 ]

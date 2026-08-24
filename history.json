@@ -3,28 +3,6 @@
     "date": "2026-04-20",
     "words": [
       {
-        "latin": "Dubius",
-        "ru": "Сомнительный"
-      },
-      {
-        "latin": "Ager",
-        "ru": "Поле"
-      },
-      {
-        "latin": "Umbra",
-        "ru": "Тень"
-      }
-    ],
-    "reviewed_today": [
-      "Liber",
-      "Manere",
-      "Multitudo"
-    ]
-  },
-  {
-    "date": "2026-04-20",
-    "words": [
-      {
         "latin": "Ut",
         "ru": "Чтобы, как"
       },
@@ -10997,6 +10975,28 @@
       "Quattuor",
       "Voluntas",
       "Trans"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "words": [
+      {
+        "latin": "Princeps",
+        "ru": "Первый, вождь"
+      },
+      {
+        "latin": "Roma",
+        "ru": "Рим"
+      },
+      {
+        "latin": "Epistula",
+        "ru": "Письмо"
+      }
+    ],
+    "reviewed_today": [
+      "Vulnus",
+      "Morbus",
+      "Doctus"
     ]
   }
 ]

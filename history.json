@@ -3,28 +3,6 @@
     "date": "2026-04-20",
     "words": [
       {
-        "latin": "Ira",
-        "ru": "Гнев"
-      },
-      {
-        "latin": "Volare",
-        "ru": "Летать"
-      },
-      {
-        "latin": "Videlicet",
-        "ru": "Очевидно, именно"
-      }
-    ],
-    "reviewed_today": [
-      "Magnus",
-      "Tacere",
-      "Rus"
-    ]
-  },
-  {
-    "date": "2026-04-20",
-    "words": [
-      {
         "latin": "Vos",
         "ru": "Вы"
       },
@@ -10997,6 +10975,28 @@
       "Sed",
       "Dulcedo",
       "Oculus"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "words": [
+      {
+        "latin": "Vero",
+        "ru": "Истинно, однако"
+      },
+      {
+        "latin": "Tremere",
+        "ru": "Дрожать, трепетать"
+      },
+      {
+        "latin": "Satis",
+        "ru": "Достаточно"
+      }
+    ],
+    "reviewed_today": [
+      "Tardus",
+      "Ignoscerе",
+      "Vicinus"
     ]
   }
 ]

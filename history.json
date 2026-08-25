@@ -3,28 +3,6 @@
     "date": "2026-04-21",
     "words": [
       {
-        "latin": "Ius",
-        "ru": "Право, закон"
-      },
-      {
-        "latin": "Ver",
-        "ru": "Весна"
-      },
-      {
-        "latin": "Venari",
-        "ru": "Охотиться"
-      }
-    ],
-    "reviewed_today": [
-      "Atque",
-      "Qualis",
-      "Tutus"
-    ]
-  },
-  {
-    "date": "2026-04-21",
-    "words": [
-      {
         "latin": "Aio",
         "ru": "Говорю, утверждаю"
       },
@@ -10997,6 +10975,28 @@
       "Vinculum",
       "Gerere",
       "Supplex"
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "words": [
+      {
+        "latin": "Sententia",
+        "ru": "Мнение, фраза"
+      },
+      {
+        "latin": "Tormentum",
+        "ru": "Мучение, пытка"
+      },
+      {
+        "latin": "Sententia",
+        "ru": "Мнение, изречение"
+      }
+    ],
+    "reviewed_today": [
+      "Mutare",
+      "Tandem",
+      "Securus"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-04-21",
     "words": [
       {
-        "latin": "Aio",
-        "ru": "Говорю, утверждаю"
-      },
-      {
-        "latin": "Vultus",
-        "ru": "Лицо, лик"
-      },
-      {
-        "latin": "Post",
-        "ru": "После"
-      }
-    ],
-    "reviewed_today": [
-      "Legatus",
-      "Versus",
-      "Cogitare"
-    ]
-  },
-  {
-    "date": "2026-04-21",
-    "words": [
-      {
         "latin": "Velum",
         "ru": "Парус, завеса"
       },
@@ -10997,6 +10975,28 @@
       "Mutare",
       "Tandem",
       "Securus"
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "words": [
+      {
+        "latin": "Ius",
+        "ru": "Право, закон"
+      },
+      {
+        "latin": "Ver",
+        "ru": "Весна"
+      },
+      {
+        "latin": "Terribilis",
+        "ru": "Ужасный"
+      }
+    ],
+    "reviewed_today": [
+      "Respondere",
+      "Hilaris",
+      "Ardere"
     ]
   }
 ]

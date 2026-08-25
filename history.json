@@ -3,28 +3,6 @@
     "date": "2026-04-21",
     "words": [
       {
-        "latin": "Volare",
-        "ru": "Летать"
-      },
-      {
-        "latin": "Tormentum",
-        "ru": "Мучение, пытка"
-      },
-      {
-        "latin": "Sententia",
-        "ru": "Мнение, изречение"
-      }
-    ],
-    "reviewed_today": [
-      "Vero",
-      "Crux",
-      "Vitrum"
-    ]
-  },
-  {
-    "date": "2026-04-21",
-    "words": [
-      {
         "latin": "Ius",
         "ru": "Право, закон"
       },
@@ -10997,6 +10975,28 @@
       "Tertius",
       "Sonus",
       "Angelus"
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "words": [
+      {
+        "latin": "Religio",
+        "ru": "Религия"
+      },
+      {
+        "latin": "Superbus",
+        "ru": "Гордый, высокомерный"
+      },
+      {
+        "latin": "Instruere",
+        "ru": "Наставлять, возводить"
+      }
+    ],
+    "reviewed_today": [
+      "Vinculum",
+      "Gerere",
+      "Supplex"
     ]
   }
 ]

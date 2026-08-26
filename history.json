@@ -3,28 +3,6 @@
     "date": "2026-04-22",
     "words": [
       {
-        "latin": "Fortasse",
-        "ru": "Может быть"
-      },
-      {
-        "latin": "Telum",
-        "ru": "Оружие, копье"
-      },
-      {
-        "latin": "Tertius",
-        "ru": "Третий"
-      }
-    ],
-    "reviewed_today": [
-      "Tergum",
-      "Totus",
-      "Diligere"
-    ]
-  },
-  {
-    "date": "2026-04-22",
-    "words": [
-      {
         "latin": "Putare",
         "ru": "Считать, полагать"
       },
@@ -10997,6 +10975,28 @@
       "Publicus",
       "Eloquens",
       "Certe"
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "words": [
+      {
+        "latin": "Ruere",
+        "ru": "Рушиться, спешить"
+      },
+      {
+        "latin": "Turba",
+        "ru": "Толпа, сумятица"
+      },
+      {
+        "latin": "Vale",
+        "ru": "Прощай (будь здоров)"
+      }
+    ],
+    "reviewed_today": [
+      "Amare",
+      "Ecclesia",
+      "Vigilia"
     ]
   }
 ]

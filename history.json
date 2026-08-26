@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-21",
-    "words": [
-      {
-        "latin": "Velum",
-        "ru": "Парус, завеса"
-      },
-      {
-        "latin": "Discipulus",
-        "ru": "Ученик"
-      },
-      {
-        "latin": "Soleo",
-        "ru": "Иметь обыкновение"
-      }
-    ],
-    "reviewed_today": [
-      "Vale",
-      "Constantia",
-      "Radix"
-    ]
-  },
-  {
     "date": "2026-04-22",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Respondere",
       "Hilaris",
       "Ardere"
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "words": [
+      {
+        "latin": "Vinculum",
+        "ru": "Узы, цепь"
+      },
+      {
+        "latin": "Idem",
+        "ru": "Тот же самый"
+      },
+      {
+        "latin": "Rota",
+        "ru": "Колесо"
+      }
+    ],
+    "reviewed_today": [
+      "Uva",
+      "Similis",
+      "Error"
     ]
   }
 ]

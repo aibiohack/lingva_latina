@@ -3,28 +3,6 @@
     "date": "2026-04-22",
     "words": [
       {
-        "latin": "Cupere",
-        "ru": "Желать"
-      },
-      {
-        "latin": "Regio",
-        "ru": "Область"
-      },
-      {
-        "latin": "Eloquens",
-        "ru": "Красноречивый"
-      }
-    ],
-    "reviewed_today": [
-      "Curare",
-      "Doctus",
-      "Subito"
-    ]
-  },
-  {
-    "date": "2026-04-22",
-    "words": [
-      {
         "latin": "Fortasse",
         "ru": "Может быть"
       },
@@ -10997,6 +10975,28 @@
       "Lupus",
       "Equus",
       "Signum"
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "words": [
+      {
+        "latin": "Facinus",
+        "ru": "Дело, поступок (часто дурной)"
+      },
+      {
+        "latin": "Ubi",
+        "ru": "Где"
+      },
+      {
+        "latin": "Iurare",
+        "ru": "Клясться"
+      }
+    ],
+    "reviewed_today": [
+      "Publicus",
+      "Eloquens",
+      "Certe"
     ]
   }
 ]

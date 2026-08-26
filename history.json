@@ -3,28 +3,6 @@
     "date": "2026-04-22",
     "words": [
       {
-        "latin": "Iurare",
-        "ru": "Клясться"
-      },
-      {
-        "latin": "Vetus",
-        "ru": "Старый"
-      },
-      {
-        "latin": "Fieri",
-        "ru": "Становиться, делаться"
-      }
-    ],
-    "reviewed_today": [
-      "Inquit",
-      "Habitus",
-      "Bene"
-    ]
-  },
-  {
-    "date": "2026-04-22",
-    "words": [
-      {
         "latin": "Cupere",
         "ru": "Желать"
       },
@@ -10997,6 +10975,28 @@
       "Uva",
       "Similis",
       "Error"
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "words": [
+      {
+        "latin": "Post",
+        "ru": "После"
+      },
+      {
+        "latin": "Velum",
+        "ru": "Парус, завеса"
+      },
+      {
+        "latin": "Aio",
+        "ru": "Говорю, утверждаю"
+      }
+    ],
+    "reviewed_today": [
+      "Lupus",
+      "Equus",
+      "Signum"
     ]
   }
 ]

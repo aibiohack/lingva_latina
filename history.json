@@ -3,28 +3,6 @@
     "date": "2026-04-23",
     "words": [
       {
-        "latin": "Fructus",
-        "ru": "Плод, доход"
-      },
-      {
-        "latin": "Aeternus",
-        "ru": "Вечный"
-      },
-      {
-        "latin": "Desistere",
-        "ru": "Прекращать, отступать"
-      }
-    ],
-    "reviewed_today": [
-      "Sum",
-      "Eligere",
-      "Tangere"
-    ]
-  },
-  {
-    "date": "2026-04-23",
-    "words": [
-      {
         "latin": "Sanguis",
         "ru": "Кровь"
       },
@@ -10997,6 +10975,28 @@
       "Debere",
       "Stirps",
       "Solium"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "words": [
+      {
+        "latin": "Suus",
+        "ru": "Свой"
+      },
+      {
+        "latin": "Facinus",
+        "ru": "Дело, поступок (часто дурной)"
+      },
+      {
+        "latin": "Saepe",
+        "ru": "Часто"
+      }
+    ],
+    "reviewed_today": [
+      "Appellare",
+      "Domus",
+      "Statim"
     ]
   }
 ]

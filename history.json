@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-22",
-    "words": [
-      {
-        "latin": "Putare",
-        "ru": "Считать, полагать"
-      },
-      {
-        "latin": "Iustus",
-        "ru": "Справедливый"
-      },
-      {
-        "latin": "Primus",
-        "ru": "Первый"
-      }
-    ],
-    "reviewed_today": [
-      "Legatus",
-      "Venenum",
-      "Pater"
-    ]
-  },
-  {
     "date": "2026-04-23",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Amare",
       "Ecclesia",
       "Vigilia"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "words": [
+      {
+        "latin": "Superbus",
+        "ru": "Гордый, высокомерный"
+      },
+      {
+        "latin": "Talis",
+        "ru": "Такой"
+      },
+      {
+        "latin": "Velut",
+        "ru": "Как, словно"
+      }
+    ],
+    "reviewed_today": [
+      "Debere",
+      "Stirps",
+      "Solium"
     ]
   }
 ]

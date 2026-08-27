@@ -3,28 +3,6 @@
     "date": "2026-04-23",
     "words": [
       {
-        "latin": "Sanguis",
-        "ru": "Кровь"
-      },
-      {
-        "latin": "Tacere",
-        "ru": "Молчать"
-      },
-      {
-        "latin": "Meritum",
-        "ru": "Заслуга"
-      }
-    ],
-    "reviewed_today": [
-      "Magister",
-      "Vulnus",
-      "Fere"
-    ]
-  },
-  {
-    "date": "2026-04-23",
-    "words": [
-      {
         "latin": "Crux",
         "ru": "Крест"
       },
@@ -10997,6 +10975,28 @@
       "Appellare",
       "Domus",
       "Statim"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "words": [
+      {
+        "latin": "Aeternus",
+        "ru": "Вечный"
+      },
+      {
+        "latin": "Discipulus",
+        "ru": "Ученик"
+      },
+      {
+        "latin": "Eloquens",
+        "ru": "Красноречивый"
+      }
+    ],
+    "reviewed_today": [
+      "Filia",
+      "Gratia",
+      "Ibi"
     ]
   }
 ]

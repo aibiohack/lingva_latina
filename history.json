@@ -3,28 +3,6 @@
     "date": "2026-04-24",
     "words": [
       {
-        "latin": "Ubi",
-        "ru": "Где"
-      },
-      {
-        "latin": "Suscipere",
-        "ru": "Предпринимать, принимать"
-      },
-      {
-        "latin": "Vel",
-        "ru": "Или, даже"
-      }
-    ],
-    "reviewed_today": [
-      "Prope",
-      "Instruere",
-      "Terrere"
-    ]
-  },
-  {
-    "date": "2026-04-24",
-    "words": [
-      {
         "latin": "Vester",
         "ru": "Ваш"
       },
@@ -10997,6 +10975,28 @@
       "Post",
       "Crudele",
       "Victor"
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "words": [
+      {
+        "latin": "Dolor",
+        "ru": "Боль"
+      },
+      {
+        "latin": "Vir",
+        "ru": "Мужчина, муж"
+      },
+      {
+        "latin": "Aeternitas",
+        "ru": "Вечность"
+      }
+    ],
+    "reviewed_today": [
+      "Ante",
+      "Primus",
+      "Sentire"
     ]
   }
 ]

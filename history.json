@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-23",
-    "words": [
-      {
-        "latin": "Publicus",
-        "ru": "Общественный"
-      },
-      {
-        "latin": "Meus",
-        "ru": "Мой"
-      },
-      {
-        "latin": "Idem",
-        "ru": "Тот же самый"
-      }
-    ],
-    "reviewed_today": [
-      "Rota",
-      "Sustinere",
-      "Tibia"
-    ]
-  },
-  {
     "date": "2026-04-24",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Insula",
       "Quod",
       "Alius"
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "words": [
+      {
+        "latin": "Creare",
+        "ru": "Творить, создавать"
+      },
+      {
+        "latin": "Imperare",
+        "ru": "Приказывать"
+      },
+      {
+        "latin": "Tolerare",
+        "ru": "Терпеть, переносить"
+      }
+    ],
+    "reviewed_today": [
+      "Rectus",
+      "Voluptas",
+      "Sitire"
     ]
   }
 ]

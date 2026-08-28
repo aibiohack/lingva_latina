@@ -3,28 +3,6 @@
     "date": "2026-04-23",
     "words": [
       {
-        "latin": "Crux",
-        "ru": "Крест"
-      },
-      {
-        "latin": "Iniquus",
-        "ru": "Несправедливый"
-      },
-      {
-        "latin": "Facinus",
-        "ru": "Дело, поступок (часто дурной)"
-      }
-    ],
-    "reviewed_today": [
-      "Testis",
-      "Fons",
-      "Ruere"
-    ]
-  },
-  {
-    "date": "2026-04-23",
-    "words": [
-      {
         "latin": "Publicus",
         "ru": "Общественный"
       },
@@ -10997,6 +10975,28 @@
       "Filia",
       "Gratia",
       "Ibi"
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "words": [
+      {
+        "latin": "Dum",
+        "ru": "Пока, в то время как"
+      },
+      {
+        "latin": "Roma",
+        "ru": "Рим"
+      },
+      {
+        "latin": "Censeo",
+        "ru": "Полагаю, считаю"
+      }
+    ],
+    "reviewed_today": [
+      "Insula",
+      "Quod",
+      "Alius"
     ]
   }
 ]

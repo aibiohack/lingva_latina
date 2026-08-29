@@ -3,28 +3,6 @@
     "date": "2026-04-25",
     "words": [
       {
-        "latin": "Horrere",
-        "ru": "Ужасаться, трепетать"
-      },
-      {
-        "latin": "Usque",
-        "ru": "Вплоть до"
-      },
-      {
-        "latin": "Stultus",
-        "ru": "Глупый"
-      }
-    ],
-    "reviewed_today": [
-      "Scutum",
-      "Orbis",
-      "Sino"
-    ]
-  },
-  {
-    "date": "2026-04-25",
-    "words": [
-      {
         "latin": "Arma",
         "ru": "Оружие"
       },
@@ -10997,6 +10975,28 @@
       "Pax",
       "Radix",
       "Scelus"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "words": [
+      {
+        "latin": "Aestas",
+        "ru": "Лето"
+      },
+      {
+        "latin": "Honestus",
+        "ru": "Честный"
+      },
+      {
+        "latin": "Scio",
+        "ru": "Знаю"
+      }
+    ],
+    "reviewed_today": [
+      "Ulterior",
+      "Pars",
+      "Redire"
     ]
   }
 ]

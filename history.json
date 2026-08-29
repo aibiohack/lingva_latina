@@ -3,28 +3,6 @@
     "date": "2026-04-24",
     "words": [
       {
-        "latin": "Vester",
-        "ru": "Ваш"
-      },
-      {
-        "latin": "Tam",
-        "ru": "Так"
-      },
-      {
-        "latin": "Statua",
-        "ru": "Статуя"
-      }
-    ],
-    "reviewed_today": [
-      "Tandem",
-      "Usque",
-      "Scribere"
-    ]
-  },
-  {
-    "date": "2026-04-24",
-    "words": [
-      {
         "latin": "Pulcher",
         "ru": "Красивый"
       },
@@ -10997,6 +10975,28 @@
       "Ante",
       "Primus",
       "Sentire"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "words": [
+      {
+        "latin": "Satis",
+        "ru": "Достаточно"
+      },
+      {
+        "latin": "Publicus",
+        "ru": "Общественный"
+      },
+      {
+        "latin": "Pulcher",
+        "ru": "Красивый"
+      }
+    ],
+    "reviewed_today": [
+      "Sufferre",
+      "Licet",
+      "Oculus"
     ]
   }
 ]

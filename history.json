@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-24",
-    "words": [
-      {
-        "latin": "Pulcher",
-        "ru": "Красивый"
-      },
-      {
-        "latin": "Conari",
-        "ru": "Пытаться, стараться"
-      },
-      {
-        "latin": "Eligere",
-        "ru": "Выбирать"
-      }
-    ],
-    "reviewed_today": [
-      "Intelligere",
-      "Charta",
-      "Temptare"
-    ]
-  },
-  {
     "date": "2026-04-25",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Sufferre",
       "Licet",
       "Oculus"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "words": [
+      {
+        "latin": "Tam",
+        "ru": "Так, настолько"
+      },
+      {
+        "latin": "Desistere",
+        "ru": "Прекращать, отступать"
+      },
+      {
+        "latin": "Dicere",
+        "ru": "Говорить"
+      }
+    ],
+    "reviewed_today": [
+      "Pax",
+      "Radix",
+      "Scelus"
     ]
   }
 ]

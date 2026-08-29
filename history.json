@@ -3,28 +3,6 @@
     "date": "2026-04-25",
     "words": [
       {
-        "latin": "Arma",
-        "ru": "Оружие"
-      },
-      {
-        "latin": "Aliquis",
-        "ru": "Кто-нибудь, какой-нибудь"
-      },
-      {
-        "latin": "Benevolentia",
-        "ru": "Доброжелательность"
-      }
-    ],
-    "reviewed_today": [
-      "Dignus",
-      "Disciplina",
-      "Umquam"
-    ]
-  },
-  {
-    "date": "2026-04-25",
-    "words": [
-      {
         "latin": "Aut",
         "ru": "Или"
       },
@@ -10997,6 +10975,28 @@
       "Ulterior",
       "Pars",
       "Redire"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "words": [
+      {
+        "latin": "Gaudium",
+        "ru": "Радость"
+      },
+      {
+        "latin": "Sui",
+        "ru": "Себя"
+      },
+      {
+        "latin": "Suus",
+        "ru": "Свой"
+      }
+    ],
+    "reviewed_today": [
+      "Asper",
+      "Censeo",
+      "Salve"
     ]
   }
 ]

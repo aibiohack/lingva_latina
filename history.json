@@ -3,28 +3,6 @@
     "date": "2026-04-26",
     "words": [
       {
-        "latin": "Flamma",
-        "ru": "Пламя"
-      },
-      {
-        "latin": "Utilis",
-        "ru": "Полезный"
-      },
-      {
-        "latin": "Nullus",
-        "ru": "Никакой"
-      }
-    ],
-    "reviewed_today": [
-      "Post",
-      "Ruere",
-      "Quod"
-    ]
-  },
-  {
-    "date": "2026-04-26",
-    "words": [
-      {
         "latin": "Flumen",
         "ru": "Река"
       },
@@ -10997,6 +10975,28 @@
       "Summa",
       "Vilis",
       "Vulgus"
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "words": [
+      {
+        "latin": "Tribunus",
+        "ru": "Трибун"
+      },
+      {
+        "latin": "Secundum",
+        "ru": "Согласно"
+      },
+      {
+        "latin": "Unus",
+        "ru": "Один"
+      }
+    ],
+    "reviewed_today": [
+      "Maiores",
+      "Mens",
+      "Rapere"
     ]
   }
 ]

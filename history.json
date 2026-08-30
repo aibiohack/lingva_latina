@@ -3,28 +3,6 @@
     "date": "2026-04-26",
     "words": [
       {
-        "latin": "Incendere",
-        "ru": "Зажигать"
-      },
-      {
-        "latin": "Videlicet",
-        "ru": "Очевидно, именно"
-      },
-      {
-        "latin": "Vivus",
-        "ru": "Живой"
-      }
-    ],
-    "reviewed_today": [
-      "Violare",
-      "Hinc",
-      "Densus"
-    ]
-  },
-  {
-    "date": "2026-04-26",
-    "words": [
-      {
         "latin": "Flamma",
         "ru": "Пламя"
       },
@@ -10997,6 +10975,28 @@
       "Petere",
       "Supplex",
       "Lex"
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "words": [
+      {
+        "latin": "Silva",
+        "ru": "Лес"
+      },
+      {
+        "latin": "Apud",
+        "ru": "У, при, около"
+      },
+      {
+        "latin": "Venire",
+        "ru": "Приходить"
+      }
+    ],
+    "reviewed_today": [
+      "Summa",
+      "Vilis",
+      "Vulgus"
     ]
   }
 ]

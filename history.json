@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-25",
-    "words": [
-      {
-        "latin": "Confirmare",
-        "ru": "Укреплять, подтверждать"
-      },
-      {
-        "latin": "Verbum",
-        "ru": "Слово"
-      },
-      {
-        "latin": "Similis",
-        "ru": "Похожий"
-      }
-    ],
-    "reviewed_today": [
-      "Quis",
-      "Cunctus",
-      "Auxilium"
-    ]
-  },
-  {
     "date": "2026-04-26",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Sanguis",
       "Iscere",
       "Iudicium"
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "words": [
+      {
+        "latin": "Petere",
+        "ru": "Просить, стремиться"
+      },
+      {
+        "latin": "Maestus",
+        "ru": "Грустный"
+      },
+      {
+        "latin": "Exercitus",
+        "ru": "Войско"
+      }
+    ],
+    "reviewed_today": [
+      "Petere",
+      "Supplex",
+      "Lex"
     ]
   }
 ]

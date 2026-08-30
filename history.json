@@ -3,28 +3,6 @@
     "date": "2026-04-26",
     "words": [
       {
-        "latin": "Flumen",
-        "ru": "Река"
-      },
-      {
-        "latin": "Cor",
-        "ru": "Сердце"
-      },
-      {
-        "latin": "Tollere",
-        "ru": "Поднимать, уничтожать"
-      }
-    ],
-    "reviewed_today": [
-      "Instruere",
-      "Undique",
-      "Fragilis"
-    ]
-  },
-  {
-    "date": "2026-04-26",
-    "words": [
-      {
         "latin": "Soror",
         "ru": "Сестра"
       },
@@ -10997,6 +10975,28 @@
       "Maiores",
       "Mens",
       "Rapere"
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "words": [
+      {
+        "latin": "Charta",
+        "ru": "Бумага, лист"
+      },
+      {
+        "latin": "Tantum",
+        "ru": "Только"
+      },
+      {
+        "latin": "Emere",
+        "ru": "Покупать"
+      }
+    ],
+    "reviewed_today": [
+      "Venus",
+      "Insula",
+      "Porta"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-04-27",
     "words": [
       {
-        "latin": "Multitudo",
-        "ru": "Множество"
-      },
-      {
-        "latin": "Lucere",
-        "ru": "Светить"
-      },
-      {
-        "latin": "Malus",
-        "ru": "Плохой"
-      }
-    ],
-    "reviewed_today": [
-      "Laudare",
-      "Vehiculum",
-      "Umquam"
-    ]
-  },
-  {
-    "date": "2026-04-27",
-    "words": [
-      {
         "latin": "Salus",
         "ru": "Здоровье, спасение"
       },
@@ -10997,6 +10975,28 @@
       "Septem",
       "Terra",
       "Sapientia"
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "words": [
+      {
+        "latin": "Canis",
+        "ru": "Собака"
+      },
+      {
+        "latin": "Sanitas",
+        "ru": "Здоровье, разумность"
+      },
+      {
+        "latin": "Integer",
+        "ru": "Целый, нетронутый"
+      }
+    ],
+    "reviewed_today": [
+      "Discedere",
+      "Vivere",
+      "Caput"
     ]
   }
 ]

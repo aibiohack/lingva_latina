@@ -3,28 +3,6 @@
     "date": "2026-04-27",
     "words": [
       {
-        "latin": "Vae",
-        "ru": "Горе!"
-      },
-      {
-        "latin": "Sanitas",
-        "ru": "Здоровье, разумность"
-      },
-      {
-        "latin": "Canis",
-        "ru": "Собака"
-      }
-    ],
-    "reviewed_today": [
-      "Miles",
-      "Saxum",
-      "Credere"
-    ]
-  },
-  {
-    "date": "2026-04-27",
-    "words": [
-      {
         "latin": "Integer",
         "ru": "Целый, нетронутый"
       },
@@ -10997,6 +10975,28 @@
       "Tectum",
       "Amare",
       "Disertus"
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "words": [
+      {
+        "latin": "Tam",
+        "ru": "Так, настолько"
+      },
+      {
+        "latin": "Petere",
+        "ru": "Просить, стремиться"
+      },
+      {
+        "latin": "Altus",
+        "ru": "Высокий, глубокий"
+      }
+    ],
+    "reviewed_today": [
+      "Grex",
+      "Radix",
+      "Terere"
     ]
   }
 ]

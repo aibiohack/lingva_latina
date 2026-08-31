@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-26",
-    "words": [
-      {
-        "latin": "Soror",
-        "ru": "Сестра"
-      },
-      {
-        "latin": "Solus",
-        "ru": "Один, единственный"
-      },
-      {
-        "latin": "Largus",
-        "ru": "Щедрый, обильный"
-      }
-    ],
-    "reviewed_today": [
-      "Severus",
-      "Volo",
-      "Vicinus"
-    ]
-  },
-  {
     "date": "2026-04-27",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Venus",
       "Insula",
       "Porta"
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "words": [
+      {
+        "latin": "Flumen",
+        "ru": "Река"
+      },
+      {
+        "latin": "Incendere",
+        "ru": "Зажигать"
+      },
+      {
+        "latin": "Nullus",
+        "ru": "Никакой"
+      }
+    ],
+    "reviewed_today": [
+      "Tectum",
+      "Amare",
+      "Disertus"
     ]
   }
 ]

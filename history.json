@@ -3,28 +3,6 @@
     "date": "2026-04-28",
     "words": [
       {
-        "latin": "Reus",
-        "ru": "Подсудимый, виновный"
-      },
-      {
-        "latin": "Exspectare",
-        "ru": "Ожидать"
-      },
-      {
-        "latin": "Sal",
-        "ru": "Соль, остроумие"
-      }
-    ],
-    "reviewed_today": [
-      "Fieri",
-      "Audire",
-      "Remus"
-    ]
-  },
-  {
-    "date": "2026-04-28",
-    "words": [
-      {
         "latin": "Victoria",
         "ru": "Победа"
       },
@@ -10997,6 +10975,28 @@
       "Legio",
       "Tumultus",
       "Vanus"
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "words": [
+      {
+        "latin": "Ante",
+        "ru": "Перед, до"
+      },
+      {
+        "latin": "Iustus",
+        "ru": "Справедливый"
+      },
+      {
+        "latin": "Furor",
+        "ru": "Безумие, ярость"
+      }
+    ],
+    "reviewed_today": [
+      "Ardere",
+      "Primus",
+      "Causa"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-04-28",
     "words": [
       {
-        "latin": "Civilis",
-        "ru": "Гражданский"
-      },
-      {
-        "latin": "Utinam",
-        "ru": "О если бы (желание)"
-      },
-      {
-        "latin": "Virtus",
-        "ru": "Мужество, добродетель"
-      }
-    ],
-    "reviewed_today": [
-      "Densus",
-      "Filia",
-      "Religio"
-    ]
-  },
-  {
-    "date": "2026-04-28",
-    "words": [
-      {
         "latin": "Stirps",
         "ru": "Корень, род"
       },
@@ -10997,6 +10975,28 @@
       "Cotidie",
       "Tribuere",
       "Late"
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "words": [
+      {
+        "latin": "Argentum",
+        "ru": "Серебро"
+      },
+      {
+        "latin": "Mittere",
+        "ru": "Посылать"
+      },
+      {
+        "latin": "Talis",
+        "ru": "Такой"
+      }
+    ],
+    "reviewed_today": [
+      "Lumen",
+      "Dubius",
+      "Constantia"
     ]
   }
 ]

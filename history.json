@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-27",
-    "words": [
-      {
-        "latin": "Salus",
-        "ru": "Здоровье, спасение"
-      },
-      {
-        "latin": "Humus",
-        "ru": "Земля"
-      },
-      {
-        "latin": "Sagitta",
-        "ru": "Стрела"
-      }
-    ],
-    "reviewed_today": [
-      "Singulus",
-      "Argentum",
-      "Quid"
-    ]
-  },
-  {
     "date": "2026-04-28",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Discedere",
       "Vivere",
       "Caput"
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "words": [
+      {
+        "latin": "Utor",
+        "ru": "Пользуюсь"
+      },
+      {
+        "latin": "Iocus",
+        "ru": "Шутка"
+      },
+      {
+        "latin": "Surgere",
+        "ru": "Вставать, подниматься"
+      }
+    ],
+    "reviewed_today": [
+      "Cotidie",
+      "Tribuere",
+      "Late"
     ]
   }
 ]

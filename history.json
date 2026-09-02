@@ -3,28 +3,6 @@
     "date": "2026-04-29",
     "words": [
       {
-        "latin": "Tandem",
-        "ru": "Наконец"
-      },
-      {
-        "latin": "Bellum",
-        "ru": "Война"
-      },
-      {
-        "latin": "Testis",
-        "ru": "Свидетель"
-      }
-    ],
-    "reviewed_today": [
-      "Templum",
-      "Persona",
-      "Sedere"
-    ]
-  },
-  {
-    "date": "2026-04-29",
-    "words": [
-      {
         "latin": "Ars",
         "ru": "Искусство"
       },
@@ -10997,6 +10975,28 @@
       "Dives",
       "Eligere",
       "Volo"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "words": [
+      {
+        "latin": "Maxime",
+        "ru": "Весьма, больше всего"
+      },
+      {
+        "latin": "Volo",
+        "ru": "Хочу"
+      },
+      {
+        "latin": "Sol",
+        "ru": "Солнце"
+      }
+    ],
+    "reviewed_today": [
+      "Spiritus",
+      "Tangere",
+      "Censeo"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-04-29",
     "words": [
       {
-        "latin": "Pone",
-        "ru": "Позади"
-      },
-      {
-        "latin": "Singulus",
-        "ru": "Одиночный"
-      },
-      {
-        "latin": "Ferre",
-        "ru": "Нести"
-      }
-    ],
-    "reviewed_today": [
-      "Civilis",
-      "Innocens",
-      "Arbor"
-    ]
-  },
-  {
-    "date": "2026-04-29",
-    "words": [
-      {
         "latin": "Mox",
         "ru": "Скоро"
       },
@@ -10997,6 +10975,28 @@
       "Imago",
       "Rex",
       "Regio"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "words": [
+      {
+        "latin": "Tandem",
+        "ru": "Наконец"
+      },
+      {
+        "latin": "Utinam",
+        "ru": "О если бы (желание)"
+      },
+      {
+        "latin": "Cogitare",
+        "ru": "Думать"
+      }
+    ],
+    "reviewed_today": [
+      "Sui",
+      "Vigilare",
+      "Mons"
     ]
   }
 ]

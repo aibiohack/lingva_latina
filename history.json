@@ -3,28 +3,6 @@
     "date": "2026-04-29",
     "words": [
       {
-        "latin": "Ars",
-        "ru": "Искусство"
-      },
-      {
-        "latin": "Cogitare",
-        "ru": "Думать"
-      },
-      {
-        "latin": "Ignoscerе",
-        "ru": "Прощать"
-      }
-    ],
-    "reviewed_today": [
-      "Mutare",
-      "Meus",
-      "Constantia"
-    ]
-  },
-  {
-    "date": "2026-04-29",
-    "words": [
-      {
         "latin": "Pone",
         "ru": "Позади"
       },
@@ -10997,6 +10975,28 @@
       "Spiritus",
       "Tangere",
       "Censeo"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "words": [
+      {
+        "latin": "Vituperare",
+        "ru": "Ругать"
+      },
+      {
+        "latin": "Vicus",
+        "ru": "Деревня, квартал"
+      },
+      {
+        "latin": "Vastus",
+        "ru": "Огромный, пустой"
+      }
+    ],
+    "reviewed_today": [
+      "Imago",
+      "Rex",
+      "Regio"
     ]
   }
 ]

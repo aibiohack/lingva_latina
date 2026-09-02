@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-28",
-    "words": [
-      {
-        "latin": "Victoria",
-        "ru": "Победа"
-      },
-      {
-        "latin": "Custos",
-        "ru": "Страж"
-      },
-      {
-        "latin": "Utique",
-        "ru": "Во всяком случае, особенно"
-      }
-    ],
-    "reviewed_today": [
-      "Infans",
-      "Annus",
-      "Vincire"
-    ]
-  },
-  {
     "date": "2026-04-29",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Ardere",
       "Primus",
       "Causa"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "words": [
+      {
+        "latin": "Cupiditas",
+        "ru": "Желание, страсть"
+      },
+      {
+        "latin": "Mox",
+        "ru": "Скоро"
+      },
+      {
+        "latin": "Imperium",
+        "ru": "Власть"
+      }
+    ],
+    "reviewed_today": [
+      "Dives",
+      "Eligere",
+      "Volo"
     ]
   }
 ]

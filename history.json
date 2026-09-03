@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-29",
-    "words": [
-      {
-        "latin": "Mox",
-        "ru": "Скоро"
-      },
-      {
-        "latin": "Humanus",
-        "ru": "Человеческий"
-      },
-      {
-        "latin": "Declarare",
-        "ru": "Объявлять"
-      }
-    ],
-    "reviewed_today": [
-      "Togatus",
-      "Triginta",
-      "Delectare"
-    ]
-  },
-  {
     "date": "2026-04-30",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Sui",
       "Vigilare",
       "Mons"
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "words": [
+      {
+        "latin": "Tamen",
+        "ru": "Однако"
+      },
+      {
+        "latin": "Confirmare",
+        "ru": "Укреплять, подтверждать"
+      },
+      {
+        "latin": "Surdus",
+        "ru": "Глухой"
+      }
+    ],
+    "reviewed_today": [
+      "Appellare",
+      "Remedium",
+      "Forum"
     ]
   }
 ]

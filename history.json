@@ -3,28 +3,6 @@
     "date": "2026-04-30",
     "words": [
       {
-        "latin": "Sentire",
-        "ru": "Чувствовать, полагать"
-      },
-      {
-        "latin": "Scelus",
-        "ru": "Prestuplenie, znodeyanie"
-      },
-      {
-        "latin": "Sentire",
-        "ru": "Чувствовать"
-      }
-    ],
-    "reviewed_today": [
-      "Tristis",
-      "Mons",
-      "Situs"
-    ]
-  },
-  {
-    "date": "2026-04-30",
-    "words": [
-      {
         "latin": "Tamen",
         "ru": "Однако"
       },
@@ -10997,6 +10975,28 @@
       "Habitare",
       "Sedere",
       "Volare"
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "words": [
+      {
+        "latin": "Ferre",
+        "ru": "Нести"
+      },
+      {
+        "latin": "Decidere",
+        "ru": "Падать, решаться"
+      },
+      {
+        "latin": "Mos",
+        "ru": "Нрав, обычай"
+      }
+    ],
+    "reviewed_today": [
+      "Lumen",
+      "Signum",
+      "Manere"
     ]
   }
 ]

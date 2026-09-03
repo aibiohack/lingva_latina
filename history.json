@@ -3,28 +3,6 @@
     "date": "2026-04-30",
     "words": [
       {
-        "latin": "Mos",
-        "ru": "Нрав, обычай"
-      },
-      {
-        "latin": "Decidere",
-        "ru": "Падать, решаться"
-      },
-      {
-        "latin": "Via",
-        "ru": "Путь, дорога"
-      }
-    ],
-    "reviewed_today": [
-      "Magnitudo",
-      "Fragilis",
-      "Lumen"
-    ]
-  },
-  {
-    "date": "2026-04-30",
-    "words": [
-      {
         "latin": "Sentire",
         "ru": "Чувствовать, полагать"
       },
@@ -10997,6 +10975,28 @@
       "Appellare",
       "Remedium",
       "Forum"
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "words": [
+      {
+        "latin": "Pone",
+        "ru": "Позади"
+      },
+      {
+        "latin": "Declarare",
+        "ru": "Объявлять"
+      },
+      {
+        "latin": "Humanus",
+        "ru": "Человеческий"
+      }
+    ],
+    "reviewed_today": [
+      "Habitare",
+      "Sedere",
+      "Volare"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-04-30",
     "words": [
       {
-        "latin": "Tamen",
-        "ru": "Однако"
-      },
-      {
-        "latin": "Donum",
-        "ru": "Подарок"
-      },
-      {
-        "latin": "Scribere",
-        "ru": "Писать"
-      }
-    ],
-    "reviewed_today": [
-      "Qualis",
-      "Iugum",
-      "Dens"
-    ]
-  },
-  {
-    "date": "2026-04-30",
-    "words": [
-      {
         "latin": "Mons",
         "ru": "Гора"
       },
@@ -10997,6 +10975,28 @@
       "Lumen",
       "Signum",
       "Manere"
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "words": [
+      {
+        "latin": "Laudare",
+        "ru": "Хвалить"
+      },
+      {
+        "latin": "Emere",
+        "ru": "Покупать"
+      },
+      {
+        "latin": "Sapientia",
+        "ru": "Мудрость"
+      }
+    ],
+    "reviewed_today": [
+      "Creare",
+      "Saxum",
+      "Dolor"
     ]
   }
 ]

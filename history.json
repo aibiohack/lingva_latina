@@ -3,28 +3,6 @@
     "date": "2026-05-01",
     "words": [
       {
-        "latin": "Clarus",
-        "ru": "Ясный, светлый"
-      },
-      {
-        "latin": "Hora",
-        "ru": "Час"
-      },
-      {
-        "latin": "Metus",
-        "ru": "Страх"
-      }
-    ],
-    "reviewed_today": [
-      "Externus",
-      "Latere",
-      "Facinus"
-    ]
-  },
-  {
-    "date": "2026-05-01",
-    "words": [
-      {
         "latin": "Enuntiare",
         "ru": "Высказывать"
       },
@@ -10997,6 +10975,28 @@
       "Lenis",
       "Satis",
       "Inquit"
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "words": [
+      {
+        "latin": "Mater",
+        "ru": "Мать"
+      },
+      {
+        "latin": "Fortasse",
+        "ru": "Может быть"
+      },
+      {
+        "latin": "Gaudium",
+        "ru": "Радость"
+      }
+    ],
+    "reviewed_today": [
+      "Animus",
+      "Aevum",
+      "Heri"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-05-01",
     "words": [
       {
-        "latin": "Enuntiare",
-        "ru": "Высказывать"
-      },
-      {
-        "latin": "Quoque",
-        "ru": "Также"
-      },
-      {
-        "latin": "Punitio",
-        "ru": "Наказание"
-      }
-    ],
-    "reviewed_today": [
-      "Forum",
-      "Mittere",
-      "Gratia"
-    ]
-  },
-  {
-    "date": "2026-05-01",
-    "words": [
-      {
         "latin": "Magnitudo",
         "ru": "Величина"
       },
@@ -10997,6 +10975,28 @@
       "Animus",
       "Aevum",
       "Heri"
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "words": [
+      {
+        "latin": "Scelus",
+        "ru": "Prestuplenie, znodeyanie"
+      },
+      {
+        "latin": "Metus",
+        "ru": "Страх"
+      },
+      {
+        "latin": "Suavis",
+        "ru": "Приятный, сладкий"
+      }
+    ],
+    "reviewed_today": [
+      "Pater",
+      "Violare",
+      "Benevolentia"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-05-01",
     "words": [
       {
-        "latin": "Magnitudo",
-        "ru": "Величина"
-      },
-      {
-        "latin": "Ecclesia",
-        "ru": "Церковь"
-      },
-      {
-        "latin": "Hodie",
-        "ru": "Сегодня"
-      }
-    ],
-    "reviewed_today": [
-      "Dicere",
-      "Dedico",
-      "Laudare"
-    ]
-  },
-  {
-    "date": "2026-05-01",
-    "words": [
-      {
         "latin": "Barbarus",
         "ru": "Чужеземец, варвар"
       },
@@ -10997,6 +10975,28 @@
       "Pater",
       "Violare",
       "Benevolentia"
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "words": [
+      {
+        "latin": "Consilium",
+        "ru": "Совет, план"
+      },
+      {
+        "latin": "Copia",
+        "ru": "Запас, множество"
+      },
+      {
+        "latin": "Solitudo",
+        "ru": "Одиночество, пустыня"
+      }
+    ],
+    "reviewed_today": [
+      "Exemplum",
+      "Foedus",
+      "Ventus"
     ]
   }
 ]

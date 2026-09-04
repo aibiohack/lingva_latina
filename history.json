@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-04-30",
-    "words": [
-      {
-        "latin": "Mons",
-        "ru": "Гора"
-      },
-      {
-        "latin": "Suavis",
-        "ru": "Приятный, сладкий"
-      },
-      {
-        "latin": "Sub",
-        "ru": "Под"
-      }
-    ],
-    "reviewed_today": [
-      "Libenter",
-      "Figura",
-      "Loqui"
-    ]
-  },
-  {
     "date": "2026-05-01",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Creare",
       "Saxum",
       "Dolor"
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "words": [
+      {
+        "latin": "Talis",
+        "ru": "Такой"
+      },
+      {
+        "latin": "Exspectare",
+        "ru": "Ожидать"
+      },
+      {
+        "latin": "Vester",
+        "ru": "Ваш"
+      }
+    ],
+    "reviewed_today": [
+      "Lenis",
+      "Satis",
+      "Inquit"
     ]
   }
 ]

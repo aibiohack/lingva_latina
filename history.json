@@ -3,28 +3,6 @@
     "date": "2026-05-02",
     "words": [
       {
-        "latin": "Legatus",
-        "ru": "Посол, легат"
-      },
-      {
-        "latin": "Aqua",
-        "ru": "Вода"
-      },
-      {
-        "latin": "Orbis",
-        "ru": "Круг, мир"
-      }
-    ],
-    "reviewed_today": [
-      "Mentior",
-      "Iurare",
-      "Si"
-    ]
-  },
-  {
-    "date": "2026-05-02",
-    "words": [
-      {
         "latin": "Silentium",
         "ru": "Молчание"
       },
@@ -10997,6 +10975,28 @@
       "Quattuor",
       "Turpis",
       "Vanitas"
+    ]
+  },
+  {
+    "date": "2026-09-05",
+    "words": [
+      {
+        "latin": "Quoque",
+        "ru": "Также"
+      },
+      {
+        "latin": "Hodie",
+        "ru": "Сегодня"
+      },
+      {
+        "latin": "Dubitare",
+        "ru": "Сомневаться"
+      }
+    ],
+    "reviewed_today": [
+      "Ulterior",
+      "Umquam",
+      "Sapere"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-05-02",
     "words": [
       {
-        "latin": "Herba",
-        "ru": "Трава"
-      },
-      {
-        "latin": "Sacer",
-        "ru": "Священный"
-      },
-      {
-        "latin": "Dedico",
-        "ru": "Посвящаю"
-      }
-    ],
-    "reviewed_today": [
-      "Suspicio",
-      "Dicere",
-      "Cotidie"
-    ]
-  },
-  {
-    "date": "2026-05-02",
-    "words": [
-      {
         "latin": "Fessus",
         "ru": "Усталый"
       },
@@ -10997,6 +10975,28 @@
       "Velum",
       "Salus",
       "Tu"
+    ]
+  },
+  {
+    "date": "2026-09-05",
+    "words": [
+      {
+        "latin": "Aqua",
+        "ru": "Вода"
+      },
+      {
+        "latin": "Legatus",
+        "ru": "Посол, легат"
+      },
+      {
+        "latin": "Senectus",
+        "ru": "Старость"
+      }
+    ],
+    "reviewed_today": [
+      "Uva",
+      "Familia",
+      "Temperantia"
     ]
   }
 ]

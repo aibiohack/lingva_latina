@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-01",
-    "words": [
-      {
-        "latin": "Barbarus",
-        "ru": "Чужеземец, варвар"
-      },
-      {
-        "latin": "Vivere",
-        "ru": "Жить"
-      },
-      {
-        "latin": "Dubitare",
-        "ru": "Сомневаться"
-      }
-    ],
-    "reviewed_today": [
-      "Crux",
-      "Tutus",
-      "Recens"
-    ]
-  },
-  {
     "date": "2026-05-02",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Exemplum",
       "Foedus",
       "Ventus"
+    ]
+  },
+  {
+    "date": "2026-09-05",
+    "words": [
+      {
+        "latin": "Ecclesia",
+        "ru": "Церковь"
+      },
+      {
+        "latin": "Enuntiare",
+        "ru": "Высказывать"
+      },
+      {
+        "latin": "Magnitudo",
+        "ru": "Величина"
+      }
+    ],
+    "reviewed_today": [
+      "Quattuor",
+      "Turpis",
+      "Vanitas"
     ]
   }
 ]

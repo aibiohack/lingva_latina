@@ -3,28 +3,6 @@
     "date": "2026-05-02",
     "words": [
       {
-        "latin": "Silentium",
-        "ru": "Молчание"
-      },
-      {
-        "latin": "Silentium",
-        "ru": "Молчание, тишина"
-      },
-      {
-        "latin": "Senectus",
-        "ru": "Старость"
-      }
-    ],
-    "reviewed_today": [
-      "Sustinere",
-      "Suus",
-      "Brevis"
-    ]
-  },
-  {
-    "date": "2026-05-02",
-    "words": [
-      {
         "latin": "Herba",
         "ru": "Трава"
       },
@@ -10997,6 +10975,28 @@
       "Ulterior",
       "Umquam",
       "Sapere"
+    ]
+  },
+  {
+    "date": "2026-09-05",
+    "words": [
+      {
+        "latin": "Urgere",
+        "ru": "Гнать, теснить"
+      },
+      {
+        "latin": "Ibi",
+        "ru": "Там"
+      },
+      {
+        "latin": "Flamma",
+        "ru": "Пламя"
+      }
+    ],
+    "reviewed_today": [
+      "Velum",
+      "Salus",
+      "Tu"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-02",
-    "words": [
-      {
-        "latin": "Fessus",
-        "ru": "Усталый"
-      },
-      {
-        "latin": "Delectare",
-        "ru": "Радовать"
-      },
-      {
-        "latin": "Dolor",
-        "ru": "Боль"
-      }
-    ],
-    "reviewed_today": [
-      "Sex",
-      "Agere",
-      "Legere"
-    ]
-  },
-  {
     "date": "2026-05-03",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Uva",
       "Familia",
       "Temperantia"
+    ]
+  },
+  {
+    "date": "2026-09-06",
+    "words": [
+      {
+        "latin": "Sine",
+        "ru": "Без"
+      },
+      {
+        "latin": "Tum",
+        "ru": "Тогда"
+      },
+      {
+        "latin": "Comes",
+        "ru": "Спутник, граф"
+      }
+    ],
+    "reviewed_today": [
+      "Honestus",
+      "Iam",
+      "Manere"
     ]
   }
 ]

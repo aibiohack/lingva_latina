@@ -3,28 +3,6 @@
     "date": "2026-05-03",
     "words": [
       {
-        "latin": "Votum",
-        "ru": "Обет, желание"
-      },
-      {
-        "latin": "Talis",
-        "ru": "Такой"
-      },
-      {
-        "latin": "Iuvenis",
-        "ru": "Юноша, молодой"
-      }
-    ],
-    "reviewed_today": [
-      "Temere",
-      "Laborare",
-      "Filius"
-    ]
-  },
-  {
-    "date": "2026-05-03",
-    "words": [
-      {
         "latin": "Vita",
         "ru": "Жизнь"
       },
@@ -10997,6 +10975,28 @@
       "Honestus",
       "Iam",
       "Manere"
+    ]
+  },
+  {
+    "date": "2026-09-06",
+    "words": [
+      {
+        "latin": "Studere",
+        "ru": "Стремиться, учиться"
+      },
+      {
+        "latin": "Sinister",
+        "ru": "Левый, дурной"
+      },
+      {
+        "latin": "Arma",
+        "ru": "Оружие"
+      }
+    ],
+    "reviewed_today": [
+      "Repetere",
+      "Sanctus",
+      "Pater"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-05-03",
     "words": [
       {
-        "latin": "Porta",
-        "ru": "Ворота"
-      },
-      {
-        "latin": "Moenia",
-        "ru": "Стены (городские)"
-      },
-      {
-        "latin": "Atque",
-        "ru": "А также, и"
-      }
-    ],
-    "reviewed_today": [
-      "Venenum",
-      "Scire",
-      "Urgere"
-    ]
-  },
-  {
-    "date": "2026-05-03",
-    "words": [
-      {
         "latin": "Currere",
         "ru": "Бежать"
       },
@@ -10997,6 +10975,28 @@
       "Imago",
       "Vale",
       "Vix"
+    ]
+  },
+  {
+    "date": "2026-09-06",
+    "words": [
+      {
+        "latin": "Tacere",
+        "ru": "Молчать"
+      },
+      {
+        "latin": "Venari",
+        "ru": "Охотиться"
+      },
+      {
+        "latin": "Durare",
+        "ru": "Длиться, закалять"
+      }
+    ],
+    "reviewed_today": [
+      "Ver",
+      "Semel",
+      "Punitio"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-05-03",
     "words": [
       {
-        "latin": "Vita",
-        "ru": "Жизнь"
-      },
-      {
-        "latin": "Immortalis",
-        "ru": "Бессмертный"
-      },
-      {
-        "latin": "Triumphus",
-        "ru": "Триумф, победа"
-      }
-    ],
-    "reviewed_today": [
-      "Materia",
-      "Saxum",
-      "Crescere"
-    ]
-  },
-  {
-    "date": "2026-05-03",
-    "words": [
-      {
         "latin": "Porta",
         "ru": "Ворота"
       },
@@ -10997,6 +10975,28 @@
       "Repetere",
       "Sanctus",
       "Pater"
+    ]
+  },
+  {
+    "date": "2026-09-06",
+    "words": [
+      {
+        "latin": "Furor",
+        "ru": "Безумие, ярость"
+      },
+      {
+        "latin": "Dum",
+        "ru": "Пока, в то время как"
+      },
+      {
+        "latin": "Agere",
+        "ru": "Приводить в движение, гнать"
+      }
+    ],
+    "reviewed_today": [
+      "Imago",
+      "Vale",
+      "Vix"
     ]
   }
 ]

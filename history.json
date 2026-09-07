@@ -3,28 +3,6 @@
     "date": "2026-05-04",
     "words": [
       {
-        "latin": "Felicitas",
-        "ru": "Счастье"
-      },
-      {
-        "latin": "Fieri",
-        "ru": "Становиться, делаться"
-      },
-      {
-        "latin": "Videlicet",
-        "ru": "Очевидно, именно"
-      }
-    ],
-    "reviewed_today": [
-      "Vester",
-      "Secundus",
-      "Recipere"
-    ]
-  },
-  {
-    "date": "2026-05-04",
-    "words": [
-      {
         "latin": "Conari",
         "ru": "Пытаться, стараться"
       },
@@ -10997,6 +10975,28 @@
       "Modus",
       "Constituere",
       "Vicus"
+    ]
+  },
+  {
+    "date": "2026-09-07",
+    "words": [
+      {
+        "latin": "Creare",
+        "ru": "Творить, создавать"
+      },
+      {
+        "latin": "Fovere",
+        "ru": "Греть, лелеять"
+      },
+      {
+        "latin": "Pulcher",
+        "ru": "Красивый"
+      }
+    ],
+    "reviewed_today": [
+      "Duo",
+      "Sufferre",
+      "Desiderium"
     ]
   }
 ]

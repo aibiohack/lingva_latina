@@ -3,28 +3,6 @@
     "date": "2026-05-04",
     "words": [
       {
-        "latin": "Simul",
-        "ru": "Одновременно, вместе"
-      },
-      {
-        "latin": "Timere",
-        "ru": "Бояться"
-      },
-      {
-        "latin": "Prope",
-        "ru": "Близко"
-      }
-    ],
-    "reviewed_today": [
-      "Regnum",
-      "Castrum",
-      "Veho"
-    ]
-  },
-  {
-    "date": "2026-05-04",
-    "words": [
-      {
         "latin": "Ceterus",
         "ru": "Прочий, остальной"
       },
@@ -10997,6 +10975,28 @@
       "Nullus",
       "Miser",
       "Senectus"
+    ]
+  },
+  {
+    "date": "2026-09-07",
+    "words": [
+      {
+        "latin": "Iuvenis",
+        "ru": "Юноша, молодой"
+      },
+      {
+        "latin": "Viator",
+        "ru": "Путник"
+      },
+      {
+        "latin": "Currere",
+        "ru": "Бежать"
+      }
+    ],
+    "reviewed_today": [
+      "Fructus",
+      "Sapientia",
+      "Vicis"
     ]
   }
 ]

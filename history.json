@@ -3,28 +3,6 @@
     "date": "2026-05-04",
     "words": [
       {
-        "latin": "Ceterus",
-        "ru": "Прочий, остальной"
-      },
-      {
-        "latin": "Luna",
-        "ru": "Луна"
-      },
-      {
-        "latin": "Nox",
-        "ru": "Ночь"
-      }
-    ],
-    "reviewed_today": [
-      "Vulnero",
-      "Filia",
-      "Color"
-    ]
-  },
-  {
-    "date": "2026-05-04",
-    "words": [
-      {
         "latin": "Felicitas",
         "ru": "Счастье"
       },
@@ -10997,6 +10975,28 @@
       "Fructus",
       "Sapientia",
       "Vicis"
+    ]
+  },
+  {
+    "date": "2026-09-07",
+    "words": [
+      {
+        "latin": "Exspectare",
+        "ru": "Ожидать"
+      },
+      {
+        "latin": "Undique",
+        "ru": "Отовсюду"
+      },
+      {
+        "latin": "Convivium",
+        "ru": "Пир"
+      }
+    ],
+    "reviewed_today": [
+      "Modus",
+      "Constituere",
+      "Vicus"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-03",
-    "words": [
-      {
-        "latin": "Currere",
-        "ru": "Бежать"
-      },
-      {
-        "latin": "Cunctus",
-        "ru": "Весь, совокупный"
-      },
-      {
-        "latin": "Viator",
-        "ru": "Путник"
-      }
-    ],
-    "reviewed_today": [
-      "Angustus",
-      "Navis",
-      "Frumentum"
-    ]
-  },
-  {
     "date": "2026-05-04",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Ver",
       "Semel",
       "Punitio"
+    ]
+  },
+  {
+    "date": "2026-09-07",
+    "words": [
+      {
+        "latin": "Charta",
+        "ru": "Бумага, лист"
+      },
+      {
+        "latin": "Servus",
+        "ru": "Раб, слуга"
+      },
+      {
+        "latin": "Incipere",
+        "ru": "Начинать"
+      }
+    ],
+    "reviewed_today": [
+      "Nullus",
+      "Miser",
+      "Senectus"
     ]
   }
 ]

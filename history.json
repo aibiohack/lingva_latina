@@ -3,28 +3,6 @@
     "date": "2026-05-05",
     "words": [
       {
-        "latin": "Miles",
-        "ru": "Воин"
-      },
-      {
-        "latin": "Primus",
-        "ru": "Первый"
-      },
-      {
-        "latin": "Dexter",
-        "ru": "Правый"
-      }
-    ],
-    "reviewed_today": [
-      "Regio",
-      "Canis",
-      "Quattuor"
-    ]
-  },
-  {
-    "date": "2026-05-05",
-    "words": [
-      {
         "latin": "Clemens",
         "ru": "Милостивый, кроткий"
       },
@@ -10997,6 +10975,28 @@
       "Claudere",
       "Aevum",
       "Vallum"
+    ]
+  },
+  {
+    "date": "2026-09-08",
+    "words": [
+      {
+        "latin": "Aqua",
+        "ru": "Вода"
+      },
+      {
+        "latin": "Virtus",
+        "ru": "Добродетель, мужество"
+      },
+      {
+        "latin": "Magister",
+        "ru": "Учитель"
+      }
+    ],
+    "reviewed_today": [
+      "Epistula",
+      "Quoque",
+      "Uter"
     ]
   }
 ]

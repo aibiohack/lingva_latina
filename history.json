@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-04",
-    "words": [
-      {
-        "latin": "Conari",
-        "ru": "Пытаться, стараться"
-      },
-      {
-        "latin": "Idem",
-        "ru": "Тот же самый"
-      },
-      {
-        "latin": "Tantum",
-        "ru": "Только"
-      }
-    ],
-    "reviewed_today": [
-      "Testis",
-      "Quasi",
-      "Horrere"
-    ]
-  },
-  {
     "date": "2026-05-05",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Duo",
       "Sufferre",
       "Desiderium"
+    ]
+  },
+  {
+    "date": "2026-09-08",
+    "words": [
+      {
+        "latin": "Cunctus",
+        "ru": "Весь, совокупный"
+      },
+      {
+        "latin": "Atque",
+        "ru": "А также, и"
+      },
+      {
+        "latin": "Felicitas",
+        "ru": "Счастье"
+      }
+    ],
+    "reviewed_today": [
+      "Iurare",
+      "Sapiens",
+      "Tamen"
     ]
   }
 ]

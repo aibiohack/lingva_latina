@@ -3,28 +3,6 @@
     "date": "2026-05-05",
     "words": [
       {
-        "latin": "Sanguis",
-        "ru": "Кровь"
-      },
-      {
-        "latin": "Ridere",
-        "ru": "Смеяться"
-      },
-      {
-        "latin": "Verus",
-        "ru": "Истинный"
-      }
-    ],
-    "reviewed_today": [
-      "Patria",
-      "Imperare",
-      "Situs"
-    ]
-  },
-  {
-    "date": "2026-05-05",
-    "words": [
-      {
         "latin": "Miles",
         "ru": "Воин"
       },
@@ -10997,6 +10975,28 @@
       "Iurare",
       "Sapiens",
       "Tamen"
+    ]
+  },
+  {
+    "date": "2026-09-08",
+    "words": [
+      {
+        "latin": "Lacrima",
+        "ru": "Слеза"
+      },
+      {
+        "latin": "Ingenium",
+        "ru": "Природный дар, талант"
+      },
+      {
+        "latin": "Retinere",
+        "ru": "Удерживать, сохранять"
+      }
+    ],
+    "reviewed_today": [
+      "Claudere",
+      "Aevum",
+      "Vallum"
     ]
   }
 ]

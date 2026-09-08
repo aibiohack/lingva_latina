@@ -3,28 +3,6 @@
     "date": "2026-05-05",
     "words": [
       {
-        "latin": "Clemens",
-        "ru": "Милостивый, кроткий"
-      },
-      {
-        "latin": "Maestus",
-        "ru": "Грустный"
-      },
-      {
-        "latin": "Grex",
-        "ru": "Стадо, толпа"
-      }
-    ],
-    "reviewed_today": [
-      "Flumen",
-      "Venari",
-      "Aeternitas"
-    ]
-  },
-  {
-    "date": "2026-05-05",
-    "words": [
-      {
         "latin": "Cur",
         "ru": "Почему"
       },
@@ -10997,6 +10975,28 @@
       "Epistula",
       "Quoque",
       "Uter"
+    ]
+  },
+  {
+    "date": "2026-09-08",
+    "words": [
+      {
+        "latin": "Securus",
+        "ru": "Безопасный, беззаботный"
+      },
+      {
+        "latin": "Vanitas",
+        "ru": "Суета, тщеславие"
+      },
+      {
+        "latin": "Pro",
+        "ru": "За, вместо"
+      }
+    ],
+    "reviewed_today": [
+      "Iocus",
+      "Salus",
+      "Tangere"
     ]
   }
 ]

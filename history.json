@@ -3,28 +3,6 @@
     "date": "2026-05-06",
     "words": [
       {
-        "latin": "Luna",
-        "ru": "Луна"
-      },
-      {
-        "latin": "Ullus",
-        "ru": "Какой-либо"
-      },
-      {
-        "latin": "Voluntas",
-        "ru": "Воля, желание"
-      }
-    ],
-    "reviewed_today": [
-      "Longus",
-      "Sensus",
-      "Retinere"
-    ]
-  },
-  {
-    "date": "2026-05-06",
-    "words": [
-      {
         "latin": "Genu",
         "ru": "Колено"
       },
@@ -10997,6 +10975,28 @@
       "Doctus",
       "Facilis",
       "Apud"
+    ]
+  },
+  {
+    "date": "2026-09-09",
+    "words": [
+      {
+        "latin": "Intelligere",
+        "ru": "Понимать"
+      },
+      {
+        "latin": "Ultimus",
+        "ru": "Последний"
+      },
+      {
+        "latin": "Instruere",
+        "ru": "Наставлять, возводить"
+      }
+    ],
+    "reviewed_today": [
+      "Tantum",
+      "Dividere",
+      "Conari"
     ]
   }
 ]

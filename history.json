@@ -3,28 +3,6 @@
     "date": "2026-05-06",
     "words": [
       {
-        "latin": "Vindex",
-        "ru": "Защитник, мститель"
-      },
-      {
-        "latin": "Labor",
-        "ru": "Труд"
-      },
-      {
-        "latin": "Ante",
-        "ru": "Перед, до"
-      }
-    ],
-    "reviewed_today": [
-      "Ignoscerе",
-      "Herba",
-      "Gens"
-    ]
-  },
-  {
-    "date": "2026-05-06",
-    "words": [
-      {
         "latin": "Luna",
         "ru": "Луна"
       },
@@ -10997,6 +10975,28 @@
       "Vicinus",
       "Moenia",
       "Umbra"
+    ]
+  },
+  {
+    "date": "2026-09-09",
+    "words": [
+      {
+        "latin": "Furor",
+        "ru": "Безумие, ярость"
+      },
+      {
+        "latin": "Medicus",
+        "ru": "Врач"
+      },
+      {
+        "latin": "Sursum",
+        "ru": "Вверх"
+      }
+    ],
+    "reviewed_today": [
+      "Doctus",
+      "Facilis",
+      "Apud"
     ]
   }
 ]

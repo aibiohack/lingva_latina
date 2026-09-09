@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-05",
-    "words": [
-      {
-        "latin": "Cur",
-        "ru": "Почему"
-      },
-      {
-        "latin": "Uterque",
-        "ru": "И тот и другой"
-      },
-      {
-        "latin": "Ultra",
-        "ru": "Сверх, по ту сторону"
-      }
-    ],
-    "reviewed_today": [
-      "Plenus",
-      "Expectare",
-      "Socius"
-    ]
-  },
-  {
     "date": "2026-05-06",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Iocus",
       "Salus",
       "Tangere"
+    ]
+  },
+  {
+    "date": "2026-09-09",
+    "words": [
+      {
+        "latin": "Clemens",
+        "ru": "Милостивый, кроткий"
+      },
+      {
+        "latin": "Dexter",
+        "ru": "Правый"
+      },
+      {
+        "latin": "Miles",
+        "ru": "Воин"
+      }
+    ],
+    "reviewed_today": [
+      "Vicinus",
+      "Moenia",
+      "Umbra"
     ]
   }
 ]

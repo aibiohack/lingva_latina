@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-07",
-    "words": [
-      {
-        "latin": "Causa",
-        "ru": "Причина"
-      },
-      {
-        "latin": "Tu",
-        "ru": "Ты"
-      },
-      {
-        "latin": "Tu",
-        "ru": "Ты"
-      }
-    ],
-    "reviewed_today": [
-      "Quattuor",
-      "Uterque",
-      "Benevolentia"
-    ]
-  },
-  {
     "date": "2026-05-08",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Charta",
       "Tollere",
       "Sapere"
+    ]
+  },
+  {
+    "date": "2026-09-10",
+    "words": [
+      {
+        "latin": "Ullus",
+        "ru": "Какой-либо"
+      },
+      {
+        "latin": "Luna",
+        "ru": "Луна"
+      },
+      {
+        "latin": "Auxilium",
+        "ru": "Помощь"
+      }
+    ],
+    "reviewed_today": [
+      "Venire",
+      "Spectare",
+      "Tot"
     ]
   }
 ]

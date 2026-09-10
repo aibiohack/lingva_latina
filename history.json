@@ -3,28 +3,6 @@
     "date": "2026-05-07",
     "words": [
       {
-        "latin": "Poeta",
-        "ru": "Поэт"
-      },
-      {
-        "latin": "Gaudium",
-        "ru": "Радость"
-      },
-      {
-        "latin": "Auxilium",
-        "ru": "Помощь"
-      }
-    ],
-    "reviewed_today": [
-      "Dum",
-      "Vox",
-      "Lacrima"
-    ]
-  },
-  {
-    "date": "2026-05-07",
-    "words": [
-      {
         "latin": "Terere",
         "ru": "Тереть, тратить время"
       },
@@ -10997,6 +10975,28 @@
       "Forum",
       "Vincire",
       "Monstrare"
+    ]
+  },
+  {
+    "date": "2026-09-10",
+    "words": [
+      {
+        "latin": "Ungere",
+        "ru": "Мазать, умащать"
+      },
+      {
+        "latin": "Vincere",
+        "ru": "Победить"
+      },
+      {
+        "latin": "Lucere",
+        "ru": "Светить"
+      }
+    ],
+    "reviewed_today": [
+      "Mensis",
+      "Fons",
+      "Asper"
     ]
   }
 ]

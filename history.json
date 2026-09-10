@@ -3,28 +3,6 @@
     "date": "2026-05-07",
     "words": [
       {
-        "latin": "Terere",
-        "ru": "Тереть, тратить время"
-      },
-      {
-        "latin": "Valetudo",
-        "ru": "Здоровье (состояние)"
-      },
-      {
-        "latin": "Licet",
-        "ru": "Можно, позволено"
-      }
-    ],
-    "reviewed_today": [
-      "Sic",
-      "Locus",
-      "Cantare"
-    ]
-  },
-  {
-    "date": "2026-05-07",
-    "words": [
-      {
         "latin": "Quid",
         "ru": "Что"
       },
@@ -10997,6 +10975,28 @@
       "Mensis",
       "Fons",
       "Asper"
+    ]
+  },
+  {
+    "date": "2026-09-10",
+    "words": [
+      {
+        "latin": "Talis",
+        "ru": "Такой"
+      },
+      {
+        "latin": "Simul",
+        "ru": "Одновременно, вместе"
+      },
+      {
+        "latin": "Res",
+        "ru": "Вещь, дело, обстоятельство"
+      }
+    ],
+    "reviewed_today": [
+      "Supra",
+      "Magis",
+      "Alius"
     ]
   }
 ]

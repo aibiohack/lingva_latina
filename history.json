@@ -3,28 +3,6 @@
     "date": "2026-05-08",
     "words": [
       {
-        "latin": "Damnum",
-        "ru": "Ущерб, убыток"
-      },
-      {
-        "latin": "Si",
-        "ru": "Если"
-      },
-      {
-        "latin": "Comes",
-        "ru": "Спутник, граф"
-      }
-    ],
-    "reviewed_today": [
-      "Quasi",
-      "Vox",
-      "Innocens"
-    ]
-  },
-  {
-    "date": "2026-05-08",
-    "words": [
-      {
         "latin": "Laetus",
         "ru": "Веселый, тучный"
       },
@@ -10997,6 +10975,28 @@
       "Venire",
       "Spectare",
       "Tot"
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "words": [
+      {
+        "latin": "Foedus",
+        "ru": "Договор, союз"
+      },
+      {
+        "latin": "Tertius",
+        "ru": "Третий"
+      },
+      {
+        "latin": "Quattuor",
+        "ru": "Четыре"
+      }
+    ],
+    "reviewed_today": [
+      "Soleo",
+      "Memoria",
+      "Trabs"
     ]
   }
 ]

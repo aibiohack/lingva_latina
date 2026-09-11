@@ -3,28 +3,6 @@
     "date": "2026-05-08",
     "words": [
       {
-        "latin": "Laetus",
-        "ru": "Веселый, тучный"
-      },
-      {
-        "latin": "Beatus",
-        "ru": "Счастливый, блаженный"
-      },
-      {
-        "latin": "Similis",
-        "ru": "Похожий"
-      }
-    ],
-    "reviewed_today": [
-      "Tenebrae",
-      "Dens",
-      "Culpa"
-    ]
-  },
-  {
-    "date": "2026-05-08",
-    "words": [
-      {
         "latin": "Parens",
         "ru": "Родитель"
       },
@@ -10997,6 +10975,28 @@
       "Soleo",
       "Memoria",
       "Trabs"
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "words": [
+      {
+        "latin": "Consilium",
+        "ru": "Совет, план"
+      },
+      {
+        "latin": "Unda",
+        "ru": "Волна"
+      },
+      {
+        "latin": "Vultus",
+        "ru": "Лицо, лик"
+      }
+    ],
+    "reviewed_today": [
+      "Censeo",
+      "Amare",
+      "Tibia"
     ]
   }
 ]

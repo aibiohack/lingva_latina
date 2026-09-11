@@ -3,28 +3,6 @@
     "date": "2026-05-08",
     "words": [
       {
-        "latin": "Parens",
-        "ru": "Родитель"
-      },
-      {
-        "latin": "Nuntius",
-        "ru": "Вестник"
-      },
-      {
-        "latin": "Ars",
-        "ru": "Искусство"
-      }
-    ],
-    "reviewed_today": [
-      "Densus",
-      "Septem",
-      "Laus"
-    ]
-  },
-  {
-    "date": "2026-05-08",
-    "words": [
-      {
         "latin": "Officium",
         "ru": "Обязанность"
       },
@@ -10997,6 +10975,28 @@
       "Censeo",
       "Amare",
       "Tibia"
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "words": [
+      {
+        "latin": "Manere",
+        "ru": "Оставаться"
+      },
+      {
+        "latin": "Mare",
+        "ru": "Море"
+      },
+      {
+        "latin": "Cum (союз)",
+        "ru": "Когда"
+      }
+    ],
+    "reviewed_today": [
+      "Veho",
+      "Fieri",
+      "Uxor"
     ]
   }
 ]

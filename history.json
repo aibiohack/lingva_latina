@@ -3,28 +3,6 @@
     "date": "2026-05-09",
     "words": [
       {
-        "latin": "Testimonium",
-        "ru": "Свидетельство"
-      },
-      {
-        "latin": "Natura",
-        "ru": "Природа"
-      },
-      {
-        "latin": "Loqui",
-        "ru": "Говорить"
-      }
-    ],
-    "reviewed_today": [
-      "Sitire",
-      "Fessus",
-      "Sursum"
-    ]
-  },
-  {
-    "date": "2026-05-09",
-    "words": [
-      {
         "latin": "Claudere",
         "ru": "Закрывать"
       },
@@ -10997,6 +10975,28 @@
       "Vilis",
       "Hortus",
       "Furor"
+    ]
+  },
+  {
+    "date": "2026-09-12",
+    "words": [
+      {
+        "latin": "Rumor",
+        "ru": "Слух, молва"
+      },
+      {
+        "latin": "Altus",
+        "ru": "Высокий, глубокий"
+      },
+      {
+        "latin": "Legere",
+        "ru": "Читать"
+      }
+    ],
+    "reviewed_today": [
+      "Materia",
+      "Sequi",
+      "Ignoscerе"
     ]
   }
 ]

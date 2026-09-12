@@ -3,28 +3,6 @@
     "date": "2026-05-09",
     "words": [
       {
-        "latin": "Quantus",
-        "ru": "Сколько"
-      },
-      {
-        "latin": "Rota",
-        "ru": "Колесо"
-      },
-      {
-        "latin": "Putare",
-        "ru": "Считать, полагать"
-      }
-    ],
-    "reviewed_today": [
-      "Sal",
-      "Legatus",
-      "Navis"
-    ]
-  },
-  {
-    "date": "2026-05-09",
-    "words": [
-      {
         "latin": "Testimonium",
         "ru": "Свидетельство"
       },
@@ -10997,6 +10975,28 @@
       "Venerari",
       "Diversus",
       "Versari"
+    ]
+  },
+  {
+    "date": "2026-09-12",
+    "words": [
+      {
+        "latin": "Crimen",
+        "ru": "Обвинение, преступление"
+      },
+      {
+        "latin": "Eloquens",
+        "ru": "Красноречивый"
+      },
+      {
+        "latin": "Iustus",
+        "ru": "Справедливый"
+      }
+    ],
+    "reviewed_today": [
+      "Vilis",
+      "Hortus",
+      "Furor"
     ]
   }
 ]

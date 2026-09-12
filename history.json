@@ -3,28 +3,6 @@
     "date": "2026-05-09",
     "words": [
       {
-        "latin": "Claudere",
-        "ru": "Закрывать"
-      },
-      {
-        "latin": "Iter",
-        "ru": "Путь"
-      },
-      {
-        "latin": "Socius",
-        "ru": "Союзник"
-      }
-    ],
-    "reviewed_today": [
-      "Desiderium",
-      "Tectum",
-      "Civitas"
-    ]
-  },
-  {
-    "date": "2026-05-09",
-    "words": [
-      {
         "latin": "Urbs",
         "ru": "Город"
       },
@@ -10997,6 +10975,28 @@
       "Materia",
       "Sequi",
       "Ignoscerе"
+    ]
+  },
+  {
+    "date": "2026-09-12",
+    "words": [
+      {
+        "latin": "Fere",
+        "ru": "Почти, обыкновенно"
+      },
+      {
+        "latin": "Quid",
+        "ru": "Что"
+      },
+      {
+        "latin": "Natura",
+        "ru": "Природа"
+      }
+    ],
+    "reviewed_today": [
+      "Reus",
+      "Vertere",
+      "Tamen"
     ]
   }
 ]

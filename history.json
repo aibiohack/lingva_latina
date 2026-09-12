@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-09",
-    "words": [
-      {
-        "latin": "Urbs",
-        "ru": "Город"
-      },
-      {
-        "latin": "Venus",
-        "ru": "Любовь, Венера"
-      },
-      {
-        "latin": "Aevum",
-        "ru": "Век, эпоха"
-      }
-    ],
-    "reviewed_today": [
-      "Furor",
-      "Vestis",
-      "Timere"
-    ]
-  },
-  {
     "date": "2026-05-10",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Reus",
       "Vertere",
       "Tamen"
+    ]
+  },
+  {
+    "date": "2026-09-12",
+    "words": [
+      {
+        "latin": "Surdus",
+        "ru": "Глухой"
+      },
+      {
+        "latin": "Ventus",
+        "ru": "Ветер"
+      },
+      {
+        "latin": "Caput",
+        "ru": "Голова"
+      }
+    ],
+    "reviewed_today": [
+      "Metuere",
+      "Telum",
+      "Civitas"
     ]
   }
 ]

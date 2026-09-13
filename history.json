@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-10",
-    "words": [
-      {
-        "latin": "Quattuor",
-        "ru": "Четыре"
-      },
-      {
-        "latin": "Retinere",
-        "ru": "Удерживать, сохранять"
-      },
-      {
-        "latin": "Levis",
-        "ru": "Легкий"
-      }
-    ],
-    "reviewed_today": [
-      "Nomen",
-      "Umbra",
-      "Sitire"
-    ]
-  },
-  {
     "date": "2026-05-11",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Duo",
       "Solitudo",
       "Volvo"
+    ]
+  },
+  {
+    "date": "2026-09-13",
+    "words": [
+      {
+        "latin": "Sufferre",
+        "ru": "Терпеть, выносить"
+      },
+      {
+        "latin": "Super",
+        "ru": "Над"
+      },
+      {
+        "latin": "Hodie",
+        "ru": "Сегодня"
+      }
+    ],
+    "reviewed_today": [
+      "Angelus",
+      "Quoque",
+      "Indicare"
     ]
   }
 ]

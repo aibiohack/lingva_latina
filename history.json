@@ -3,28 +3,6 @@
     "date": "2026-05-10",
     "words": [
       {
-        "latin": "Amare",
-        "ru": "Любить"
-      },
-      {
-        "latin": "Unanimis",
-        "ru": "Единодушный"
-      },
-      {
-        "latin": "Vinculum",
-        "ru": "Узы, цепь"
-      }
-    ],
-    "reviewed_today": [
-      "Parens",
-      "Mentior",
-      "Malle"
-    ]
-  },
-  {
-    "date": "2026-05-10",
-    "words": [
-      {
         "latin": "Telum",
         "ru": "Оружие, копье"
       },
@@ -10997,6 +10975,28 @@
       "Metuere",
       "Telum",
       "Civitas"
+    ]
+  },
+  {
+    "date": "2026-09-13",
+    "words": [
+      {
+        "latin": "Testimonium",
+        "ru": "Свидетельство"
+      },
+      {
+        "latin": "Claudere",
+        "ru": "Закрывать"
+      },
+      {
+        "latin": "Aevum",
+        "ru": "Век, эпоха"
+      }
+    ],
+    "reviewed_today": [
+      "Etiam",
+      "Doctus",
+      "Utilis"
     ]
   }
 ]

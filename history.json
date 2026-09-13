@@ -3,28 +3,6 @@
     "date": "2026-05-10",
     "words": [
       {
-        "latin": "Sanguis",
-        "ru": "Кровь"
-      },
-      {
-        "latin": "Ignis",
-        "ru": "Огонь"
-      },
-      {
-        "latin": "Colere",
-        "ru": "Возделывать, почитать"
-      }
-    ],
-    "reviewed_today": [
-      "Sub",
-      "Inanis",
-      "Integer"
-    ]
-  },
-  {
-    "date": "2026-05-10",
-    "words": [
-      {
         "latin": "Quattuor",
         "ru": "Четыре"
       },
@@ -10997,6 +10975,28 @@
       "Expectare",
       "Dives",
       "Ubi"
+    ]
+  },
+  {
+    "date": "2026-09-13",
+    "words": [
+      {
+        "latin": "Amare",
+        "ru": "Любить"
+      },
+      {
+        "latin": "Invenire",
+        "ru": "Находить"
+      },
+      {
+        "latin": "Invenire",
+        "ru": "Находить, изобретать"
+      }
+    ],
+    "reviewed_today": [
+      "Duo",
+      "Solitudo",
+      "Volvo"
     ]
   }
 ]

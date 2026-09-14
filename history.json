@@ -3,28 +3,6 @@
     "date": "2026-05-11",
     "words": [
       {
-        "latin": "Iuvare",
-        "ru": "Помогать, радовать"
-      },
-      {
-        "latin": "Aperire",
-        "ru": "Открывать"
-      },
-      {
-        "latin": "Utilitas",
-        "ru": "Польза, выгода"
-      }
-    ],
-    "reviewed_today": [
-      "Gaudere",
-      "Aura",
-      "Felicitas"
-    ]
-  },
-  {
-    "date": "2026-05-11",
-    "words": [
-      {
         "latin": "Fieri",
         "ru": "Становиться, делаться"
       },
@@ -10997,6 +10975,28 @@
       "Ungere",
       "Dubius",
       "Secundum"
+    ]
+  },
+  {
+    "date": "2026-09-14",
+    "words": [
+      {
+        "latin": "Tollere",
+        "ru": "Поднимать, уничтожать"
+      },
+      {
+        "latin": "Unanimis",
+        "ru": "Единодушный"
+      },
+      {
+        "latin": "Tristis",
+        "ru": "Печальный"
+      }
+    ],
+    "reviewed_today": [
+      "Pugnare",
+      "Ubique",
+      "Infelix"
     ]
   }
 ]

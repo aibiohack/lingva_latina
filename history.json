@@ -3,28 +3,6 @@
     "date": "2026-05-11",
     "words": [
       {
-        "latin": "Velox",
-        "ru": "Быстрый"
-      },
-      {
-        "latin": "Clamor",
-        "ru": "Крик, шум"
-      },
-      {
-        "latin": "Sermo",
-        "ru": "Речь, беседа"
-      }
-    ],
-    "reviewed_today": [
-      "Cura",
-      "Gratia",
-      "Fallere"
-    ]
-  },
-  {
-    "date": "2026-05-11",
-    "words": [
-      {
         "latin": "Honor",
         "ru": "Честь"
       },
@@ -10997,6 +10975,28 @@
       "Angelus",
       "Quoque",
       "Indicare"
+    ]
+  },
+  {
+    "date": "2026-09-14",
+    "words": [
+      {
+        "latin": "Meus",
+        "ru": "Мой"
+      },
+      {
+        "latin": "Orbis",
+        "ru": "Круг, мир"
+      },
+      {
+        "latin": "Senex",
+        "ru": "Старик"
+      }
+    ],
+    "reviewed_today": [
+      "Fulmen",
+      "Retinere",
+      "Volare"
     ]
   }
 ]

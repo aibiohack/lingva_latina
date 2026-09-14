@@ -3,28 +3,6 @@
     "date": "2026-05-11",
     "words": [
       {
-        "latin": "Honor",
-        "ru": "Честь"
-      },
-      {
-        "latin": "Splendor",
-        "ru": "Блеск, великолепие"
-      },
-      {
-        "latin": "Sedere",
-        "ru": "Сидеть"
-      }
-    ],
-    "reviewed_today": [
-      "Vultus",
-      "Triginta",
-      "Dubius"
-    ]
-  },
-  {
-    "date": "2026-05-11",
-    "words": [
-      {
         "latin": "Iuvare",
         "ru": "Помогать, радовать"
       },
@@ -10997,6 +10975,28 @@
       "Fulmen",
       "Retinere",
       "Volare"
+    ]
+  },
+  {
+    "date": "2026-09-14",
+    "words": [
+      {
+        "latin": "Venus",
+        "ru": "Любовь, Венера"
+      },
+      {
+        "latin": "Clamor",
+        "ru": "Крик, шум"
+      },
+      {
+        "latin": "Velox",
+        "ru": "Быстрый"
+      }
+    ],
+    "reviewed_today": [
+      "Ungere",
+      "Dubius",
+      "Secundum"
     ]
   }
 ]

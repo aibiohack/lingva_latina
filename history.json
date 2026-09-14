@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-11",
-    "words": [
-      {
-        "latin": "Fieri",
-        "ru": "Становиться, делаться"
-      },
-      {
-        "latin": "Lignum",
-        "ru": "Дерево, дрова"
-      },
-      {
-        "latin": "Cur",
-        "ru": "Почему"
-      }
-    ],
-    "reviewed_today": [
-      "Fides",
-      "Iucundus",
-      "Talis"
-    ]
-  },
-  {
     "date": "2026-05-12",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Pugnare",
       "Ubique",
       "Infelix"
+    ]
+  },
+  {
+    "date": "2026-09-14",
+    "words": [
+      {
+        "latin": "Iuvare",
+        "ru": "Помогать, радовать"
+      },
+      {
+        "latin": "Utilitas",
+        "ru": "Польза, выгода"
+      },
+      {
+        "latin": "Aperire",
+        "ru": "Открывать"
+      }
+    ],
+    "reviewed_today": [
+      "Sub",
+      "Ingens",
+      "Morbus"
     ]
   }
 ]

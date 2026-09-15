@@ -3,28 +3,6 @@
     "date": "2026-05-12",
     "words": [
       {
-        "latin": "Herba",
-        "ru": "Трава"
-      },
-      {
-        "latin": "Somnus",
-        "ru": "Сон"
-      },
-      {
-        "latin": "Vanitas",
-        "ru": "Суета, тщеславие"
-      }
-    ],
-    "reviewed_today": [
-      "Cito",
-      "Iniquus",
-      "Mors"
-    ]
-  },
-  {
-    "date": "2026-05-12",
-    "words": [
-      {
         "latin": "Nihil",
         "ru": "Ничто"
       },
@@ -10997,6 +10975,28 @@
       "Asper",
       "Fortasse",
       "Quis"
+    ]
+  },
+  {
+    "date": "2026-09-15",
+    "words": [
+      {
+        "latin": "Sequi",
+        "ru": "Следовать, сопровождать"
+      },
+      {
+        "latin": "Stare",
+        "ru": "Стоять"
+      },
+      {
+        "latin": "Monere",
+        "ru": "Напоминать, убеждать"
+      }
+    ],
+    "reviewed_today": [
+      "Opus",
+      "Atque",
+      "Aliquis"
     ]
   }
 ]

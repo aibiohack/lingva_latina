@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-12",
-    "words": [
-      {
-        "latin": "Tendere",
-        "ru": "Натягивать, стремиться"
-      },
-      {
-        "latin": "Victor",
-        "ru": "Победитель"
-      },
-      {
-        "latin": "Mox",
-        "ru": "Скоро"
-      }
-    ],
-    "reviewed_today": [
-      "Satis",
-      "Ungere",
-      "Arma"
-    ]
-  },
-  {
     "date": "2026-05-13",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Mens",
       "Cibus",
       "Incipere"
+    ]
+  },
+  {
+    "date": "2026-09-15",
+    "words": [
+      {
+        "latin": "Schola",
+        "ru": "Школа"
+      },
+      {
+        "latin": "Pulcher",
+        "ru": "Красивый"
+      },
+      {
+        "latin": "Habeo",
+        "ru": "Иметь"
+      }
+    ],
+    "reviewed_today": [
+      "Tabula",
+      "Vetustus",
+      "Aperire"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-05-12",
     "words": [
       {
-        "latin": "Nihil",
-        "ru": "Ничто"
-      },
-      {
-        "latin": "Medicus",
-        "ru": "Врач"
-      },
-      {
-        "latin": "Ingens",
-        "ru": "Огромный"
-      }
-    ],
-    "reviewed_today": [
-      "Multitudo",
-      "Cantare",
-      "Ultimus"
-    ]
-  },
-  {
-    "date": "2026-05-12",
-    "words": [
-      {
         "latin": "Tendere",
         "ru": "Натягивать, стремиться"
       },
@@ -10997,6 +10975,28 @@
       "Opus",
       "Atque",
       "Aliquis"
+    ]
+  },
+  {
+    "date": "2026-09-15",
+    "words": [
+      {
+        "latin": "Recens",
+        "ru": "Свежий, недавний"
+      },
+      {
+        "latin": "Regere",
+        "ru": "Править, управлять"
+      },
+      {
+        "latin": "Senatus",
+        "ru": "Сенат"
+      }
+    ],
+    "reviewed_today": [
+      "Mens",
+      "Cibus",
+      "Incipere"
     ]
   }
 ]

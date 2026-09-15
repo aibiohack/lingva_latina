@@ -3,28 +3,6 @@
     "date": "2026-05-12",
     "words": [
       {
-        "latin": "Simul",
-        "ru": "Одновременно, вместе"
-      },
-      {
-        "latin": "Fundamentum",
-        "ru": "Основание"
-      },
-      {
-        "latin": "Ferrum",
-        "ru": "Железо"
-      }
-    ],
-    "reviewed_today": [
-      "Monere",
-      "Pro",
-      "Libenter"
-    ]
-  },
-  {
-    "date": "2026-05-12",
-    "words": [
-      {
         "latin": "Herba",
         "ru": "Трава"
       },
@@ -10997,6 +10975,28 @@
       "Sub",
       "Ingens",
       "Morbus"
+    ]
+  },
+  {
+    "date": "2026-09-15",
+    "words": [
+      {
+        "latin": "Uxor",
+        "ru": "Жена"
+      },
+      {
+        "latin": "Vincire",
+        "ru": "Связывать"
+      },
+      {
+        "latin": "Tenuis",
+        "ru": "Тонкий, слабый"
+      }
+    ],
+    "reviewed_today": [
+      "Asper",
+      "Fortasse",
+      "Quis"
     ]
   }
 ]

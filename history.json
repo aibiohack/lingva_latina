@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-13",
-    "words": [
-      {
-        "latin": "Fatum",
-        "ru": "Судьба"
-      },
-      {
-        "latin": "Iucundus",
-        "ru": "Приятный"
-      },
-      {
-        "latin": "Spiritus",
-        "ru": "Дух, дыхание"
-      }
-    ],
-    "reviewed_today": [
-      "Fatum",
-      "Laborare",
-      "Honestus"
-    ]
-  },
-  {
     "date": "2026-05-14",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Putare",
       "Umerus",
       "Septem"
+    ]
+  },
+  {
+    "date": "2026-09-16",
+    "words": [
+      {
+        "latin": "Aurum",
+        "ru": "Золото"
+      },
+      {
+        "latin": "Inquit",
+        "ru": "Говорит (вводное)"
+      },
+      {
+        "latin": "Puer",
+        "ru": "Мальчик"
+      }
+    ],
+    "reviewed_today": [
+      "Ferre",
+      "Terrere",
+      "Loqui"
     ]
   }
 ]

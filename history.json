@@ -3,28 +3,6 @@
     "date": "2026-05-13",
     "words": [
       {
-        "latin": "Respondere",
-        "ru": "Отвечать"
-      },
-      {
-        "latin": "Diabolus",
-        "ru": "Дьявол"
-      },
-      {
-        "latin": "Ventus",
-        "ru": "Ветер"
-      }
-    ],
-    "reviewed_today": [
-      "Limen",
-      "Sidus",
-      "Nox"
-    ]
-  },
-  {
-    "date": "2026-05-13",
-    "words": [
-      {
         "latin": "Iudex",
         "ru": "Судья"
       },
@@ -10997,6 +10975,28 @@
       "Relinquere",
       "Fulmen",
       "Aureus"
+    ]
+  },
+  {
+    "date": "2026-09-16",
+    "words": [
+      {
+        "latin": "Gignere",
+        "ru": "Рождать, производить"
+      },
+      {
+        "latin": "Fidelis",
+        "ru": "Верный, надежный"
+      },
+      {
+        "latin": "Legere",
+        "ru": "Читать"
+      }
+    ],
+    "reviewed_today": [
+      "Sustinere",
+      "Cor",
+      "Voluptas"
     ]
   }
 ]

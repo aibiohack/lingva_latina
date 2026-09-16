@@ -3,28 +3,6 @@
     "date": "2026-05-13",
     "words": [
       {
-        "latin": "Solium",
-        "ru": "Престол, трон"
-      },
-      {
-        "latin": "Videre",
-        "ru": "Видеть"
-      },
-      {
-        "latin": "Videre",
-        "ru": "Видеть"
-      }
-    ],
-    "reviewed_today": [
-      "Atque",
-      "Ager",
-      "Ceterus"
-    ]
-  },
-  {
-    "date": "2026-05-13",
-    "words": [
-      {
         "latin": "Respondere",
         "ru": "Отвечать"
       },
@@ -10997,6 +10975,28 @@
       "Tabula",
       "Vetustus",
       "Aperire"
+    ]
+  },
+  {
+    "date": "2026-09-16",
+    "words": [
+      {
+        "latin": "Fundamentum",
+        "ru": "Основание"
+      },
+      {
+        "latin": "Tendere",
+        "ru": "Натягивать, стремиться"
+      },
+      {
+        "latin": "Herba",
+        "ru": "Трава"
+      }
+    ],
+    "reviewed_today": [
+      "Relinquere",
+      "Fulmen",
+      "Aureus"
     ]
   }
 ]

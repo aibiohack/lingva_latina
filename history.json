@@ -3,28 +3,6 @@
     "date": "2026-05-13",
     "words": [
       {
-        "latin": "Iudex",
-        "ru": "Судья"
-      },
-      {
-        "latin": "Reus",
-        "ru": "Подсудимый, виновный"
-      },
-      {
-        "latin": "Certe",
-        "ru": "Конечно"
-      }
-    ],
-    "reviewed_today": [
-      "Caput",
-      "Stilus",
-      "Bellum"
-    ]
-  },
-  {
-    "date": "2026-05-13",
-    "words": [
-      {
         "latin": "Fatum",
         "ru": "Судьба"
       },
@@ -10997,6 +10975,28 @@
       "Sustinere",
       "Cor",
       "Voluptas"
+    ]
+  },
+  {
+    "date": "2026-09-16",
+    "words": [
+      {
+        "latin": "Si",
+        "ru": "Если"
+      },
+      {
+        "latin": "Sentire",
+        "ru": "Чувствовать, полагать"
+      },
+      {
+        "latin": "Suavis",
+        "ru": "Приятный, сладкий"
+      }
+    ],
+    "reviewed_today": [
+      "Putare",
+      "Umerus",
+      "Septem"
     ]
   }
 ]

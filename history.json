@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-14",
-    "words": [
-      {
-        "latin": "Pauper",
-        "ru": "Бедный"
-      },
-      {
-        "latin": "Epistula",
-        "ru": "Письмо"
-      },
-      {
-        "latin": "Liber",
-        "ru": "Книга"
-      }
-    ],
-    "reviewed_today": [
-      "Rumpere",
-      "Rapere",
-      "Vehementer"
-    ]
-  },
-  {
     "date": "2026-05-15",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Desiderium",
       "Diabolus",
       "Fames"
+    ]
+  },
+  {
+    "date": "2026-09-17",
+    "words": [
+      {
+        "latin": "Fama",
+        "ru": "Молва, слух"
+      },
+      {
+        "latin": "Lumen",
+        "ru": "Свет"
+      },
+      {
+        "latin": "Villa",
+        "ru": "Вилла, усадьба"
+      }
+    ],
+    "reviewed_today": [
+      "Ardere",
+      "Debere",
+      "Cognoscere"
     ]
   }
 ]

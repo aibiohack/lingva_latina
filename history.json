@@ -3,28 +3,6 @@
     "date": "2026-05-14",
     "words": [
       {
-        "latin": "Nomen",
-        "ru": "Имя"
-      },
-      {
-        "latin": "Soror",
-        "ru": "Сестра"
-      },
-      {
-        "latin": "Versari",
-        "ru": "Находиться, вращаться"
-      }
-    ],
-    "reviewed_today": [
-      "Ecclesia",
-      "Trabs",
-      "Valde"
-    ]
-  },
-  {
-    "date": "2026-05-14",
-    "words": [
-      {
         "latin": "Saxum",
         "ru": "Скала, камень"
       },
@@ -10997,6 +10975,28 @@
       "Ferre",
       "Terrere",
       "Loqui"
+    ]
+  },
+  {
+    "date": "2026-09-17",
+    "words": [
+      {
+        "latin": "Sequi",
+        "ru": "Следовать, сопровождать"
+      },
+      {
+        "latin": "Flamma",
+        "ru": "Пламя"
+      },
+      {
+        "latin": "Venire",
+        "ru": "Приходить"
+      }
+    ],
+    "reviewed_today": [
+      "Fulmen",
+      "Scutum",
+      "Semper"
     ]
   }
 ]

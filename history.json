@@ -3,28 +3,6 @@
     "date": "2026-05-14",
     "words": [
       {
-        "latin": "Oculus",
-        "ru": "Глаз"
-      },
-      {
-        "latin": "Ceterus",
-        "ru": "Прочий, остальной"
-      },
-      {
-        "latin": "Sacer",
-        "ru": "Священный"
-      }
-    ],
-    "reviewed_today": [
-      "Os, oris",
-      "Forum",
-      "Parare"
-    ]
-  },
-  {
-    "date": "2026-05-14",
-    "words": [
-      {
         "latin": "Pauper",
         "ru": "Бедный"
       },
@@ -10997,6 +10975,28 @@
       "Mittere",
       "Infans",
       "Summa"
+    ]
+  },
+  {
+    "date": "2026-09-17",
+    "words": [
+      {
+        "latin": "Soror",
+        "ru": "Сестра"
+      },
+      {
+        "latin": "Soror",
+        "ru": "Сестра"
+      },
+      {
+        "latin": "Fluere",
+        "ru": "Течь"
+      }
+    ],
+    "reviewed_today": [
+      "Desiderium",
+      "Diabolus",
+      "Fames"
     ]
   }
 ]

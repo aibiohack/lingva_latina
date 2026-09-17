@@ -3,28 +3,6 @@
     "date": "2026-05-14",
     "words": [
       {
-        "latin": "Saxum",
-        "ru": "Скала, камень"
-      },
-      {
-        "latin": "Fluere",
-        "ru": "Течь"
-      },
-      {
-        "latin": "Gelu",
-        "ru": "Мороз, лед"
-      }
-    ],
-    "reviewed_today": [
-      "Super",
-      "Putare",
-      "Antiquus"
-    ]
-  },
-  {
-    "date": "2026-05-14",
-    "words": [
-      {
         "latin": "Oculus",
         "ru": "Глаз"
       },
@@ -10997,6 +10975,28 @@
       "Fulmen",
       "Scutum",
       "Semper"
+    ]
+  },
+  {
+    "date": "2026-09-17",
+    "words": [
+      {
+        "latin": "Ratio",
+        "ru": "Разум, расчет"
+      },
+      {
+        "latin": "Aut",
+        "ru": "Или"
+      },
+      {
+        "latin": "Volare",
+        "ru": "Летать"
+      }
+    ],
+    "reviewed_today": [
+      "Mittere",
+      "Infans",
+      "Summa"
     ]
   }
 ]

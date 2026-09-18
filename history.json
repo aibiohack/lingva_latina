@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-15",
-    "words": [
-      {
-        "latin": "Regere",
-        "ru": "Править"
-      },
-      {
-        "latin": "Fallere",
-        "ru": "Обманывать"
-      },
-      {
-        "latin": "Regere",
-        "ru": "Править, управлять"
-      }
-    ],
-    "reviewed_today": [
-      "Usque",
-      "Iocus",
-      "Undique"
-    ]
-  },
-  {
     "date": "2026-05-16",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Vituperare",
       "Iugum",
       "Omnis"
+    ]
+  },
+  {
+    "date": "2026-09-18",
+    "words": [
+      {
+        "latin": "Levis",
+        "ru": "Легкий"
+      },
+      {
+        "latin": "Dextra",
+        "ru": "Правая рука"
+      },
+      {
+        "latin": "Vix",
+        "ru": "Едва, с трудом"
+      }
+    ],
+    "reviewed_today": [
+      "Doctrina",
+      "Ludus",
+      "Iustus"
     ]
   }
 ]

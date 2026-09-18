@@ -3,28 +3,6 @@
     "date": "2026-05-15",
     "words": [
       {
-        "latin": "Statim",
-        "ru": "Немедленно"
-      },
-      {
-        "latin": "Vendere",
-        "ru": "Продавать"
-      },
-      {
-        "latin": "Innocens",
-        "ru": "Невинный"
-      }
-    ],
-    "reviewed_today": [
-      "Violare",
-      "Unus",
-      "Labor"
-    ]
-  },
-  {
-    "date": "2026-05-15",
-    "words": [
-      {
         "latin": "Ubique",
         "ru": "Везде, повсюду"
       },
@@ -10997,6 +10975,28 @@
       "Ardere",
       "Debere",
       "Cognoscere"
+    ]
+  },
+  {
+    "date": "2026-09-18",
+    "words": [
+      {
+        "latin": "Tenere",
+        "ru": "Держать"
+      },
+      {
+        "latin": "Imitari",
+        "ru": "Подражать"
+      },
+      {
+        "latin": "Post",
+        "ru": "После"
+      }
+    ],
+    "reviewed_today": [
+      "Fatum",
+      "Fortis",
+      "Tam"
     ]
   }
 ]

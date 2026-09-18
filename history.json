@@ -3,28 +3,6 @@
     "date": "2026-05-15",
     "words": [
       {
-        "latin": "Ubique",
-        "ru": "Везде, повсюду"
-      },
-      {
-        "latin": "Sed",
-        "ru": "Но"
-      },
-      {
-        "latin": "Cras",
-        "ru": "Завтра"
-      }
-    ],
-    "reviewed_today": [
-      "Tueri",
-      "Quod",
-      "Rumor"
-    ]
-  },
-  {
-    "date": "2026-05-15",
-    "words": [
-      {
         "latin": "Ingenium",
         "ru": "Природный дар, талант"
       },
@@ -10997,6 +10975,28 @@
       "Fatum",
       "Fortis",
       "Tam"
+    ]
+  },
+  {
+    "date": "2026-09-18",
+    "words": [
+      {
+        "latin": "Statim",
+        "ru": "Немедленно"
+      },
+      {
+        "latin": "Oculus",
+        "ru": "Глаз"
+      },
+      {
+        "latin": "Ceterus",
+        "ru": "Прочий, остальной"
+      }
+    ],
+    "reviewed_today": [
+      "Fessus",
+      "Aut",
+      "Uterque"
     ]
   }
 ]

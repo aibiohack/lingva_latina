@@ -3,28 +3,6 @@
     "date": "2026-05-16",
     "words": [
       {
-        "latin": "Triumphus",
-        "ru": "Триумф, победа"
-      },
-      {
-        "latin": "Ignis",
-        "ru": "Огонь"
-      },
-      {
-        "latin": "Vel",
-        "ru": "Или, даже"
-      }
-    ],
-    "reviewed_today": [
-      "Finis",
-      "Opus",
-      "Disputare"
-    ]
-  },
-  {
-    "date": "2026-05-16",
-    "words": [
-      {
         "latin": "Enim",
         "ru": "Ибо, ведь"
       },
@@ -10997,6 +10975,28 @@
       "Validus",
       "Remus",
       "Spatium"
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "words": [
+      {
+        "latin": "Ars",
+        "ru": "Искусство"
+      },
+      {
+        "latin": "Stella",
+        "ru": "Звезда"
+      },
+      {
+        "latin": "Vinculum",
+        "ru": "Узы, цепь"
+      }
+    ],
+    "reviewed_today": [
+      "Solitudo",
+      "Vivus",
+      "Felix"
     ]
   }
 ]

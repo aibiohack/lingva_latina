@@ -3,28 +3,6 @@
     "date": "2026-05-16",
     "words": [
       {
-        "latin": "Enim",
-        "ru": "Ибо, ведь"
-      },
-      {
-        "latin": "Unde",
-        "ru": "Откуда"
-      },
-      {
-        "latin": "Scire",
-        "ru": "Знать"
-      }
-    ],
-    "reviewed_today": [
-      "Rumor",
-      "Creare",
-      "Ruere"
-    ]
-  },
-  {
-    "date": "2026-05-16",
-    "words": [
-      {
         "latin": "Statua",
         "ru": "Статуя"
       },
@@ -10997,6 +10975,28 @@
       "Solitudo",
       "Vivus",
       "Felix"
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "words": [
+      {
+        "latin": "Gratia",
+        "ru": "Благодать, спасибо"
+      },
+      {
+        "latin": "Sed",
+        "ru": "Но"
+      },
+      {
+        "latin": "Ignis",
+        "ru": "Огонь"
+      }
+    ],
+    "reviewed_today": [
+      "Iter",
+      "Externus",
+      "Vastus"
     ]
   }
 ]

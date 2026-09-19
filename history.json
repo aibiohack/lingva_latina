@@ -3,28 +3,6 @@
     "date": "2026-05-16",
     "words": [
       {
-        "latin": "Gratia",
-        "ru": "Благодать, спасибо"
-      },
-      {
-        "latin": "Remus",
-        "ru": "Весло"
-      },
-      {
-        "latin": "Schola",
-        "ru": "Школа"
-      }
-    ],
-    "reviewed_today": [
-      "Tranquillitas",
-      "Habitus",
-      "Mos"
-    ]
-  },
-  {
-    "date": "2026-05-16",
-    "words": [
-      {
         "latin": "Triumphus",
         "ru": "Триумф, победа"
       },
@@ -10997,6 +10975,28 @@
       "Doctrina",
       "Ludus",
       "Iustus"
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "words": [
+      {
+        "latin": "Pulcher",
+        "ru": "Красивый"
+      },
+      {
+        "latin": "Ut",
+        "ru": "Как, чтобы"
+      },
+      {
+        "latin": "Conari",
+        "ru": "Пытаться, стараться"
+      }
+    ],
+    "reviewed_today": [
+      "Validus",
+      "Remus",
+      "Spatium"
     ]
   }
 ]

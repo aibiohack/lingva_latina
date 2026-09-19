@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-16",
-    "words": [
-      {
-        "latin": "Statua",
-        "ru": "Статуя"
-      },
-      {
-        "latin": "Si",
-        "ru": "Если"
-      },
-      {
-        "latin": "Edere",
-        "ru": "Есть (кушать)"
-      }
-    ],
-    "reviewed_today": [
-      "Vigilia",
-      "Medicus",
-      "Morari"
-    ]
-  },
-  {
     "date": "2026-05-17",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Iter",
       "Externus",
       "Vastus"
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "words": [
+      {
+        "latin": "Ridere",
+        "ru": "Смеяться"
+      },
+      {
+        "latin": "Gignere",
+        "ru": "Рождать, производить"
+      },
+      {
+        "latin": "Fabula",
+        "ru": "Сказка, рассказ"
+      }
+    ],
+    "reviewed_today": [
+      "Vincere",
+      "Salus",
+      "Retinere"
     ]
   }
 ]

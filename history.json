@@ -3,28 +3,6 @@
     "date": "2026-05-17",
     "words": [
       {
-        "latin": "Virtus",
-        "ru": "Добродетель, мужество"
-      },
-      {
-        "latin": "Duo",
-        "ru": "Два"
-      },
-      {
-        "latin": "Senatus",
-        "ru": "Сенат"
-      }
-    ],
-    "reviewed_today": [
-      "Sacer",
-      "Tollere",
-      "Atque"
-    ]
-  },
-  {
-    "date": "2026-05-17",
-    "words": [
-      {
         "latin": "Numerus",
         "ru": "Число"
       },
@@ -10997,6 +10975,28 @@
       "Lucere",
       "Habitus",
       "Ecclesia"
+    ]
+  },
+  {
+    "date": "2026-09-20",
+    "words": [
+      {
+        "latin": "Dominus",
+        "ru": "Господин"
+      },
+      {
+        "latin": "Fides",
+        "ru": "Вера"
+      },
+      {
+        "latin": "Spes",
+        "ru": "Надежда"
+      }
+    ],
+    "reviewed_today": [
+      "Cedere",
+      "Sonus",
+      "Sacerdos"
     ]
   }
 ]

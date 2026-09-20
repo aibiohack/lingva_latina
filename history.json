@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-17",
-    "words": [
-      {
-        "latin": "Numerus",
-        "ru": "Число"
-      },
-      {
-        "latin": "Confirmare",
-        "ru": "Укреплять, подтверждать"
-      },
-      {
-        "latin": "Victor",
-        "ru": "Победитель"
-      }
-    ],
-    "reviewed_today": [
-      "Autem",
-      "Diu",
-      "Exire"
-    ]
-  },
-  {
     "date": "2026-05-18",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Cedere",
       "Sonus",
       "Sacerdos"
+    ]
+  },
+  {
+    "date": "2026-09-20",
+    "words": [
+      {
+        "latin": "Fides",
+        "ru": "Вера"
+      },
+      {
+        "latin": "Ingenium",
+        "ru": "Талант, ум"
+      },
+      {
+        "latin": "Sex",
+        "ru": "Шесть"
+      }
+    ],
+    "reviewed_today": [
+      "Spectare",
+      "Genu",
+      "Infelix"
     ]
   }
 ]

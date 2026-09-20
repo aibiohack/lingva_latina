@@ -3,28 +3,6 @@
     "date": "2026-05-17",
     "words": [
       {
-        "latin": "Volvo",
-        "ru": "Качу, раздумываю"
-      },
-      {
-        "latin": "Mensis",
-        "ru": "Месяц"
-      },
-      {
-        "latin": "Lupus",
-        "ru": "Волк"
-      }
-    ],
-    "reviewed_today": [
-      "Sic",
-      "Saepe",
-      "Tenebrae"
-    ]
-  },
-  {
-    "date": "2026-05-17",
-    "words": [
-      {
         "latin": "Virtus",
         "ru": "Добродетель, мужество"
       },
@@ -10997,6 +10975,28 @@
       "Fatum",
       "Beatus",
       "Mare"
+    ]
+  },
+  {
+    "date": "2026-09-20",
+    "words": [
+      {
+        "latin": "Sors",
+        "ru": "Жребий, судьба"
+      },
+      {
+        "latin": "Incendere",
+        "ru": "Зажигать"
+      },
+      {
+        "latin": "Regere",
+        "ru": "Править, управлять"
+      }
+    ],
+    "reviewed_today": [
+      "Lucere",
+      "Habitus",
+      "Ecclesia"
     ]
   }
 ]

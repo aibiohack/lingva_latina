@@ -3,28 +3,6 @@
     "date": "2026-05-18",
     "words": [
       {
-        "latin": "Ubi",
-        "ru": "Где"
-      },
-      {
-        "latin": "Discere",
-        "ru": "Учиться"
-      },
-      {
-        "latin": "Vastus",
-        "ru": "Огромный, пустой"
-      }
-    ],
-    "reviewed_today": [
-      "Cras",
-      "Universus",
-      "Secundum"
-    ]
-  },
-  {
-    "date": "2026-05-18",
-    "words": [
-      {
         "latin": "Vigilare",
         "ru": "Бодрствовать"
       },
@@ -10997,6 +10975,28 @@
       "Silentium",
       "Signum",
       "Spero"
+    ]
+  },
+  {
+    "date": "2026-09-21",
+    "words": [
+      {
+        "latin": "Similis",
+        "ru": "Похожий"
+      },
+      {
+        "latin": "Docere",
+        "ru": "Учить, обучать"
+      },
+      {
+        "latin": "Charta",
+        "ru": "Бумага, лист"
+      }
+    ],
+    "reviewed_today": [
+      "Punitio",
+      "Tribuere",
+      "Caput"
     ]
   }
 ]

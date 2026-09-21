@@ -3,28 +3,6 @@
     "date": "2026-05-18",
     "words": [
       {
-        "latin": "Vigilare",
-        "ru": "Бодрствовать"
-      },
-      {
-        "latin": "Materia",
-        "ru": "Вещество, материя"
-      },
-      {
-        "latin": "Tollere",
-        "ru": "Поднимать, уничтожать"
-      }
-    ],
-    "reviewed_today": [
-      "Persona",
-      "Salve",
-      "Audax"
-    ]
-  },
-  {
-    "date": "2026-05-18",
-    "words": [
-      {
         "latin": "Morari",
         "ru": "Медлить, задерживаться"
       },
@@ -10997,6 +10975,28 @@
       "Punitio",
       "Tribuere",
       "Caput"
+    ]
+  },
+  {
+    "date": "2026-09-21",
+    "words": [
+      {
+        "latin": "Ite",
+        "ru": "Идите"
+      },
+      {
+        "latin": "Tolerare",
+        "ru": "Терпеть, переносить"
+      },
+      {
+        "latin": "Licet",
+        "ru": "Можно, позволено"
+      }
+    ],
+    "reviewed_today": [
+      "Hora",
+      "Turba",
+      "Vir"
     ]
   }
 ]

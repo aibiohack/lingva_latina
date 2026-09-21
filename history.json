@@ -3,28 +3,6 @@
     "date": "2026-05-18",
     "words": [
       {
-        "latin": "Tuus",
-        "ru": "Твой"
-      },
-      {
-        "latin": "Vates",
-        "ru": "Пророк, поэт"
-      },
-      {
-        "latin": "Apud",
-        "ru": "У, при, около"
-      }
-    ],
-    "reviewed_today": [
-      "Videlicet",
-      "Rumpere",
-      "Venerari"
-    ]
-  },
-  {
-    "date": "2026-05-18",
-    "words": [
-      {
         "latin": "Ubi",
         "ru": "Где"
       },
@@ -10997,6 +10975,28 @@
       "Spectare",
       "Genu",
       "Infelix"
+    ]
+  },
+  {
+    "date": "2026-09-21",
+    "words": [
+      {
+        "latin": "Ferre",
+        "ru": "Нести"
+      },
+      {
+        "latin": "Ducenti",
+        "ru": "Двести"
+      },
+      {
+        "latin": "Aut",
+        "ru": "Или"
+      }
+    ],
+    "reviewed_today": [
+      "Silentium",
+      "Signum",
+      "Spero"
     ]
   }
 ]

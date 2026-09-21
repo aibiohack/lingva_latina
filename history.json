@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-18",
-    "words": [
-      {
-        "latin": "Morari",
-        "ru": "Медлить, задерживаться"
-      },
-      {
-        "latin": "Vincire",
-        "ru": "Связывать"
-      },
-      {
-        "latin": "Membrum",
-        "ru": "Член (тела), часть"
-      }
-    ],
-    "reviewed_today": [
-      "Vetustus",
-      "Levis",
-      "Vox"
-    ]
-  },
-  {
     "date": "2026-05-19",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Hora",
       "Turba",
       "Vir"
+    ]
+  },
+  {
+    "date": "2026-09-21",
+    "words": [
+      {
+        "latin": "Materia",
+        "ru": "Вещество, материя"
+      },
+      {
+        "latin": "Vigilare",
+        "ru": "Бодрствовать"
+      },
+      {
+        "latin": "Tuus",
+        "ru": "Твой"
+      }
+    ],
+    "reviewed_today": [
+      "Vicis",
+      "Spectare",
+      "Parens"
     ]
   }
 ]

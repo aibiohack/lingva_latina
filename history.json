@@ -3,28 +3,6 @@
     "date": "2026-05-19",
     "words": [
       {
-        "latin": "Argentum",
-        "ru": "Серебро"
-      },
-      {
-        "latin": "Tacere",
-        "ru": "Молчать"
-      },
-      {
-        "latin": "Testis",
-        "ru": "Свидетель"
-      }
-    ],
-    "reviewed_today": [
-      "Spectare",
-      "Suus",
-      "Felix"
-    ]
-  },
-  {
-    "date": "2026-05-19",
-    "words": [
-      {
         "latin": "Humus",
         "ru": "Земля"
       },
@@ -10997,6 +10975,28 @@
       "Emere",
       "Scire",
       "Iustus"
+    ]
+  },
+  {
+    "date": "2026-09-22",
+    "words": [
+      {
+        "latin": "Enim",
+        "ru": "Ибо, ведь"
+      },
+      {
+        "latin": "Asper",
+        "ru": "Шероховатый, суровый"
+      },
+      {
+        "latin": "Credere",
+        "ru": "Верить"
+      }
+    ],
+    "reviewed_today": [
+      "Vetus",
+      "Cum (союз)",
+      "Trabs"
     ]
   }
 ]

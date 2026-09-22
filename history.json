@@ -3,28 +3,6 @@
     "date": "2026-05-19",
     "words": [
       {
-        "latin": "Idem",
-        "ru": "Тот же самый"
-      },
-      {
-        "latin": "Habitus",
-        "ru": "Состояние, облик"
-      },
-      {
-        "latin": "Dominus",
-        "ru": "Господин"
-      }
-    ],
-    "reviewed_today": [
-      "Habitare",
-      "Discipulus",
-      "Colere"
-    ]
-  },
-  {
-    "date": "2026-05-19",
-    "words": [
-      {
         "latin": "Credere",
         "ru": "Верить"
       },
@@ -10997,6 +10975,28 @@
       "Vicis",
       "Spectare",
       "Parens"
+    ]
+  },
+  {
+    "date": "2026-09-22",
+    "words": [
+      {
+        "latin": "Tribunus",
+        "ru": "Трибун"
+      },
+      {
+        "latin": "Luna",
+        "ru": "Луна"
+      },
+      {
+        "latin": "Ipse",
+        "ru": "Сам"
+      }
+    ],
+    "reviewed_today": [
+      "Quasi",
+      "Ergo",
+      "Consistere"
     ]
   }
 ]

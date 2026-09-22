@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-19",
-    "words": [
-      {
-        "latin": "Humus",
-        "ru": "Земля"
-      },
-      {
-        "latin": "Fallere",
-        "ru": "Обманывать"
-      },
-      {
-        "latin": "Tabula",
-        "ru": "Доска, таблица, картина"
-      }
-    ],
-    "reviewed_today": [
-      "Roma",
-      "Mutare",
-      "Iscere"
-    ]
-  },
-  {
     "date": "2026-05-20",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Vetus",
       "Cum (союз)",
       "Trabs"
+    ]
+  },
+  {
+    "date": "2026-09-22",
+    "words": [
+      {
+        "latin": "Volare",
+        "ru": "Летать"
+      },
+      {
+        "latin": "Sanus",
+        "ru": "Здоровый, трезвый"
+      },
+      {
+        "latin": "Terra",
+        "ru": "Земля"
+      }
+    ],
+    "reviewed_today": [
+      "Multus",
+      "Sidus",
+      "Tam"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-05-19",
     "words": [
       {
-        "latin": "Credere",
-        "ru": "Верить"
-      },
-      {
-        "latin": "Sapere",
-        "ru": "Быть мудрым"
-      },
-      {
-        "latin": "Asper",
-        "ru": "Шероховатый, суровый"
-      }
-    ],
-    "reviewed_today": [
-      "Pars",
-      "Dicere",
-      "Somnus"
-    ]
-  },
-  {
-    "date": "2026-05-19",
-    "words": [
-      {
         "latin": "Argentum",
         "ru": "Серебро"
       },
@@ -10997,6 +10975,28 @@
       "Quasi",
       "Ergo",
       "Consistere"
+    ]
+  },
+  {
+    "date": "2026-09-22",
+    "words": [
+      {
+        "latin": "Dubitare",
+        "ru": "Сомневаться"
+      },
+      {
+        "latin": "Stilus",
+        "ru": "Стиль, палочка для письма"
+      },
+      {
+        "latin": "Natura",
+        "ru": "Природа"
+      }
+    ],
+    "reviewed_today": [
+      "Emere",
+      "Scire",
+      "Iustus"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-05-20",
     "words": [
       {
-        "latin": "Potestas",
-        "ru": "Власть"
-      },
-      {
-        "latin": "Etiam",
-        "ru": "Также, даже"
-      },
-      {
-        "latin": "Libenter",
-        "ru": "Охотно"
-      }
-    ],
-    "reviewed_today": [
-      "Certe",
-      "Morari",
-      "Vulnus"
-    ]
-  },
-  {
-    "date": "2026-05-20",
-    "words": [
-      {
         "latin": "Fortasse",
         "ru": "Может быть"
       },
@@ -10997,6 +10975,28 @@
       "Multus",
       "Sidus",
       "Tam"
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "words": [
+      {
+        "latin": "Autem",
+        "ru": "Же, однако"
+      },
+      {
+        "latin": "Facinus",
+        "ru": "Дело, поступок (часто дурной)"
+      },
+      {
+        "latin": "Unde",
+        "ru": "Откуда"
+      }
+    ],
+    "reviewed_today": [
+      "Duo",
+      "Dextra",
+      "Claudere"
     ]
   }
 ]

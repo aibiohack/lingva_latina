@@ -3,28 +3,6 @@
     "date": "2026-05-20",
     "words": [
       {
-        "latin": "Scutum",
-        "ru": "Щит"
-      },
-      {
-        "latin": "Rumpere",
-        "ru": "Рвать, ломать"
-      },
-      {
-        "latin": "Monere",
-        "ru": "Напоминать, убеждать"
-      }
-    ],
-    "reviewed_today": [
-      "Venerari",
-      "Semel",
-      "Suus"
-    ]
-  },
-  {
-    "date": "2026-05-20",
-    "words": [
-      {
         "latin": "Iniquus",
         "ru": "Несправедливый"
       },
@@ -10997,6 +10975,28 @@
       "Redire",
       "Prope",
       "Navis"
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "words": [
+      {
+        "latin": "Rota",
+        "ru": "Колесо"
+      },
+      {
+        "latin": "Epistula",
+        "ru": "Письмо"
+      },
+      {
+        "latin": "Alius",
+        "ru": "Другой (из многих)"
+      }
+    ],
+    "reviewed_today": [
+      "Fundamentum",
+      "Rumpere",
+      "Utilitas"
     ]
   }
 ]

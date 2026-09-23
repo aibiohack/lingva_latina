@@ -3,28 +3,6 @@
     "date": "2026-05-20",
     "words": [
       {
-        "latin": "Fortasse",
-        "ru": "Может быть"
-      },
-      {
-        "latin": "Unda",
-        "ru": "Волна"
-      },
-      {
-        "latin": "Civilis",
-        "ru": "Гражданский"
-      }
-    ],
-    "reviewed_today": [
-      "Situs",
-      "Venire",
-      "Forum"
-    ]
-  },
-  {
-    "date": "2026-05-20",
-    "words": [
-      {
         "latin": "Scutum",
         "ru": "Щит"
       },
@@ -10997,6 +10975,28 @@
       "Duo",
       "Dextra",
       "Claudere"
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "words": [
+      {
+        "latin": "Civilis",
+        "ru": "Гражданский"
+      },
+      {
+        "latin": "Parvus",
+        "ru": "Маленький"
+      },
+      {
+        "latin": "Socius",
+        "ru": "Союзник, товарищ"
+      }
+    ],
+    "reviewed_today": [
+      "Redire",
+      "Prope",
+      "Navis"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-05-21",
     "words": [
       {
-        "latin": "Religio",
-        "ru": "Религия"
-      },
-      {
-        "latin": "Castrum",
-        "ru": "Крепость"
-      },
-      {
-        "latin": "Utor",
-        "ru": "Пользуюсь"
-      }
-    ],
-    "reviewed_today": [
-      "Gignere",
-      "Magis",
-      "Laborare"
-    ]
-  },
-  {
-    "date": "2026-05-21",
-    "words": [
-      {
         "latin": "Opus",
         "ru": "Работа"
       },
@@ -10997,6 +10975,28 @@
       "Flere",
       "Mox",
       "Velox"
+    ]
+  },
+  {
+    "date": "2026-09-24",
+    "words": [
+      {
+        "latin": "Retinere",
+        "ru": "Удерживать, сохранять"
+      },
+      {
+        "latin": "Copia",
+        "ru": "Запас, множество"
+      },
+      {
+        "latin": "Similis",
+        "ru": "Похожий"
+      }
+    ],
+    "reviewed_today": [
+      "Poeta",
+      "Inanis",
+      "Religio"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-05-21",
     "words": [
       {
-        "latin": "Sors",
-        "ru": "Жребий, судьба"
-      },
-      {
-        "latin": "Sursum",
-        "ru": "Вверх"
-      },
-      {
-        "latin": "Largus",
-        "ru": "Щедрый, обильный"
-      }
-    ],
-    "reviewed_today": [
-      "Timor",
-      "Soleo",
-      "Amoenus"
-    ]
-  },
-  {
-    "date": "2026-05-21",
-    "words": [
-      {
         "latin": "Uter",
         "ru": "Кто из двух"
       },
@@ -10997,6 +10975,28 @@
       "Vitare",
       "Ulterior",
       "Videlicet"
+    ]
+  },
+  {
+    "date": "2026-09-24",
+    "words": [
+      {
+        "latin": "Sui",
+        "ru": "Себя"
+      },
+      {
+        "latin": "Vates",
+        "ru": "Пророк, поэт"
+      },
+      {
+        "latin": "Beatus",
+        "ru": "Счастливый"
+      }
+    ],
+    "reviewed_today": [
+      "Terrere",
+      "Alius",
+      "Posse"
     ]
   }
 ]

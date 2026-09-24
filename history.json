@@ -3,28 +3,6 @@
     "date": "2026-05-21",
     "words": [
       {
-        "latin": "Opus",
-        "ru": "Работа"
-      },
-      {
-        "latin": "Sarcina",
-        "ru": "Узел, багаж"
-      },
-      {
-        "latin": "Fabula",
-        "ru": "Сказка, рассказ"
-      }
-    ],
-    "reviewed_today": [
-      "Senatus",
-      "Bellum",
-      "Schola"
-    ]
-  },
-  {
-    "date": "2026-05-21",
-    "words": [
-      {
         "latin": "Sors",
         "ru": "Жребий, судьба"
       },
@@ -10997,6 +10975,28 @@
       "Poeta",
       "Inanis",
       "Religio"
+    ]
+  },
+  {
+    "date": "2026-09-24",
+    "words": [
+      {
+        "latin": "Nomen",
+        "ru": "Имя"
+      },
+      {
+        "latin": "Metuere",
+        "ru": "Бояться"
+      },
+      {
+        "latin": "Veho",
+        "ru": "Везу"
+      }
+    ],
+    "reviewed_today": [
+      "Vitare",
+      "Ulterior",
+      "Videlicet"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-05-22",
     "words": [
       {
-        "latin": "Inimicus",
-        "ru": "Недруг, личный враг"
-      },
-      {
-        "latin": "Carmen",
-        "ru": "Песня, стихи"
-      },
-      {
-        "latin": "Verbum",
-        "ru": "Слово"
-      }
-    ],
-    "reviewed_today": [
-      "Civitas",
-      "Vitium",
-      "Vox"
-    ]
-  },
-  {
-    "date": "2026-05-22",
-    "words": [
-      {
         "latin": "Monere",
         "ru": "Напоминать, убеждать"
       },
@@ -10997,6 +10975,28 @@
       "Valde",
       "Uter",
       "Intra"
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "words": [
+      {
+        "latin": "Fieri",
+        "ru": "Становиться, делаться"
+      },
+      {
+        "latin": "Utilitas",
+        "ru": "Польза, выгода"
+      },
+      {
+        "latin": "Tandem",
+        "ru": "Наконец"
+      }
+    ],
+    "reviewed_today": [
+      "Monstrare",
+      "Fere",
+      "Terror"
     ]
   }
 ]

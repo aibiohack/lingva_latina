@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-22",
-    "words": [
-      {
-        "latin": "Ipse",
-        "ru": "Сам"
-      },
-      {
-        "latin": "Tertius",
-        "ru": "Третий"
-      },
-      {
-        "latin": "Sedere",
-        "ru": "Сидеть"
-      }
-    ],
-    "reviewed_today": [
-      "Sanitas",
-      "Venerari",
-      "Exire"
-    ]
-  },
-  {
     "date": "2026-05-23",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Versari",
       "Texere",
       "Officium"
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "words": [
+      {
+        "latin": "Magnus",
+        "ru": "Большой"
+      },
+      {
+        "latin": "Texere",
+        "ru": "Ткать, плести"
+      },
+      {
+        "latin": "Temperantia",
+        "ru": "Умеренность"
+      }
+    ],
+    "reviewed_today": [
+      "Sed",
+      "Vivus",
+      "Templum"
     ]
   }
 ]

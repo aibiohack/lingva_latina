@@ -3,28 +3,6 @@
     "date": "2026-05-22",
     "words": [
       {
-        "latin": "Monere",
-        "ru": "Напоминать, убеждать"
-      },
-      {
-        "latin": "Ager",
-        "ru": "Поле"
-      },
-      {
-        "latin": "Vir",
-        "ru": "Мужчина"
-      }
-    ],
-    "reviewed_today": [
-      "Togatus",
-      "Posse",
-      "Sinister"
-    ]
-  },
-  {
-    "date": "2026-05-22",
-    "words": [
-      {
         "latin": "Ipse",
         "ru": "Сам"
       },
@@ -10997,6 +10975,28 @@
       "Monstrare",
       "Fere",
       "Terror"
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "words": [
+      {
+        "latin": "Opus",
+        "ru": "Работа"
+      },
+      {
+        "latin": "Libenter",
+        "ru": "Охотно"
+      },
+      {
+        "latin": "Carmen",
+        "ru": "Песня, стихи"
+      }
+    ],
+    "reviewed_today": [
+      "Versari",
+      "Texere",
+      "Officium"
     ]
   }
 ]

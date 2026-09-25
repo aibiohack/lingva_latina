@@ -3,28 +3,6 @@
     "date": "2026-05-22",
     "words": [
       {
-        "latin": "Fuga",
-        "ru": "Бегство"
-      },
-      {
-        "latin": "Vita",
-        "ru": "Жизнь"
-      },
-      {
-        "latin": "Supplex",
-        "ru": "Молящий, покорный"
-      }
-    ],
-    "reviewed_today": [
-      "Dividere",
-      "Meus",
-      "Vates"
-    ]
-  },
-  {
-    "date": "2026-05-22",
-    "words": [
-      {
         "latin": "Inimicus",
         "ru": "Недруг, личный враг"
       },
@@ -10997,6 +10975,28 @@
       "Putare",
       "Vis",
       "Imago"
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "words": [
+      {
+        "latin": "Hiems",
+        "ru": "Зима"
+      },
+      {
+        "latin": "Togatus",
+        "ru": "Одетый в тогу"
+      },
+      {
+        "latin": "Tribuere",
+        "ru": "Назначать, воздавать"
+      }
+    ],
+    "reviewed_today": [
+      "Valde",
+      "Uter",
+      "Intra"
     ]
   }
 ]

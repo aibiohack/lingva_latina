@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-23",
-    "words": [
-      {
-        "latin": "Spectare",
-        "ru": "Смотреть, созерцать"
-      },
-      {
-        "latin": "Unda",
-        "ru": "Волна"
-      },
-      {
-        "latin": "Turba",
-        "ru": "Толпа, сумятица"
-      }
-    ],
-    "reviewed_today": [
-      "Telum",
-      "Comes",
-      "Diligere"
-    ]
-  },
-  {
     "date": "2026-05-24",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Tandem",
       "Malus",
       "Consuetudo"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "words": [
+      {
+        "latin": "Ager",
+        "ru": "Поле"
+      },
+      {
+        "latin": "Verber",
+        "ru": "Удар, бич"
+      },
+      {
+        "latin": "Dulcis",
+        "ru": "Сладкий"
+      }
+    ],
+    "reviewed_today": [
+      "Munus",
+      "Trans",
+      "Flere"
     ]
   }
 ]

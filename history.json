@@ -3,28 +3,6 @@
     "date": "2026-05-23",
     "words": [
       {
-        "latin": "Verber",
-        "ru": "Удар, бич"
-      },
-      {
-        "latin": "Senex",
-        "ru": "Старик"
-      },
-      {
-        "latin": "Senex",
-        "ru": "Старик"
-      }
-    ],
-    "reviewed_today": [
-      "Saepe",
-      "Sanguis",
-      "Medius"
-    ]
-  },
-  {
-    "date": "2026-05-23",
-    "words": [
-      {
         "latin": "Spectare",
         "ru": "Смотреть, созерцать"
       },
@@ -10997,6 +10975,28 @@
       "Tranquillitas",
       "Mons",
       "Proprius"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "words": [
+      {
+        "latin": "Fieri",
+        "ru": "Становиться, делаться"
+      },
+      {
+        "latin": "Similis",
+        "ru": "Похожий"
+      },
+      {
+        "latin": "Decem",
+        "ru": "Десять"
+      }
+    ],
+    "reviewed_today": [
+      "Tandem",
+      "Malus",
+      "Consuetudo"
     ]
   }
 ]

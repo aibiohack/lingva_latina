@@ -3,28 +3,6 @@
     "date": "2026-05-23",
     "words": [
       {
-        "latin": "Dulcis",
-        "ru": "Сладкий"
-      },
-      {
-        "latin": "Sarcina",
-        "ru": "Узел, багаж"
-      },
-      {
-        "latin": "Pugnare",
-        "ru": "Сражаться"
-      }
-    ],
-    "reviewed_today": [
-      "Incipere",
-      "Luna",
-      "Filius"
-    ]
-  },
-  {
-    "date": "2026-05-23",
-    "words": [
-      {
         "latin": "Utor",
         "ru": "Пользуюсь"
       },
@@ -10997,6 +10975,28 @@
       "Sed",
       "Vivus",
       "Templum"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "words": [
+      {
+        "latin": "Ipse",
+        "ru": "Сам"
+      },
+      {
+        "latin": "Unanimis",
+        "ru": "Единодушный"
+      },
+      {
+        "latin": "Discipulus",
+        "ru": "Ученик"
+      }
+    ],
+    "reviewed_today": [
+      "Vulnus",
+      "Inanis",
+      "Voluntas"
     ]
   }
 ]

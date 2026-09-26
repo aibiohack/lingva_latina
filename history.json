@@ -3,28 +3,6 @@
     "date": "2026-05-23",
     "words": [
       {
-        "latin": "Utor",
-        "ru": "Пользуюсь"
-      },
-      {
-        "latin": "Fingere",
-        "ru": "Изображать, выдумывать"
-      },
-      {
-        "latin": "Parens",
-        "ru": "Родитель"
-      }
-    ],
-    "reviewed_today": [
-      "Tendere",
-      "Ordo",
-      "Quasi"
-    ]
-  },
-  {
-    "date": "2026-05-23",
-    "words": [
-      {
         "latin": "Verber",
         "ru": "Удар, бич"
       },
@@ -10997,6 +10975,28 @@
       "Vulnus",
       "Inanis",
       "Voluntas"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "words": [
+      {
+        "latin": "Imperium",
+        "ru": "Власть"
+      },
+      {
+        "latin": "Villa",
+        "ru": "Вилла, усадьба"
+      },
+      {
+        "latin": "Valde",
+        "ru": "Крепко, очень"
+      }
+    ],
+    "reviewed_today": [
+      "Tranquillitas",
+      "Mons",
+      "Proprius"
     ]
   }
 ]

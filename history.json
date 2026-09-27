@@ -3,28 +3,6 @@
     "date": "2026-05-24",
     "words": [
       {
-        "latin": "Iubere",
-        "ru": "Приказывать"
-      },
-      {
-        "latin": "Tu",
-        "ru": "Ты"
-      },
-      {
-        "latin": "Grex",
-        "ru": "Стадо, толпа"
-      }
-    ],
-    "reviewed_today": [
-      "Ripa",
-      "Exire",
-      "Mensis"
-    ]
-  },
-  {
-    "date": "2026-05-24",
-    "words": [
-      {
         "latin": "Mollis",
         "ru": "Мягкий"
       },
@@ -10997,6 +10975,28 @@
       "Munus",
       "Trans",
       "Flere"
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "words": [
+      {
+        "latin": "Sors",
+        "ru": "Жребий, судьба"
+      },
+      {
+        "latin": "Vero",
+        "ru": "Истинно, однако"
+      },
+      {
+        "latin": "Pax",
+        "ru": "Мир"
+      }
+    ],
+    "reviewed_today": [
+      "Albus",
+      "Fama",
+      "Monstrare"
     ]
   }
 ]

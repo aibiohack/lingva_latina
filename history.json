@@ -3,28 +3,6 @@
     "date": "2026-05-24",
     "words": [
       {
-        "latin": "Imitari",
-        "ru": "Подражать"
-      },
-      {
-        "latin": "Vindicare",
-        "ru": "Заявлять права, мстить"
-      },
-      {
-        "latin": "Habeo",
-        "ru": "Иметь"
-      }
-    ],
-    "reviewed_today": [
-      "Abbas",
-      "Moenia",
-      "Unus"
-    ]
-  },
-  {
-    "date": "2026-05-24",
-    "words": [
-      {
         "latin": "Convivium",
         "ru": "Пир"
       },
@@ -10997,6 +10975,28 @@
       "Viginti",
       "Nihil",
       "Sal"
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "words": [
+      {
+        "latin": "Sermo",
+        "ru": "Речь, беседа"
+      },
+      {
+        "latin": "Saeculum",
+        "ru": "Век, поколение"
+      },
+      {
+        "latin": "Invenire",
+        "ru": "Находить"
+      }
+    ],
+    "reviewed_today": [
+      "Miles",
+      "Brevis",
+      "Surdus"
     ]
   }
 ]

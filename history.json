@@ -3,28 +3,6 @@
     "date": "2026-05-24",
     "words": [
       {
-        "latin": "Mollis",
-        "ru": "Мягкий"
-      },
-      {
-        "latin": "Incipere",
-        "ru": "Начинать"
-      },
-      {
-        "latin": "Umerus",
-        "ru": "Плечо"
-      }
-    ],
-    "reviewed_today": [
-      "Sum",
-      "Ignoscerе",
-      "Populus"
-    ]
-  },
-  {
-    "date": "2026-05-24",
-    "words": [
-      {
         "latin": "Imitari",
         "ru": "Подражать"
       },
@@ -10997,6 +10975,28 @@
       "Albus",
       "Fama",
       "Monstrare"
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "words": [
+      {
+        "latin": "Via",
+        "ru": "Путь, дорога"
+      },
+      {
+        "latin": "Tibia",
+        "ru": "Флейта, голень"
+      },
+      {
+        "latin": "Lingua",
+        "ru": "Язык"
+      }
+    ],
+    "reviewed_today": [
+      "Viginti",
+      "Nihil",
+      "Sal"
     ]
   }
 ]

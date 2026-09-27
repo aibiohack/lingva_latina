@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-24",
-    "words": [
-      {
-        "latin": "Convivium",
-        "ru": "Пир"
-      },
-      {
-        "latin": "Morbus",
-        "ru": "Болезнь"
-      },
-      {
-        "latin": "Periculum",
-        "ru": "Опасность"
-      }
-    ],
-    "reviewed_today": [
-      "Stirps",
-      "Omnis",
-      "Coniunx"
-    ]
-  },
-  {
     "date": "2026-05-25",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Miles",
       "Brevis",
       "Surdus"
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "words": [
+      {
+        "latin": "Tristis",
+        "ru": "Печальный"
+      },
+      {
+        "latin": "Dubitare",
+        "ru": "Сомневаться"
+      },
+      {
+        "latin": "Locus",
+        "ru": "Место"
+      }
+    ],
+    "reviewed_today": [
+      "Aperire",
+      "Arma",
+      "Discere"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-25",
-    "words": [
-      {
-        "latin": "Mollis",
-        "ru": "Мягкий"
-      },
-      {
-        "latin": "Sub",
-        "ru": "Под"
-      },
-      {
-        "latin": "Villa",
-        "ru": "Вилла, усадьба"
-      }
-    ],
-    "reviewed_today": [
-      "Arma",
-      "Mittere",
-      "Flamma"
-    ]
-  },
-  {
     "date": "2026-05-26",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Velum",
       "Viator",
       "Libenter"
+    ]
+  },
+  {
+    "date": "2026-09-28",
+    "words": [
+      {
+        "latin": "Silentium",
+        "ru": "Молчание"
+      },
+      {
+        "latin": "Horrere",
+        "ru": "Ужасаться, трепетать"
+      },
+      {
+        "latin": "Taurus",
+        "ru": "Бык"
+      }
+    ],
+    "reviewed_today": [
+      "Vacare",
+      "Fundamentum",
+      "Clamor"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-05-25",
     "words": [
       {
-        "latin": "Servus",
-        "ru": "Раб, слуга"
-      },
-      {
-        "latin": "Servus",
-        "ru": "Раб"
-      },
-      {
-        "latin": "Mater",
-        "ru": "Мать"
-      }
-    ],
-    "reviewed_today": [
-      "Invenire",
-      "Causa",
-      "Legio"
-    ]
-  },
-  {
-    "date": "2026-05-25",
-    "words": [
-      {
         "latin": "Signum",
         "ru": "Знак, знамя"
       },
@@ -10997,6 +10975,28 @@
       "Aperire",
       "Arma",
       "Discere"
+    ]
+  },
+  {
+    "date": "2026-09-28",
+    "words": [
+      {
+        "latin": "Somnus",
+        "ru": "Сон"
+      },
+      {
+        "latin": "Tribuere",
+        "ru": "Назначать, воздавать"
+      },
+      {
+        "latin": "Verbum",
+        "ru": "Слово"
+      }
+    ],
+    "reviewed_today": [
+      "Invitare",
+      "Tacere",
+      "Fatum"
     ]
   }
 ]

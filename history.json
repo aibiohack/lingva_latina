@@ -3,28 +3,6 @@
     "date": "2026-05-25",
     "words": [
       {
-        "latin": "Signum",
-        "ru": "Знак, знамя"
-      },
-      {
-        "latin": "Honestus",
-        "ru": "Честный"
-      },
-      {
-        "latin": "Tuba",
-        "ru": "Труба"
-      }
-    ],
-    "reviewed_today": [
-      "Ver",
-      "Scelus",
-      "Iuvare"
-    ]
-  },
-  {
-    "date": "2026-05-25",
-    "words": [
-      {
         "latin": "Forum",
         "ru": "Площадь"
       },
@@ -10997,6 +10975,28 @@
       "Invitare",
       "Tacere",
       "Fatum"
+    ]
+  },
+  {
+    "date": "2026-09-28",
+    "words": [
+      {
+        "latin": "Discipulus",
+        "ru": "Ученик"
+      },
+      {
+        "latin": "Pone",
+        "ru": "Позади"
+      },
+      {
+        "latin": "Ite",
+        "ru": "Идите"
+      }
+    ],
+    "reviewed_today": [
+      "Lacrima",
+      "Primus",
+      "Cito"
     ]
   }
 ]

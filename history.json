@@ -3,28 +3,6 @@
     "date": "2026-05-25",
     "words": [
       {
-        "latin": "Forum",
-        "ru": "Площадь"
-      },
-      {
-        "latin": "Ducenti",
-        "ru": "Двести"
-      },
-      {
-        "latin": "Maxime",
-        "ru": "Весьма, больше всего"
-      }
-    ],
-    "reviewed_today": [
-      "Oculus",
-      "Intelligere",
-      "Severus"
-    ]
-  },
-  {
-    "date": "2026-05-25",
-    "words": [
-      {
         "latin": "Mollis",
         "ru": "Мягкий"
       },
@@ -10997,6 +10975,28 @@
       "Lacrima",
       "Primus",
       "Cito"
+    ]
+  },
+  {
+    "date": "2026-09-28",
+    "words": [
+      {
+        "latin": "Signum",
+        "ru": "Знак"
+      },
+      {
+        "latin": "Signum",
+        "ru": "Знак, знамя"
+      },
+      {
+        "latin": "Tuba",
+        "ru": "Труба"
+      }
+    ],
+    "reviewed_today": [
+      "Velum",
+      "Viator",
+      "Libenter"
     ]
   }
 ]

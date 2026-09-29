@@ -3,28 +3,6 @@
     "date": "2026-05-27",
     "words": [
       {
-        "latin": "Lumen",
-        "ru": "Свет"
-      },
-      {
-        "latin": "Talis",
-        "ru": "Такой"
-      },
-      {
-        "latin": "Spatium",
-        "ru": "Пространство, промежуток"
-      }
-    ],
-    "reviewed_today": [
-      "Victoria",
-      "Fidelis",
-      "Turba"
-    ]
-  },
-  {
-    "date": "2026-05-27",
-    "words": [
-      {
         "latin": "Vas",
         "ru": "Сосуд"
       },
@@ -10997,6 +10975,28 @@
       "Diu",
       "Sol",
       "Aurum"
+    ]
+  },
+  {
+    "date": "2026-09-29",
+    "words": [
+      {
+        "latin": "Circa",
+        "ru": "Вокруг, около"
+      },
+      {
+        "latin": "Inimicus",
+        "ru": "Недруг, личный враг"
+      },
+      {
+        "latin": "Pes",
+        "ru": "Нога"
+      }
+    ],
+    "reviewed_today": [
+      "Tueri",
+      "Supra",
+      "Sacer"
     ]
   }
 ]

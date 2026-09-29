@@ -3,28 +3,6 @@
     "date": "2026-05-26",
     "words": [
       {
-        "latin": "Inimicus",
-        "ru": "Недруг, личный враг"
-      },
-      {
-        "latin": "Vendere",
-        "ru": "Продавать"
-      },
-      {
-        "latin": "Circa",
-        "ru": "Вокруг, около"
-      }
-    ],
-    "reviewed_today": [
-      "Spectare",
-      "Valetudo",
-      "Ira"
-    ]
-  },
-  {
-    "date": "2026-05-26",
-    "words": [
-      {
         "latin": "Varius",
         "ru": "Разнообразный"
       },
@@ -10997,6 +10975,28 @@
       "Confirmare",
       "Debeo",
       "Medicus"
+    ]
+  },
+  {
+    "date": "2026-09-29",
+    "words": [
+      {
+        "latin": "Unus",
+        "ru": "Один"
+      },
+      {
+        "latin": "Gaudium",
+        "ru": "Радость"
+      },
+      {
+        "latin": "Putare",
+        "ru": "Считать, полагать"
+      }
+    ],
+    "reviewed_today": [
+      "Vicinus",
+      "Mater",
+      "Servire"
     ]
   }
 ]

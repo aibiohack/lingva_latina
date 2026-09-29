@@ -3,28 +3,6 @@
     "date": "2026-05-26",
     "words": [
       {
-        "latin": "Vinum",
-        "ru": "Вино"
-      },
-      {
-        "latin": "Angustus",
-        "ru": "Узкий, тесный"
-      },
-      {
-        "latin": "Vinea",
-        "ru": "Виноградник"
-      }
-    ],
-    "reviewed_today": [
-      "Vinculum",
-      "Ambulare",
-      "Intra"
-    ]
-  },
-  {
-    "date": "2026-05-26",
-    "words": [
-      {
         "latin": "Inimicus",
         "ru": "Недруг, личный враг"
       },
@@ -10997,6 +10975,28 @@
       "Vacare",
       "Fundamentum",
       "Clamor"
+    ]
+  },
+  {
+    "date": "2026-09-29",
+    "words": [
+      {
+        "latin": "Grex",
+        "ru": "Стадо, толпа"
+      },
+      {
+        "latin": "Morbus",
+        "ru": "Болезнь"
+      },
+      {
+        "latin": "Sub",
+        "ru": "Под"
+      }
+    ],
+    "reviewed_today": [
+      "Confirmare",
+      "Debeo",
+      "Medicus"
     ]
   }
 ]

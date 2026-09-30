@@ -3,28 +3,6 @@
     "date": "2026-05-27",
     "words": [
       {
-        "latin": "Vas",
-        "ru": "Сосуд"
-      },
-      {
-        "latin": "Prope",
-        "ru": "Близко"
-      },
-      {
-        "latin": "Ratio",
-        "ru": "Разум, расчет, метод"
-      }
-    ],
-    "reviewed_today": [
-      "Sepulcrum",
-      "Intra",
-      "Solum"
-    ]
-  },
-  {
-    "date": "2026-05-27",
-    "words": [
-      {
         "latin": "Fabula",
         "ru": "Сказка, рассказ"
       },
@@ -10997,6 +10975,28 @@
       "Tueri",
       "Supra",
       "Sacer"
+    ]
+  },
+  {
+    "date": "2026-09-30",
+    "words": [
+      {
+        "latin": "Cantare",
+        "ru": "Петь"
+      },
+      {
+        "latin": "Rumor",
+        "ru": "Слух, молва"
+      },
+      {
+        "latin": "Terrere",
+        "ru": "Устрашать"
+      }
+    ],
+    "reviewed_today": [
+      "Malus",
+      "Idoneus",
+      "Cupiditas"
     ]
   }
 ]

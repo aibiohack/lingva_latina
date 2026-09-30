@@ -3,28 +3,6 @@
     "date": "2026-05-28",
     "words": [
       {
-        "latin": "Decere",
-        "ru": "Подобать, приличествовать"
-      },
-      {
-        "latin": "Turpis",
-        "ru": "Позорный, безобразный"
-      },
-      {
-        "latin": "Vestis",
-        "ru": "Одежда"
-      }
-    ],
-    "reviewed_today": [
-      "Iter",
-      "Spectare",
-      "Triginta"
-    ]
-  },
-  {
-    "date": "2026-05-28",
-    "words": [
-      {
         "latin": "Os, oris",
         "ru": "Рот"
       },
@@ -10997,6 +10975,28 @@
       "Iubere",
       "Flos",
       "Undique"
+    ]
+  },
+  {
+    "date": "2026-09-30",
+    "words": [
+      {
+        "latin": "Castrum",
+        "ru": "Крепость"
+      },
+      {
+        "latin": "Morbus",
+        "ru": "Болезнь"
+      },
+      {
+        "latin": "Initium",
+        "ru": "Начало"
+      }
+    ],
+    "reviewed_today": [
+      "Tenebrae",
+      "Respondere",
+      "Sub"
     ]
   }
 ]

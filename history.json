@@ -3,28 +3,6 @@
     "date": "2026-05-27",
     "words": [
       {
-        "latin": "Fabula",
-        "ru": "Сказка, рассказ"
-      },
-      {
-        "latin": "Tacere",
-        "ru": "Молчать"
-      },
-      {
-        "latin": "Ignoscerе",
-        "ru": "Прощать"
-      }
-    ],
-    "reviewed_today": [
-      "Statua",
-      "Facilis",
-      "Morbus"
-    ]
-  },
-  {
-    "date": "2026-05-27",
-    "words": [
-      {
         "latin": "Multus",
         "ru": "Многочисленный"
       },
@@ -10997,6 +10975,28 @@
       "Malus",
       "Idoneus",
       "Cupiditas"
+    ]
+  },
+  {
+    "date": "2026-09-30",
+    "words": [
+      {
+        "latin": "Laetus",
+        "ru": "Веселый, тучный"
+      },
+      {
+        "latin": "Urbs",
+        "ru": "Город"
+      },
+      {
+        "latin": "Malus",
+        "ru": "Плохой"
+      }
+    ],
+    "reviewed_today": [
+      "Semel",
+      "Imperare",
+      "Pauper"
     ]
   }
 ]

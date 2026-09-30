@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-27",
-    "words": [
-      {
-        "latin": "Multus",
-        "ru": "Многочисленный"
-      },
-      {
-        "latin": "Violare",
-        "ru": "Нарушать, оскорблять"
-      },
-      {
-        "latin": "Tot",
-        "ru": "Столько"
-      }
-    ],
-    "reviewed_today": [
-      "Petere",
-      "Lacrima",
-      "Fames"
-    ]
-  },
-  {
     "date": "2026-05-28",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Semel",
       "Imperare",
       "Pauper"
+    ]
+  },
+  {
+    "date": "2026-09-30",
+    "words": [
+      {
+        "latin": "Prope",
+        "ru": "Близко"
+      },
+      {
+        "latin": "Ignoscerе",
+        "ru": "Прощать"
+      },
+      {
+        "latin": "Vas",
+        "ru": "Сосуд"
+      }
+    ],
+    "reviewed_today": [
+      "Iubere",
+      "Flos",
+      "Undique"
     ]
   }
 ]

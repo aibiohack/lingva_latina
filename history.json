@@ -3,28 +3,6 @@
     "date": "2026-05-28",
     "words": [
       {
-        "latin": "Os, oris",
-        "ru": "Рот"
-      },
-      {
-        "latin": "Fames",
-        "ru": "Голод"
-      },
-      {
-        "latin": "Dignus",
-        "ru": "Достойный"
-      }
-    ],
-    "reviewed_today": [
-      "Sine",
-      "Urgere",
-      "Rota"
-    ]
-  },
-  {
-    "date": "2026-05-28",
-    "words": [
-      {
         "latin": "Lucere",
         "ru": "Светить"
       },
@@ -10997,6 +10975,28 @@
       "Tenebrae",
       "Respondere",
       "Sub"
+    ]
+  },
+  {
+    "date": "2026-10-01",
+    "words": [
+      {
+        "latin": "Tot",
+        "ru": "Столько"
+      },
+      {
+        "latin": "Decere",
+        "ru": "Подобать, приличествовать"
+      },
+      {
+        "latin": "Multus",
+        "ru": "Многочисленный"
+      }
+    ],
+    "reviewed_today": [
+      "Bene",
+      "Vallum",
+      "Religio"
     ]
   }
 ]

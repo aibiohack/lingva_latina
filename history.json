@@ -3,28 +3,6 @@
     "date": "2026-05-28",
     "words": [
       {
-        "latin": "Lucere",
-        "ru": "Светить"
-      },
-      {
-        "latin": "Dolor",
-        "ru": "Боль"
-      },
-      {
-        "latin": "Vitare",
-        "ru": "Избегать"
-      }
-    ],
-    "reviewed_today": [
-      "Sufferre",
-      "Tu",
-      "Septem"
-    ]
-  },
-  {
-    "date": "2026-05-28",
-    "words": [
-      {
         "latin": "Silentium",
         "ru": "Молчание, тишина"
       },
@@ -10997,6 +10975,28 @@
       "Bene",
       "Vallum",
       "Religio"
+    ]
+  },
+  {
+    "date": "2026-10-01",
+    "words": [
+      {
+        "latin": "Vates",
+        "ru": "Пророк, поэт"
+      },
+      {
+        "latin": "Loqui",
+        "ru": "Говорить"
+      },
+      {
+        "latin": "Velox",
+        "ru": "Быстрый"
+      }
+    ],
+    "reviewed_today": [
+      "Ridere",
+      "Trabs",
+      "Ferre"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-28",
-    "words": [
-      {
-        "latin": "Silentium",
-        "ru": "Молчание, тишина"
-      },
-      {
-        "latin": "Difficilis",
-        "ru": "Трудный"
-      },
-      {
-        "latin": "Intelligere",
-        "ru": "Понимать"
-      }
-    ],
-    "reviewed_today": [
-      "Velum",
-      "Certe",
-      "Salus"
-    ]
-  },
-  {
     "date": "2026-05-29",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Ridere",
       "Trabs",
       "Ferre"
+    ]
+  },
+  {
+    "date": "2026-10-01",
+    "words": [
+      {
+        "latin": "Nihil",
+        "ru": "Ничто"
+      },
+      {
+        "latin": "Valetudo",
+        "ru": "Здоровье (состояние)"
+      },
+      {
+        "latin": "Utilis",
+        "ru": "Полезный"
+      }
+    ],
+    "reviewed_today": [
+      "Damnum",
+      "Incendere",
+      "Mollis"
     ]
   }
 ]

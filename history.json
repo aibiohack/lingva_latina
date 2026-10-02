@@ -3,28 +3,6 @@
     "date": "2026-05-29",
     "words": [
       {
-        "latin": "Magnus",
-        "ru": "Большой"
-      },
-      {
-        "latin": "Fragilis",
-        "ru": "Хрупкий, ломкий"
-      },
-      {
-        "latin": "Audire",
-        "ru": "Слышать"
-      }
-    ],
-    "reviewed_today": [
-      "Super",
-      "Lenis",
-      "Civilis"
-    ]
-  },
-  {
-    "date": "2026-05-29",
-    "words": [
-      {
         "latin": "Modus",
         "ru": "Мера, способ"
       },
@@ -10997,6 +10975,28 @@
       "Efficere",
       "Vincere",
       "Pro"
+    ]
+  },
+  {
+    "date": "2026-10-02",
+    "words": [
+      {
+        "latin": "Scribere",
+        "ru": "Писать"
+      },
+      {
+        "latin": "Currere",
+        "ru": "Бежать"
+      },
+      {
+        "latin": "Ripa",
+        "ru": "Берег (реки)"
+      }
+    ],
+    "reviewed_today": [
+      "Tradere",
+      "Sensus",
+      "Semel"
     ]
   }
 ]

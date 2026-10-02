@@ -3,28 +3,6 @@
     "date": "2026-05-30",
     "words": [
       {
-        "latin": "Temperantia",
-        "ru": "Умеренность"
-      },
-      {
-        "latin": "Urgere",
-        "ru": "Гнать, теснить"
-      },
-      {
-        "latin": "Insula",
-        "ru": "Остров"
-      }
-    ],
-    "reviewed_today": [
-      "Iungera",
-      "Benevolentia",
-      "Bibere"
-    ]
-  },
-  {
-    "date": "2026-05-30",
-    "words": [
-      {
         "latin": "Vulnero",
         "ru": "Раню"
       },
@@ -10997,6 +10975,28 @@
       "Fructus",
       "Constantia",
       "Coniunx"
+    ]
+  },
+  {
+    "date": "2026-10-02",
+    "words": [
+      {
+        "latin": "Venia",
+        "ru": "Милость, прощение"
+      },
+      {
+        "latin": "Sic",
+        "ru": "Так"
+      },
+      {
+        "latin": "Mors",
+        "ru": "Смерть"
+      }
+    ],
+    "reviewed_today": [
+      "Fuga",
+      "Veho",
+      "Debeo"
     ]
   }
 ]

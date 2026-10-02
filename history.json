@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-29",
-    "words": [
-      {
-        "latin": "Tolerare",
-        "ru": "Терпеть, переносить"
-      },
-      {
-        "latin": "Sapientia",
-        "ru": "Мудрость"
-      },
-      {
-        "latin": "Brevis",
-        "ru": "Короткий"
-      }
-    ],
-    "reviewed_today": [
-      "Turpis",
-      "Restituere",
-      "Albus"
-    ]
-  },
-  {
     "date": "2026-05-30",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Venerari",
       "Vos",
       "Colloquium"
+    ]
+  },
+  {
+    "date": "2026-10-02",
+    "words": [
+      {
+        "latin": "Cunctus",
+        "ru": "Весь, совокупный"
+      },
+      {
+        "latin": "Ceterus",
+        "ru": "Прочий, остальной"
+      },
+      {
+        "latin": "Terrere",
+        "ru": "Устрашать"
+      }
+    ],
+    "reviewed_today": [
+      "Fructus",
+      "Constantia",
+      "Coniunx"
     ]
   }
 ]

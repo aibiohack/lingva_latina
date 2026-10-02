@@ -3,28 +3,6 @@
     "date": "2026-05-29",
     "words": [
       {
-        "latin": "Modus",
-        "ru": "Мера, способ"
-      },
-      {
-        "latin": "Gloria",
-        "ru": "Слава"
-      },
-      {
-        "latin": "Vivere",
-        "ru": "Жить"
-      }
-    ],
-    "reviewed_today": [
-      "Vivere",
-      "Soror",
-      "Invidia"
-    ]
-  },
-  {
-    "date": "2026-05-29",
-    "words": [
-      {
         "latin": "Tolerare",
         "ru": "Терпеть, переносить"
       },
@@ -10997,6 +10975,28 @@
       "Tradere",
       "Sensus",
       "Semel"
+    ]
+  },
+  {
+    "date": "2026-10-02",
+    "words": [
+      {
+        "latin": "Dignus",
+        "ru": "Достойный"
+      },
+      {
+        "latin": "Difficilis",
+        "ru": "Трудный"
+      },
+      {
+        "latin": "Fragilis",
+        "ru": "Хрупкий, ломкий"
+      }
+    ],
+    "reviewed_today": [
+      "Venerari",
+      "Vos",
+      "Colloquium"
     ]
   }
 ]

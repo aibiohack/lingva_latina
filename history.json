@@ -3,28 +3,6 @@
     "date": "2026-05-30",
     "words": [
       {
-        "latin": "Vulnero",
-        "ru": "Раню"
-      },
-      {
-        "latin": "Dormire",
-        "ru": "Спать"
-      },
-      {
-        "latin": "Cum (союз)",
-        "ru": "Когда"
-      }
-    ],
-    "reviewed_today": [
-      "Consistere",
-      "Regere",
-      "Natura"
-    ]
-  },
-  {
-    "date": "2026-05-30",
-    "words": [
-      {
         "latin": "Quis",
         "ru": "Кто"
       },
@@ -10997,6 +10975,28 @@
       "Fuga",
       "Veho",
       "Debeo"
+    ]
+  },
+  {
+    "date": "2026-10-03",
+    "words": [
+      {
+        "latin": "Habitare",
+        "ru": "Жить"
+      },
+      {
+        "latin": "Medius",
+        "ru": "Средний"
+      },
+      {
+        "latin": "Universus",
+        "ru": "Весь, всеобщий"
+      }
+    ],
+    "reviewed_today": [
+      "Dum",
+      "Lapis",
+      "Venenum"
     ]
   }
 ]

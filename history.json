@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-30",
-    "words": [
-      {
-        "latin": "Rumpere",
-        "ru": "Рвать, ломать"
-      },
-      {
-        "latin": "Tribuere",
-        "ru": "Назначать, воздавать"
-      },
-      {
-        "latin": "Vulnus",
-        "ru": "Рана"
-      }
-    ],
-    "reviewed_today": [
-      "Temere",
-      "Tum",
-      "Canis"
-    ]
-  },
-  {
     "date": "2026-05-31",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Late",
       "Flos",
       "Expectare"
+    ]
+  },
+  {
+    "date": "2026-10-03",
+    "words": [
+      {
+        "latin": "Ignoscerе",
+        "ru": "Прощать"
+      },
+      {
+        "latin": "Appellare",
+        "ru": "Называть, обращаться"
+      },
+      {
+        "latin": "Via",
+        "ru": "Путь"
+      }
+    ],
+    "reviewed_today": [
+      "Victor",
+      "Iugum",
+      "Instruere"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-05-31",
     "words": [
       {
-        "latin": "Simul",
-        "ru": "Одновременно, вместе"
-      },
-      {
-        "latin": "Scribere",
-        "ru": "Писать"
-      },
-      {
-        "latin": "Surdus",
-        "ru": "Глухой"
-      }
-    ],
-    "reviewed_today": [
-      "Species",
-      "Iacere",
-      "Dicere"
-    ]
-  },
-  {
-    "date": "2026-05-31",
-    "words": [
-      {
         "latin": "Surdus",
         "ru": "Глухой"
       },
@@ -10997,6 +10975,28 @@
       "Victor",
       "Iugum",
       "Instruere"
+    ]
+  },
+  {
+    "date": "2026-10-03",
+    "words": [
+      {
+        "latin": "Uva",
+        "ru": "Виноград"
+      },
+      {
+        "latin": "Caelum",
+        "ru": "Небо"
+      },
+      {
+        "latin": "Vox",
+        "ru": "Голос, звук"
+      }
+    ],
+    "reviewed_today": [
+      "Vos",
+      "Iscere",
+      "Vesper"
     ]
   }
 ]

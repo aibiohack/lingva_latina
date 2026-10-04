@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-05-31",
-    "words": [
-      {
-        "latin": "Titulus",
-        "ru": "Надпись, почетное звание"
-      },
-      {
-        "latin": "Maestus",
-        "ru": "Грустный"
-      },
-      {
-        "latin": "Sapere",
-        "ru": "Быть мудрым"
-      }
-    ],
-    "reviewed_today": [
-      "Habitare",
-      "Regere",
-      "Velle"
-    ]
-  },
-  {
     "date": "2026-06-01",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Victoria",
       "Verbum",
       "Laborare"
+    ]
+  },
+  {
+    "date": "2026-10-04",
+    "words": [
+      {
+        "latin": "Togatus",
+        "ru": "Одетый в тогу"
+      },
+      {
+        "latin": "Bestia",
+        "ru": "Зверь, животное"
+      },
+      {
+        "latin": "Debere",
+        "ru": "Быть должным"
+      }
+    ],
+    "reviewed_today": [
+      "Solus",
+      "Ardere",
+      "Surdus"
     ]
   }
 ]

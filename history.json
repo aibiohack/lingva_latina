@@ -3,28 +3,6 @@
     "date": "2026-06-01",
     "words": [
       {
-        "latin": "Sequi",
-        "ru": "Следовать, сопровождать"
-      },
-      {
-        "latin": "Gravis",
-        "ru": "Тяжелый"
-      },
-      {
-        "latin": "Tergum",
-        "ru": "Спина"
-      }
-    ],
-    "reviewed_today": [
-      "Summa",
-      "Vox",
-      "Multitudo"
-    ]
-  },
-  {
-    "date": "2026-06-01",
-    "words": [
-      {
         "latin": "Res",
         "ru": "Вещь, дело"
       },
@@ -10997,6 +10975,28 @@
       "Solus",
       "Ardere",
       "Surdus"
+    ]
+  },
+  {
+    "date": "2026-10-04",
+    "words": [
+      {
+        "latin": "Qualis",
+        "ru": "Какой"
+      },
+      {
+        "latin": "Titulus",
+        "ru": "Надпись, почетное звание"
+      },
+      {
+        "latin": "Quis",
+        "ru": "Кто"
+      }
+    ],
+    "reviewed_today": [
+      "Superbus",
+      "Lacrima",
+      "Harena"
     ]
   }
 ]

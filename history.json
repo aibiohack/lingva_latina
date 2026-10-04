@@ -3,28 +3,6 @@
     "date": "2026-05-31",
     "words": [
       {
-        "latin": "Surdus",
-        "ru": "Глухой"
-      },
-      {
-        "latin": "Tristis",
-        "ru": "Печальный, суровый"
-      },
-      {
-        "latin": "Initium",
-        "ru": "Начало"
-      }
-    ],
-    "reviewed_today": [
-      "Senectus",
-      "Terere",
-      "Suavis"
-    ]
-  },
-  {
-    "date": "2026-05-31",
-    "words": [
-      {
         "latin": "Fallere",
         "ru": "Обманывать"
       },
@@ -10997,6 +10975,28 @@
       "Vos",
       "Iscere",
       "Vesper"
+    ]
+  },
+  {
+    "date": "2026-10-04",
+    "words": [
+      {
+        "latin": "Conditio",
+        "ru": "Условие, положение"
+      },
+      {
+        "latin": "Meus",
+        "ru": "Мой"
+      },
+      {
+        "latin": "Vicinus",
+        "ru": "Соседний"
+      }
+    ],
+    "reviewed_today": [
+      "Parare",
+      "Indicare",
+      "Sacer"
     ]
   }
 ]

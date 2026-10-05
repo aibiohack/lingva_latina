@@ -3,28 +3,6 @@
     "date": "2026-06-02",
     "words": [
       {
-        "latin": "Ridere",
-        "ru": "Смеяться"
-      },
-      {
-        "latin": "Tectum",
-        "ru": "Крыша, кров"
-      },
-      {
-        "latin": "Rota",
-        "ru": "Колесо"
-      }
-    ],
-    "reviewed_today": [
-      "Aperire",
-      "Asper",
-      "Ferrum"
-    ]
-  },
-  {
-    "date": "2026-06-02",
-    "words": [
-      {
         "latin": "Creare",
         "ru": "Творить, создавать"
       },
@@ -10997,6 +10975,28 @@
       "Inquit",
       "Telum",
       "Sed"
+    ]
+  },
+  {
+    "date": "2026-10-05",
+    "words": [
+      {
+        "latin": "Volvo",
+        "ru": "Качу, раздумываю"
+      },
+      {
+        "latin": "Mons",
+        "ru": "Гора"
+      },
+      {
+        "latin": "Ventus",
+        "ru": "Ветер"
+      }
+    ],
+    "reviewed_today": [
+      "Quasi",
+      "Immortalis",
+      "Parvus"
     ]
   }
 ]

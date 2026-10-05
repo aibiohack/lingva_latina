@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-06-01",
-    "words": [
-      {
-        "latin": "Levis",
-        "ru": "Легкий"
-      },
-      {
-        "latin": "Imperare",
-        "ru": "Приказывать"
-      },
-      {
-        "latin": "Castrum",
-        "ru": "Крепость"
-      }
-    ],
-    "reviewed_today": [
-      "Verbum",
-      "Benevolentia",
-      "Amare"
-    ]
-  },
-  {
     "date": "2026-06-02",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Mens",
       "Proprius",
       "Pes"
+    ]
+  },
+  {
+    "date": "2026-10-05",
+    "words": [
+      {
+        "latin": "Ars",
+        "ru": "Искусство"
+      },
+      {
+        "latin": "Ludus",
+        "ru": "Игра, школа"
+      },
+      {
+        "latin": "Cor",
+        "ru": "Сердце"
+      }
+    ],
+    "reviewed_today": [
+      "Inquit",
+      "Telum",
+      "Sed"
     ]
   }
 ]

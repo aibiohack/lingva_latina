@@ -3,28 +3,6 @@
     "date": "2026-06-01",
     "words": [
       {
-        "latin": "Res",
-        "ru": "Вещь, дело"
-      },
-      {
-        "latin": "Vir",
-        "ru": "Мужчина, муж"
-      },
-      {
-        "latin": "Exire",
-        "ru": "Выходить"
-      }
-    ],
-    "reviewed_today": [
-      "Terrere",
-      "Fraus",
-      "Lignum"
-    ]
-  },
-  {
-    "date": "2026-06-01",
-    "words": [
-      {
         "latin": "Bene",
         "ru": "Хорошо"
       },
@@ -10997,6 +10975,28 @@
       "Superbus",
       "Lacrima",
       "Harena"
+    ]
+  },
+  {
+    "date": "2026-10-05",
+    "words": [
+      {
+        "latin": "Res",
+        "ru": "Вещь, дело"
+      },
+      {
+        "latin": "Veritas",
+        "ru": "Истина"
+      },
+      {
+        "latin": "Carmen",
+        "ru": "Песня, стихи"
+      }
+    ],
+    "reviewed_today": [
+      "Vanitas",
+      "Socius",
+      "Venire"
     ]
   }
 ]

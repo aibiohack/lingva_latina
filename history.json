@@ -3,28 +3,6 @@
     "date": "2026-06-01",
     "words": [
       {
-        "latin": "Bene",
-        "ru": "Хорошо"
-      },
-      {
-        "latin": "Ardere",
-        "ru": "Гореть, пылать"
-      },
-      {
-        "latin": "Ludus",
-        "ru": "Игра, школа"
-      }
-    ],
-    "reviewed_today": [
-      "Scelus",
-      "Pone",
-      "Semel"
-    ]
-  },
-  {
-    "date": "2026-06-01",
-    "words": [
-      {
         "latin": "Levis",
         "ru": "Легкий"
       },
@@ -10997,6 +10975,28 @@
       "Vanitas",
       "Socius",
       "Venire"
+    ]
+  },
+  {
+    "date": "2026-10-05",
+    "words": [
+      {
+        "latin": "Viator",
+        "ru": "Путник"
+      },
+      {
+        "latin": "Amare",
+        "ru": "Любить"
+      },
+      {
+        "latin": "Mutare",
+        "ru": "Менять"
+      }
+    ],
+    "reviewed_today": [
+      "Mens",
+      "Proprius",
+      "Pes"
     ]
   }
 ]

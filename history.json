@@ -3,28 +3,6 @@
     "date": "2026-06-02",
     "words": [
       {
-        "latin": "Constituere",
-        "ru": "Устанавливать, решать"
-      },
-      {
-        "latin": "Remedium",
-        "ru": "Лекарство, средство"
-      },
-      {
-        "latin": "Puer",
-        "ru": "Мальчик"
-      }
-    ],
-    "reviewed_today": [
-      "Credere",
-      "Mollis",
-      "Sanguis"
-    ]
-  },
-  {
-    "date": "2026-06-02",
-    "words": [
-      {
         "latin": "Discedere",
         "ru": "Уходить, расходиться"
       },
@@ -10997,6 +10975,28 @@
       "Invitare",
       "Sapere",
       "Validus"
+    ]
+  },
+  {
+    "date": "2026-10-06",
+    "words": [
+      {
+        "latin": "Tergum",
+        "ru": "Спина"
+      },
+      {
+        "latin": "Exire",
+        "ru": "Выходить"
+      },
+      {
+        "latin": "Munus",
+        "ru": "Дар, обязанность"
+      }
+    ],
+    "reviewed_today": [
+      "Iam",
+      "Grex",
+      "Clemens"
     ]
   }
 ]

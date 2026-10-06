@@ -3,28 +3,6 @@
     "date": "2026-06-02",
     "words": [
       {
-        "latin": "Creare",
-        "ru": "Творить, создавать"
-      },
-      {
-        "latin": "Vulgus",
-        "ru": "Толпа, чернь"
-      },
-      {
-        "latin": "Munus",
-        "ru": "Дар, обязанность"
-      }
-    ],
-    "reviewed_today": [
-      "Spiritus",
-      "Dens",
-      "Mittere"
-    ]
-  },
-  {
-    "date": "2026-06-02",
-    "words": [
-      {
         "latin": "Constituere",
         "ru": "Устанавливать, решать"
       },
@@ -10997,6 +10975,28 @@
       "Quasi",
       "Immortalis",
       "Parvus"
+    ]
+  },
+  {
+    "date": "2026-10-06",
+    "words": [
+      {
+        "latin": "Habeo",
+        "ru": "Иметь"
+      },
+      {
+        "latin": "Aio",
+        "ru": "Говорю, утверждаю"
+      },
+      {
+        "latin": "Lumen",
+        "ru": "Свет"
+      }
+    ],
+    "reviewed_today": [
+      "Invitare",
+      "Sapere",
+      "Validus"
     ]
   }
 ]

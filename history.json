@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-06-03",
-    "words": [
-      {
-        "latin": "Sinister",
-        "ru": "Левый"
-      },
-      {
-        "latin": "Restituere",
-        "ru": "Восстанавливать"
-      },
-      {
-        "latin": "Quod",
-        "ru": "Потому что"
-      }
-    ],
-    "reviewed_today": [
-      "Terror",
-      "Flumen",
-      "Verber"
-    ]
-  },
-  {
     "date": "2026-06-04",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Maiores",
       "Cor",
       "Iam"
+    ]
+  },
+  {
+    "date": "2026-10-07",
+    "words": [
+      {
+        "latin": "Recipere",
+        "ru": "Получать, принимать"
+      },
+      {
+        "latin": "Telum",
+        "ru": "Оружие, копье"
+      },
+      {
+        "latin": "Recipere",
+        "ru": "Получать"
+      }
+    ],
+    "reviewed_today": [
+      "Iter",
+      "Filia",
+      "Vitare"
     ]
   }
 ]

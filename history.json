@@ -3,28 +3,6 @@
     "date": "2026-06-03",
     "words": [
       {
-        "latin": "Pauper",
-        "ru": "Бедный"
-      },
-      {
-        "latin": "Insula",
-        "ru": "Остров"
-      },
-      {
-        "latin": "Orbis",
-        "ru": "Круг, мир"
-      }
-    ],
-    "reviewed_today": [
-      "Claudere",
-      "Charta",
-      "Versari"
-    ]
-  },
-  {
-    "date": "2026-06-03",
-    "words": [
-      {
         "latin": "Regio",
         "ru": "Область, страна"
       },
@@ -10997,6 +10975,28 @@
       "Hostis",
       "Versus",
       "Vocare"
+    ]
+  },
+  {
+    "date": "2026-10-07",
+    "words": [
+      {
+        "latin": "Cum (союз)",
+        "ru": "Когда"
+      },
+      {
+        "latin": "Libenter",
+        "ru": "Охотно"
+      },
+      {
+        "latin": "Carmen",
+        "ru": "Песня, стихи"
+      }
+    ],
+    "reviewed_today": [
+      "Putare",
+      "Auctor",
+      "Venari"
     ]
   }
 ]

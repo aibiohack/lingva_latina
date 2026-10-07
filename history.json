@@ -3,28 +3,6 @@
     "date": "2026-06-03",
     "words": [
       {
-        "latin": "Telum",
-        "ru": "Оружие, копье"
-      },
-      {
-        "latin": "Recipere",
-        "ru": "Получать, принимать"
-      },
-      {
-        "latin": "Figura",
-        "ru": "Образ, вид"
-      }
-    ],
-    "reviewed_today": [
-      "Vituperare",
-      "Texere",
-      "Luna"
-    ]
-  },
-  {
-    "date": "2026-06-03",
-    "words": [
-      {
         "latin": "Sinister",
         "ru": "Левый"
       },
@@ -10997,6 +10975,28 @@
       "Natura",
       "Hilaris",
       "Tumultus"
+    ]
+  },
+  {
+    "date": "2026-10-07",
+    "words": [
+      {
+        "latin": "Pauper",
+        "ru": "Бедный"
+      },
+      {
+        "latin": "Vulgus",
+        "ru": "Толпа, чернь"
+      },
+      {
+        "latin": "Regio",
+        "ru": "Область, страна"
+      }
+    ],
+    "reviewed_today": [
+      "Maiores",
+      "Cor",
+      "Iam"
     ]
   }
 ]

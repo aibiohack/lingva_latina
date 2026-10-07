@@ -3,28 +3,6 @@
     "date": "2026-06-03",
     "words": [
       {
-        "latin": "Regio",
-        "ru": "Область, страна"
-      },
-      {
-        "latin": "Nihil",
-        "ru": "Ничто"
-      },
-      {
-        "latin": "Lupus",
-        "ru": "Волк"
-      }
-    ],
-    "reviewed_today": [
-      "Autem",
-      "Terrere",
-      "Caelum"
-    ]
-  },
-  {
-    "date": "2026-06-03",
-    "words": [
-      {
         "latin": "Telum",
         "ru": "Оружие, копье"
       },
@@ -10997,6 +10975,28 @@
       "Putare",
       "Auctor",
       "Venari"
+    ]
+  },
+  {
+    "date": "2026-10-07",
+    "words": [
+      {
+        "latin": "Uterque",
+        "ru": "И тот и другой"
+      },
+      {
+        "latin": "Cantare",
+        "ru": "Петь"
+      },
+      {
+        "latin": "Cena",
+        "ru": "Обед"
+      }
+    ],
+    "reviewed_today": [
+      "Natura",
+      "Hilaris",
+      "Tumultus"
     ]
   }
 ]

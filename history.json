@@ -3,28 +3,6 @@
     "date": "2026-06-04",
     "words": [
       {
-        "latin": "Vigilia",
-        "ru": "Стража, бодрствование"
-      },
-      {
-        "latin": "Latere",
-        "ru": "Скрываться"
-      },
-      {
-        "latin": "Aura",
-        "ru": "Ветерок, дуновение"
-      }
-    ],
-    "reviewed_today": [
-      "Simul",
-      "Legio",
-      "Via"
-    ]
-  },
-  {
-    "date": "2026-06-04",
-    "words": [
-      {
         "latin": "Fateri",
         "ru": "Признавать, сознаваться"
       },
@@ -10997,6 +10975,28 @@
       "Uva",
       "Unanimis",
       "Vale"
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "words": [
+      {
+        "latin": "Sacer",
+        "ru": "Священный"
+      },
+      {
+        "latin": "Infelix",
+        "ru": "Несчастный"
+      },
+      {
+        "latin": "Ille",
+        "ru": "Тот, он"
+      }
+    ],
+    "reviewed_today": [
+      "Filius",
+      "Lucere",
+      "Edere"
     ]
   }
 ]

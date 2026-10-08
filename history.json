@@ -3,28 +3,6 @@
     "date": "2026-06-04",
     "words": [
       {
-        "latin": "Fateri",
-        "ru": "Признавать, сознаваться"
-      },
-      {
-        "latin": "Civitas",
-        "ru": "Государство, город"
-      },
-      {
-        "latin": "Albus",
-        "ru": "Белый"
-      }
-    ],
-    "reviewed_today": [
-      "Lux",
-      "Bellum",
-      "Religio"
-    ]
-  },
-  {
-    "date": "2026-06-04",
-    "words": [
-      {
         "latin": "Terrere",
         "ru": "Устрашать"
       },
@@ -10997,6 +10975,28 @@
       "Filius",
       "Lucere",
       "Edere"
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "words": [
+      {
+        "latin": "Umerus",
+        "ru": "Плечо"
+      },
+      {
+        "latin": "Vigilia",
+        "ru": "Стража, бодрствование"
+      },
+      {
+        "latin": "Quod",
+        "ru": "Потому что"
+      }
+    ],
+    "reviewed_today": [
+      "Sal",
+      "Vehiculum",
+      "Ducenti"
     ]
   }
 ]

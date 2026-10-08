@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-06-04",
-    "words": [
-      {
-        "latin": "Terrere",
-        "ru": "Устрашать"
-      },
-      {
-        "latin": "Ingenium",
-        "ru": "Талант, ум"
-      },
-      {
-        "latin": "Tenere",
-        "ru": "Держать"
-      }
-    ],
-    "reviewed_today": [
-      "Rus",
-      "Fabula",
-      "Forma"
-    ]
-  },
-  {
     "date": "2026-06-05",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Sal",
       "Vehiculum",
       "Ducenti"
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "words": [
+      {
+        "latin": "Fateri",
+        "ru": "Признавать, сознаваться"
+      },
+      {
+        "latin": "Albus",
+        "ru": "Белый"
+      },
+      {
+        "latin": "Aura",
+        "ru": "Ветерок, дуновение"
+      }
+    ],
+    "reviewed_today": [
+      "Terere",
+      "Vester",
+      "Sonus"
     ]
   }
 ]

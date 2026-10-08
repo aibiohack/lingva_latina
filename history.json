@@ -3,28 +3,6 @@
     "date": "2026-06-04",
     "words": [
       {
-        "latin": "Umerus",
-        "ru": "Плечо"
-      },
-      {
-        "latin": "Visere",
-        "ru": "Осматривать, посещать"
-      },
-      {
-        "latin": "Trans",
-        "ru": "Через, по ту сторону"
-      }
-    ],
-    "reviewed_today": [
-      "Dies",
-      "Debeo",
-      "Soleo"
-    ]
-  },
-  {
-    "date": "2026-06-04",
-    "words": [
-      {
         "latin": "Vigilia",
         "ru": "Стража, бодрствование"
       },
@@ -10997,6 +10975,28 @@
       "Iter",
       "Filia",
       "Vitare"
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "words": [
+      {
+        "latin": "Pro",
+        "ru": "За, вместо"
+      },
+      {
+        "latin": "Flos",
+        "ru": "Цветок"
+      },
+      {
+        "latin": "Fabula",
+        "ru": "Сказка, рассказ"
+      }
+    ],
+    "reviewed_today": [
+      "Uva",
+      "Unanimis",
+      "Vale"
     ]
   }
 ]

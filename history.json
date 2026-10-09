@@ -3,28 +3,6 @@
     "date": "2026-06-05",
     "words": [
       {
-        "latin": "Cura",
-        "ru": "Забота, попечение"
-      },
-      {
-        "latin": "Supra",
-        "ru": "Сверху, выше"
-      },
-      {
-        "latin": "Aestas",
-        "ru": "Лето"
-      }
-    ],
-    "reviewed_today": [
-      "Damnum",
-      "Veritas",
-      "Insula"
-    ]
-  },
-  {
-    "date": "2026-06-05",
-    "words": [
-      {
         "latin": "Spes",
         "ru": "Надежда"
       },
@@ -10997,6 +10975,28 @@
       "Umquam",
       "Vitium",
       "Hilaris"
+    ]
+  },
+  {
+    "date": "2026-10-09",
+    "words": [
+      {
+        "latin": "Severus",
+        "ru": "Строгий, суровый"
+      },
+      {
+        "latin": "Ferre",
+        "ru": "Нести"
+      },
+      {
+        "latin": "Utilis",
+        "ru": "Полезный"
+      }
+    ],
+    "reviewed_today": [
+      "Ipse",
+      "Soleo",
+      "Fessus"
     ]
   }
 ]

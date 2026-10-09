@@ -3,28 +3,6 @@
     "date": "2026-06-05",
     "words": [
       {
-        "latin": "Spes",
-        "ru": "Надежда"
-      },
-      {
-        "latin": "Mox",
-        "ru": "Скоро"
-      },
-      {
-        "latin": "Putare",
-        "ru": "Считать, полагать"
-      }
-    ],
-    "reviewed_today": [
-      "Habeo",
-      "Ager",
-      "Tardus"
-    ]
-  },
-  {
-    "date": "2026-06-05",
-    "words": [
-      {
         "latin": "Redire",
         "ru": "Возвращаться"
       },
@@ -10997,6 +10975,28 @@
       "Ipse",
       "Soleo",
       "Fessus"
+    ]
+  },
+  {
+    "date": "2026-10-09",
+    "words": [
+      {
+        "latin": "Supra",
+        "ru": "Сверху, выше"
+      },
+      {
+        "latin": "Cura",
+        "ru": "Забота, попечение"
+      },
+      {
+        "latin": "Officium",
+        "ru": "Обязанность"
+      }
+    ],
+    "reviewed_today": [
+      "Umerus",
+      "Stilus",
+      "Discedere"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-06-05",
-    "words": [
-      {
-        "latin": "Redire",
-        "ru": "Возвращаться"
-      },
-      {
-        "latin": "Luxuria",
-        "ru": "Роскошь"
-      },
-      {
-        "latin": "Donum",
-        "ru": "Подарок"
-      }
-    ],
-    "reviewed_today": [
-      "Diu",
-      "Clarus",
-      "Ducenti"
-    ]
-  },
-  {
     "date": "2026-06-06",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Umerus",
       "Stilus",
       "Discedere"
+    ]
+  },
+  {
+    "date": "2026-10-09",
+    "words": [
+      {
+        "latin": "Gaudium",
+        "ru": "Радость"
+      },
+      {
+        "latin": "Sidus",
+        "ru": "Звезда, созвездие"
+      },
+      {
+        "latin": "Spatium",
+        "ru": "Пространство, промежуток"
+      }
+    ],
+    "reviewed_today": [
+      "Horrere",
+      "Fatum",
+      "Mors"
     ]
   }
 ]

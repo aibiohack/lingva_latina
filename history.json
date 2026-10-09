@@ -3,28 +3,6 @@
     "date": "2026-06-05",
     "words": [
       {
-        "latin": "Officium",
-        "ru": "Обязанность"
-      },
-      {
-        "latin": "Sequi",
-        "ru": "Следовать, сопровождать"
-      },
-      {
-        "latin": "Iter",
-        "ru": "Путь"
-      }
-    ],
-    "reviewed_today": [
-      "Exemplum",
-      "Lupus",
-      "Vacuus"
-    ]
-  },
-  {
-    "date": "2026-06-05",
-    "words": [
-      {
         "latin": "Cura",
         "ru": "Забота, попечение"
       },
@@ -10997,6 +10975,28 @@
       "Terere",
       "Vester",
       "Sonus"
+    ]
+  },
+  {
+    "date": "2026-10-09",
+    "words": [
+      {
+        "latin": "Terere",
+        "ru": "Тереть, тратить время"
+      },
+      {
+        "latin": "Trabs",
+        "ru": "Балка, дерево"
+      },
+      {
+        "latin": "Meus",
+        "ru": "Мой"
+      }
+    ],
+    "reviewed_today": [
+      "Umquam",
+      "Vitium",
+      "Hilaris"
     ]
   }
 ]

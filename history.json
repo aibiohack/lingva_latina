@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-06-06",
-    "words": [
-      {
-        "latin": "Imitari",
-        "ru": "Подражать"
-      },
-      {
-        "latin": "Uva",
-        "ru": "Виноград"
-      },
-      {
-        "latin": "Vivere",
-        "ru": "Жить"
-      }
-    ],
-    "reviewed_today": [
-      "Titulus",
-      "Malle",
-      "Eligere"
-    ]
-  },
-  {
     "date": "2026-06-07",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Tempus",
       "Beatus",
       "Talis"
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "words": [
+      {
+        "latin": "Tum",
+        "ru": "Тогда"
+      },
+      {
+        "latin": "Fessus",
+        "ru": "Усталый"
+      },
+      {
+        "latin": "Solum",
+        "ru": "Только, лишь"
+      }
+    ],
+    "reviewed_today": [
+      "Vel",
+      "Terere",
+      "Ipse"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-06-07",
     "words": [
       {
-        "latin": "Unda",
-        "ru": "Волна"
-      },
-      {
-        "latin": "Largus",
-        "ru": "Щедрый, обильный"
-      },
-      {
-        "latin": "Sidus",
-        "ru": "Звезда, созвездие"
-      }
-    ],
-    "reviewed_today": [
-      "Superbus",
-      "Tardus",
-      "Doctus"
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "words": [
-      {
         "latin": "Tangere",
         "ru": "Трогать, касаться"
       },
@@ -10997,6 +10975,28 @@
       "Vicinus",
       "Ventus",
       "Coniunx"
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "words": [
+      {
+        "latin": "Facinus",
+        "ru": "Дело, поступок (часто дурной)"
+      },
+      {
+        "latin": "Vis",
+        "ru": "Сила, мощь"
+      },
+      {
+        "latin": "Dies",
+        "ru": "День"
+      }
+    ],
+    "reviewed_today": [
+      "Currere",
+      "Ducenti",
+      "Albus"
     ]
   }
 ]

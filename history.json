@@ -3,28 +3,6 @@
     "date": "2026-06-07",
     "words": [
       {
-        "latin": "Tangere",
-        "ru": "Трогать, касаться"
-      },
-      {
-        "latin": "Pugnare",
-        "ru": "Сражаться"
-      },
-      {
-        "latin": "Multitudo",
-        "ru": "Множество"
-      }
-    ],
-    "reviewed_today": [
-      "Amare",
-      "Habitare",
-      "Parvus"
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "words": [
-      {
         "latin": "Aurum",
         "ru": "Золото"
       },
@@ -10997,6 +10975,28 @@
       "Currere",
       "Ducenti",
       "Albus"
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "words": [
+      {
+        "latin": "Sursum",
+        "ru": "Вверх"
+      },
+      {
+        "latin": "Victoria",
+        "ru": "Победа"
+      },
+      {
+        "latin": "Res",
+        "ru": "Вещь, дело, обстоятельство"
+      }
+    ],
+    "reviewed_today": [
+      "Vilis",
+      "Enim",
+      "Ratio"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-06-07",
     "words": [
       {
-        "latin": "Gratus",
-        "ru": "Приятный, благодарный"
-      },
-      {
-        "latin": "Recens",
-        "ru": "Свежий, недавний"
-      },
-      {
-        "latin": "Cognoscere",
-        "ru": "Узнавать, познавать"
-      }
-    ],
-    "reviewed_today": [
-      "Inter",
-      "Difficilis",
-      "Putare"
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "words": [
-      {
         "latin": "Unda",
         "ru": "Волна"
       },
@@ -10997,6 +10975,28 @@
       "Vel",
       "Terere",
       "Ipse"
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "words": [
+      {
+        "latin": "Maestus",
+        "ru": "Грустный"
+      },
+      {
+        "latin": "Salve",
+        "ru": "Здравствуй"
+      },
+      {
+        "latin": "Diabolus",
+        "ru": "Дьявол"
+      }
+    ],
+    "reviewed_today": [
+      "Vicinus",
+      "Ventus",
+      "Coniunx"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-06-08",
     "words": [
       {
-        "latin": "Radix",
-        "ru": "Корень"
-      },
-      {
-        "latin": "Cotidie",
-        "ru": "Ежедневно"
-      },
-      {
-        "latin": "Vinculum",
-        "ru": "Узы, цепь"
-      }
-    ],
-    "reviewed_today": [
-      "Albus",
-      "Fidelis",
-      "Visere"
-    ]
-  },
-  {
-    "date": "2026-06-08",
-    "words": [
-      {
         "latin": "Vix",
         "ru": "Едва, с трудом"
       },
@@ -10997,6 +10975,28 @@
       "Liber",
       "Superbus",
       "Statim"
+    ]
+  },
+  {
+    "date": "2026-10-12",
+    "words": [
+      {
+        "latin": "Infelix",
+        "ru": "Несчастный"
+      },
+      {
+        "latin": "Beatus",
+        "ru": "Счастливый, блаженный"
+      },
+      {
+        "latin": "Vicinus",
+        "ru": "Сосед"
+      }
+    ],
+    "reviewed_today": [
+      "Iam",
+      "Saxum",
+      "Fidelis"
     ]
   }
 ]

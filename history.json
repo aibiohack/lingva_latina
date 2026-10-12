@@ -3,28 +3,6 @@
     "date": "2026-06-08",
     "words": [
       {
-        "latin": "Vix",
-        "ru": "Едва, с трудом"
-      },
-      {
-        "latin": "Mittere",
-        "ru": "Посылать"
-      },
-      {
-        "latin": "Septem",
-        "ru": "Семь"
-      }
-    ],
-    "reviewed_today": [
-      "Temptare",
-      "Terribilis",
-      "Quoque"
-    ]
-  },
-  {
-    "date": "2026-06-08",
-    "words": [
-      {
         "latin": "Meus",
         "ru": "Мой"
       },
@@ -10997,6 +10975,28 @@
       "Iam",
       "Saxum",
       "Fidelis"
+    ]
+  },
+  {
+    "date": "2026-10-12",
+    "words": [
+      {
+        "latin": "Cotidie",
+        "ru": "Ежедневно"
+      },
+      {
+        "latin": "Radix",
+        "ru": "Корень"
+      },
+      {
+        "latin": "Vendere",
+        "ru": "Продавать"
+      }
+    ],
+    "reviewed_today": [
+      "Umbra",
+      "Vigilia",
+      "Sinister"
     ]
   }
 ]

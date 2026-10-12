@@ -3,28 +3,6 @@
     "date": "2026-06-08",
     "words": [
       {
-        "latin": "Meus",
-        "ru": "Мой"
-      },
-      {
-        "latin": "Aestas",
-        "ru": "Лето"
-      },
-      {
-        "latin": "Horrere",
-        "ru": "Ужасаться, трепетать"
-      }
-    ],
-    "reviewed_today": [
-      "Intra",
-      "Veho",
-      "Audax"
-    ]
-  },
-  {
-    "date": "2026-06-08",
-    "words": [
-      {
         "latin": "Lingua",
         "ru": "Язык"
       },
@@ -10997,6 +10975,28 @@
       "Umbra",
       "Vigilia",
       "Sinister"
+    ]
+  },
+  {
+    "date": "2026-10-12",
+    "words": [
+      {
+        "latin": "Quoque",
+        "ru": "Также"
+      },
+      {
+        "latin": "Verbum",
+        "ru": "Слово"
+      },
+      {
+        "latin": "Labor",
+        "ru": "Труд"
+      }
+    ],
+    "reviewed_today": [
+      "Maxime",
+      "Recipere",
+      "Trabs"
     ]
   }
 ]

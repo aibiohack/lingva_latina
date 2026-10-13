@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-06-09",
-    "words": [
-      {
-        "latin": "Tantum",
-        "ru": "Только"
-      },
-      {
-        "latin": "Vesper",
-        "ru": "Вечер"
-      },
-      {
-        "latin": "Religio",
-        "ru": "Религия"
-      }
-    ],
-    "reviewed_today": [
-      "Mutare",
-      "Laus",
-      "Victor"
-    ]
-  },
-  {
     "date": "2026-06-10",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Scientia",
       "Salve",
       "Monstrare"
+    ]
+  },
+  {
+    "date": "2026-10-13",
+    "words": [
+      {
+        "latin": "Quaerere",
+        "ru": "Искать"
+      },
+      {
+        "latin": "Species",
+        "ru": "Вид, наружность"
+      },
+      {
+        "latin": "Validus",
+        "ru": "Сильный"
+      }
+    ],
+    "reviewed_today": [
+      "Puella",
+      "Imitari",
+      "Coniunx"
     ]
   }
 ]

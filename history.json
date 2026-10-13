@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-06-08",
-    "words": [
-      {
-        "latin": "Lingua",
-        "ru": "Язык"
-      },
-      {
-        "latin": "Validus",
-        "ru": "Сильный"
-      },
-      {
-        "latin": "Voluptas",
-        "ru": "Удовольствие, наслаждение"
-      }
-    ],
-    "reviewed_today": [
-      "Iter",
-      "Carmen",
-      "Restituere"
-    ]
-  },
-  {
     "date": "2026-06-09",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Maxime",
       "Recipere",
       "Trabs"
+    ]
+  },
+  {
+    "date": "2026-10-13",
+    "words": [
+      {
+        "latin": "Circa",
+        "ru": "Вокруг, около"
+      },
+      {
+        "latin": "Lumen",
+        "ru": "Свет"
+      },
+      {
+        "latin": "Satis",
+        "ru": "Достаточно"
+      }
+    ],
+    "reviewed_today": [
+      "Lacrima",
+      "Colloquium",
+      "Solium"
     ]
   }
 ]

@@ -3,28 +3,6 @@
     "date": "2026-06-09",
     "words": [
       {
-        "latin": "Populus",
-        "ru": "Народ"
-      },
-      {
-        "latin": "Quaerere",
-        "ru": "Искать"
-      },
-      {
-        "latin": "Surgere",
-        "ru": "Вставать, подниматься"
-      }
-    ],
-    "reviewed_today": [
-      "Lux",
-      "Tenere",
-      "Vacuus"
-    ]
-  },
-  {
-    "date": "2026-06-09",
-    "words": [
-      {
         "latin": "Tantum",
         "ru": "Только"
       },
@@ -10997,6 +10975,28 @@
       "Copia",
       "Officium",
       "Facinus"
+    ]
+  },
+  {
+    "date": "2026-10-13",
+    "words": [
+      {
+        "latin": "Somnus",
+        "ru": "Сон"
+      },
+      {
+        "latin": "Fides",
+        "ru": "Вера"
+      },
+      {
+        "latin": "Viginti",
+        "ru": "Двадцать"
+      }
+    ],
+    "reviewed_today": [
+      "Scientia",
+      "Salve",
+      "Monstrare"
     ]
   }
 ]

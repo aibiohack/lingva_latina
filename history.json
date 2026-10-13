@@ -3,28 +3,6 @@
     "date": "2026-06-09",
     "words": [
       {
-        "latin": "Solum",
-        "ru": "Только, лишь"
-      },
-      {
-        "latin": "Species",
-        "ru": "Вид, наружность"
-      },
-      {
-        "latin": "Custos",
-        "ru": "Страж"
-      }
-    ],
-    "reviewed_today": [
-      "Velox",
-      "Stirps",
-      "Bibere"
-    ]
-  },
-  {
-    "date": "2026-06-09",
-    "words": [
-      {
         "latin": "Populus",
         "ru": "Народ"
       },
@@ -10997,6 +10975,28 @@
       "Ius",
       "Longus",
       "Fulmen"
+    ]
+  },
+  {
+    "date": "2026-10-13",
+    "words": [
+      {
+        "latin": "Instruere",
+        "ru": "Наставлять, возводить"
+      },
+      {
+        "latin": "Tardus",
+        "ru": "Медленный"
+      },
+      {
+        "latin": "Vero",
+        "ru": "Истинно, но"
+      }
+    ],
+    "reviewed_today": [
+      "Copia",
+      "Officium",
+      "Facinus"
     ]
   }
 ]

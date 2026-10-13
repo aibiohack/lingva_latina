@@ -3,28 +3,6 @@
     "date": "2026-06-09",
     "words": [
       {
-        "latin": "Veho",
-        "ru": "Везу"
-      },
-      {
-        "latin": "Statuere",
-        "ru": "Ставить, решать"
-      },
-      {
-        "latin": "Clarus",
-        "ru": "Ясный, светлый"
-      }
-    ],
-    "reviewed_today": [
-      "Frumentum",
-      "Ferre",
-      "Legio"
-    ]
-  },
-  {
-    "date": "2026-06-09",
-    "words": [
-      {
         "latin": "Solum",
         "ru": "Только, лишь"
       },
@@ -10997,6 +10975,28 @@
       "Lacrima",
       "Colloquium",
       "Solium"
+    ]
+  },
+  {
+    "date": "2026-10-13",
+    "words": [
+      {
+        "latin": "Tribunus",
+        "ru": "Трибун"
+      },
+      {
+        "latin": "Uterque",
+        "ru": "И тот и другой"
+      },
+      {
+        "latin": "Saepe",
+        "ru": "Часто"
+      }
+    ],
+    "reviewed_today": [
+      "Ius",
+      "Longus",
+      "Fulmen"
     ]
   }
 ]

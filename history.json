@@ -3,28 +3,6 @@
     "date": "2026-06-10",
     "words": [
       {
-        "latin": "Singulus",
-        "ru": "Одиночный"
-      },
-      {
-        "latin": "Inter",
-        "ru": "Между"
-      },
-      {
-        "latin": "Debeo",
-        "ru": "Должен"
-      }
-    ],
-    "reviewed_today": [
-      "Consuetudo",
-      "Diligere",
-      "Vocare"
-    ]
-  },
-  {
-    "date": "2026-06-10",
-    "words": [
-      {
         "latin": "Vetus",
         "ru": "Старый"
       },
@@ -10997,6 +10975,28 @@
       "Scribere",
       "Navis",
       "Ingens"
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "words": [
+      {
+        "latin": "Dominus",
+        "ru": "Господин"
+      },
+      {
+        "latin": "Tacere",
+        "ru": "Молчать"
+      },
+      {
+        "latin": "Gaudium",
+        "ru": "Радость"
+      }
+    ],
+    "reviewed_today": [
+      "Clemens",
+      "Fallere",
+      "Tumultus"
     ]
   }
 ]

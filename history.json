@@ -3,28 +3,6 @@
     "date": "2026-06-10",
     "words": [
       {
-        "latin": "Vetus",
-        "ru": "Старый"
-      },
-      {
-        "latin": "Verere",
-        "ru": "Бояться, чтить"
-      },
-      {
-        "latin": "Ridere",
-        "ru": "Смеяться"
-      }
-    ],
-    "reviewed_today": [
-      "Conditio",
-      "Patria",
-      "Prope"
-    ]
-  },
-  {
-    "date": "2026-06-10",
-    "words": [
-      {
         "latin": "Late",
         "ru": "Широко"
       },
@@ -10997,6 +10975,28 @@
       "Clemens",
       "Fallere",
       "Tumultus"
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "words": [
+      {
+        "latin": "Verere",
+        "ru": "Бояться, чтить"
+      },
+      {
+        "latin": "Via",
+        "ru": "Путь, дорога"
+      },
+      {
+        "latin": "Filius",
+        "ru": "Сын"
+      }
+    ],
+    "reviewed_today": [
+      "Ultra",
+      "Fenestra",
+      "Coepi"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-06-11",
-    "words": [
-      {
-        "latin": "Invidia",
-        "ru": "Зависть"
-      },
-      {
-        "latin": "Studere",
-        "ru": "Стремиться, учиться"
-      },
-      {
-        "latin": "Familia",
-        "ru": "Семья, домочадцы"
-      }
-    ],
-    "reviewed_today": [
-      "Triumphus",
-      "Tristis",
-      "Finis"
-    ]
-  },
-  {
     "date": "2026-06-12",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Sanitas",
       "Victoria",
       "Fama"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "words": [
+      {
+        "latin": "Velox",
+        "ru": "Быстрый"
+      },
+      {
+        "latin": "Sententia",
+        "ru": "Мнение, фраза"
+      },
+      {
+        "latin": "Forma",
+        "ru": "Красота, форма"
+      }
+    ],
+    "reviewed_today": [
+      "Quod",
+      "Rosa",
+      "Lingua"
     ]
   }
 ]

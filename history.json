@@ -3,28 +3,6 @@
     "date": "2026-06-11",
     "words": [
       {
-        "latin": "Sentire",
-        "ru": "Чувствовать"
-      },
-      {
-        "latin": "Vertere",
-        "ru": "Поворачивать"
-      },
-      {
-        "latin": "Alius",
-        "ru": "Другой (из многих)"
-      }
-    ],
-    "reviewed_today": [
-      "Cur",
-      "Iter",
-      "Tremere"
-    ]
-  },
-  {
-    "date": "2026-06-11",
-    "words": [
-      {
         "latin": "Ergo",
         "ru": "Следовательно, итак"
       },
@@ -10997,6 +10975,28 @@
       "Uterque",
       "Aevum",
       "Sapiens"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "words": [
+      {
+        "latin": "Late",
+        "ru": "Широко"
+      },
+      {
+        "latin": "Lux",
+        "ru": "Свет"
+      },
+      {
+        "latin": "Debeo",
+        "ru": "Должен"
+      }
+    ],
+    "reviewed_today": [
+      "Primus",
+      "Foedus",
+      "Robur"
     ]
   }
 ]

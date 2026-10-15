@@ -3,28 +3,6 @@
     "date": "2026-06-11",
     "words": [
       {
-        "latin": "Ergo",
-        "ru": "Следовательно, итак"
-      },
-      {
-        "latin": "Petere",
-        "ru": "Просить, стремиться"
-      },
-      {
-        "latin": "Iscere",
-        "ru": "Просить, требовать"
-      }
-    ],
-    "reviewed_today": [
-      "Invitare",
-      "Subito",
-      "Movere"
-    ]
-  },
-  {
-    "date": "2026-06-11",
-    "words": [
-      {
         "latin": "Tollere",
         "ru": "Поднимать, уничтожать"
       },
@@ -10997,6 +10975,28 @@
       "Primus",
       "Foedus",
       "Robur"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "words": [
+      {
+        "latin": "Regio",
+        "ru": "Область"
+      },
+      {
+        "latin": "Comes",
+        "ru": "Спутник, граф"
+      },
+      {
+        "latin": "Incendere",
+        "ru": "Зажигать"
+      }
+    ],
+    "reviewed_today": [
+      "Taurus",
+      "Validus",
+      "Ira"
     ]
   }
 ]

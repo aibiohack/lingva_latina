@@ -3,28 +3,6 @@
     "date": "2026-06-11",
     "words": [
       {
-        "latin": "Tollere",
-        "ru": "Поднимать, уничтожать"
-      },
-      {
-        "latin": "Exspectare",
-        "ru": "Ожидать"
-      },
-      {
-        "latin": "Rex",
-        "ru": "Царь, король"
-      }
-    ],
-    "reviewed_today": [
-      "Superior",
-      "Quasi",
-      "Habitare"
-    ]
-  },
-  {
-    "date": "2026-06-11",
-    "words": [
-      {
         "latin": "Invidia",
         "ru": "Зависть"
       },
@@ -10997,6 +10975,28 @@
       "Taurus",
       "Validus",
       "Ira"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "words": [
+      {
+        "latin": "Inter",
+        "ru": "Между"
+      },
+      {
+        "latin": "Iscere",
+        "ru": "Просить, требовать"
+      },
+      {
+        "latin": "Ergo",
+        "ru": "Следовательно, итак"
+      }
+    ],
+    "reviewed_today": [
+      "Sanitas",
+      "Victoria",
+      "Fama"
     ]
   }
 ]

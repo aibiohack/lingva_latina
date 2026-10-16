@@ -3,28 +3,6 @@
     "date": "2026-06-12",
     "words": [
       {
-        "latin": "Familia",
-        "ru": "Семья, домочадцы"
-      },
-      {
-        "latin": "Fieri",
-        "ru": "Становиться, делаться"
-      },
-      {
-        "latin": "Timere",
-        "ru": "Бояться"
-      }
-    ],
-    "reviewed_today": [
-      "Laudare",
-      "Vacuus",
-      "Senectus"
-    ]
-  },
-  {
-    "date": "2026-06-12",
-    "words": [
-      {
         "latin": "Contemnere",
         "ru": "Презирать"
       },
@@ -10997,6 +10975,28 @@
       "Puella",
       "Laetus",
       "Iungera"
+    ]
+  },
+  {
+    "date": "2026-10-16",
+    "words": [
+      {
+        "latin": "Luxuria",
+        "ru": "Роскошь"
+      },
+      {
+        "latin": "Sursum",
+        "ru": "Вверх"
+      },
+      {
+        "latin": "Atque",
+        "ru": "А также, и"
+      }
+    ],
+    "reviewed_today": [
+      "Fingere",
+      "Liber",
+      "Unus"
     ]
   }
 ]

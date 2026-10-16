@@ -3,28 +3,6 @@
     "date": "2026-06-12",
     "words": [
       {
-        "latin": "Sine",
-        "ru": "Без"
-      },
-      {
-        "latin": "Mons",
-        "ru": "Гора"
-      },
-      {
-        "latin": "Bellum",
-        "ru": "Война"
-      }
-    ],
-    "reviewed_today": [
-      "Ordo",
-      "Diabolus",
-      "Debere"
-    ]
-  },
-  {
-    "date": "2026-06-12",
-    "words": [
-      {
         "latin": "Nuntius",
         "ru": "Вестник"
       },
@@ -10997,6 +10975,28 @@
       "Quod",
       "Rosa",
       "Lingua"
+    ]
+  },
+  {
+    "date": "2026-10-16",
+    "words": [
+      {
+        "latin": "Iscere",
+        "ru": "Просить, требовать"
+      },
+      {
+        "latin": "Vehementer",
+        "ru": "Сильно, страстно"
+      },
+      {
+        "latin": "Iudex",
+        "ru": "Судья"
+      }
+    ],
+    "reviewed_today": [
+      "Usus",
+      "Suspicio",
+      "Singulus"
     ]
   }
 ]

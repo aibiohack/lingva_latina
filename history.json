@@ -3,28 +3,6 @@
     "date": "2026-06-12",
     "words": [
       {
-        "latin": "Nuntius",
-        "ru": "Вестник"
-      },
-      {
-        "latin": "Tribuere",
-        "ru": "Назначать, воздавать"
-      },
-      {
-        "latin": "Vestis",
-        "ru": "Одежда"
-      }
-    ],
-    "reviewed_today": [
-      "Recipere",
-      "Currere",
-      "Arbor"
-    ]
-  },
-  {
-    "date": "2026-06-12",
-    "words": [
-      {
         "latin": "Familia",
         "ru": "Семья, домочадцы"
       },
@@ -10997,6 +10975,28 @@
       "Usus",
       "Suspicio",
       "Singulus"
+    ]
+  },
+  {
+    "date": "2026-10-16",
+    "words": [
+      {
+        "latin": "Bellum",
+        "ru": "Война"
+      },
+      {
+        "latin": "Rex",
+        "ru": "Царь, король"
+      },
+      {
+        "latin": "Invidia",
+        "ru": "Зависть"
+      }
+    ],
+    "reviewed_today": [
+      "Puella",
+      "Laetus",
+      "Iungera"
     ]
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-06-12",
-    "words": [
-      {
-        "latin": "Contemnere",
-        "ru": "Презирать"
-      },
-      {
-        "latin": "Viginti",
-        "ru": "Двадцать"
-      },
-      {
-        "latin": "Turris",
-        "ru": "Башня"
-      }
-    ],
-    "reviewed_today": [
-      "Orbis",
-      "Certe",
-      "Quasi"
-    ]
-  },
-  {
     "date": "2026-06-13",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Fingere",
       "Liber",
       "Unus"
+    ]
+  },
+  {
+    "date": "2026-10-16",
+    "words": [
+      {
+        "latin": "Simul",
+        "ru": "Одновременно, вместе"
+      },
+      {
+        "latin": "Vas",
+        "ru": "Сосуд"
+      },
+      {
+        "latin": "Docere",
+        "ru": "Учить, обучать"
+      }
+    ],
+    "reviewed_today": [
+      "Fallere",
+      "Voluntas",
+      "Frumentum"
     ]
   }
 ]

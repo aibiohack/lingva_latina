@@ -3,28 +3,6 @@
     "date": "2026-06-13",
     "words": [
       {
-        "latin": "Ludus",
-        "ru": "Игра, школа"
-      },
-      {
-        "latin": "Ardere",
-        "ru": "Гореть, пылать"
-      },
-      {
-        "latin": "Verbum",
-        "ru": "Слово"
-      }
-    ],
-    "reviewed_today": [
-      "Gaudium",
-      "Equus",
-      "Natura"
-    ]
-  },
-  {
-    "date": "2026-06-13",
-    "words": [
-      {
         "latin": "Viridis",
         "ru": "Зеленый"
       },
@@ -10997,6 +10975,28 @@
       "Puer",
       "Umerus",
       "Vicis"
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "words": [
+      {
+        "latin": "Sentire",
+        "ru": "Чувствовать, полагать"
+      },
+      {
+        "latin": "Brevis",
+        "ru": "Короткий"
+      },
+      {
+        "latin": "Vigilia",
+        "ru": "Стража, бодрствование"
+      }
+    ],
+    "reviewed_today": [
+      "Dedico",
+      "Semel",
+      "Fluere"
     ]
   }
 ]

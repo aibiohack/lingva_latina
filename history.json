@@ -3,28 +3,6 @@
     "date": "2026-06-13",
     "words": [
       {
-        "latin": "Viridis",
-        "ru": "Зеленый"
-      },
-      {
-        "latin": "Maxime",
-        "ru": "Весьма, больше всего"
-      },
-      {
-        "latin": "Terere",
-        "ru": "Тереть, тратить время"
-      }
-    ],
-    "reviewed_today": [
-      "Sensus",
-      "Ars",
-      "Loqui"
-    ]
-  },
-  {
-    "date": "2026-06-13",
-    "words": [
-      {
         "latin": "Frumentum",
         "ru": "Хлеб, зерно"
       },
@@ -10997,6 +10975,28 @@
       "Dedico",
       "Semel",
       "Fluere"
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "words": [
+      {
+        "latin": "Triginta",
+        "ru": "Тридцать"
+      },
+      {
+        "latin": "Benevolentia",
+        "ru": "Доброжелательность"
+      },
+      {
+        "latin": "Ignoscerе",
+        "ru": "Прощать"
+      }
+    ],
+    "reviewed_today": [
+      "Tabula",
+      "Laborare",
+      "Diabolus"
     ]
   }
 ]

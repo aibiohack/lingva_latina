@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-06-13",
-    "words": [
-      {
-        "latin": "Frumentum",
-        "ru": "Хлеб, зерно"
-      },
-      {
-        "latin": "Princeps",
-        "ru": "Первый, вождь"
-      },
-      {
-        "latin": "Secundus",
-        "ru": "Второй, благоприятный"
-      }
-    ],
-    "reviewed_today": [
-      "Ignis",
-      "Situs",
-      "Vos"
-    ]
-  },
-  {
     "date": "2026-06-14",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Tabula",
       "Laborare",
       "Diabolus"
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "words": [
+      {
+        "latin": "Vocare",
+        "ru": "Звать"
+      },
+      {
+        "latin": "Punitio",
+        "ru": "Наказание"
+      },
+      {
+        "latin": "Usus",
+        "ru": "Опыт, использование"
+      }
+    ],
+    "reviewed_today": [
+      "Ante",
+      "Castrum",
+      "Celer"
     ]
   }
 ]

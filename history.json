@@ -3,28 +3,6 @@
     "date": "2026-06-13",
     "words": [
       {
-        "latin": "Venerari",
-        "ru": "Почитать"
-      },
-      {
-        "latin": "Vir",
-        "ru": "Мужчина"
-      },
-      {
-        "latin": "Summa",
-        "ru": "Итог, высшая степень"
-      }
-    ],
-    "reviewed_today": [
-      "Ipse",
-      "Videre",
-      "Putare"
-    ]
-  },
-  {
-    "date": "2026-06-13",
-    "words": [
-      {
         "latin": "Ludus",
         "ru": "Игра, школа"
       },
@@ -10997,6 +10975,28 @@
       "Fallere",
       "Voluntas",
       "Frumentum"
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "words": [
+      {
+        "latin": "Mos",
+        "ru": "Нрав, обычай"
+      },
+      {
+        "latin": "Iugum",
+        "ru": "Ярмо, иго"
+      },
+      {
+        "latin": "Villa",
+        "ru": "Вилла, усадьба"
+      }
+    ],
+    "reviewed_today": [
+      "Puer",
+      "Umerus",
+      "Vicis"
     ]
   }
 ]

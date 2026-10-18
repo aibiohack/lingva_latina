@@ -3,28 +3,6 @@
     "date": "2026-06-14",
     "words": [
       {
-        "latin": "Salve",
-        "ru": "Здравствуй"
-      },
-      {
-        "latin": "Memoria",
-        "ru": "Память"
-      },
-      {
-        "latin": "Agere",
-        "ru": "Приводить в движение, гнать"
-      }
-    ],
-    "reviewed_today": [
-      "Arbor",
-      "Bestia",
-      "Angustus"
-    ]
-  },
-  {
-    "date": "2026-06-14",
-    "words": [
-      {
         "latin": "Velut",
         "ru": "Как, словно"
       },
@@ -10997,6 +10975,28 @@
       "Exspectare",
       "Vesper",
       "Caput"
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "words": [
+      {
+        "latin": "Tabula",
+        "ru": "Доска, таблица"
+      },
+      {
+        "latin": "Magis",
+        "ru": "Более"
+      },
+      {
+        "latin": "Tertius",
+        "ru": "Третий"
+      }
+    ],
+    "reviewed_today": [
+      "Valere",
+      "Ira",
+      "Natura"
     ]
   }
 ]

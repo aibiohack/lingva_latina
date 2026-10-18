@@ -3,28 +3,6 @@
     "date": "2026-06-14",
     "words": [
       {
-        "latin": "Sacer",
-        "ru": "Священный"
-      },
-      {
-        "latin": "Mentior",
-        "ru": "Лгу"
-      },
-      {
-        "latin": "Iugum",
-        "ru": "Ярмо, иго"
-      }
-    ],
-    "reviewed_today": [
-      "Durus",
-      "Puer",
-      "Sacerdos"
-    ]
-  },
-  {
-    "date": "2026-06-14",
-    "words": [
-      {
         "latin": "Vallum",
         "ru": "Вал, укрепление"
       },
@@ -10997,6 +10975,28 @@
       "Ante",
       "Castrum",
       "Celer"
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "words": [
+      {
+        "latin": "Viridis",
+        "ru": "Зеленый"
+      },
+      {
+        "latin": "Ardere",
+        "ru": "Гореть, пылать"
+      },
+      {
+        "latin": "Secundus",
+        "ru": "Второй, благоприятный"
+      }
+    ],
+    "reviewed_today": [
+      "Cum (союз)",
+      "Duo",
+      "Varius"
     ]
   }
 ]

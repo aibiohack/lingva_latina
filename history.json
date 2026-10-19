@@ -3,28 +3,6 @@
     "date": "2026-06-15",
     "words": [
       {
-        "latin": "Bibere",
-        "ru": "Пить"
-      },
-      {
-        "latin": "Iudex",
-        "ru": "Судья"
-      },
-      {
-        "latin": "Punitio",
-        "ru": "Наказание"
-      }
-    ],
-    "reviewed_today": [
-      "Parare",
-      "Mors",
-      "Pax"
-    ]
-  },
-  {
-    "date": "2026-06-15",
-    "words": [
-      {
         "latin": "Usus",
         "ru": "Опыт, использование"
       },
@@ -10997,6 +10975,28 @@
       "Iudex",
       "Sufferre",
       "Edere"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "words": [
+      {
+        "latin": "Vallum",
+        "ru": "Вал, укрепление"
+      },
+      {
+        "latin": "Frumentum",
+        "ru": "Хлеб, зерно"
+      },
+      {
+        "latin": "Cito",
+        "ru": "Быстро"
+      }
+    ],
+    "reviewed_today": [
+      "Innocens",
+      "Laetus",
+      "Sinister"
     ]
   }
 ]

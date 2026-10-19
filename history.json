@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-06-15",
-    "words": [
-      {
-        "latin": "Iam",
-        "ru": "Уже"
-      },
-      {
-        "latin": "Verbum",
-        "ru": "Слово"
-      },
-      {
-        "latin": "Utor",
-        "ru": "Пользуюсь"
-      }
-    ],
-    "reviewed_today": [
-      "Severus",
-      "Forum",
-      "Putare"
-    ]
-  },
-  {
     "date": "2026-06-16",
     "words": [
       {
@@ -10997,6 +10975,28 @@
       "Ludus",
       "Superbus",
       "Mors"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "words": [
+      {
+        "latin": "Tremere",
+        "ru": "Дрожать, трепетать"
+      },
+      {
+        "latin": "Regio",
+        "ru": "Область"
+      },
+      {
+        "latin": "Sub",
+        "ru": "Под"
+      }
+    ],
+    "reviewed_today": [
+      "Fulmen",
+      "Vicinus",
+      "Error"
     ]
   }
 ]

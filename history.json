@@ -3,28 +3,6 @@
     "date": "2026-06-15",
     "words": [
       {
-        "latin": "Usus",
-        "ru": "Опыт, использование"
-      },
-      {
-        "latin": "Tegere",
-        "ru": "Покрывать, защищать"
-      },
-      {
-        "latin": "Usus",
-        "ru": "Опыт, употребление"
-      }
-    ],
-    "reviewed_today": [
-      "Togatus",
-      "Mutare",
-      "Expectare"
-    ]
-  },
-  {
-    "date": "2026-06-15",
-    "words": [
-      {
         "latin": "Iam",
         "ru": "Уже"
       },
@@ -10997,6 +10975,28 @@
       "Innocens",
       "Laetus",
       "Sinister"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "words": [
+      {
+        "latin": "Telum",
+        "ru": "Оружие, копье"
+      },
+      {
+        "latin": "Sonus",
+        "ru": "Звук"
+      },
+      {
+        "latin": "Beatus",
+        "ru": "Счастливый"
+      }
+    ],
+    "reviewed_today": [
+      "Ludus",
+      "Superbus",
+      "Mors"
     ]
   }
 ]

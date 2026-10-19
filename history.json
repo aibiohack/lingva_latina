@@ -3,28 +3,6 @@
     "date": "2026-06-15",
     "words": [
       {
-        "latin": "Cito",
-        "ru": "Быстро"
-      },
-      {
-        "latin": "Ite",
-        "ru": "Идите"
-      },
-      {
-        "latin": "Timor",
-        "ru": "Страх"
-      }
-    ],
-    "reviewed_today": [
-      "Defendere",
-      "Proprius",
-      "Unanimis"
-    ]
-  },
-  {
-    "date": "2026-06-15",
-    "words": [
-      {
         "latin": "Bibere",
         "ru": "Пить"
       },
@@ -10997,6 +10975,28 @@
       "Saeculum",
       "Vastus",
       "Colere"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "words": [
+      {
+        "latin": "Porta",
+        "ru": "Ворота"
+      },
+      {
+        "latin": "Turba",
+        "ru": "Толпа, сумятица"
+      },
+      {
+        "latin": "Hora",
+        "ru": "Час"
+      }
+    ],
+    "reviewed_today": [
+      "Iudex",
+      "Sufferre",
+      "Edere"
     ]
   }
 ]
